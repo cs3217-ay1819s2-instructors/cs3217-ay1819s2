@@ -1,0 +1,65 @@
+{
+  "dashboardGeneratedTime": "Sun Apr 14 11:35:41 SGT 2019",
+  "repos": [
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git",
+        "repoName": "final-project-cs3217-sailingthroughhistory",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master",
+      "sinceDate": "2019-01-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-kickback.git",
+        "repoName": "final-project-kickback",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-kickback_master",
+      "sinceDate": "2019-01-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-dash.git",
+        "repoName": "final-project-dash",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-dash_master",
+      "sinceDate": "2019-01-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git",
+        "repoName": "final-project-cs3217-crispybacon",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-cs3217-crispybacon_master",
+      "sinceDate": "2019-01-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git",
+        "repoName": "final-project-cs3217-gooreatrestaurant",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master",
+      "sinceDate": "2019-01-01"
+    },
+    {
+      "location": {
+        "location": "https://github.com/cs3217-1819/final-project-cs3217-name.git",
+        "repoName": "final-project-cs3217-name",
+        "organization": "cs3217-1819"
+      },
+      "branch": "master",
+      "displayName": "cs3217-1819_final-project-cs3217-name_master",
+      "sinceDate": "2019-01-01"
+    }
+  ]
+}
