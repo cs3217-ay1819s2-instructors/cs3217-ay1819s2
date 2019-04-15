@@ -825,6 +825,12 @@
             "deletions": 67
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
       }
     ],
     "henry": [
@@ -1577,8 +1583,8 @@
         ]
       },
       {
-        "insertions": 970,
-        "deletions": 532,
+        "insertions": 1677,
+        "deletions": 1073,
         "date": "2019-04-13",
         "commitResults": [
           {
@@ -1634,13 +1640,92 @@
             "message": "Remove files.",
             "insertions": 0,
             "deletions": 348
+          },
+          {
+            "hash": "ceb9fa0c18c8d8de756df85d996f056af635a796",
+            "message": "Reorganise code for Ship.",
+            "insertions": 570,
+            "deletions": 2
+          },
+          {
+            "hash": "bc405ae8dd3c7ff8b6d18ab96a68b4362c337cc1",
+            "message": "Remove files.",
+            "insertions": 0,
+            "deletions": 502
+          },
+          {
+            "hash": "3239e34135470f8384c8468850df2272dab6b370",
+            "message": "Add skeleton for Ship tests.",
+            "insertions": 137,
+            "deletions": 37
+          }
+        ]
+      },
+      {
+        "insertions": 622,
+        "deletions": 196,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "4d0bf2c093addb8d243c2066417130adadc01693",
+            "message": "Add tests for ShipAPI.",
+            "insertions": 341,
+            "deletions": 15
+          },
+          {
+            "hash": "2fe009c7c92c18510271db3f5f2e200d70c5394f",
+            "message": "Encode/decode name for GameMaster.",
+            "insertions": 10,
+            "deletions": 4
+          },
+          {
+            "hash": "6fa68b9cb035944fe2dc762980550ceaad706203",
+            "message": "Remove obsolete code from Ship and Player.",
+            "insertions": 27,
+            "deletions": 44
+          },
+          {
+            "hash": "72549dcd0bed2b2c653047c8add37648894d67e0",
+            "message": "Delete Consumable, move NPCUI.",
+            "insertions": 31,
+            "deletions": 25
+          },
+          {
+            "hash": "405c8aedfe6d6a7a1494a8f508876f65f6e916c3",
+            "message": "remove files.",
+            "insertions": 0,
+            "deletions": 20
+          },
+          {
+            "hash": "28ca8b80d4855b3dce022068c1869ec90bbf3b75",
+            "message": "Halfway through NPC implementation, have build issue.",
+            "insertions": 184,
+            "deletions": 72
+          },
+          {
+            "hash": "ba8916a90f76904a7d3f6bdab01d29e3420313aa",
+            "message": "Finish NPCs.",
+            "insertions": 18,
+            "deletions": 9
+          },
+          {
+            "hash": "2d4dfa3b8e528ac92a5edb2f48246c72a9aed0d4",
+            "message": "Fix coding problem for NPCs in map.",
+            "insertions": 3,
+            "deletions": 0
+          },
+          {
+            "hash": "465f6c88e3bb1ae3e5e71aa7ba451c926efe3da8",
+            "message": "Fix mismatching API on NPC for moveToNextNode.",
+            "insertions": 8,
+            "deletions": 7
           }
         ]
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-14",
+        "date": "2019-04-15",
         "commitResults": []
       }
     ],
@@ -2617,6 +2702,19 @@
             "deletions": 109
           }
         ]
+      },
+      {
+        "insertions": 103,
+        "deletions": 26,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "7df9fa17b1658e3a226c937335a2bd882c1c0959",
+            "message": "Implement set tax",
+            "insertions": 103,
+            "deletions": 26
+          }
+        ]
       }
     ],
     "Yu Pei Henry": [
@@ -2972,6 +3070,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
         "commitResults": []
       }
     ],
@@ -3665,22 +3769,28 @@
         "deletions": 0,
         "date": "2019-04-14",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3167,
-    "henry": 2009,
-    "Jason Chong": 4205,
+    "Yang Shuqi": 3158,
+    "henry": 2727,
+    "Jason Chong": 4197,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2865
+    "yuhongherald": 2833
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 43432.11,
-    "henry": 54546.38,
-    "Jason Chong": 151048.62,
+    "Yang Shuqi": 42953.39,
+    "henry": 145798.23,
+    "Jason Chong": 148634.52,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 120143.08
+    "yuhongherald": 118593.03
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
