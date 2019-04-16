@@ -827,10 +827,54 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 127,
+        "deletions": 43,
         "date": "2019-04-15",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "07dd28a34d9c4667b7ac6de0898a1edc8d73fcdf",
+            "message": "add back button",
+            "insertions": 16,
+            "deletions": 11
+          },
+          {
+            "hash": "cdeff9e01e06c2d72581572aaf0c3a39b15af7a7",
+            "message": "add comments for storage",
+            "insertions": 55,
+            "deletions": 17
+          },
+          {
+            "hash": "c86a2c9fe23ce0e2a6cc22941c0db34154da45fb",
+            "message": "reorganize localstorage",
+            "insertions": 13,
+            "deletions": 11
+          },
+          {
+            "hash": "ffcd76c9bea762b88e8c78f818512ddce8d89dfa",
+            "message": "add callback for joinroom",
+            "insertions": 8,
+            "deletions": 3
+          },
+          {
+            "hash": "53972b2661f9bfb7cfe4f5c58b7808053cfe3fb2",
+            "message": "fix bugs",
+            "insertions": 35,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 6,
+        "deletions": 8,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "38af12a5f0d4cba9f4f449146934afd03b8fdfa6",
+            "message": "fix bugs",
+            "insertions": 6,
+            "deletions": 8
+          }
+        ]
       }
     ],
     "henry": [
@@ -1723,9 +1767,40 @@
         ]
       },
       {
+        "insertions": 180,
+        "deletions": 184,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "21617a79420a0066eba675d0b81845f3e226e3b2",
+            "message": "Fix swift lint warnings.",
+            "insertions": 114,
+            "deletions": 95
+          },
+          {
+            "hash": "4745caaa98a2968b3681803eff9ca14e58a4c732",
+            "message": "Add default item consumption of 1 food to player.",
+            "insertions": 43,
+            "deletions": 45
+          },
+          {
+            "hash": "33542412606ffdc6ff4b59b0f450c403f6296b7e",
+            "message": "Fix conflict.",
+            "insertions": 2,
+            "deletions": 12
+          },
+          {
+            "hash": "d6d7544025b1bf6b2eae495353d4329d6b489b38",
+            "message": "Change global buy/sell price.",
+            "insertions": 21,
+            "deletions": 32
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-15",
+        "date": "2019-04-16",
         "commitResults": []
       }
     ],
@@ -2704,8 +2779,8 @@
         ]
       },
       {
-        "insertions": 103,
-        "deletions": 26,
+        "insertions": 598,
+        "deletions": 592,
         "date": "2019-04-15",
         "commitResults": [
           {
@@ -2713,6 +2788,31 @@
             "message": "Implement set tax",
             "insertions": 103,
             "deletions": 26
+          },
+          {
+            "hash": "d69a6939b269b525b0e4a3e24de8d76140def652",
+            "message": "Fix crash",
+            "insertions": 4,
+            "deletions": 2
+          },
+          {
+            "hash": "ee3f7293e2d66deb9e5f826fd9e83c3c9b290434",
+            "message": "Delete old turnsystem",
+            "insertions": 491,
+            "deletions": 564
+          }
+        ]
+      },
+      {
+        "insertions": 242,
+        "deletions": 174,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "41303af26d937f8beb49e90da02620ab07327695",
+            "message": "Fix game state encoding",
+            "insertions": 242,
+            "deletions": 174
           }
         ]
       }
@@ -3076,6 +3176,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
         "commitResults": []
       }
     ],
@@ -3775,22 +3881,28 @@
         "deletions": 0,
         "date": "2019-04-15",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3158,
-    "henry": 2727,
-    "Jason Chong": 4197,
+    "Yang Shuqi": 3207,
+    "henry": 2788,
+    "Jason Chong": 4741,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2833
+    "yuhongherald": 2766
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 42953.39,
-    "henry": 145798.23,
-    "Jason Chong": 148634.52,
+    "Yang Shuqi": 42236.71,
+    "henry": 144311.77,
+    "Jason Chong": 162217.56,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 118593.03
+    "yuhongherald": 117079.33
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
