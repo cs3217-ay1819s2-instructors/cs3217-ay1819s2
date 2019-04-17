@@ -864,8 +864,8 @@
         ]
       },
       {
-        "insertions": 6,
-        "deletions": 8,
+        "insertions": 336,
+        "deletions": 126,
         "date": "2019-04-16",
         "commitResults": [
           {
@@ -873,8 +873,26 @@
             "message": "fix bugs",
             "insertions": 6,
             "deletions": 8
+          },
+          {
+            "hash": "6ebb3f00e239a7035da5c3ef1e1f8b0961270211",
+            "message": "add flag and NPC icon",
+            "insertions": 187,
+            "deletions": 89
+          },
+          {
+            "hash": "59b5b746b60110b4f3c715c881914e5b99740e8a",
+            "message": "encode weather",
+            "insertions": 143,
+            "deletions": 29
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
       }
     ],
     "henry": [
@@ -1798,9 +1816,64 @@
         ]
       },
       {
+        "insertions": 141,
+        "deletions": 30,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "735c88759dd226e31711560a20b68b17a338eef2",
+            "message": "Add default item weights.",
+            "insertions": 18,
+            "deletions": 11
+          },
+          {
+            "hash": "44294f38d36dc169f419c2b9567739e032ca11b7",
+            "message": "Add message for pirate countdown.",
+            "insertions": 4,
+            "deletions": 1
+          },
+          {
+            "hash": "90b7dca5a18721a3203007df6486e89ad0896ed2",
+            "message": "Add starting items for players.",
+            "insertions": 5,
+            "deletions": 2
+          },
+          {
+            "hash": "a533f7f6066bad30da80f5852e4a23b6ac1db714",
+            "message": "Fix deficit message.",
+            "insertions": 3,
+            "deletions": 1
+          },
+          {
+            "hash": "e43a7445a2445374260864ea22c1af439823361f",
+            "message": "Add check for gameState integrity.",
+            "insertions": 105,
+            "deletions": 9
+          },
+          {
+            "hash": "4c62f08ac1d1492dae4dc0dc9c046619ffe56444",
+            "message": "Comment out assertion for gameState - It does not work correctly.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "b439f697382e913161836125a56c9bc3d59813a7",
+            "message": "numNPC changed to follow number of players.",
+            "insertions": 1,
+            "deletions": 3
+          },
+          {
+            "hash": "317415fc1ce184d72817408fff2d1ed241ca2fff",
+            "message": "Prevent sellValue and buyValue from getting past each other.",
+            "insertions": 4,
+            "deletions": 2
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-16",
+        "date": "2019-04-17",
         "commitResults": []
       }
     ],
@@ -2804,8 +2877,8 @@
         ]
       },
       {
-        "insertions": 242,
-        "deletions": 174,
+        "insertions": 437,
+        "deletions": 242,
         "date": "2019-04-16",
         "commitResults": [
           {
@@ -2813,6 +2886,31 @@
             "message": "Fix game state encoding",
             "insertions": 242,
             "deletions": 174
+          },
+          {
+            "hash": "e76c8f36e0d56a6da945d5b99d1b1a11037622fa",
+            "message": ".",
+            "insertions": 195,
+            "deletions": 68
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 23,
+        "date": "2019-04-17",
+        "commitResults": [
+          {
+            "hash": "ed07a213d757b27c00e2985890b302340ee1c76f",
+            "message": "Fix weather",
+            "insertions": 13,
+            "deletions": 12
+          },
+          {
+            "hash": "c8e5723856a38a30e07f3267ae61a0670d515ef4",
+            "message": "Fix GM deleting other characters and spectator mode",
+            "insertions": 15,
+            "deletions": 11
           }
         ]
       }
@@ -3182,6 +3280,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
         "commitResults": []
       }
     ],
@@ -3887,22 +3991,28 @@
         "deletions": 0,
         "date": "2019-04-16",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3207,
-    "henry": 2788,
-    "Jason Chong": 4741,
+    "Yang Shuqi": 3424,
+    "henry": 2864,
+    "Jason Chong": 4793,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2766
+    "yuhongherald": 2761
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 42236.71,
-    "henry": 144311.77,
-    "Jason Chong": 162217.56,
+    "Yang Shuqi": 43451.414,
+    "henry": 142009.38,
+    "Jason Chong": 162815.3,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 117079.33
+    "yuhongherald": 115600.62
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
