@@ -889,10 +889,78 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 175,
+        "deletions": 64,
         "date": "2019-04-17",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "6868e172a08dac1908b328c1f09adb03723ea7b2",
+            "message": "resize wrapper after add map",
+            "insertions": 9,
+            "deletions": 0
+          },
+          {
+            "hash": "bc4d11692d8b524f095fbbac5456a9934c4f4d2d",
+            "message": "minor changes",
+            "insertions": 20,
+            "deletions": 7
+          },
+          {
+            "hash": "079f50e6de28609520ec2b087899a2cc41da23df",
+            "message": "layout scrollview",
+            "insertions": 11,
+            "deletions": 19
+          },
+          {
+            "hash": "e49413768fba3e228a4138f329d9510b2e52dd19",
+            "message": "fix bugs",
+            "insertions": 84,
+            "deletions": 30
+          },
+          {
+            "hash": "31516df093b83fe6e6a9f28533c079b43885b4e4",
+            "message": "remove player if master leave",
+            "insertions": 51,
+            "deletions": 8
+          }
+        ]
+      },
+      {
+        "insertions": 131,
+        "deletions": 88,
+        "date": "2019-04-18",
+        "commitResults": [
+          {
+            "hash": "31a67f02ada4f3ef0cbb225c52972ceaa71ac1e5",
+            "message": "fix addPlayer heartBeat",
+            "insertions": 16,
+            "deletions": 24
+          },
+          {
+            "hash": "c7b81b230c59c5de957560f7830d38600519a228",
+            "message": "fix exit doesn\u0027t clear players",
+            "insertions": 17,
+            "deletions": 14
+          },
+          {
+            "hash": "da2ad704b2624c5e2810a7d629823d8ba7762765",
+            "message": "fix force exit bug",
+            "insertions": 13,
+            "deletions": 15
+          },
+          {
+            "hash": "c12f2a46e77b0ed376731f419c0a9142670433c3",
+            "message": "implement edit player name",
+            "insertions": 82,
+            "deletions": 23
+          },
+          {
+            "hash": "1d040b0ed628bb1d7e00fd50a98fb4d68cd3e182",
+            "message": "customize textfield",
+            "insertions": 3,
+            "deletions": 12
+          }
+        ]
       }
     ],
     "henry": [
@@ -1874,6 +1942,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
         "commitResults": []
       }
     ],
@@ -2896,8 +2970,8 @@
         ]
       },
       {
-        "insertions": 28,
-        "deletions": 23,
+        "insertions": 69,
+        "deletions": 35,
         "date": "2019-04-17",
         "commitResults": [
           {
@@ -2911,6 +2985,55 @@
             "message": "Fix GM deleting other characters and spectator mode",
             "insertions": 15,
             "deletions": 11
+          },
+          {
+            "hash": "cbfe110bafd3516b6399d48df3e8991c0a100d59",
+            "message": "Add end game",
+            "insertions": 27,
+            "deletions": 2
+          },
+          {
+            "hash": "655ecc7eab696d73a748609edded89cc5915c6c5",
+            "message": "Fix bug",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "fbf713055723295db993a9eaf95dacc07a11dff8",
+            "message": "Add background to main menu",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "92bf58357fea5f572c78c8bc5d6a9f05638d58c1",
+            "message": "Fix network bug",
+            "insertions": 9,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 137,
+        "date": "2019-04-18",
+        "commitResults": [
+          {
+            "hash": "088b4f4b05e524f29a514572aa872027f9add987",
+            "message": "Fix nested collections not being deleted",
+            "insertions": 16,
+            "deletions": 23
+          },
+          {
+            "hash": "4c2692bd42b2c6c9b5271856a6dcc06547c7e112",
+            "message": "Return to menu on room delete, nested collections should now be deleted, Game no longer waits for players that have been removed",
+            "insertions": 185,
+            "deletions": 113
+          },
+          {
+            "hash": "70787933f82299bb0c3c9273996f37dd6dee9ec0",
+            "message": "Fix bug",
+            "insertions": 1,
+            "deletions": 1
           }
         ]
       }
@@ -3286,6 +3409,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
         "commitResults": []
       }
     ],
@@ -3997,22 +4126,28 @@
         "deletions": 0,
         "date": "2019-04-17",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3424,
-    "henry": 2864,
-    "Jason Chong": 4793,
+    "Yang Shuqi": 3655,
+    "henry": 2851,
+    "Jason Chong": 4819,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2761
+    "yuhongherald": 2759
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 43451.414,
-    "henry": 142009.38,
-    "Jason Chong": 162815.3,
+    "Yang Shuqi": 42815.88,
+    "henry": 140026.56,
+    "Jason Chong": 160159.84,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 115600.62
+    "yuhongherald": 114156.17
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
