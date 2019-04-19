@@ -926,8 +926,8 @@
         ]
       },
       {
-        "insertions": 131,
-        "deletions": 88,
+        "insertions": 430,
+        "deletions": 329,
         "date": "2019-04-18",
         "commitResults": [
           {
@@ -959,6 +959,49 @@
             "message": "customize textfield",
             "insertions": 3,
             "deletions": 12
+          },
+          {
+            "hash": "1573d5c5624a803ab91e0ac9ee541363bac98080",
+            "message": "fix alert causing exit",
+            "insertions": 47,
+            "deletions": 30
+          },
+          {
+            "hash": "671e0a3d875d3ad92a61fb424d774090a81fa45f",
+            "message": "minor changes",
+            "insertions": 8,
+            "deletions": 6
+          },
+          {
+            "hash": "f39f1e52b27cb89cca4b9c2594470054e51fe3b0",
+            "message": "reorganize teamMenu",
+            "insertions": 32,
+            "deletions": 34
+          },
+          {
+            "hash": "f312025c596822584bd7fe3fbeeb994193f20870",
+            "message": "reorganize level editor",
+            "insertions": 212,
+            "deletions": 171
+          }
+        ]
+      },
+      {
+        "insertions": 37,
+        "deletions": 57,
+        "date": "2019-04-19",
+        "commitResults": [
+          {
+            "hash": "e1f332d6c488cf82c8eb2805158e0d8437b42aa5",
+            "message": "minor changes",
+            "insertions": 33,
+            "deletions": 49
+          },
+          {
+            "hash": "ea3a9b3f0f5a368b9aa42a2b594983c1ed29129c",
+            "message": "minor changes",
+            "insertions": 4,
+            "deletions": 8
           }
         ]
       }
@@ -1948,6 +1991,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
         "commitResults": []
       }
     ],
@@ -3036,6 +3085,19 @@
             "deletions": 1
           }
         ]
+      },
+      {
+        "insertions": 355,
+        "deletions": 104,
+        "date": "2019-04-19",
+        "commitResults": [
+          {
+            "hash": "e14ca9179e9458047dcb88436ecc1a5d3ecfaf0e",
+            "message": "Fix bugs, add quantity trading, npc messages and player leave messages",
+            "insertions": 355,
+            "deletions": 104
+          }
+        ]
       }
     ],
     "Yu Pei Henry": [
@@ -3415,6 +3477,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
         "commitResults": []
       }
     ],
@@ -4132,22 +4200,28 @@
         "deletions": 0,
         "date": "2019-04-18",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3655,
-    "henry": 2851,
-    "Jason Chong": 4819,
+    "Yang Shuqi": 3705,
+    "henry": 2818,
+    "Jason Chong": 5102,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2759
+    "yuhongherald": 2748
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 42815.88,
-    "henry": 140026.56,
-    "Jason Chong": 160159.84,
+    "Yang Shuqi": 48134.74,
+    "henry": 138097.38,
+    "Jason Chong": 158450.69,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 114156.17
+    "yuhongherald": 112744.836
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
