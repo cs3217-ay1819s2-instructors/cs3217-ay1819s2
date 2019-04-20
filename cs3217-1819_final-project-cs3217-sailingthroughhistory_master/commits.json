@@ -987,8 +987,8 @@
         ]
       },
       {
-        "insertions": 37,
-        "deletions": 57,
+        "insertions": 64,
+        "deletions": 110,
         "date": "2019-04-19",
         "commitResults": [
           {
@@ -1002,8 +1002,32 @@
             "message": "minor changes",
             "insertions": 4,
             "deletions": 8
+          },
+          {
+            "hash": "025dfc5e001ff1ebdd124939c9f722466c14bb3b",
+            "message": "structure change",
+            "insertions": 4,
+            "deletions": 0
+          },
+          {
+            "hash": "80bf8095e79418d713dec17e92e86cc44f5da4b4",
+            "message": "remove halfLife",
+            "insertions": 18,
+            "deletions": 48
+          },
+          {
+            "hash": "a5f3d86b611ccce1d666f656255cb17c79a8f734",
+            "message": "minor changes",
+            "insertions": 5,
+            "deletions": 5
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
       }
     ],
     "henry": [
@@ -1994,9 +2018,40 @@
         "commitResults": []
       },
       {
+        "insertions": 491,
+        "deletions": 567,
+        "date": "2019-04-19",
+        "commitResults": [
+          {
+            "hash": "6fc6372a93bb2bd9cd6e548a306212cb24b60c98",
+            "message": "Remove redundant ItemType.",
+            "insertions": 200,
+            "deletions": 209
+          },
+          {
+            "hash": "f48e474dae3357e6dbaa11cc32eb0e564ea691fc",
+            "message": "Refactor Ship to separate some behavior from state.",
+            "insertions": 289,
+            "deletions": 135
+          },
+          {
+            "hash": "a151f052ce7687c1295c950ec5d24e8d9a7cecdb",
+            "message": "Remove files.",
+            "insertions": 0,
+            "deletions": 221
+          },
+          {
+            "hash": "754b888df970600a71f9a1afe9fc9154d6259858",
+            "message": "Fix error message for insufficient cargo space.",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-19",
+        "date": "2019-04-20",
         "commitResults": []
       }
     ],
@@ -3087,8 +3142,8 @@
         ]
       },
       {
-        "insertions": 355,
-        "deletions": 104,
+        "insertions": 630,
+        "deletions": 740,
         "date": "2019-04-19",
         "commitResults": [
           {
@@ -3096,6 +3151,25 @@
             "message": "Fix bugs, add quantity trading, npc messages and player leave messages",
             "insertions": 355,
             "deletions": 104
+          },
+          {
+            "hash": "91338378d6e93b7d663b21b85527196efd719c6b",
+            "message": "Refactoring",
+            "insertions": 275,
+            "deletions": 636
+          }
+        ]
+      },
+      {
+        "insertions": 58,
+        "deletions": 25,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "5c396af6a032025746c7e459579b460a75a95887",
+            "message": "Fix turn stuck",
+            "insertions": 58,
+            "deletions": 25
           }
         ]
       }
@@ -3483,6 +3557,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
         "commitResults": []
       }
     ],
@@ -4206,22 +4286,28 @@
         "deletions": 0,
         "date": "2019-04-19",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3705,
-    "henry": 2818,
-    "Jason Chong": 5102,
+    "Yang Shuqi": 3654,
+    "henry": 2911,
+    "Jason Chong": 4881,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2748
+    "yuhongherald": 2565
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 48134.74,
-    "henry": 138097.38,
-    "Jason Chong": 158450.69,
+    "Yang Shuqi": 47679.574,
+    "henry": 149083.5,
+    "Jason Chong": 175268.94,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 112744.836
+    "yuhongherald": 111365.54
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
