@@ -1024,10 +1024,72 @@
         ]
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 212,
+        "deletions": 343,
         "date": "2019-04-20",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "b3e4f1d33e3a3ceeab40d394ef82b376d57324e0",
+            "message": "add loading image",
+            "insertions": 10,
+            "deletions": 1
+          },
+          {
+            "hash": "d50ee5ae69c225fd16a9a4884c2fcafbfcbe1edc",
+            "message": "minor changes",
+            "insertions": 44,
+            "deletions": 24
+          },
+          {
+            "hash": "543269a6beccda36d9b448e8dcbb7f31370391f5",
+            "message": "remove deleted files",
+            "insertions": 0,
+            "deletions": 110
+          },
+          {
+            "hash": "c871754217ad43f3de5f8ee8358c87838261e213",
+            "message": "remove time limit",
+            "insertions": 134,
+            "deletions": 191
+          },
+          {
+            "hash": "75f6edce932047c2ce9ed82389ee2e37306e9572",
+            "message": "minor changes",
+            "insertions": 23,
+            "deletions": 16
+          },
+          {
+            "hash": "4e2e696c9780a80032b7ef66d4c41b14d4900e33",
+            "message": "minor changes",
+            "insertions": 1,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 320,
+        "deletions": 259,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "0c671158ad9b6f797db8d10cdd9d1617f91c0195",
+            "message": "remove UIAlert",
+            "insertions": 198,
+            "deletions": 162
+          },
+          {
+            "hash": "e6b7d69fee1e362b6f738b72978527c94131a91f",
+            "message": "add documentation",
+            "insertions": 122,
+            "deletions": 34
+          },
+          {
+            "hash": "1072ebffcad2cc4848e388feb9d66f6f3e7ecfe9",
+            "message": "extract game parameters",
+            "insertions": 0,
+            "deletions": 63
+          }
+        ]
       }
     ],
     "henry": [
@@ -2018,8 +2080,8 @@
         "commitResults": []
       },
       {
-        "insertions": 491,
-        "deletions": 567,
+        "insertions": 923,
+        "deletions": 710,
         "date": "2019-04-19",
         "commitResults": [
           {
@@ -2045,13 +2107,122 @@
             "message": "Fix error message for insufficient cargo space.",
             "insertions": 2,
             "deletions": 2
+          },
+          {
+            "hash": "c0201749eed55cd167ff336cbf7868288b514ddd",
+            "message": "Add skeleton for remaining GameState tests.",
+            "insertions": 171,
+            "deletions": 5
+          },
+          {
+            "hash": "8e7591b66ebed31a811b889aa9dae90f508e3d5f",
+            "message": "Change Ship to ShipUI in constants enum.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "f8ac7d2c6ed49b312b72bca3e3140ff19057b771",
+            "message": "Rename suppliesConsumed to itemConsumed.",
+            "insertions": 4,
+            "deletions": 4
+          },
+          {
+            "hash": "9ef1eb3de3b63398073c168cec8d324a80a0a62d",
+            "message": "Refactor InfoMessage.",
+            "insertions": 57,
+            "deletions": 40
+          },
+          {
+            "hash": "24b773d709c26c96a364ac612cd53d95cbea33ad",
+            "message": "Complete tests for ShipAPI.",
+            "insertions": 199,
+            "deletions": 93
+          }
+        ]
+      },
+      {
+        "insertions": 948,
+        "deletions": 217,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "be45af3945224d97a2e99cdd2efe95e5c5ab13a9",
+            "message": "Finish some ItemStorage tests.",
+            "insertions": 265,
+            "deletions": 47
+          },
+          {
+            "hash": "f1d802fcf969aa57a00cba8230320f0a06d9230c",
+            "message": "Remove sellItem.",
+            "insertions": 1,
+            "deletions": 18
+          },
+          {
+            "hash": "4654369669ba92195ac7165876d1fc18409cff22",
+            "message": "Add test for selling item.",
+            "insertions": 99,
+            "deletions": 23
+          },
+          {
+            "hash": "b9edf249ceb0b613682b466c8d1321fa1cb2611a",
+            "message": "Fix broken test.",
+            "insertions": 1,
+            "deletions": 1
+          },
+          {
+            "hash": "6b58270ac41adb56d44d1832a8318120b6a2feef",
+            "message": "Complete ItemStorage tests.",
+            "insertions": 60,
+            "deletions": 2
+          },
+          {
+            "hash": "530b842efb13597d0a38ddb81fbd161cf47ca33d",
+            "message": "Add test for UpgradeManager.",
+            "insertions": 60,
+            "deletions": 19
+          },
+          {
+            "hash": "b8ffdee674f68eefa3bf3f45076555ca3f5b00ed",
+            "message": "Complete NavigationManager tests.",
+            "insertions": 217,
+            "deletions": 10
+          },
+          {
+            "hash": "b728f3e0a61f1e43e00f5070c3ad2a8d148aae96",
+            "message": "Fix broken tests.",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "b0c5184590864d634414de4ca178f5029b6bbb9e",
+            "message": "Finish PirateWeatherEntity test.",
+            "insertions": 75,
+            "deletions": 30
+          },
+          {
+            "hash": "a303a208b3d7995e7f175667f500044588503b56",
+            "message": "Add some NPC tests.",
+            "insertions": 76,
+            "deletions": 14
+          },
+          {
+            "hash": "b38b8ecf17df01c2888f5b56e8c94c9336a57251",
+            "message": "(Herald) fix tests",
+            "insertions": 87,
+            "deletions": 46
+          },
+          {
+            "hash": "9ed81500c942f2e779ab2ee068d93fbc2b30e0d7",
+            "message": "Remove some whitespaces.",
+            "insertions": 5,
+            "deletions": 5
           }
         ]
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-20",
+        "date": "2019-04-21",
         "commitResults": []
       }
     ],
@@ -3161,8 +3332,8 @@
         ]
       },
       {
-        "insertions": 58,
-        "deletions": 25,
+        "insertions": 658,
+        "deletions": 134,
         "date": "2019-04-20",
         "commitResults": [
           {
@@ -3170,6 +3341,55 @@
             "message": "Fix turn stuck",
             "insertions": 58,
             "deletions": 25
+          },
+          {
+            "hash": "3f9f0ee77682de78f98c209d4325f9d53185e29a",
+            "message": "Refactoring",
+            "insertions": 226,
+            "deletions": 53
+          },
+          {
+            "hash": "2022b7eae875cb88a7ae88910b6ab3c6a2adc144",
+            "message": "Fix network bugs",
+            "insertions": 94,
+            "deletions": 31
+          },
+          {
+            "hash": "d16c0c8ffcd828f9957a08eeda21f5eb9a11a665",
+            "message": "Add tests",
+            "insertions": 129,
+            "deletions": 15
+          },
+          {
+            "hash": "7ff8a107d4f367d974f8db4cdf536b51ccc952d7",
+            "message": "Additional Tests",
+            "insertions": 151,
+            "deletions": 7
+          },
+          {
+            "hash": "21dc2b78f814fdfe14d5fcfee9f048e5e916594e",
+            "message": "Remove test with race condition",
+            "insertions": 0,
+            "deletions": 2
+          },
+          {
+            "hash": "aead998bf58aa8987256890fb34b5fa39bf6f8ab",
+            "message": "Refactor",
+            "insertions": 0,
+            "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 28,
+        "deletions": 6,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "a36f685ead7d6086d0e1166996d8099a6b951154",
+            "message": "Fix bugs",
+            "insertions": 28,
+            "deletions": 6
           }
         ]
       }
@@ -3563,6 +3783,12 @@
         "insertions": 0,
         "deletions": 0,
         "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
         "commitResults": []
       }
     ],
@@ -4282,32 +4508,112 @@
         "commitResults": []
       },
       {
-        "insertions": 0,
-        "deletions": 0,
+        "insertions": 726,
+        "deletions": 607,
         "date": "2019-04-19",
-        "commitResults": []
+        "commitResults": [
+          {
+            "hash": "33aecbdb874bee98a05a15843d78fa3cd9d07c6f",
+            "message": "split TurnSystem",
+            "insertions": 505,
+            "deletions": 552
+          },
+          {
+            "hash": "9aa636486f871e421f74f716148a2a06bf49a676",
+            "message": "wip",
+            "insertions": 221,
+            "deletions": 55
+          }
+        ]
+      },
+      {
+        "insertions": 1180,
+        "deletions": 514,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "43cd20bebba36bd213b5bf8707b33a90486574a5",
+            "message": "split turnsystemnetwork",
+            "insertions": 126,
+            "deletions": 230
+          },
+          {
+            "hash": "9e19250a7bf835ec54e434397948af919223b645",
+            "message": "add protocols",
+            "insertions": 90,
+            "deletions": 19
+          },
+          {
+            "hash": "03b7a3fd9455caf38fc54bc33dde8eccbb18fd59",
+            "message": "extract inputcontroller from turnsystem",
+            "insertions": 297,
+            "deletions": 124
+          },
+          {
+            "hash": "d12891010e9b06d1de0f54e54751ac39f4365216",
+            "message": "edit",
+            "insertions": 0,
+            "deletions": 11
+          },
+          {
+            "hash": "68136a5436db3e3fd48d1145745f487679b5ff84",
+            "message": "edits",
+            "insertions": 81,
+            "deletions": 1
+          },
+          {
+            "hash": "ca83de8aa44f4070235aa8bf2789d886958592a5",
+            "message": "add tests",
+            "insertions": 90,
+            "deletions": 29
+          },
+          {
+            "hash": "e5295553d2b4edc167f2d45edd4b2e11395bb2d8",
+            "message": "add tests for turnsystem class",
+            "insertions": 241,
+            "deletions": 18
+          },
+          {
+            "hash": "a77ba7fbf6fe9e7642eefc61fec4e3ee4e159b4b",
+            "message": "edit",
+            "insertions": 7,
+            "deletions": 60
+          },
+          {
+            "hash": "58bc644fbabaa478e8a3a55d215422c4225d6092",
+            "message": "Add PlayerActionAdapter andPlayerInputController tests",
+            "insertions": 119,
+            "deletions": 8
+          },
+          {
+            "hash": "38c87dda6bebbf3614e82f07c4e920dead0b0533",
+            "message": "add tests for turnSystemState and turnSystemEvent",
+            "insertions": 129,
+            "deletions": 14
+          }
+        ]
       },
       {
         "insertions": 0,
         "deletions": 0,
-        "date": "2019-04-20",
+        "date": "2019-04-21",
         "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Yang Shuqi": 3654,
-    "henry": 2911,
-    "Jason Chong": 4881,
+    "Yang Shuqi": 3767,
+    "henry": 3931,
+    "Jason Chong": 4991,
     "Yu Pei Henry": 2,
-    "yuhongherald": 2565
+    "yuhongherald": 3719
   },
   "authorContributionVariance": {
-    "Yang Shuqi": 47679.574,
-    "henry": 149083.5,
-    "Jason Chong": 175268.94,
+    "Yang Shuqi": 51999.36,
+    "henry": 183065.72,
+    "Jason Chong": 177335.56,
     "Yu Pei Henry": 0.0,
-    "yuhongherald": 111365.54
+    "yuhongherald": 164693.08
   },
   "authorDisplayNameMap": {
     "Yang Shuqi": "Yang Shuqi",
