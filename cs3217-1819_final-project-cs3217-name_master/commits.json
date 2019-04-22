@@ -381,6 +381,275 @@
             "deletions": 10
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 89,
+        "deletions": 16,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "4e000a7bb9aedba7be0e8afdc61685c185b6a7a2",
+            "message": "Add primary key to all Realm entities (#34)",
+            "insertions": 89,
+            "deletions": 16
+          }
+        ]
+      },
+      {
+        "insertions": 829,
+        "deletions": 30,
+        "date": "2019-04-10",
+        "commitResults": [
+          {
+            "hash": "a3fffcc21fb4167fdb967fe9832c65cba095d22d",
+            "message": "Fix non-TODO swiftlint violations (#37)",
+            "insertions": 7,
+            "deletions": 6
+          },
+          {
+            "hash": "aa6b2cf001f4aa51daf98db788153f3c65865a30",
+            "message": "Implement partially MenuDetail scene (#36)",
+            "insertions": 805,
+            "deletions": 9
+          },
+          {
+            "hash": "b721cf935e8159e426ad678eaccfbe515913b63a",
+            "message": "Fix bug in Menu where some cells would disappear (#41)",
+            "insertions": 17,
+            "deletions": 15
+          }
+        ]
+      },
+      {
+        "insertions": 13,
+        "deletions": 299,
+        "date": "2019-04-11",
+        "commitResults": [
+          {
+            "hash": "cf8fa80c4aee8bc7ea8390294638f54e12f7da15",
+            "message": "Remove some boilerplates (#39)",
+            "insertions": 13,
+            "deletions": 299
+          }
+        ]
+      },
+      {
+        "insertions": 685,
+        "deletions": 84,
+        "date": "2019-04-12",
+        "commitResults": [
+          {
+            "hash": "e0bf7201f0b3e22f207c538d756f618d3fdc3bcc",
+            "message": "Implement MenuAddons (options without addons) (#42)",
+            "insertions": 685,
+            "deletions": 84
+          }
+        ]
+      },
+      {
+        "insertions": 438,
+        "deletions": 238,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "601d77c6f6f4340d03a5dc60e73bb8067a6bcaad",
+            "message": "Add reset button for each section in MenuAddons (#46)",
+            "insertions": 91,
+            "deletions": 1
+          },
+          {
+            "hash": "097c802178de05be28350edc86d947df007c118e",
+            "message": "Refactor MenuAddons such that UIView is not a datasource (#47)",
+            "insertions": 224,
+            "deletions": 225
+          },
+          {
+            "hash": "69461d3d6ac779ed1610615444d6aadcb2c097f2",
+            "message": "Implement extra comment in MenuInfo (#45)",
+            "insertions": 123,
+            "deletions": 12
+          }
+        ]
+      },
+      {
+        "insertions": 202,
+        "deletions": 9,
+        "date": "2019-04-14",
+        "commitResults": [
+          {
+            "hash": "a64b3bdeecdf25de5c247e15bb24d4a38c476b7a",
+            "message": "Implement QuantityView and add it to MenuAddons (#49)",
+            "insertions": 168,
+            "deletions": 4
+          },
+          {
+            "hash": "af0bb2460bd974af5179ef25ab69da792ce9dad2",
+            "message": " Implement quantity for the whole OrderItem itself in MenuAddons  (#50)",
+            "insertions": 34,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 113,
+        "deletions": 63,
+        "date": "2019-04-15",
+        "commitResults": [
+          {
+            "hash": "47a34743541de0dada6ca615f4eacb8ca26de490",
+            "message": "Change multiple choice to use index and add checkRep (#53)",
+            "insertions": 113,
+            "deletions": 63
+          }
+        ]
+      },
+      {
+        "insertions": 174,
+        "deletions": 61,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "a425be4a1992f7730d462d1a4dba2568f6173e4c",
+            "message": "Add checkbox case in Option to allow for multiple selections (#54)",
+            "insertions": 90,
+            "deletions": 36
+          },
+          {
+            "hash": "20a49a3c619ea8752065868f993e6f89665d4e6c",
+            "message": "Implement addons in MenuAddons (#56)",
+            "insertions": 84,
+            "deletions": 25
+          }
+        ]
+      },
+      {
+        "insertions": 197,
+        "deletions": 35,
+        "date": "2019-04-17",
+        "commitResults": [
+          {
+            "hash": "e6c851cfcf9b25d1001448e70a12a7140cd4d5ae",
+            "message": "Add ShoppingCart Dependency (#60)",
+            "insertions": 50,
+            "deletions": 0
+          },
+          {
+            "hash": "0418d79725e030508454a656c83eaec1f4977b9e",
+            "message": "Implement interscene mediator and make add button work in MenuAddons (#61)",
+            "insertions": 147,
+            "deletions": 35
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 464,
+        "deletions": 102,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "427e9927bedcf70296718572696039ab6931fd79",
+            "message": "Implement editing in MenuInfo (#71)",
+            "insertions": 293,
+            "deletions": 75
+          },
+          {
+            "hash": "bef5a2281797eb26af4831ed9c1ca56c9765d242",
+            "message": "Allow to add more choices on multipleChoice and multipleResponse (#76)",
+            "insertions": 171,
+            "deletions": 27
+          }
+        ]
+      },
+      {
+        "insertions": 925,
+        "deletions": 115,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "7491c7165628c161f007ba6b6c63a5e3b2dbdc2a",
+            "message": "\"Implement\" adding addons in MenuAddons (#80)",
+            "insertions": 18,
+            "deletions": 5
+          },
+          {
+            "hash": "f8cdf390f0de3154994131eac264b7dfc7bbfd92",
+            "message": "Implement adding new option (#79)",
+            "insertions": 247,
+            "deletions": 37
+          },
+          {
+            "hash": "d0cf1c834fc50e4023af58f8a9c358c9e935d48f",
+            "message": "Allow reordering of options (#81)",
+            "insertions": 109,
+            "deletions": 29
+          },
+          {
+            "hash": "042d645c737e8a4a4f22d7b3eaf7a30731cfa3f9",
+            "message": "Implement reordering of choices via drag-drop gesture (#83)",
+            "insertions": 139,
+            "deletions": 19
+          },
+          {
+            "hash": "3f120252aeaa16a0a58cd2400712224d389aafe3",
+            "message": "Allow nil as menuId to MenuDetail to create new menu item (#96)",
+            "insertions": 47,
+            "deletions": 6
+          },
+          {
+            "hash": "f27f4f1774b2e8fb6deb74c446a4ddf0405004f8",
+            "message": "Add tests for MenuInfoInteractor (#95)",
+            "insertions": 206,
+            "deletions": 0
+          },
+          {
+            "hash": "a5a666d20a0312dfc4b90be772df11e6a923e08a",
+            "message": "Fix MenuAddons\u0027 reset logic (#97)",
+            "insertions": 7,
+            "deletions": 2
+          },
+          {
+            "hash": "3707afd7ccbcbc74365bf2e0f24c696a3989fa79",
+            "message": "Prevent drag-drop to reorder to after the plus button in MenuAddons (#99)",
+            "insertions": 14,
+            "deletions": 3
+          },
+          {
+            "hash": "ff3ec452f4ceda755bec6a5d54af75073ea63c7c",
+            "message": "Hide add button in editable MenuAddons (#98)",
+            "insertions": 3,
+            "deletions": 2
+          },
+          {
+            "hash": "e6ea26737a9f2b7d1b05313c9e3d4bbda1b1c2e0",
+            "message": "Hide tap area white color (#102)",
+            "insertions": 17,
+            "deletions": 8
+          },
+          {
+            "hash": "39ba71916f86b5367dd6fd89592f30dccbbfd0df",
+            "message": "Implement deleting choice in editable MenuAddons (#101)",
+            "insertions": 118,
+            "deletions": 4
+          }
+        ]
       }
     ],
     "namjjd": [
@@ -776,6 +1045,90 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-21",
+        "commitResults": []
       }
     ],
     "Derek": [
@@ -1110,6 +1463,135 @@
         "deletions": 0,
         "date": "2019-04-07",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 170,
+        "deletions": 66,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "64e15a59c6acdbd86f6b6dc083b5c2b3fab160c0",
+            "message": "Update bill computation and add fixtures (#23)",
+            "insertions": 170,
+            "deletions": 66
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-16",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 967,
+        "deletions": 32,
+        "date": "2019-04-18",
+        "commitResults": [
+          {
+            "hash": "f0ca432631044c5f7b55c54953abb8c0ead10b90",
+            "message": "Order confirmation view (#31)",
+            "insertions": 945,
+            "deletions": 28
+          },
+          {
+            "hash": "06cda68d771532a3d499c164d674f66d424fc939",
+            "message": "Extract protocol from orderItem (#64)",
+            "insertions": 20,
+            "deletions": 2
+          },
+          {
+            "hash": "d52f98d0e948a538b9c06b1a36a67476601ffe6b",
+            "message": "Remove rounding from surcharge (#67)",
+            "insertions": 2,
+            "deletions": 2
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-20",
+        "commitResults": []
+      },
+      {
+        "insertions": 986,
+        "deletions": 80,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "2bc86b22e98ad61aa462b8ae49bfbd82509350e3",
+            "message": "Update bill (#66)",
+            "insertions": 555,
+            "deletions": 19
+          },
+          {
+            "hash": "e8b35a92454fadfa9f31424b5dfba8720b91e83f",
+            "message": "Add establishment\u0027s surcharges to model (#68)",
+            "insertions": 1,
+            "deletions": 0
+          },
+          {
+            "hash": "4a3194a13fe51665471e2eb4551852592d0a1411",
+            "message": "Update order to bill processor with tests to ensure correctness (#72)",
+            "insertions": 430,
+            "deletions": 61
+          }
+        ]
       }
     ],
     "Caryn Heng": [
@@ -1436,6 +1918,174 @@
             "message": "Base code for admin screens (#19)",
             "insertions": 1905,
             "deletions": 1
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 475,
+        "deletions": 131,
+        "date": "2019-04-09",
+        "commitResults": [
+          {
+            "hash": "a9a4bfb714a4afd6f833f047d571418ea845985b",
+            "message": "Change SLVC to have different cells for customer and establishment screens (#30)",
+            "insertions": 445,
+            "deletions": 131
+          },
+          {
+            "hash": "25d92bc73c849d6331a7729dc4fe26f113a78fac",
+            "message": "Add computed properties that is useful for kitchen backlog (#35)",
+            "insertions": 30,
+            "deletions": 0
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 1173,
+        "deletions": 371,
+        "date": "2019-04-13",
+        "commitResults": [
+          {
+            "hash": "e14fa2ecfafbd770d514f8ea75fe6948b718590f",
+            "message": "Implement Kitchen backlog (#43)",
+            "insertions": 1173,
+            "deletions": 371
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 16,
+        "deletions": 6,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "3dc007ffa53954c303ca518bc18bb2996d0caf39",
+            "message": "Add checkbox/multiresponse options for order scene (#57)",
+            "insertions": 16,
+            "deletions": 6
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-17",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 194,
+        "deletions": 38,
+        "date": "2019-04-19",
+        "commitResults": [
+          {
+            "hash": "268a6470266c2067fd9472cf597588c0729f8700",
+            "message": "UIColor extension and edit kitchen backlog interface UI (#70)",
+            "insertions": 70,
+            "deletions": 21
+          },
+          {
+            "hash": "4250c28fe304a8de231cd72745972a891939c944",
+            "message": "Add timer to each order in kitchen backlog (#63)",
+            "insertions": 124,
+            "deletions": 17
+          }
+        ]
+      },
+      {
+        "insertions": 516,
+        "deletions": 64,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "6caf56a52aaab33e46198fb4d292a679f746a35f",
+            "message": "Ui customisation (#73)",
+            "insertions": 87,
+            "deletions": 47
+          },
+          {
+            "hash": "a7c10cfb30ce66fde3c0200b054714f4fad30bff",
+            "message": "Add clock view in kitchen backlog (#74)",
+            "insertions": 64,
+            "deletions": 12
+          },
+          {
+            "hash": "645b965f403232aa118b6e37602b7798eedd3005",
+            "message": "Implement custom alert VC (#78)",
+            "insertions": 365,
+            "deletions": 5
+          }
+        ]
+      },
+      {
+        "insertions": 1125,
+        "deletions": 213,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "c3fa8978c35cb87957798140171cccdb661a41d1",
+            "message": "Fix wrong font size constants fed in (#84)",
+            "insertions": 2,
+            "deletions": 2
+          },
+          {
+            "hash": "dde2efd9c3e1941c785f81833b046fc66fa1f31c",
+            "message": "Implement simple access control with login flow (#82)",
+            "insertions": 502,
+            "deletions": 126
+          },
+          {
+            "hash": "3fe6f141b11ada06bac1f508ca893c53104c91d8",
+            "message": "Actual admin stall list and menu (#87)",
+            "insertions": 104,
+            "deletions": 30
+          },
+          {
+            "hash": "1f294b17e4389d7f2f04e7e0a290b6233325d215",
+            "message": "Implement admin settings (#94)",
+            "insertions": 517,
+            "deletions": 55
           }
         ]
       }
@@ -1849,22 +2499,194 @@
             "deletions": 61
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-08",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-09",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-10",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-11",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-12",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-13",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-14",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-15",
+        "commitResults": []
+      },
+      {
+        "insertions": 259,
+        "deletions": 4,
+        "date": "2019-04-16",
+        "commitResults": [
+          {
+            "hash": "d27337f7dc810b77a397578c9a5576b74d4293c9",
+            "message": "Implement category selector (#55)",
+            "insertions": 259,
+            "deletions": 4
+          }
+        ]
+      },
+      {
+        "insertions": 508,
+        "deletions": 96,
+        "date": "2019-04-17",
+        "commitResults": [
+          {
+            "hash": "ffc37389a885ac9ee726e88bff33499c7304f595",
+            "message": "Implement menu drag and drop interaction (#58)",
+            "insertions": 201,
+            "deletions": 50
+          },
+          {
+            "hash": "d5fa31cd8caacc82c933dca30f8cab59e8a88132",
+            "message": "Implement drop handlers in view layer (#59)",
+            "insertions": 201,
+            "deletions": 37
+          },
+          {
+            "hash": "9f22a5489acc4493206104a0ca5b8e1f4c21a08a",
+            "message": "Implement menu item add/remove from categories (#62)",
+            "insertions": 106,
+            "deletions": 9
+          }
+        ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-18",
+        "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-19",
+        "commitResults": []
+      },
+      {
+        "insertions": 244,
+        "deletions": 85,
+        "date": "2019-04-20",
+        "commitResults": [
+          {
+            "hash": "14da88beba423de63a239252ff02b697891fa35a",
+            "message": "Implement menu exit (#75)",
+            "insertions": 176,
+            "deletions": 42
+          },
+          {
+            "hash": "ba3b98c84799c136d5ece4fe6353790277f71a47",
+            "message": "Remove navigation controller from login and admin pages (#77)",
+            "insertions": 68,
+            "deletions": 43
+          }
+        ]
+      },
+      {
+        "insertions": 558,
+        "deletions": 86,
+        "date": "2019-04-21",
+        "commitResults": [
+          {
+            "hash": "ce1b36d9f0ee25600d1b6b17f0eb06de619c0d32",
+            "message": "Implement uncategorized category in menu (#86)",
+            "insertions": 50,
+            "deletions": 2
+          },
+          {
+            "hash": "2b0b2e819abc27cb185f6a1b9c36526358abed04",
+            "message": "Implement category add/rename/delete (#88)",
+            "insertions": 197,
+            "deletions": 4
+          },
+          {
+            "hash": "6630b72b96ad7d3ff6bddd0bf6ab44801a81eab8",
+            "message": "Disable Menu editing on customer facing page (#89)",
+            "insertions": 47,
+            "deletions": 17
+          },
+          {
+            "hash": "5f17ef1878a7a4a8b1cf435a714ccf966878e313",
+            "message": "Fix scroll to empty menu section (#90)",
+            "insertions": 13,
+            "deletions": 7
+          },
+          {
+            "hash": "13a621e9c1a87db1e17522042f81291c1b677ab1",
+            "message": "Remove stall list logout button on est admin page (#91)",
+            "insertions": 5,
+            "deletions": 3
+          },
+          {
+            "hash": "a83f883536334c380c852fde68e234c4efd546e7",
+            "message": "Add confirmation alert for stall deletion (#92)",
+            "insertions": 9,
+            "deletions": 1
+          },
+          {
+            "hash": "9d32007321d5ea1fb372c92227b80c3d6408f80e",
+            "message": "Implement adding of menu items (#100)",
+            "insertions": 224,
+            "deletions": 52
+          },
+          {
+            "hash": "b6fbda03df11931bb2dd28ec5c71059be37deb89",
+            "message": "Automatically select first stall on first stall list appear (#104)",
+            "insertions": 13,
+            "deletions": 0
+          }
+        ]
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Julius Putra Tanu Setiaji": 369,
-    "namjjd": 370,
-    "Derek": 434,
-    "Caryn Heng": 1917,
-    "E-Liang Tan": 1841
+    "Julius Putra Tanu Setiaji": 3759,
+    "namjjd": 353,
+    "Derek": 2365,
+    "Caryn Heng": 4628,
+    "E-Liang Tan": 2822
   },
   "authorContributionVariance": {
-    "Julius Putra Tanu Setiaji": 13927.964,
-    "namjjd": 8940.868,
-    "Derek": 2913.2827,
-    "Caryn Heng": 68495.76,
-    "E-Liang Tan": 28713.26
+    "Julius Putra Tanu Setiaji": 55143.477,
+    "namjjd": 7111.2983,
+    "Derek": 33751.664,
+    "Caryn Heng": 120807.61,
+    "E-Liang Tan": 34583.953
   },
   "authorDisplayNameMap": {
     "Julius Putra Tanu Setiaji": "Julius Putra Tanu Setiaji",
