@@ -1,5 +1,6 @@
 {
-  "dashboardGeneratedTime": "Wed Apr 24 11:43:06 SGT 2019",
+  "repoSenseVersion": "45b185c850",
+  "reportGeneratedTime": "Thu Apr 25 03:44:31 2019 UTC",
   "repos": [
     {
       "location": {
@@ -8,8 +9,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master"
     },
     {
       "location": {
@@ -18,8 +18,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-kickback_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-kickback_master"
     },
     {
       "location": {
@@ -28,8 +27,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-dash_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-dash_master"
     },
     {
       "location": {
@@ -38,8 +36,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-crispybacon_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-cs3217-crispybacon_master"
     },
     {
       "location": {
@@ -48,8 +45,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master"
     },
     {
       "location": {
@@ -58,8 +54,9 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-name_master",
-      "sinceDate": "2019-02-15"
+      "displayName": "cs3217-1819_final-project-cs3217-name_master"
     }
-  ]
+  ],
+  "sinceDate": "2019-02-15",
+  "untilDate": "2019-04-21"
 }
