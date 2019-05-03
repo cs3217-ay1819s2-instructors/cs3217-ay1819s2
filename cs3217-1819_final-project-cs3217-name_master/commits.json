@@ -650,6 +650,19 @@
             "deletions": 4
           }
         ]
+      },
+      {
+        "insertions": 8,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": [
+          {
+            "hash": "591ca1e730b1b490ff41fcf7214b90c886bf1321",
+            "message": "Fix tests (#105)",
+            "insertions": 8,
+            "deletions": 0
+          }
+        ]
       }
     ],
     "namjjd": [
@@ -1129,6 +1142,12 @@
         "deletions": 0,
         "date": "2019-04-21",
         "commitResults": []
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ],
     "Derek": [
@@ -1592,6 +1611,12 @@
             "deletions": 61
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ],
     "Caryn Heng": [
@@ -2088,6 +2113,12 @@
             "deletions": 55
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ],
     "E-Liang Tan": [
@@ -2671,22 +2702,28 @@
             "deletions": 0
           }
         ]
+      },
+      {
+        "insertions": 0,
+        "deletions": 0,
+        "date": "2019-04-22",
+        "commitResults": []
       }
     ]
   },
   "authorFinalContributionMap": {
-    "Julius Putra Tanu Setiaji": 3759,
+    "Julius Putra Tanu Setiaji": 3767,
     "namjjd": 353,
     "Derek": 2365,
     "Caryn Heng": 4628,
     "E-Liang Tan": 2822
   },
   "authorContributionVariance": {
-    "Julius Putra Tanu Setiaji": 55143.477,
-    "namjjd": 7111.2983,
-    "Derek": 33751.664,
-    "Caryn Heng": 120807.61,
-    "E-Liang Tan": 34583.953
+    "Julius Putra Tanu Setiaji": 54429.91,
+    "namjjd": 7008.816,
+    "Derek": 33274.355,
+    "Caryn Heng": 119136.43,
+    "E-Liang Tan": 34133.28
   },
   "authorDisplayNameMap": {
     "Julius Putra Tanu Setiaji": "Julius Putra Tanu Setiaji",

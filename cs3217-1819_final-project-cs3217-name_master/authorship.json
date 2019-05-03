@@ -98577,14 +98577,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getEstablishment(id: String) -\u003e Establishment? {"
+        "content": "    func updateEstablishment(id: String, name: String?, location: String?, details: String?) {"
       },
       {
         "lineNumber": 15,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return nil"
+        "content": ""
       },
       {
         "lineNumber": 16,
@@ -98605,14 +98605,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getStall(id: String) -\u003e Stall? {"
+        "content": "    func updateStall(id: String, name: String?, location: String?, details: String?) {"
       },
       {
         "lineNumber": 19,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return nil"
+        "content": ""
       },
       {
         "lineNumber": 20,
@@ -98633,14 +98633,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func writeTransaction(_ block: ((StorageManager) throws -\u003e Void)) throws {"
+        "content": "    func getEstablishment(id: String) -\u003e Establishment? {"
       },
       {
         "lineNumber": 23,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        try block(self)"
+        "content": "        return nil"
       },
       {
         "lineNumber": 24,
@@ -98661,70 +98661,70 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func clearData() {"
+        "content": "    func getStall(id: String) -\u003e Stall? {"
       },
       {
         "lineNumber": 27,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    }"
+        "content": "        return nil"
       },
       {
         "lineNumber": 28,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 29,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func add\u003cT\u003e(_ object: T, update: Bool) where T: Storable {"
+        "content": ""
       },
       {
         "lineNumber": 30,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    }"
+        "content": "    func writeTransaction(_ block: ((StorageManager) throws -\u003e Void)) throws {"
       },
       {
         "lineNumber": 31,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": ""
+        "content": "        try block(self)"
       },
       {
         "lineNumber": 32,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func add\u003cS\u003e(objects: S, update: Bool) where S: Sequence, S.Element: Storable {"
+        "content": "    }"
       },
       {
         "lineNumber": 33,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    }"
+        "content": ""
       },
       {
         "lineNumber": 34,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": ""
+        "content": "    func clearData() {"
       },
       {
         "lineNumber": 35,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func delete\u003cT\u003e(_ object: T) where T: Storable {"
+        "content": "    }"
       },
       {
         "lineNumber": 36,
@@ -98738,28 +98738,28 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    }"
+        "content": "    func add\u003cT\u003e(_ object: T, update: Bool) where T: Storable {"
       },
       {
         "lineNumber": 38,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": ""
+        "content": "    }"
       },
       {
         "lineNumber": 39,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func allEstablishments() -\u003e [Establishment] {"
+        "content": ""
       },
       {
         "lineNumber": 40,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return []"
+        "content": "    func add\u003cS\u003e(objects: S, update: Bool) where S: Sequence, S.Element: Storable {"
       },
       {
         "lineNumber": 41,
@@ -98780,14 +98780,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func allOrders() -\u003e [Order] {"
+        "content": "    func delete\u003cT\u003e(_ object: T) where T: Storable {"
       },
       {
         "lineNumber": 44,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return []"
+        "content": ""
       },
       {
         "lineNumber": 45,
@@ -98808,14 +98808,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getOrder(id: String) -\u003e Order? {"
+        "content": "    func allEstablishments() -\u003e [Establishment] {"
       },
       {
         "lineNumber": 48,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return nil"
+        "content": "        return []"
       },
       {
         "lineNumber": 49,
@@ -98836,14 +98836,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getMenuEditable(id: String) -\u003e MenuEditable? {"
+        "content": "    func allOrders() -\u003e [Order] {"
       },
       {
         "lineNumber": 52,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return nil"
+        "content": "        return []"
       },
       {
         "lineNumber": 53,
@@ -98864,7 +98864,7 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getMenuDisplayable(id: String) -\u003e MenuDisplayable? {"
+        "content": "    func getOrder(id: String) -\u003e Order? {"
       },
       {
         "lineNumber": 56,
@@ -98892,14 +98892,14 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getQueueNumber() -\u003e Int {"
+        "content": "    func getMenuEditable(id: String) -\u003e MenuEditable? {"
       },
       {
         "lineNumber": 60,
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "        return 0"
+        "content": "        return nil"
       },
       {
         "lineNumber": 61,
@@ -98920,7 +98920,7 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
-        "content": "    func getAccount(username: String) -\u003e Account? {"
+        "content": "    func getMenuDisplayable(id: String) -\u003e MenuDisplayable? {"
       },
       {
         "lineNumber": 64,
@@ -98941,11 +98941,67 @@
         "author": {
           "gitId": "Julius Putra Tanu Setiaji"
         },
+        "content": ""
+      },
+      {
+        "lineNumber": 67,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "    func getQueueNumber() -\u003e Int {"
+      },
+      {
+        "lineNumber": 68,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "        return 0"
+      },
+      {
+        "lineNumber": 69,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 70,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": ""
+      },
+      {
+        "lineNumber": 71,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "    func getAccount(username: String) -\u003e Account? {"
+      },
+      {
+        "lineNumber": 72,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "        return nil"
+      },
+      {
+        "lineNumber": 73,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
+        "content": "    }"
+      },
+      {
+        "lineNumber": 74,
+        "author": {
+          "gitId": "Julius Putra Tanu Setiaji"
+        },
         "content": "}"
       }
     ],
     "authorContributionMap": {
-      "Julius Putra Tanu Setiaji": 66
+      "Julius Putra Tanu Setiaji": 74
     }
   },
   {
