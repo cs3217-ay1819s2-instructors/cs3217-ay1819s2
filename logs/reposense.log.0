@@ -1,108 +1,108 @@
-Jun 02, 2019 4:04:51 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:14 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git...
-Jun 02, 2019 4:04:51 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:14 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git to complete...
-Jun 02, 2019 4:05:00 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:23 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git completed!
-Jun 02, 2019 4:05:00 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:23 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-cs3217-name.git...
-Jun 02, 2019 4:05:00 AM reposense.report.ReportGenerator analyzeRepos
+Jun 03, 2019 4:03:23 AM reposense.report.ReportGenerator analyzeRepos
 INFO: Analyzing https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master)...
-Jun 02, 2019 4:05:00 AM reposense.report.ReportGenerator updateRepoConfig
+Jun 03, 2019 4:03:23 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master) does not contain a standalone config file.
-Jun 02, 2019 4:05:00 AM reposense.report.ReportGenerator updateAuthorList
+Jun 03, 2019 4:03:23 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master) has no authors specified, using all authors by default.
-Jun 02, 2019 4:05:00 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jun 03, 2019 4:03:24 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master)...
-Jun 02, 2019 4:05:02 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jun 03, 2019 4:03:25 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master)...
-Jun 02, 2019 4:05:02 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jun 03, 2019 4:03:25 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master)...
-Jun 02, 2019 4:05:11 AM reposense.report.ReportGenerator analyzeRepo
+Jun 03, 2019 4:03:34 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/cs3217-1819/final-project-cs3217-gooreatrestaurant.git (master) completed!
-Jun 02, 2019 4:05:11 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:34 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-cs3217-name.git to complete...
-Jun 02, 2019 4:05:11 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:34 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/cs3217-1819/final-project-cs3217-name.git completed!
-Jun 02, 2019 4:05:11 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:34 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-dash.git...
-Jun 02, 2019 4:05:11 AM reposense.report.ReportGenerator analyzeRepos
+Jun 03, 2019 4:03:34 AM reposense.report.ReportGenerator analyzeRepos
 INFO: Analyzing https://github.com/cs3217-1819/final-project-cs3217-name.git (master)...
-Jun 02, 2019 4:05:11 AM reposense.report.ReportGenerator updateRepoConfig
+Jun 03, 2019 4:03:34 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/cs3217-1819/final-project-cs3217-name.git (master) does not contain a standalone config file.
-Jun 02, 2019 4:05:11 AM reposense.report.ReportGenerator updateAuthorList
+Jun 03, 2019 4:03:34 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/cs3217-1819/final-project-cs3217-name.git (master) has no authors specified, using all authors by default.
-Jun 02, 2019 4:05:11 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jun 03, 2019 4:03:34 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/cs3217-1819/final-project-cs3217-name.git (master)...
-Jun 02, 2019 4:05:11 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jun 03, 2019 4:03:34 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/cs3217-1819/final-project-cs3217-name.git (master)...
-Jun 02, 2019 4:05:11 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jun 03, 2019 4:03:34 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/cs3217-1819/final-project-cs3217-name.git (master)...
-Jun 02, 2019 4:05:14 AM reposense.report.ReportGenerator analyzeRepo
+Jun 03, 2019 4:03:36 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/cs3217-1819/final-project-cs3217-name.git (master) completed!
-Jun 02, 2019 4:05:14 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:36 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-dash.git to complete...
-Jun 02, 2019 4:05:14 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:36 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/cs3217-1819/final-project-dash.git completed!
-Jun 02, 2019 4:05:14 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:36 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git...
-Jun 02, 2019 4:05:14 AM reposense.report.ReportGenerator analyzeRepos
+Jun 03, 2019 4:03:36 AM reposense.report.ReportGenerator analyzeRepos
 INFO: Analyzing https://github.com/cs3217-1819/final-project-dash.git (master)...
-Jun 02, 2019 4:05:14 AM reposense.report.ReportGenerator updateRepoConfig
+Jun 03, 2019 4:03:37 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/cs3217-1819/final-project-dash.git (master) does not contain a standalone config file.
-Jun 02, 2019 4:05:14 AM reposense.report.ReportGenerator updateAuthorList
+Jun 03, 2019 4:03:37 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/cs3217-1819/final-project-dash.git (master) has no authors specified, using all authors by default.
-Jun 02, 2019 4:05:14 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jun 03, 2019 4:03:37 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/cs3217-1819/final-project-dash.git (master)...
-Jun 02, 2019 4:05:14 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jun 03, 2019 4:03:37 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/cs3217-1819/final-project-dash.git (master)...
-Jun 02, 2019 4:05:14 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jun 03, 2019 4:03:37 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/cs3217-1819/final-project-dash.git (master)...
-Jun 02, 2019 4:05:15 AM reposense.report.ReportGenerator analyzeRepo
+Jun 03, 2019 4:03:38 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/cs3217-1819/final-project-dash.git (master) completed!
-Jun 02, 2019 4:05:15 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:38 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git to complete...
-Jun 02, 2019 4:05:16 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:38 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git completed!
-Jun 02, 2019 4:05:16 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:38 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git...
-Jun 02, 2019 4:05:16 AM reposense.report.ReportGenerator analyzeRepos
+Jun 03, 2019 4:03:38 AM reposense.report.ReportGenerator analyzeRepos
 INFO: Analyzing https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master)...
-Jun 02, 2019 4:05:16 AM reposense.report.ReportGenerator updateRepoConfig
+Jun 03, 2019 4:03:38 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master) does not contain a standalone config file.
-Jun 02, 2019 4:05:16 AM reposense.report.ReportGenerator updateAuthorList
+Jun 03, 2019 4:03:38 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master) has no authors specified, using all authors by default.
-Jun 02, 2019 4:05:16 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jun 03, 2019 4:03:38 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master)...
-Jun 02, 2019 4:05:17 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jun 03, 2019 4:03:39 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master)...
-Jun 02, 2019 4:05:17 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jun 03, 2019 4:03:39 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master)...
-Jun 02, 2019 4:05:20 AM reposense.report.ReportGenerator analyzeRepo
+Jun 03, 2019 4:03:42 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/cs3217-1819/final-project-cs3217-sailingthroughhistory.git (master) completed!
-Jun 02, 2019 4:05:20 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:42 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git to complete...
-Jun 02, 2019 4:05:20 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:42 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Cloning of https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git completed!
-Jun 02, 2019 4:05:20 AM reposense.report.RepoCloner spawnCloneProcess
+Jun 03, 2019 4:03:42 AM reposense.report.RepoCloner spawnCloneProcess
 INFO: Cloning in parallel from https://github.com/cs3217-1819/final-project-kickback.git...
-Jun 02, 2019 4:05:20 AM reposense.report.ReportGenerator analyzeRepos
+Jun 03, 2019 4:03:42 AM reposense.report.ReportGenerator analyzeRepos
 INFO: Analyzing https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master)...
-Jun 02, 2019 4:05:20 AM reposense.report.ReportGenerator updateRepoConfig
+Jun 03, 2019 4:03:42 AM reposense.report.ReportGenerator updateRepoConfig
 INFO: https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master) does not contain a standalone config file.
-Jun 02, 2019 4:05:20 AM reposense.report.ReportGenerator updateAuthorList
+Jun 03, 2019 4:03:42 AM reposense.report.ReportGenerator updateAuthorList
 INFO: https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master) has no authors specified, using all authors by default.
-Jun 02, 2019 4:05:20 AM reposense.commits.CommitInfoExtractor extractCommitInfos
+Jun 03, 2019 4:03:42 AM reposense.commits.CommitInfoExtractor extractCommitInfos
 INFO: Extracting commits info for https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master)...
-Jun 02, 2019 4:05:20 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
+Jun 03, 2019 4:03:43 AM reposense.commits.CommitInfoAnalyzer analyzeCommits
 INFO: Analyzing commits info for https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master)...
-Jun 02, 2019 4:05:20 AM reposense.authorship.FileInfoExtractor extractFileInfos
+Jun 03, 2019 4:03:43 AM reposense.authorship.FileInfoExtractor extractFileInfos
 INFO: Extracting relevant file info from https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master)...
-Jun 02, 2019 4:05:21 AM reposense.report.ReportGenerator analyzeRepo
+Jun 03, 2019 4:03:44 AM reposense.report.ReportGenerator analyzeRepo
 INFO: Analysis of https://github.com/cs3217-1819/final-project-cs3217-crispybacon.git (master) completed!
-Jun 02, 2019 4:05:21 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:44 AM reposense.report.RepoCloner waitForCloneProcess
 INFO: Waiting for cloning of https://github.com/cs3217-1819/final-project-kickback.git to complete...
-Jun 02, 2019 4:05:21 AM reposense.report.RepoCloner waitForCloneProcess
+Jun 03, 2019 4:03:44 AM reposense.report.RepoCloner waitForCloneProcess
 WARNING: Exception met while trying to clone the repo, will skip this repo.
 reposense.system.CommandRunnerProcessException: Error returned from command git clone "https://github.com/cs3217-1819/final-project-kickback.git"on path repos/cs3217-1819_final-project-kickback :
 Cloning into 'final-project-kickback'...
@@ -116,5 +116,5 @@ fatal: Authentication failed for 'https://github.com/cs3217-1819/final-project-k
 	at reposense.report.ReportGenerator.generateReposReport(ReportGenerator.java:78)
 	at reposense.RepoSense.main(RepoSense.java:60)
 
-Jun 02, 2019 4:05:22 AM reposense.report.ReportGenerator generateReposReport
+Jun 03, 2019 4:03:44 AM reposense.report.ReportGenerator generateReposReport
 INFO: The report is generated at /home/travis/build/cs3217-ay1819s2-instructors/dashboard/reposense-report
