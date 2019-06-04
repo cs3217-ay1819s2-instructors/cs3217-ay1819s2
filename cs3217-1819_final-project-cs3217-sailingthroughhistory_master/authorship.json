@@ -44296,9 +44296,9 @@
       {
         "lineNumber": 11,
         "author": {
-          "gitId": "Jason Chong"
+          "gitId": "yuhongherald"
         },
-        "content": "protocol UILightningView: UIView {"
+        "content": "protocol UILightningView { //: UIView"
       },
       {
         "lineNumber": 12,
@@ -44526,7 +44526,8 @@
       }
     ],
     "authorContributionMap": {
-      "Jason Chong": 43
+      "Jason Chong": 42,
+      "yuhongherald": 1
     }
   },
   {
