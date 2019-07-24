@@ -8,61 +8,71 @@
         "commitResults": [
           {
             "hash": "1389f439fc3dae420cd58d4cddee3da174f1f6cb",
-            "message": "Use proper inverse r/s in Stall",
+            "messageTitle": "Use proper inverse r/s in Stall",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "02b5c313d00e0107269f3537ed80aa2e8ae789c2",
-            "message": "Fix relationships and add missing fields",
+            "messageTitle": "Fix relationships and add missing fields",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 8
           },
           {
             "hash": "2a47450b109c05872f80233f8b53e29e0f5ec58b",
-            "message": "Implement storing enum as Codable and fix more relationship issue",
+            "messageTitle": "Implement storing enum as Codable and fix more relationship issue",
+            "messageBody": "",
             "insertions": 305,
             "deletions": 331
           },
           {
             "hash": "6696681574e2fd45735517b1db117f0184d9cf8a",
-            "message": "Fix relationship issues in Menu",
+            "messageTitle": "Fix relationship issues in Menu",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 6
           },
           {
             "hash": "288187f38359791e6e8130d7c03ae21322913bc7",
-            "message": "Fix relationships in Order",
+            "messageTitle": "Fix relationships in Order",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 20
           },
           {
             "hash": "a97400c74b9d27882e3edf06b90c924bb1e7de31",
-            "message": "Fix Discount and TimeCondition",
+            "messageTitle": "Fix Discount and TimeCondition",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 8
           },
           {
             "hash": "085b2ff92427afc961de85757291f8109507a54a",
-            "message": "Rename PriceModifiable -\u003e PriceModifier, PriceModifier -\u003e PriceModification",
+            "messageTitle": "Rename PriceModifiable -\u003e PriceModifier, PriceModifier -\u003e PriceModification",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "26d6a50017a209dc9a761ebd37cbf7402174bb3d",
-            "message": "Add FixtureGenerator to AppDelegate",
+            "messageTitle": "Add FixtureGenerator to AppDelegate",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "429445c0e4ead7b348b62f9d25a647bbe393c8ed",
-            "message": "sed s/sharedInstance/shared/g (#8)",
+            "messageTitle": "sed s/sharedInstance/shared/g (#8)",
+            "messageBody": "Resolves #2",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "84519a6817e5b07f7979c57a4fe3af319721a64b",
-            "message": "Add Travis and Swiftlint (#10)",
+            "messageTitle": "Add Travis and Swiftlint (#10)",
+            "messageBody": "* Add swiftlint config\r\n\r\n* Fix swiftlint offences\r\n\r\n* Add travis config\r\n\r\n* Revert \"Upgrade to Swift 5 (#5)\"\r\n\r\nThis reverts commit 3b4ac7d0b349c84e12306a51847c7ee5ac970ce6.\r\n\r\n* Add scheme\r\n\r\n* Solve UI Tests issues\r\n\r\n* Update travis config to use iOS 12.1\r\n\r\n* Attempt to fix travis UI tests breaking\r\n\r\n* Add FRAMEWORK_SEARCH_PATHS to runpath search paths\r\n\r\n* Add platform ios 12.1 to Podfile\r\n\r\n* Disable UI tests\r\n",
             "insertions": 72,
             "deletions": 57
           }
@@ -75,7 +85,8 @@
         "commitResults": [
           {
             "hash": "7a1bd822501d1e3ec1d8682605bc7c42eff081de",
-            "message": "Fix some oversights in Model (#27)",
+            "messageTitle": "Fix some oversights in Model (#27)",
+            "messageBody": "- `PriceModifier` and `PriceModification` had filenames not the same as\r\nthe class\r\n- `MenuCategory` did not include `SetMenuItem`",
             "insertions": 12,
             "deletions": 10
           }
@@ -88,7 +99,8 @@
         "commitResults": [
           {
             "hash": "4e000a7bb9aedba7be0e8afdc61685c185b6a7a2",
-            "message": "Add primary key to all Realm entities (#34)",
+            "messageTitle": "Add primary key to all Realm entities (#34)",
+            "messageBody": "UUID is used as a primary key because it is very unlikely that there will be collision.\r\n\r\nThe number of random version-4 UUIDs which need to be generated in order to have a 50% probability of at least one collision is 2.71 quintillion\r\n",
             "insertions": 89,
             "deletions": 16
           }
@@ -101,19 +113,22 @@
         "commitResults": [
           {
             "hash": "a3fffcc21fb4167fdb967fe9832c65cba095d22d",
-            "message": "Fix non-TODO swiftlint violations (#37)",
+            "messageTitle": "Fix non-TODO swiftlint violations (#37)",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "aa6b2cf001f4aa51daf98db788153f3c65865a30",
-            "message": "Implement partially MenuDetail scene (#36)",
+            "messageTitle": "Implement partially MenuDetail scene (#36)",
+            "messageBody": "* Add MenuDetail using template\r\n\r\n* Add hooks in Menu to route to MenuDetail\r\n\r\n* Add MenuInfo and MenuAddons\r\n\r\n* Setup MenuDetail as a UISplitViewController\r\n\r\n* Pass menuId to child view controllers\r\n\r\n* Set up DI and add getMenuDisplayable to StorageManager\r\n\r\n* Disable wrong first_where swiftlint rule\r\n\r\n* Implement MenuInfo scene\r\n\r\n* Add price to MenuInfo scene\r\n\r\n* Prevents deselection of stall when going back\r\n\r\n* Set MenuInfo to be half the splitview\r\n\r\n* Use casting to NSNumber\r\n\r\n* Add standard value padding in constraints\r\n\r\n* Fix according to review\r\n",
             "insertions": 805,
             "deletions": 9
           },
           {
             "hash": "b721cf935e8159e426ad678eaccfbe515913b63a",
-            "message": "Fix bug in Menu where some cells would disappear (#41)",
+            "messageTitle": "Fix bug in Menu where some cells would disappear (#41)",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 15
           }
@@ -126,7 +141,8 @@
         "commitResults": [
           {
             "hash": "cf8fa80c4aee8bc7ea8390294638f54e12f7da15",
-            "message": "Remove some boilerplates (#39)",
+            "messageTitle": "Remove some boilerplates (#39)",
+            "messageBody": "* Remove some boilterplates\r\n\r\n* Remove more boilerplate code\r\n",
             "insertions": 13,
             "deletions": 299
           }
@@ -139,7 +155,8 @@
         "commitResults": [
           {
             "hash": "e0bf7201f0b3e22f207c538d756f618d3fdc3bcc",
-            "message": "Implement MenuAddons (options without addons) (#42)",
+            "messageTitle": "Implement MenuAddons (options without addons) (#42)",
+            "messageBody": "* Add MenuDetail using template\r\n\r\n* Add hooks in Menu to route to MenuDetail\r\n\r\n* Add MenuInfo and MenuAddons\r\n\r\n* Setup MenuDetail as a UISplitViewController\r\n\r\n* Pass menuId to child view controllers\r\n\r\n* Set up DI and add getMenuDisplayable to StorageManager\r\n\r\n* Disable wrong first_where swiftlint rule\r\n\r\n* Implement MenuInfo scene\r\n\r\n* Add price to MenuInfo scene\r\n\r\n* Prevents deselection of stall when going back\r\n\r\n* Set MenuInfo to be half the splitview\r\n\r\n* Use casting to NSNumber\r\n\r\n* Add standard value padding in constraints\r\n\r\n* Fix according to review\r\n\r\n* Add DI and retrieve MenuDisplayable\r\n\r\n* Add reset button\r\n\r\n* Add options to MenuDisplayable\r\n\r\n* Implement MenuAddonsFooterView\r\n\r\n* Implement tableView section titles\r\n\r\n* Implement collection view cell for choices\r\n\r\n* Implement default value\r\n\r\n* Stub quantity options interface\r\n\r\n* Create OptionValue struct to store MenuItemOption and its associated OrderItemOptionValue\r\n\r\n* Implement the RESET button\r\n\r\n* Add more menu items in FixtureGenerator for testing\r\n\r\n* Implement the whole VIP loop\r\n\r\n* Move price from MenuItemOption inside the MenuItemOptionType\r\n\r\n* Fix typo\r\n\r\n* Show total price in MenuAddonsFooterView\r\n\r\n* Remove boilerplate\r\n\r\n* Add TODO\r\n\r\n* Fix reset button\r\n\r\n* Prevent UITableView from jumping around on reloadData\r\n\r\n* Change layout to follow @hzxcaryn mockup\r\n\r\n* Remove useless unwrapping\r\n\r\n* Fix according to code review\r\n\r\n* Turn the footerView to have absolute height\r\n",
             "insertions": 685,
             "deletions": 84
           }
@@ -152,19 +169,22 @@
         "commitResults": [
           {
             "hash": "601d77c6f6f4340d03a5dc60e73bb8067a6bcaad",
-            "message": "Add reset button for each section in MenuAddons (#46)",
+            "messageTitle": "Add reset button for each section in MenuAddons (#46)",
+            "messageBody": "* Add reset button for each section\r\n\r\n* Fix layout problem in MenuAddonsTableViewHeaderView\r\n",
             "insertions": 91,
             "deletions": 1
           },
           {
             "hash": "097c802178de05be28350edc86d947df007c118e",
-            "message": "Refactor MenuAddons such that UIView is not a datasource (#47)",
+            "messageTitle": "Refactor MenuAddons such that UIView is not a datasource (#47)",
+            "messageBody": "* Refactor MenuAddons such that UIView is not a datasource\r\n\r\n* Set UITableView sectionFooterHeight to be 0 to prevent jumping around on reloadData\r\n",
             "insertions": 224,
             "deletions": 225
           },
           {
             "hash": "69461d3d6ac779ed1610615444d6aadcb2c097f2",
-            "message": "Implement extra comment in MenuInfo (#45)",
+            "messageTitle": "Implement extra comment in MenuInfo (#45)",
+            "messageBody": "* Implement extra comment\r\n\r\n* Put the current comment in the UIAlertController\r\n\r\n* Fix according to review\r\n\r\n* Change extra comment to tappable textview\r\n\r\n* Remove useless unwrap\r\n\r\n* Add newlines after each UI component\r\n",
             "insertions": 123,
             "deletions": 12
           }
@@ -177,13 +197,15 @@
         "commitResults": [
           {
             "hash": "a64b3bdeecdf25de5c247e15bb24d4a38c476b7a",
-            "message": "Implement QuantityView and add it to MenuAddons (#49)",
+            "messageTitle": "Implement QuantityView and add it to MenuAddons (#49)",
+            "messageBody": "* Add QuantityView\r\n\r\n* Add QuantityView to MenuAddons\r\n\r\n* Ensure that there is text in quantityLabel\r\n\r\n* Make quantity of stuffs be at least 0\r\n\r\n* Add titleLabel in QuantityView\r\n",
             "insertions": 168,
             "deletions": 4
           },
           {
             "hash": "af0bb2460bd974af5179ef25ab69da792ce9dad2",
-            "message": " Implement quantity for the whole OrderItem itself in MenuAddons  (#50)",
+            "messageTitle": " Implement quantity for the whole OrderItem itself in MenuAddons  (#50)",
+            "messageBody": "* Add QuantityView\r\n\r\n* Add QuantityView to MenuAddons\r\n\r\n* Ensure that there is text in quantityLabel\r\n\r\n* Make quantity of stuffs be at least 0\r\n\r\n* Add titleLabel in QuantityView\r\n\r\n* Implement quantity for the whole Order itself in MenuAddons\r\n",
             "insertions": 34,
             "deletions": 5
           }
@@ -196,7 +218,8 @@
         "commitResults": [
           {
             "hash": "47a34743541de0dada6ca615f4eacb8ca26de490",
-            "message": "Change multiple choice to use index and add checkRep (#53)",
+            "messageTitle": "Change multiple choice to use index and add checkRep (#53)",
+            "messageBody": "* Change OrderItemOptionValue to store index\r\n\r\nAlso add checkRep to ensure that index is not out of bounds\r\n\r\n* Adjust Scenes to use index instead of string itself\r\n",
             "insertions": 113,
             "deletions": 63
           }
@@ -209,13 +232,15 @@
         "commitResults": [
           {
             "hash": "a425be4a1992f7730d462d1a4dba2568f6173e4c",
-            "message": "Add checkbox case in Option to allow for multiple selections (#54)",
+            "messageTitle": "Add checkbox case in Option to allow for multiple selections (#54)",
+            "messageBody": "* Add checkbox to Option\r\n\r\n* Implement checkbox in IP\r\n\r\n* Implement multiselect in MenuAddons Scene\r\n\r\n* s/checkbox/multipleResponse/g\r\n\r\n* Fix hax\r\n\r\n* Remove commented out code\r\n",
             "insertions": 90,
             "deletions": 36
           },
           {
             "hash": "20a49a3c619ea8752065868f993e6f89665d4e6c",
-            "message": "Implement addons in MenuAddons (#56)",
+            "messageTitle": "Implement addons in MenuAddons (#56)",
+            "messageBody": "* Add checkbox to Option\r\n\r\n* Implement checkbox in IP\r\n\r\n* Implement multiselect in MenuAddons Scene\r\n\r\n* s/checkbox/multipleResponse/g\r\n\r\n* Fix hax\r\n\r\n* Add supporting fixtures in Models for AddOns\r\n\r\n* Add addOns to MenuAddonsInteractor\r\n\r\n* Implement Addons VIP cycle\r\n",
             "insertions": 84,
             "deletions": 25
           }
@@ -228,13 +253,15 @@
         "commitResults": [
           {
             "hash": "e6c851cfcf9b25d1001448e70a12a7140cd4d5ae",
-            "message": "Add ShoppingCart Dependency (#60)",
+            "messageTitle": "Add ShoppingCart Dependency (#60)",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 0
           },
           {
             "hash": "0418d79725e030508454a656c83eaec1f4977b9e",
-            "message": "Implement interscene mediator and make add button work in MenuAddons (#61)",
+            "messageTitle": "Implement interscene mediator and make add button work in MenuAddons (#61)",
+            "messageBody": "",
             "insertions": 147,
             "deletions": 35
           }
@@ -247,13 +274,15 @@
         "commitResults": [
           {
             "hash": "427e9927bedcf70296718572696039ab6931fd79",
-            "message": "Implement editing in MenuInfo (#71)",
+            "messageTitle": "Implement editing in MenuInfo (#71)",
+            "messageBody": "* Add isEditable\r\n\r\n* Allow editing of details\r\n\r\n* Implement editing menu item name\r\n\r\n* Allow editing of price\r\n\r\n* Fix crash and unreadable price\r\n\r\n* Fix crashing in MenuAddons\r\n\r\n* s/weak self/unowned self/g\r\n",
             "insertions": 293,
             "deletions": 75
           },
           {
             "hash": "bef5a2281797eb26af4831ed9c1ca56c9765d242",
-            "message": "Allow to add more choices on multipleChoice and multipleResponse (#76)",
+            "messageTitle": "Allow to add more choices on multipleChoice and multipleResponse (#76)",
+            "messageBody": "",
             "insertions": 171,
             "deletions": 27
           }
@@ -266,67 +295,78 @@
         "commitResults": [
           {
             "hash": "7491c7165628c161f007ba6b6c63a5e3b2dbdc2a",
-            "message": "\"Implement\" adding addons in MenuAddons (#80)",
+            "messageTitle": "\"Implement\" adding addons in MenuAddons (#80)",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 5
           },
           {
             "hash": "f8cdf390f0de3154994131eac264b7dfc7bbfd92",
-            "message": "Implement adding new option (#79)",
+            "messageTitle": "Implement adding new option (#79)",
+            "messageBody": "",
             "insertions": 247,
             "deletions": 37
           },
           {
             "hash": "d0cf1c834fc50e4023af58f8a9c358c9e935d48f",
-            "message": "Allow reordering of options (#81)",
+            "messageTitle": "Allow reordering of options (#81)",
+            "messageBody": "",
             "insertions": 109,
             "deletions": 29
           },
           {
             "hash": "042d645c737e8a4a4f22d7b3eaf7a30731cfa3f9",
-            "message": "Implement reordering of choices via drag-drop gesture (#83)",
+            "messageTitle": "Implement reordering of choices via drag-drop gesture (#83)",
+            "messageBody": "",
             "insertions": 139,
             "deletions": 19
           },
           {
             "hash": "3f120252aeaa16a0a58cd2400712224d389aafe3",
-            "message": "Allow nil as menuId to MenuDetail to create new menu item (#96)",
+            "messageTitle": "Allow nil as menuId to MenuDetail to create new menu item (#96)",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 6
           },
           {
             "hash": "f27f4f1774b2e8fb6deb74c446a4ddf0405004f8",
-            "message": "Add tests for MenuInfoInteractor (#95)",
+            "messageTitle": "Add tests for MenuInfoInteractor (#95)",
+            "messageBody": "",
             "insertions": 206,
             "deletions": 0
           },
           {
             "hash": "a5a666d20a0312dfc4b90be772df11e6a923e08a",
-            "message": "Fix MenuAddons\u0027 reset logic (#97)",
+            "messageTitle": "Fix MenuAddons\u0027 reset logic (#97)",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "3707afd7ccbcbc74365bf2e0f24c696a3989fa79",
-            "message": "Prevent drag-drop to reorder to after the plus button in MenuAddons (#99)",
+            "messageTitle": "Prevent drag-drop to reorder to after the plus button in MenuAddons (#99)",
+            "messageBody": "Otherwise, it will crash the app since the plus button indexpath is out of bound of the choices array",
             "insertions": 14,
             "deletions": 3
           },
           {
             "hash": "ff3ec452f4ceda755bec6a5d54af75073ea63c7c",
-            "message": "Hide add button in editable MenuAddons (#98)",
+            "messageTitle": "Hide add button in editable MenuAddons (#98)",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "e6ea26737a9f2b7d1b05313c9e3d4bbda1b1c2e0",
-            "message": "Hide tap area white color (#102)",
+            "messageTitle": "Hide tap area white color (#102)",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 8
           },
           {
             "hash": "39ba71916f86b5367dd6fd89592f30dccbbfd0df",
-            "message": "Implement deleting choice in editable MenuAddons (#101)",
+            "messageTitle": "Implement deleting choice in editable MenuAddons (#101)",
+            "messageBody": "Done by double-tapping.\r\n\r\nIn editable mode, double-tapping must fail first before single-tapping is recognised, hence the delay.\r\n\r\nHowever, in non-editable mode, this feature is disabled hence there is no delay.\r\n\r\nAlso fixes the bug where in non-editable mode, the user is able to reorder option",
             "insertions": 118,
             "deletions": 4
           }
@@ -339,7 +379,8 @@
         "commitResults": [
           {
             "hash": "591ca1e730b1b490ff41fcf7214b90c886bf1321",
-            "message": "Fix tests (#105)",
+            "messageTitle": "Fix tests (#105)",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 0
           }
@@ -354,79 +395,92 @@
         "commitResults": [
           {
             "hash": "fd1c02f4694904df4b7a369500040409d28261fe",
-            "message": "Add basic realm models",
+            "messageTitle": "Add basic realm models",
+            "messageBody": "",
             "insertions": 594,
             "deletions": 0
           },
           {
             "hash": "85755bf176424f9756a87caaf6fc22c58299410e",
-            "message": "Lint files, update workspace to contain new files",
+            "messageTitle": "Lint files, update workspace to contain new files",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 28
           },
           {
             "hash": "24fbe708dc74741c9a266bb35e050af7a6138bb5",
-            "message": "Move common models into /Models directory",
+            "messageTitle": "Move common models into /Models directory",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "52f73ae83e5bc8e92a5aab6e3d13775cef13308c",
-            "message": "Add DiscountCoverage enum + Make Discount class a realm model",
+            "messageTitle": "Add DiscountCoverage enum + Make Discount class a realm model",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 3
           },
           {
             "hash": "4d023bb2bc91eeb4da83916b16512b58ac78702f",
-            "message": "Fix improper return of enum with associated values",
+            "messageTitle": "Fix improper return of enum with associated values",
+            "messageBody": "Make internal state variables private\n",
             "insertions": 41,
             "deletions": 15
           },
           {
             "hash": "1bdb2084ff1e7813e5a978c5fffa10536e9201f6",
-            "message": "Make the _price internal state variable private",
+            "messageTitle": "Make the _price internal state variable private",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5a436f0803c5b9137b5bfe0004254e79f4220736",
-            "message": "Add addDiscount method to establishment model",
+            "messageTitle": "Add addDiscount method to establishment model",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "822cdf6db1a1fbdc5feeadcbd2f4f96443032dd7",
-            "message": "Add addDiscount method to stall model",
+            "messageTitle": "Add addDiscount method to stall model",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 0
           },
           {
             "hash": "4dbcd1277c33a21472e8f9e60d57493b0b74b6b5",
-            "message": "Add addDiscount method to IndividualMenuItem model",
+            "messageTitle": "Add addDiscount method to IndividualMenuItem model",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 0
           },
           {
             "hash": "b850cce1148b5ced92a0d663aca73bbf220041ff",
-            "message": "Add inverse relationship from stall model to establishment model",
+            "messageTitle": "Add inverse relationship from stall model to establishment model",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "ea3488dc284998ba28bf35ba91cff91c6b1363ea",
-            "message": "Fix concatenation of arrays of type MenuDisplayable",
+            "messageTitle": "Fix concatenation of arrays of type MenuDisplayable",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "64776212d833901e0a77a8966a7b786c4dc7f715",
-            "message": "Remove discount coverage enum",
+            "messageTitle": "Remove discount coverage enum",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 20
           },
           {
             "hash": "cffac96c200df79f14c3ca4ed802062bd53196e1",
-            "message": "WIP Update Fixture Generator to work with model updates",
+            "messageTitle": "WIP Update Fixture Generator to work with model updates",
+            "messageBody": "",
             "insertions": 125,
             "deletions": 135
           }
@@ -441,13 +495,15 @@
         "commitResults": [
           {
             "hash": "a4e47127d416b823a2591634eae8600056141729",
-            "message": "Add Order Confirmation scene VIP boilerplate (#11)",
+            "messageTitle": "Add Order Confirmation scene VIP boilerplate (#11)",
+            "messageBody": "",
             "insertions": 186,
             "deletions": 0
           },
           {
             "hash": "719b3bafbacb8009e8cfb263ee7d54e3f02f7dea",
-            "message": "Add seed data to fixtures + Refactor Fixture Generator (#12)",
+            "messageTitle": "Add seed data to fixtures + Refactor Fixture Generator (#12)",
+            "messageBody": "* Add convenience init to create new Customer with id\r\n\r\n* Add menu item options and refactor Fixture Generator\r\n\r\n* Remove unnecessary realm reference from methods\r\n",
             "insertions": 142,
             "deletions": 48
           }
@@ -460,7 +516,8 @@
         "commitResults": [
           {
             "hash": "6c6cd4800af2b8b7c1079bb04859535c60c2f9fe",
-            "message": "Order confirmation logic setup (#16)",
+            "messageTitle": "Order confirmation logic setup (#16)",
+            "messageBody": "* Create models for a Bill entity\r\n\r\n* Add OrderToBill processor\r\n\r\n* Add bill optimizer \u0026 protocol\r\n\r\n* Update scene with new methods to connect VC, I \u0026 P\r\n\r\n* Rename processUncreatedOrder to generateBill \u0026 use .first instead of [0]\r\n",
             "insertions": 119,
             "deletions": 3
           }
@@ -473,7 +530,8 @@
         "commitResults": [
           {
             "hash": "64e15a59c6acdbd86f6b6dc083b5c2b3fab160c0",
-            "message": "Update bill computation and add fixtures (#23)",
+            "messageTitle": "Update bill computation and add fixtures (#23)",
+            "messageBody": "* Add discounts to features + Remove unnessary classes\r\n\r\n* Update bill models to compute discounts\r\n\r\n* Update bill computation process\r\n\r\n* Fix logic in bill item\r\n\r\n* Simplify formula for rounding\r\n\r\n* Refactor isEmpty logic when picking best bill item\r\n\r\n* Remove redundant cast to array\r\n\r\n* Fix bugs + make changes to toAbsolute method\r\n\r\n* Remove rounder from price modifier protocol + bugs\r\n",
             "insertions": 170,
             "deletions": 66
           }
@@ -486,19 +544,22 @@
         "commitResults": [
           {
             "hash": "f0ca432631044c5f7b55c54953abb8c0ead10b90",
-            "message": "Order confirmation view (#31)",
+            "messageTitle": "Order confirmation view (#31)",
+            "messageBody": "* Add placeholder image ui display\r\n\r\n* Update ViewModel containing OrderConfirmation data\r\n\r\n* Add orderConfirmationItemCellIdentifier to global\r\n\r\n* Add table view cell and containing UI elements\r\n\r\n* Update OrderConfirmation scene to display viewmodel\r\n\r\n* Update didSet to getters and setters in UIViews\r\n\r\n* Fix setters to assign with newValue\r\n\r\n* Rename constraint setting funcs-makeConfigurations\r\n\r\n* Extract constants to config.swift\r\n\r\nFix didSet to get and set for discount and optionsaddon view\r\n\r\n* Rename + Refactor methods common to views\r\n\r\n* Refactor UI config to be with UIView upon init\r\n\r\n* Change interactor to not accept order as parameter\r\n\r\n* Refactor code\r\n\r\nCreated subviews from view\r\nIntegrated item view into cell view\r\nRemoved reusable identifier from constants file\r\n\r\n* Remove quantity view from cell, minor code refactor\r\n",
             "insertions": 945,
             "deletions": 28
           },
           {
             "hash": "06cda68d771532a3d499c164d674f66d424fc939",
-            "message": "Extract protocol from orderItem (#64)",
+            "messageTitle": "Extract protocol from orderItem (#64)",
+            "messageBody": "* Extract protocol from orderItem\r\n\r\n+ add method for adding addon\r\n\r\n* Remove addons method from OrderItemProtocol\r\n",
             "insertions": 20,
             "deletions": 2
           },
           {
             "hash": "d52f98d0e948a538b9c06b1a36a67476601ffe6b",
-            "message": "Remove rounding from surcharge (#67)",
+            "messageTitle": "Remove rounding from surcharge (#67)",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -511,19 +572,22 @@
         "commitResults": [
           {
             "hash": "2bc86b22e98ad61aa462b8ae49bfbd82509350e3",
-            "message": "Update bill (#66)",
+            "messageTitle": "Update bill (#66)",
+            "messageBody": "* Extract protocol from orderItem\r\n\r\n+ add method for adding addon\r\n\r\n* Remove addons method from OrderItemProtocol\r\n\r\n* Update billItem \u0026 write tests for bill item\r\n\r\n* Extract bill item tests into file in group\r\n\r\n* Update bill + add tests for bill (incomplete)\r\n\r\n* Undo itchy hand\r\n\r\n* Update bill logic + add passing tests\r\n",
             "insertions": 555,
             "deletions": 19
           },
           {
             "hash": "e8b35a92454fadfa9f31424b5dfba8720b91e83f",
-            "message": "Add establishment\u0027s surcharges to model (#68)",
+            "messageTitle": "Add establishment\u0027s surcharges to model (#68)",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "4a3194a13fe51665471e2eb4551852592d0a1411",
-            "message": "Update order to bill processor with tests to ensure correctness (#72)",
+            "messageTitle": "Update order to bill processor with tests to ensure correctness (#72)",
+            "messageBody": "",
             "insertions": 430,
             "deletions": 61
           }
@@ -538,7 +602,8 @@
         "commitResults": [
           {
             "hash": "0bfe8f745b2bf6f47f5fee82fdc4a0bec1ef026f",
-            "message": "Make mediator optional for menu and stall list (#26)",
+            "messageTitle": "Make mediator optional for menu and stall list (#26)",
+            "messageBody": "* Make stall list mediator optional\r\n\r\n* Remove overloaded init\r\n\r\n* Make menu mediator optional\r\n",
             "insertions": 12,
             "deletions": 12
           }
@@ -551,7 +616,8 @@
         "commitResults": [
           {
             "hash": "f537879bc155688d7a9f79d52cc1e1c3f655e92a",
-            "message": "Base code for admin screens (#19)",
+            "messageTitle": "Base code for admin screens (#19)",
+            "messageBody": "* Add empty login screen\r\n\r\n* Add admin login screen and empty stall root view\r\n\r\n* Fix constraints conflicts\r\n\r\n* Add kitchen backlog base code\r\n\r\n* Add empty admin settings\r\n\r\n* Add empty establishment screens\r\n\r\n* Refactor code\r\n\r\n* Fix kitchen backlog\r\n\r\n* Take out constants\r\n\r\n* Fix linter\r\n\r\n* Change constants struct to enum\r\n\r\n* Fix typo\r\n\r\n* Make kitchen backlog data source a separate class\r\n\r\n* Move data source out of order view\r\n\r\n* Change to collectionVC and add placeholder clock view\r\n\r\n* Remove empty file\r\n\r\n* Change access level of data sources and remove redundant number sections\r\n\r\n* Fix clock layout\r\n\r\n* Fix ugly indentation\r\n\r\n* Fix init of StallListVC and MenuVC\r\n",
             "insertions": 1905,
             "deletions": 1
           }
@@ -564,13 +630,15 @@
         "commitResults": [
           {
             "hash": "a9a4bfb714a4afd6f833f047d571418ea845985b",
-            "message": "Change SLVC to have different cells for customer and establishment screens (#30)",
+            "messageTitle": "Change SLVC to have different cells for customer and establishment screens (#30)",
+            "messageBody": "* Change stall list to collection view with customer and establishment cells\r\n\r\n* Delete will also delete from storage\r\n\r\n* Move stall list to common\r\n\r\n* Remove override of shouldSelectItemAt\r\n\r\n* Remove redundant enabling of user interaction for cells\r\n\r\n* Use Type Inferred Context for UIFont\r\n\r\n* Present Settings as a form sheet\r\n\r\n* Change initcoder to call super\r\n\r\n* Change guard to if-else for clarity\r\n\r\n* Move button customisations inside declaration\r\n\r\n* Fix init in slvc\r\n\r\n* Rearrange constraint code for views\r\n\r\n* Add TODO for failed to delete tell user\r\n\r\n* Standardise on configure constraints naming\r\n",
             "insertions": 445,
             "deletions": 131
           },
           {
             "hash": "25d92bc73c849d6331a7729dc4fe26f113a78fac",
-            "message": "Add computed properties that is useful for kitchen backlog (#35)",
+            "messageTitle": "Add computed properties that is useful for kitchen backlog (#35)",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 0
           }
@@ -583,7 +651,8 @@
         "commitResults": [
           {
             "hash": "e14fa2ecfafbd770d514f8ea75fe6948b718590f",
-            "message": "Implement Kitchen backlog (#43)",
+            "messageTitle": "Implement Kitchen backlog (#43)",
+            "messageBody": "* Partially implement kitchen backlog\r\n\r\n* Decouple kitchen backlog from order\r\n\r\n* Add interscene mediator\r\n\r\n* Transfer Order constants away from KitchenBacklogConstants\r\n\r\n* Reformat item cell layout\r\n\r\n* Clean up\r\n\r\n* Improve organisation\r\n\r\n* Move order header into KitchenBacklog\r\n\r\n* Style buttons and set cell background color\r\n\r\n* Rename stack view variables\r\n\r\n* Add options into backlog\r\n\r\n* Add more fixtures\r\n\r\n* Fix quantity\r\n\r\n* Fix disappearing cell content bug\r\n\r\n* Fix according to review\r\n\r\n* Change cell dequeuing code for kitchen backlog\r\n\r\n* Fix typo\r\n\r\n* Fix according to more reviews\r\n",
             "insertions": 1173,
             "deletions": 371
           }
@@ -596,7 +665,8 @@
         "commitResults": [
           {
             "hash": "3dc007ffa53954c303ca518bc18bb2996d0caf39",
-            "message": "Add checkbox/multiresponse options for order scene (#57)",
+            "messageTitle": "Add checkbox/multiresponse options for order scene (#57)",
+            "messageBody": "* Implement multiple response option\r\n\r\n* Remove extra newline from empty choices\r\n",
             "insertions": 16,
             "deletions": 6
           }
@@ -609,13 +679,15 @@
         "commitResults": [
           {
             "hash": "268a6470266c2067fd9472cf597588c0729f8700",
-            "message": "UIColor extension and edit kitchen backlog interface UI (#70)",
+            "messageTitle": "UIColor extension and edit kitchen backlog interface UI (#70)",
+            "messageBody": "* Add UIColor extension\r\n\r\n* Add another purple tone\r\n\r\n* Apply colors to kitchen backlog\r\n\r\n* Minor aesthetic changes to kitchen backlog\r\n",
             "insertions": 70,
             "deletions": 21
           },
           {
             "hash": "4250c28fe304a8de231cd72745972a891939c944",
-            "message": "Add timer to each order in kitchen backlog (#63)",
+            "messageTitle": "Add timer to each order in kitchen backlog (#63)",
+            "messageBody": "* Add timer\r\n\r\n* Rename function to get new order view controller\r\n\r\n* Fix missing timer during first 1 second upon refresh\r\n\r\n* Move out timer to kitchenVC\r\n\r\n* Edit according to code review\r\n",
             "insertions": 124,
             "deletions": 17
           }
@@ -628,19 +700,22 @@
         "commitResults": [
           {
             "hash": "6caf56a52aaab33e46198fb4d292a679f746a35f",
-            "message": "Ui customisation (#73)",
+            "messageTitle": "Ui customisation (#73)",
+            "messageBody": "* Rename corner radius constant\r\n\r\n* Edit stall list colors and fonts\r\n\r\n* Style menu\r\n\r\n* Style menu add ons\r\n\r\n* Style menu info\r\n\r\n* Splash screen colors\r\n\r\n* Edit Login colors\r\n\r\n* Style qty view\r\n\r\n* Edit menu detail split view fraction\r\n",
             "insertions": 87,
             "deletions": 47
           },
           {
             "hash": "a7c10cfb30ce66fde3c0200b054714f4fad30bff",
-            "message": "Add clock view in kitchen backlog (#74)",
+            "messageTitle": "Add clock view in kitchen backlog (#74)",
+            "messageBody": "* Implement clock view\r\n\r\n* Prevent expensive formatters from being created every second\r\n\r\n* Revert \"Prevent expensive formatters from being created every second\"\r\n\r\nThis reverts commit 1378087ab749a8f1dd95d04126df701f14300ae6.\r\n",
             "insertions": 64,
             "deletions": 12
           },
           {
             "hash": "645b965f403232aa118b6e37602b7798eedd3005",
-            "message": "Implement custom alert VC (#78)",
+            "messageTitle": "Implement custom alert VC (#78)",
+            "messageBody": "* Add boilerplate\r\n\r\n* Implement custom alert\r\n\r\n* Present alert as overlay\r\n\r\n* Apply error to stall view\r\n\r\n* Add sad cat assets\r\n\r\n* Fix according to review\r\n\r\nCo-Authored-By: hzxcaryn \u003cheng.zhixuan.caryn@dhs.sg\u003e\r\n",
             "insertions": 365,
             "deletions": 5
           }
@@ -653,25 +728,29 @@
         "commitResults": [
           {
             "hash": "c3fa8978c35cb87957798140171cccdb661a41d1",
-            "message": "Fix wrong font size constants fed in (#84)",
+            "messageTitle": "Fix wrong font size constants fed in (#84)",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "dde2efd9c3e1941c785f81833b046fc66fa1f31c",
-            "message": "Implement simple access control with login flow (#82)",
+            "messageTitle": "Implement simple access control with login flow (#82)",
+            "messageBody": "* Add models\r\n\r\n* Add fixtures\r\n\r\n* Add simple auth manager\r\n\r\n* Add login flow\r\n\r\n* Fix authManager in DI\r\n\r\n* Add todos\r\n\r\n* Implement login error UI\r\n\r\n* Disable view controller restoration for stall and est roots\r\n\r\n* Pass stall/est IDs from Login to roots\r\n\r\n* Implement stall root logout\r\n\r\n* Implement est root logout\r\n\r\n* Abstract out AuthManager protocol\r\n\r\n* Implement password hash stub\r\n\r\n* Auto focus username field on appear, and login on enter in password field\r\n\r\n* Remove unused constant\r\n\r\n* Store stall id and est id in AccessControl instead of Stall and Establishment\r\n\r\n* Fix useless typecasts\r\n\r\n* Update NAME/Models/Access Control/Account.swift\r\n",
             "insertions": 502,
             "deletions": 126
           },
           {
             "hash": "3fe6f141b11ada06bac1f508ca893c53104c91d8",
-            "message": "Actual admin stall list and menu (#87)",
+            "messageTitle": "Actual admin stall list and menu (#87)",
+            "messageBody": "* Add getters to storage manager\r\n\r\n* Actual establishment stall list\r\n\r\n* Show first est to customers\r\n\r\n* Actual admin menu",
             "insertions": 104,
             "deletions": 30
           },
           {
             "hash": "1f294b17e4389d7f2f04e7e0a290b6233325d215",
-            "message": "Implement admin settings (#94)",
+            "messageTitle": "Implement admin settings (#94)",
+            "messageBody": "",
             "insertions": 517,
             "deletions": 55
           }
@@ -686,25 +765,29 @@
         "commitResults": [
           {
             "hash": "ed1ac53c651e17371f8f1cff618fc8cfcd2bf56e",
-            "message": "Initial commit",
+            "messageTitle": "Initial commit",
+            "messageBody": "",
             "insertions": 134,
             "deletions": 0
           },
           {
             "hash": "0d810ba2b4157a6f4998cb7021c8bd026ef846c5",
-            "message": "Add unused splash and customer root scenes",
+            "messageTitle": "Add unused splash and customer root scenes",
+            "messageBody": "",
             "insertions": 578,
             "deletions": 0
           },
           {
             "hash": "63c67cdb74d486003d296b8ce321c4a7365f6ff6",
-            "message": "Add SnapKit dep, remove Main.storyboard, and fix build",
+            "messageTitle": "Add SnapKit dep, remove Main.storyboard, and fix build",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 20
           },
           {
             "hash": "73d68cc92239ec1e8c9407c37621a3c2dc787e82",
-            "message": "Implement splash screen",
+            "messageTitle": "Implement splash screen",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 79
           }
@@ -717,31 +800,36 @@
         "commitResults": [
           {
             "hash": "c67a4749efeb65ee6d164fcc0efae63d87476f1b",
-            "message": "Move models out of scenes folder",
+            "messageTitle": "Move models out of scenes folder",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "898db7ef6d7d1ed4191b9d5d89e581f2f825ab7e",
-            "message": "Rename DiscountCoverage to Discount.Coverage",
+            "messageTitle": "Rename DiscountCoverage to Discount.Coverage",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "a5fd052edb5ced293ad3be24ef1ae64474970138",
-            "message": "Fix lint",
+            "messageTitle": "Fix lint",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "258d8eb1b50a2b861902e297334599a59da1ab22",
-            "message": "Make MenuItemOptionType conform to Codable",
+            "messageTitle": "Make MenuItemOptionType conform to Codable",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 1
           },
           {
             "hash": "816a6af55f6b9596b5a724004d1526cd04c39421",
-            "message": "Implement customer root shell view controllers (#9)",
+            "messageTitle": "Implement customer root shell view controllers (#9)",
+            "messageBody": "",
             "insertions": 824,
             "deletions": 16
           }
@@ -754,13 +842,15 @@
         "commitResults": [
           {
             "hash": "2cccd919098b2026ab62fc0b2d51893ec170e759",
-            "message": "Implement state restoration for all view controllers (#14)",
+            "messageTitle": "Implement state restoration for all view controllers (#14)",
+            "messageBody": "",
             "insertions": 70,
             "deletions": 13
           },
           {
             "hash": "61a974ae2374c8d2cca60fd2bdda2e49b8c303cc",
-            "message": "Use unused configurators in scene view controller init (#15)",
+            "messageTitle": "Use unused configurators in scene view controller init (#15)",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 6
           }
@@ -773,13 +863,15 @@
         "commitResults": [
           {
             "hash": "b58df233f3d2d1dda9ba2e803ec0a3b6496f5a89",
-            "message": "Implement storage manager and dependency injector (#17)",
+            "messageTitle": "Implement storage manager and dependency injector (#17)",
+            "messageBody": "",
             "insertions": 106,
             "deletions": 20
           },
           {
             "hash": "efa3d480f94e8656ca6b5a19c887fbc5abe9f5af",
-            "message": "Implement stall list display (#18)",
+            "messageTitle": "Implement stall list display (#18)",
+            "messageBody": "",
             "insertions": 93,
             "deletions": 53
           }
@@ -792,7 +884,8 @@
         "commitResults": [
           {
             "hash": "ce5b851d5caa6b019e04fb3f06670c85de2ef9ec",
-            "message": "Implement interscene mediator between Browse scene and children (#21)",
+            "messageTitle": "Implement interscene mediator between Browse scene and children (#21)",
+            "messageBody": "This PR introduces the interscene mediator, which solves the problem of communication between scenes.\r\n\r\n**Context**: the `Browse` scene contains 2 child scenes, `StallList` and `Menu`.\r\n\r\n**Problem**: `StallList` needs to communicate with `Menu` in order to inform it of stall selections. However, because the scenes are isolated, there is no way for them to communicate.\r\n\r\n**Solution**: A class in the interactor layer which passes messages between interactors in child scenes.",
             "insertions": 125,
             "deletions": 56
           }
@@ -805,7 +898,8 @@
         "commitResults": [
           {
             "hash": "00cbd8f2bcb6701b68f9f69cb8060c89772839fb",
-            "message": "Implement rough menu view and remove menu items from menu model (#29)",
+            "messageTitle": "Implement rough menu view and remove menu items from menu model (#29)",
+            "messageBody": "* Implement menu view model and presenter\r\n\r\n* Remove menu items from menu\r\n\r\n* Implement rough menu collection view\r\n\r\n* Reduce split view primary width on customer page\r\n\r\n* Disable portrait mode\r\n",
             "insertions": 208,
             "deletions": 61
           }
@@ -818,7 +912,8 @@
         "commitResults": [
           {
             "hash": "d27337f7dc810b77a397578c9a5576b74d4293c9",
-            "message": "Implement category selector (#55)",
+            "messageTitle": "Implement category selector (#55)",
+            "messageBody": "* Add more categories to Unit2 fixtures\r\n* Implement category selector",
             "insertions": 259,
             "deletions": 4
           }
@@ -831,19 +926,22 @@
         "commitResults": [
           {
             "hash": "ffc37389a885ac9ee726e88bff33499c7304f595",
-            "message": "Implement menu drag and drop interaction (#58)",
+            "messageTitle": "Implement menu drag and drop interaction (#58)",
+            "messageBody": "* Implement drag start from menu\r\n* Move drag handling into its own class\r\n* Implement drop interaction and move MenuDataSource and drag handlers into own files",
             "insertions": 201,
             "deletions": 50
           },
           {
             "hash": "d5fa31cd8caacc82c933dca30f8cab59e8a88132",
-            "message": "Implement drop handlers in view layer (#59)",
+            "messageTitle": "Implement drop handlers in view layer (#59)",
+            "messageBody": "Follows up on #58.\r\n\r\n### Completed in this PR\r\n\r\n- During a drag:\r\n  - The category selector should not be tappable\r\n  - The category selector should display the source category as a remove target\r\n  - When the menu items are hovering over a category, the dragged previews should be marked with a copy indicator (the green + on the top right), else the previews should be unmarked.\r\n- When dropped:\r\n  - The drop handler should inform the menu view controller of the category index and whether the menu items should be removed. This info is currently printed to the console, but eventually the info should be saved. This will be implemented in a future PR.\r\n\r\n### TODO in future PRs\r\n\r\n- Actually copy/remove the menu items\r\n- Implement an automatic Uncategorized category in menu\r\n- Disable stall selection (and the order cart view when it\u0027s implemented) during a drag interaction.",
             "insertions": 201,
             "deletions": 37
           },
           {
             "hash": "9f22a5489acc4493206104a0ca5b8e1f4c21a08a",
-            "message": "Implement menu item add/remove from categories (#62)",
+            "messageTitle": "Implement menu item add/remove from categories (#62)",
+            "messageBody": "Follows up on #59.\r\n\r\n### Completed in this PR\r\n\r\n- Dragging items into a category adds them to the category if they are not already in the category\r\n- Dragging items onto the Remove item removes the items from the source categories\r\n\r\n### Implementation notes\r\n\r\n- This PR implements a `MenuEditable` protocol on top of `MenuDisplayable`, as `MenuDisplayable`s should not be editable. Edit methods are implemented in a protocol-oriented programming style, allowing their implementations to be reused by both `IndividualMenuItem` and `SetMenuItem`.\r\n- DI is added to `MenuInteractor`.\r\n\r\n### TODO in future PRs\r\n\r\n- Generate/remove/manage an Uncategorized category\r\n- Item rearrangement\r\n- Add button in category\r\n- Category create/update/delete\r\n- Disable stall selection (and the order cart view when it\u0027s implemented) during a drag interaction.",
             "insertions": 106,
             "deletions": 9
           }
@@ -856,13 +954,15 @@
         "commitResults": [
           {
             "hash": "14da88beba423de63a239252ff02b697891fa35a",
-            "message": "Implement menu exit (#75)",
+            "messageTitle": "Implement menu exit (#75)",
+            "messageBody": "As requested by Waikay.\r\n\r\n* Add display of establishment name on stall list nav bar title\r\n* Add interscene mediator to CustomerRoot scene, to communicate with its Browse child scene\r\n* Disable view controller restroration for `BrowseViewController` as it expects a to-parent interscene mediator\r\n* Implement menu exit button",
             "insertions": 176,
             "deletions": 42
           },
           {
             "hash": "ba3b98c84799c136d5ece4fe6353790277f71a47",
-            "message": "Remove navigation controller from login and admin pages (#77)",
+            "messageTitle": "Remove navigation controller from login and admin pages (#77)",
+            "messageBody": "* Remove login navigation controller\r\n\r\n* Add logout button to stall root\r\n\r\n* Add logout button to establishment root\r\n",
             "insertions": 68,
             "deletions": 43
           }
@@ -875,49 +975,57 @@
         "commitResults": [
           {
             "hash": "ce1b36d9f0ee25600d1b6b17f0eb06de619c0d32",
-            "message": "Implement uncategorized category in menu (#86)",
+            "messageTitle": "Implement uncategorized category in menu (#86)",
+            "messageBody": "* Implement uncategorized category in model\r\n* Implement item add/remove from uncategorized\r\n* Implement item removal and uncategorizing",
             "insertions": 50,
             "deletions": 2
           },
           {
             "hash": "2b0b2e819abc27cb185f6a1b9c36526358abed04",
-            "message": "Implement category add/rename/delete (#88)",
+            "messageTitle": "Implement category add/rename/delete (#88)",
+            "messageBody": "* Implement menu category action UI\r\n* Implement category actions",
             "insertions": 197,
             "deletions": 4
           },
           {
             "hash": "6630b72b96ad7d3ff6bddd0bf6ab44801a81eab8",
-            "message": "Disable Menu editing on customer facing page (#89)",
+            "messageTitle": "Disable Menu editing on customer facing page (#89)",
+            "messageBody": "What was done:\r\n- Add checks to `MenuInteractor` to ensure that `isEditable` is true before mutating anything\r\n- Remove drag support from collection view if `isEditable` is false.\r\n- Menu should pass `isEditable` to MenuDetail.\r\n\r\nAs the category drop handler still handles drops, it\u0027s possible to drop menu items onto the categories on the customer page, e.g. by dragging and holding from the stall admin page and navigating back to the customer page before dropping it. However, this will not do anything as the interactor checks if `isEditable` is true.",
             "insertions": 47,
             "deletions": 17
           },
           {
             "hash": "5f17ef1878a7a4a8b1cf435a714ccf966878e313",
-            "message": "Fix scroll to empty menu section (#90)",
+            "messageTitle": "Fix scroll to empty menu section (#90)",
+            "messageBody": "Previously, tapping the category button for an empty section will not scroll to it. This PR fixes that.",
             "insertions": 13,
             "deletions": 7
           },
           {
             "hash": "13a621e9c1a87db1e17522042f81291c1b677ab1",
-            "message": "Remove stall list logout button on est admin page (#91)",
+            "messageTitle": "Remove stall list logout button on est admin page (#91)",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "a83f883536334c380c852fde68e234c4efd546e7",
-            "message": "Add confirmation alert for stall deletion (#92)",
+            "messageTitle": "Add confirmation alert for stall deletion (#92)",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 1
           },
           {
             "hash": "9d32007321d5ea1fb372c92227b80c3d6408f80e",
-            "message": "Implement adding of menu items (#100)",
+            "messageTitle": "Implement adding of menu items (#100)",
+            "messageBody": "* Implement menu add button\r\n\r\n* Implement menu interscene mediator\r\n\r\n* Implement menu item adding\r\n\r\n* Fix bug on customer page\r\n\r\n* Remove add button on customer page\r\n\r\n* Fix bug where tapping the second last menu item in category creates a new item\r\n\r\n* Allow \u003e1 line for menu item name\r\n\r\n* Ensure that menu always has one category\r\n",
             "insertions": 224,
             "deletions": 52
           },
           {
             "hash": "b6fbda03df11931bb2dd28ec5c71059be37deb89",
-            "message": "Automatically select first stall on first stall list appear (#104)",
+            "messageTitle": "Automatically select first stall on first stall list appear (#104)",
+            "messageBody": "So that the customer doesn\u0027t see an empty menu",
             "insertions": 13,
             "deletions": 0
           }

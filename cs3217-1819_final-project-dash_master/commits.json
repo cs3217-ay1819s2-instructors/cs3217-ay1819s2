@@ -9,19 +9,22 @@
         "commitResults": [
           {
             "hash": "6c104459c262ca0df53ae8ab5bb25c88be949bbe",
-            "message": "Create game workspace",
+            "messageTitle": "Create game workspace",
+            "messageBody": "",
             "insertions": 185,
             "deletions": 0
           },
           {
             "hash": "1e302205165928bade68e76b8a01175769dbe848",
-            "message": "Add swiftlint and update info.plist",
+            "messageTitle": "Add swiftlint and update info.plist",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 100
           },
           {
             "hash": "948843ca54bee086af7e170e8ccfdbccaacdf6e5",
-            "message": "Add models",
+            "messageTitle": "Add models",
+            "messageBody": "",
             "insertions": 49,
             "deletions": 11
           }
@@ -34,7 +37,8 @@
         "commitResults": [
           {
             "hash": "635731f4a9894ae0f12bb9aa68289eb6b25c2212",
-            "message": "Add additional skeleton code",
+            "messageTitle": "Add additional skeleton code",
+            "messageBody": "",
             "insertions": 37,
             "deletions": 2
           }
@@ -47,7 +51,8 @@
         "commitResults": [
           {
             "hash": "ec058fe47b51d27ca21d04dd44e094f6b71c40eb",
-            "message": "Add additional blank classes",
+            "messageTitle": "Add additional blank classes",
+            "messageBody": "",
             "insertions": 148,
             "deletions": 2
           }
@@ -60,7 +65,8 @@
         "commitResults": [
           {
             "hash": "62e73e4b5b5de27c2a6ea19bc23adb68352f6a95",
-            "message": "Implement Observer pattern",
+            "messageTitle": "Implement Observer pattern",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 10
           }
@@ -73,31 +79,36 @@
         "commitResults": [
           {
             "hash": "bb64faeaf5ec9930b2db4867ea257b99fa183ba1",
-            "message": "Add player control and moving background",
+            "messageTitle": "Add player control and moving background",
+            "messageBody": "",
             "insertions": 143,
             "deletions": 4
           },
           {
             "hash": "4107f38935921d874e1323c653d4f521bef32f4c",
-            "message": "Update player node",
+            "messageTitle": "Update player node",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 27
           },
           {
             "hash": "84e58c05f76b43f28a6c8686fefbc2cfe441dfb2",
-            "message": "Set origin to bottom left",
+            "messageTitle": "Set origin to bottom left",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 11
           },
           {
             "hash": "53aa341c1b016c6e5a7d252bace792672f5168a8",
-            "message": "Add score node",
+            "messageTitle": "Add score node",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 7
           },
           {
             "hash": "b9b9a0b2a85e4a257a749539be819292202e7f43",
-            "message": "Implement observer pattern for Player/PlayerNode",
+            "messageTitle": "Implement observer pattern for Player/PlayerNode",
+            "messageBody": "",
             "insertions": 87,
             "deletions": 14
           }
@@ -110,7 +121,8 @@
         "commitResults": [
           {
             "hash": "510ab5deb0d3c0a5504492dabe81af4cac275b1d",
-            "message": "Add glide control",
+            "messageTitle": "Add glide control",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 26
           }
@@ -123,7 +135,8 @@
         "commitResults": [
           {
             "hash": "9e29ce2274c272b859faf257bb03d3a808314f09",
-            "message": "Standardise player control to jetpack",
+            "messageTitle": "Standardise player control to jetpack",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 70
           }
@@ -136,13 +149,15 @@
         "commitResults": [
           {
             "hash": "c0a94c0fc067c83a790c3d44a21ddfbe1ce4f94b",
-            "message": "Basic work on path and wall generation",
+            "messageTitle": "Basic work on path and wall generation",
+            "messageBody": "",
             "insertions": 254,
             "deletions": 39
           },
           {
             "hash": "7123d904cf4cc8fdb5fa6972d2f5335a266d2b50",
-            "message": "Add path model. Basic path and wall generation.",
+            "messageTitle": "Add path model. Basic path and wall generation.",
+            "messageBody": "",
             "insertions": 202,
             "deletions": 151
           }
@@ -155,7 +170,8 @@
         "commitResults": [
           {
             "hash": "0d138720bae0fc2caf017d3689f8f0f7bdf94764",
-            "message": "Refactor generator code",
+            "messageTitle": "Refactor generator code",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 18
           }
@@ -168,25 +184,29 @@
         "commitResults": [
           {
             "hash": "bd598f3d60c9713adb935e01bacbcd58818b488c",
-            "message": "Restructure wall generation",
+            "messageTitle": "Restructure wall generation",
+            "messageBody": "",
             "insertions": 106,
             "deletions": 31
           },
           {
             "hash": "8d497b52d246c01fa088da8c5046657e46d44d05",
-            "message": "Split wall generation to segments",
+            "messageTitle": "Split wall generation to segments",
+            "messageBody": "",
             "insertions": 104,
             "deletions": 107
           },
           {
             "hash": "53d3b0c57b6c2ea2c4debb412171016258be554c",
-            "message": "Auto remove unused wall nodes",
+            "messageTitle": "Auto remove unused wall nodes",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 8
           },
           {
             "hash": "ad95700529caf1b76df80e467bfb2bf2b78134f3",
-            "message": "Add basic noise to walls",
+            "messageTitle": "Add basic noise to walls",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 26
           }
@@ -199,25 +219,29 @@
         "commitResults": [
           {
             "hash": "8507397853c58b286dbf14c36ec3e75c30d63dda",
-            "message": "Basic obstacle generation",
+            "messageTitle": "Basic obstacle generation",
+            "messageBody": "",
             "insertions": 217,
             "deletions": 33
           },
           {
             "hash": "43de7cc8400ff2cd873d86153b76687db0725528",
-            "message": "Add power up generation stub",
+            "messageTitle": "Add power up generation stub",
+            "messageBody": "",
             "insertions": 121,
             "deletions": 3
           },
           {
             "hash": "e223068a27f41f15e3383f65efeae29ffdb92c01",
-            "message": "Add unit test stubs",
+            "messageTitle": "Add unit test stubs",
+            "messageBody": "",
             "insertions": 79,
             "deletions": 0
           },
           {
             "hash": "2ca3d296dad289cc1f2d70b0d23cdbd410a34c1d",
-            "message": "Update game engine by time instead of frame",
+            "messageTitle": "Update game engine by time instead of frame",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 9
           }
@@ -230,43 +254,50 @@
         "commitResults": [
           {
             "hash": "44643e70f8bbe978fcee5b7848eba16b1e221baf",
-            "message": "Update parameters",
+            "messageTitle": "Update parameters",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 8
           },
           {
             "hash": "94a10618ac4dc8ce9421e19222355f173e91a8b5",
-            "message": "Improve path generation for more accurate curves",
+            "messageTitle": "Improve path generation for more accurate curves",
+            "messageBody": "",
             "insertions": 197,
             "deletions": 17
           },
           {
             "hash": "e4cb582f63f9285af701b0ec8c6335e302b11546",
-            "message": "Fix object generator bug",
+            "messageTitle": "Fix object generator bug",
+            "messageBody": "",
             "insertions": 53,
             "deletions": 42
           },
           {
             "hash": "8518eaf3d48090e43f3b27fe4465f63880a44914",
-            "message": "Tweak generator parameters",
+            "messageTitle": "Tweak generator parameters",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 17
           },
           {
             "hash": "6a930ce7c5bd5b2af8010ddf3a8e286e653fb0ea",
-            "message": "Implement moving obstacle missle",
+            "messageTitle": "Implement moving obstacle missle",
+            "messageBody": "",
             "insertions": 110,
             "deletions": 7
           },
           {
             "hash": "d3163ac8d2cb8d5b3bbc880cc096c5116091a8fa",
-            "message": "Generate power up",
+            "messageTitle": "Generate power up",
+            "messageBody": "",
             "insertions": 45,
             "deletions": 10
           },
           {
             "hash": "c9b09b8d1406daf5ee931fa82ba6a092ee877e70",
-            "message": "Update flappy control environment",
+            "messageTitle": "Update flappy control environment",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 9
           }
@@ -279,43 +310,50 @@
         "commitResults": [
           {
             "hash": "12d159d530aac708382b2e96c7d3062399f5e763",
-            "message": "Add timer to game engine",
+            "messageTitle": "Add timer to game engine",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 8
           },
           {
             "hash": "beb577948b7b1925a4998558dfab483e52f2b9db",
-            "message": "Make speed of game changeable",
+            "messageTitle": "Make speed of game changeable",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 19
           },
           {
             "hash": "fbb0d8eff2f9200f233af2a74898c8310dfca8d1",
-            "message": "Implement MovingObject protocol",
+            "messageTitle": "Implement MovingObject protocol",
+            "messageBody": "",
             "insertions": 117,
             "deletions": 39
           },
           {
             "hash": "9b6b012df7bcae00bd1f783fa51b040b488c3ab8",
-            "message": "Remove old generation code",
+            "messageTitle": "Remove old generation code",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 102
           },
           {
             "hash": "e07c5cb15cf7395fabbdc1077b1b9c566e2ed56f",
-            "message": "DIfferent map for different control",
+            "messageTitle": "DIfferent map for different control",
+            "messageBody": "",
             "insertions": 103,
             "deletions": 56
           },
           {
             "hash": "39c8944bea9107469a86ae32f1ea643ed35ba6d9",
-            "message": "Unable to disable collision",
+            "messageTitle": "Unable to disable collision",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 2
           },
           {
             "hash": "9c7b7ceb835bf447644ceb685161b9da4d5aa624",
-            "message": "Add end game condition",
+            "messageTitle": "Add end game condition",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 12
           }
@@ -328,61 +366,71 @@
         "commitResults": [
           {
             "hash": "2770d2d16bf357733e908fa2a963d07094179782",
-            "message": "Finalise path generation",
+            "messageTitle": "Finalise path generation",
+            "messageBody": "",
             "insertions": 76,
             "deletions": 115
           },
           {
             "hash": "aef3200767e40d391c9e33a80ef709bb95235e53",
-            "message": "Fix double timer in game engine",
+            "messageTitle": "Fix double timer in game engine",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 5
           },
           {
             "hash": "916bfeffc6686f8dd6aab4bedeeb3630820ebde4",
-            "message": "Set max/min wall to be at edge of screen",
+            "messageTitle": "Set max/min wall to be at edge of screen",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 4
           },
           {
             "hash": "e3fe57bfc67659789b8282a9f454df1e41cc0f7a",
-            "message": "Min/max interval for obstacle generation",
+            "messageTitle": "Min/max interval for obstacle generation",
+            "messageBody": "",
             "insertions": 40,
             "deletions": 30
           },
           {
             "hash": "c9613ce1404fa773a0ec8209ca46289f6c672619",
-            "message": "Random power up generation",
+            "messageTitle": "Random power up generation",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 6
           },
           {
             "hash": "6fc21ee2a8687475cb9cf4008909d3768ced7efb",
-            "message": "Add power up condition",
+            "messageTitle": "Add power up condition",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 1
           },
           {
             "hash": "00e8d8cc86b68cc96649c612a5f89c086b3a5115",
-            "message": "Fix ghost play to not trigger game over",
+            "messageTitle": "Fix ghost play to not trigger game over",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 7
           },
           {
             "hash": "22392c18bdb22e2499c8e00bee5dd89d86196396",
-            "message": "Implement power up trigger",
+            "messageTitle": "Implement power up trigger",
+            "messageBody": "",
             "insertions": 67,
             "deletions": 19
           },
           {
             "hash": "22b6bebde90f14a02ba41a0ae2db519137628d84",
-            "message": "Move seed to game scene",
+            "messageTitle": "Move seed to game scene",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 17
           },
           {
             "hash": "6d96c60c425be945c1b96ccfa27ab3849ac973ea",
-            "message": "Minor refactoring",
+            "messageTitle": "Minor refactoring",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 57
           }
@@ -395,43 +443,50 @@
         "commitResults": [
           {
             "hash": "f7b853abea2f1982645037b211310ad6be82b411",
-            "message": "Increment difficulty through game",
+            "messageTitle": "Increment difficulty through game",
+            "messageBody": "",
             "insertions": 127,
             "deletions": 42
           },
           {
             "hash": "cde8be48b7095fa1946afdababf331beed828e24",
-            "message": "Add coins",
+            "messageTitle": "Add coins",
+            "messageBody": "",
             "insertions": 124,
             "deletions": 26
           },
           {
             "hash": "b1a72b42a8419727f66bb471e86df4f5a126340c",
-            "message": "Tweak gameplay parameters",
+            "messageTitle": "Tweak gameplay parameters",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 13
           },
           {
             "hash": "0dfff2c9eab156f8e08ecc0d7cbf71213a7ad8e9",
-            "message": "Add fill color to wall",
+            "messageTitle": "Add fill color to wall",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 14
           },
           {
             "hash": "5f27f32d2d302fde193dc9cc195ceeb1f079b6b6",
-            "message": "Add particle and player rotation",
+            "messageTitle": "Add particle and player rotation",
+            "messageBody": "",
             "insertions": 54,
             "deletions": 7
           },
           {
             "hash": "108670fc7224d99507ece51bc2c81de316faf337",
-            "message": "Tie particles to scene",
+            "messageTitle": "Tie particles to scene",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "94c3357a193f9ae87a03b7d38015d598a527fc4b",
-            "message": "Add parallax background and objects",
+            "messageTitle": "Add parallax background and objects",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 24
           }
@@ -444,43 +499,50 @@
         "commitResults": [
           {
             "hash": "39d25eba6c02aa7c1ca8a7a679815cb6ce82aee8",
-            "message": "Add obstacle texture",
+            "messageTitle": "Add obstacle texture",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 6
           },
           {
             "hash": "a244011aae49b0182fae5af0b7c279ace39253a0",
-            "message": "Add power up and coin asset",
+            "messageTitle": "Add power up and coin asset",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 24
           },
           {
             "hash": "83711da7b36efd1d0218a43a5621ac182a1f6a78",
-            "message": "Add glow",
+            "messageTitle": "Add glow",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 1
           },
           {
             "hash": "157bbf07916611f4f7b3ce3fa7f58dbeb936702a",
-            "message": "Add boundary in game",
+            "messageTitle": "Add boundary in game",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 15
           },
           {
             "hash": "aaee2d8d72f11299c8d7d4587fc16b4fc76a0714",
-            "message": "Add moving background to menus",
+            "messageTitle": "Add moving background to menus",
+            "messageBody": "",
             "insertions": 77,
             "deletions": 5
           },
           {
             "hash": "84fd68f1ac8a147a426a203bb55cc14668aead06",
-            "message": "Add smaller icons for power up and coins",
+            "messageTitle": "Add smaller icons for power up and coins",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "18cc47ca6ea1e1ac512096f17c10e33a5c7aa149",
-            "message": "Remove particles and set alpha for ghost players.",
+            "messageTitle": "Remove particles and set alpha for ghost players.",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           }
@@ -493,13 +555,15 @@
         "commitResults": [
           {
             "hash": "626db7a9c103f6ee0b77b5901d31c46728017c02",
-            "message": "Fix swiftlint",
+            "messageTitle": "Fix swiftlint",
+            "messageBody": "",
             "insertions": 106,
             "deletions": 104
           },
           {
             "hash": "ffdc1072e0db0c664e1c6bb3e2cc71dc4b68773d",
-            "message": "Rename path generator",
+            "messageTitle": "Rename path generator",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           }
@@ -512,37 +576,43 @@
         "commitResults": [
           {
             "hash": "81776aeecd97c905f1cd85186e8e360dfd296455",
-            "message": "Fix memory leak",
+            "messageTitle": "Fix memory leak",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 21
           },
           {
             "hash": "53580dafaae6408ee36da9312e020a1f29abd22c",
-            "message": "Refactor generator",
+            "messageTitle": "Refactor generator",
+            "messageBody": "",
             "insertions": 273,
             "deletions": 16
           },
           {
             "hash": "31db305b7dd784fc730a67b60a16bd5baa02e32c",
-            "message": "Refactor generator and remove unused code",
+            "messageTitle": "Refactor generator and remove unused code",
+            "messageBody": "",
             "insertions": 255,
             "deletions": 249
           },
           {
             "hash": "eb6060215ab64191c8aabc8c1647676178358cb3",
-            "message": "Refactor GameEngine",
+            "messageTitle": "Refactor GameEngine",
+            "messageBody": "",
             "insertions": 57,
             "deletions": 44
           },
           {
             "hash": "ab6214c84d729c3fcda9a688ef2e3a800a8e5b02",
-            "message": "Refactor model",
+            "messageTitle": "Refactor model",
+            "messageBody": "",
             "insertions": 105,
             "deletions": 37
           },
           {
             "hash": "e1aeb75820bbd40b30bc453b98380f4400e690df",
-            "message": "Refactor Generator and fix swiftlint",
+            "messageTitle": "Refactor Generator and fix swiftlint",
+            "messageBody": "",
             "insertions": 137,
             "deletions": 97
           }
@@ -557,7 +627,8 @@
         "commitResults": [
           {
             "hash": "2b69fb02bd91e235fc88accd6f1847d448967a86",
-            "message": "Adapt to Multiplayer design",
+            "messageTitle": "Adapt to Multiplayer design",
+            "messageBody": "",
             "insertions": 268,
             "deletions": 14
           }
@@ -570,7 +641,8 @@
         "commitResults": [
           {
             "hash": "c83d04ea33fb859624f714e2cbda776497d159dc",
-            "message": "Used PeerKit",
+            "messageTitle": "Used PeerKit",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 78
           }
@@ -583,7 +655,8 @@
         "commitResults": [
           {
             "hash": "68a0e9262bbef9f0af1bef32cdbbc1e4bf81e781",
-            "message": "Multiplayer",
+            "messageTitle": "Multiplayer",
+            "messageBody": "",
             "insertions": 678,
             "deletions": 106
           }
@@ -596,7 +669,8 @@
         "commitResults": [
           {
             "hash": "a6bdf3413f424ad181ecd5a7138afdd54640651c",
-            "message": "Add High Score provider and shadow play logic",
+            "messageTitle": "Add High Score provider and shadow play logic",
+            "messageBody": "",
             "insertions": 313,
             "deletions": 32
           }
@@ -609,7 +683,8 @@
         "commitResults": [
           {
             "hash": "c6a12e8fbadef071744bea1dd369803659560275",
-            "message": "Multiplayer UI integration",
+            "messageTitle": "Multiplayer UI integration",
+            "messageBody": "",
             "insertions": 272,
             "deletions": 38
           }
@@ -622,31 +697,36 @@
         "commitResults": [
           {
             "hash": "79b490d81d8a270775b33b0d39ab14285be1a494",
-            "message": "Pause-able shadow and multiplayer tweak",
+            "messageTitle": "Pause-able shadow and multiplayer tweak",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 204
           },
           {
             "hash": "95e8d58b5a68ce4a03295f8c1ff85658188d4557",
-            "message": "Powerups for multiplayer, seeding and countdown",
+            "messageTitle": "Powerups for multiplayer, seeding and countdown",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 33
           },
           {
             "hash": "87100a1d537219afd9594d8b5d9b1f303ca50ee9",
-            "message": "Highscore",
+            "messageTitle": "Highscore",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 7
           },
           {
             "hash": "6f10d91949bfd2e4c2a81743217807d46701a0a9",
-            "message": "Highscore fix",
+            "messageTitle": "Highscore fix",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 52
           },
           {
             "hash": "e80d1e0a9d9b6b333b2ca223bdb5a6c068d75814",
-            "message": "Minor bug fix",
+            "messageTitle": "Minor bug fix",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 5
           }
@@ -659,7 +739,8 @@
         "commitResults": [
           {
             "hash": "7254f5350d819fc5ae7cee82310f6fc0108237bb",
-            "message": "Minor fix",
+            "messageTitle": "Minor fix",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 30
           }
@@ -674,25 +755,29 @@
         "commitResults": [
           {
             "hash": "0e969ac4a345aae36e549a88b7c2c7a812be480f",
-            "message": "Add wall generation logic",
+            "messageTitle": "Add wall generation logic",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 1
           },
           {
             "hash": "a35353a4ba3cc10cdf7216c7f54790ce69f1e0ce",
-            "message": "Implement wall node",
+            "messageTitle": "Implement wall node",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 3
           },
           {
             "hash": "3bdbe304dbb2316a00e9ca9589b61238cebe5c09",
-            "message": "Refactor",
+            "messageTitle": "Refactor",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 18
           },
           {
             "hash": "80a107bbbd001dd582ac59b9e4e0dd2a1dfa9950",
-            "message": "Add todo comments",
+            "messageTitle": "Add todo comments",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           }
@@ -705,7 +790,8 @@
         "commitResults": [
           {
             "hash": "8bed4bda6b9313d14742a9cdbc5e667b6130a2e0",
-            "message": "Fix colon violation",
+            "messageTitle": "Fix colon violation",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -718,7 +804,8 @@
         "commitResults": [
           {
             "hash": "84bcb3d091bc43471b465ae0cf055843f3331537",
-            "message": "Add other controls",
+            "messageTitle": "Add other controls",
+            "messageBody": "",
             "insertions": 152,
             "deletions": 34
           }
@@ -731,7 +818,8 @@
         "commitResults": [
           {
             "hash": "a58e1cb88539a613130a73577e7478d8491f06fc",
-            "message": "Add game menu",
+            "messageTitle": "Add game menu",
+            "messageBody": "",
             "insertions": 89,
             "deletions": 25
           }
@@ -744,7 +832,8 @@
         "commitResults": [
           {
             "hash": "df384c57c4cd0b40c4c4ba1f413b13e73cd03ce2",
-            "message": "Fix character type for player 2",
+            "messageTitle": "Fix character type for player 2",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 17
           }
@@ -757,19 +846,22 @@
         "commitResults": [
           {
             "hash": "7528dbedabefa5002402f5ce1f337d97ba7c1f96",
-            "message": "Use playerNode for player controllers",
+            "messageTitle": "Use playerNode for player controllers",
+            "messageBody": "",
             "insertions": 52,
             "deletions": 42
           },
           {
             "hash": "fe7082ec3c3619ff5456752a0ca4dd65ec26e1d2",
-            "message": "Change textures",
+            "messageTitle": "Change textures",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "95d49744ae021637148f51cf695bae98ee272236",
-            "message": "Temporary fix for arrow control",
+            "messageTitle": "Temporary fix for arrow control",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 1
           }
@@ -782,43 +874,50 @@
         "commitResults": [
           {
             "hash": "c1d6cf3ed8b54566977d439a97d13ae33e6ee3a4",
-            "message": "Support multiple observers",
+            "messageTitle": "Support multiple observers",
+            "messageBody": "",
             "insertions": 49,
             "deletions": 28
           },
           {
             "hash": "4ccd243af09f84fcba08418ccc0076daa789fef2",
-            "message": "Fix missing powers",
+            "messageTitle": "Fix missing powers",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "0593bcc67b3816898375a291ca07fe716e210773",
-            "message": "Implement missions",
+            "messageTitle": "Implement missions",
+            "messageBody": "",
             "insertions": 156,
             "deletions": 2
           },
           {
             "hash": "737fb66dea3d883c1d15247503f2e5e73da123d9",
-            "message": "Add mission queue",
+            "messageTitle": "Add mission queue",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "cda3a51f6a2ca2d1ed8f6d723fce5cd41434c798",
-            "message": "Change score color",
+            "messageTitle": "Change score color",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4cec2d1a11e6d68b9f1a790d41e07306331a9eec",
-            "message": "Add message animation",
+            "messageTitle": "Add message animation",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 9
           },
           {
             "hash": "947f9c2c9a1fb169d5e30c3706823d638974d4e1",
-            "message": "Change to new observers",
+            "messageTitle": "Change to new observers",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -831,7 +930,8 @@
         "commitResults": [
           {
             "hash": "ab330fbc6a8ddb9478eb1842a97321a7ef492412",
-            "message": "Add local storage",
+            "messageTitle": "Add local storage",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 7
           }
@@ -844,43 +944,50 @@
         "commitResults": [
           {
             "hash": "fe2464ca5851f6834204247431f3109441c7032e",
-            "message": "Implement infinite missions",
+            "messageTitle": "Implement infinite missions",
+            "messageBody": "",
             "insertions": 64,
             "deletions": 19
           },
           {
             "hash": "5011e6cad465016ec2847c820190988d0bbabceb",
-            "message": "Remove mission queue",
+            "messageTitle": "Remove mission queue",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 24
           },
           {
             "hash": "03d82eea1d855eeb96824b76c5b92a63828e0dc3",
-            "message": "Implement sliding controls selection",
+            "messageTitle": "Implement sliding controls selection",
+            "messageBody": "",
             "insertions": 133,
             "deletions": 1
           },
           {
             "hash": "59f6e214970ac15c374367477c5b02739827cbfd",
-            "message": "Add arrow buttons",
+            "messageTitle": "Add arrow buttons",
+            "messageBody": "",
             "insertions": 79,
             "deletions": 19
           },
           {
             "hash": "805804af29f9dee9db279850728ecf6040364440",
-            "message": "Add transition to game scene",
+            "messageTitle": "Add transition to game scene",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 3
           },
           {
             "hash": "8623e797135169b87ea142c1a5decf98ca6f6d21",
-            "message": "Refactor",
+            "messageTitle": "Refactor",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "b0be6f603dc7292a7f5f4f34c95af7d151e0fb67",
-            "message": "Add missions scene",
+            "messageTitle": "Add missions scene",
+            "messageBody": "",
             "insertions": 265,
             "deletions": 190
           }
@@ -893,79 +1000,92 @@
         "commitResults": [
           {
             "hash": "3884d8b06bd58e127e60822e26e6f9aeb41a85fd",
-            "message": "Add end game scene",
+            "messageTitle": "Add end game scene",
+            "messageBody": "",
             "insertions": 94,
             "deletions": 42
           },
           {
             "hash": "8a785758e08e227ace6bd710c0b9eeceae480454",
-            "message": "Add missions in menu screen",
+            "messageTitle": "Add missions in menu screen",
+            "messageBody": "",
             "insertions": 37,
             "deletions": 12
           },
           {
             "hash": "c3a36de4a511e9b38c4750235a9f2030ca1a0bfd",
-            "message": "Add replay",
+            "messageTitle": "Add replay",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 5
           },
           {
             "hash": "d23a8b6c0ad155a9e789686202ddb1a3492139fd",
-            "message": "Add resume function",
+            "messageTitle": "Add resume function",
+            "messageBody": "",
             "insertions": 53,
             "deletions": 2
           },
           {
             "hash": "3103943546ddec3845e9d017f400e4bd675334ad",
-            "message": "Adjust pause window transparency",
+            "messageTitle": "Adjust pause window transparency",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "dffd84ebac91949595362a4d325d9d37f0c93549",
-            "message": "Enable returning to menu during game",
+            "messageTitle": "Enable returning to menu during game",
+            "messageBody": "",
             "insertions": 56,
             "deletions": 23
           },
           {
             "hash": "3235f413028ea657b96fb4b848c42e4986f0dbdd",
-            "message": "Pause player",
+            "messageTitle": "Pause player",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 9
           },
           {
             "hash": "35b25262704e51335094cc1efee8b899ae2bbc9f",
-            "message": "Fix merge conflicts",
+            "messageTitle": "Fix merge conflicts",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 37
           },
           {
             "hash": "d585bfc0e7211aaa77049eb5d6d61876ce6a3728",
-            "message": "Change jetpack to glide",
+            "messageTitle": "Change jetpack to glide",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 16
           },
           {
             "hash": "e077e6a0964f31345c40081099053d6f33c5a038",
-            "message": "Add enter leaderboard scene",
+            "messageTitle": "Add enter leaderboard scene",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 0
           },
           {
             "hash": "42921b0b3b2b252d727c8d46c0a616c9ed5d43e2",
-            "message": "Refactor controllers",
+            "messageTitle": "Refactor controllers",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 3
           },
           {
             "hash": "5a7aa6108f54c38455775fa0e9db67a2caafbc6e",
-            "message": "Add leaderboard scene",
+            "messageTitle": "Add leaderboard scene",
+            "messageBody": "",
             "insertions": 106,
             "deletions": 8
           },
           {
             "hash": "63031f4ae3cbddc966c34d6b47976252465c302f",
-            "message": "Fix player controls",
+            "messageTitle": "Fix player controls",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 46
           }
@@ -978,61 +1098,71 @@
         "commitResults": [
           {
             "hash": "b184697c39c3335b8eda5e49f01980bdbdffb061",
-            "message": "Add powerup mission",
+            "messageTitle": "Add powerup mission",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 14
           },
           {
             "hash": "651cfa005fee72d47d815ca60a8258d17322125e",
-            "message": "Rename old menu scene",
+            "messageTitle": "Rename old menu scene",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "3850f55eac4269f565459a68347ee8dee253e3b3",
-            "message": "Add multiplayer lobby scene",
+            "messageTitle": "Add multiplayer lobby scene",
+            "messageBody": "",
             "insertions": 190,
             "deletions": 10
           },
           {
             "hash": "2ac3f079b633e4cad9ed13e8091d527f6146acad",
-            "message": "Add multiplayer host scene",
+            "messageTitle": "Add multiplayer host scene",
+            "messageBody": "",
             "insertions": 113,
             "deletions": 6
           },
           {
             "hash": "0ab9f0e2ea495e50b24131ac5f825ae11b38fc1b",
-            "message": "Update text field",
+            "messageTitle": "Update text field",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 2
           },
           {
             "hash": "f420ed8d2f6465cd68146ec8de4b896240ec7f37",
-            "message": "Add multiplayer join scene",
+            "messageTitle": "Add multiplayer join scene",
+            "messageBody": "",
             "insertions": 69,
             "deletions": 1
           },
           {
             "hash": "70f00901792b9b2e3390603fa7aadf848794397b",
-            "message": "Add countdown label",
+            "messageTitle": "Add countdown label",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 6
           },
           {
             "hash": "1a10d317bfb3174565cdd78ed39b6ac5bd04e193",
-            "message": "Add loading view",
+            "messageTitle": "Add loading view",
+            "messageBody": "",
             "insertions": 73,
             "deletions": 0
           },
           {
             "hash": "d8ef655708c079feb50aeb14f284e6aab60a256d",
-            "message": "Implement leaderboard scene",
+            "messageTitle": "Implement leaderboard scene",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 4
           },
           {
             "hash": "264b417333b12948972b455e765652b8636370e6",
-            "message": "Base high scores on category",
+            "messageTitle": "Base high scores on category",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 5
           }
@@ -1045,91 +1175,106 @@
         "commitResults": [
           {
             "hash": "804932fc615da2b95a419f2d3d082166f45956df",
-            "message": "Check high score (comment)",
+            "messageTitle": "Check high score (comment)",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 4
           },
           {
             "hash": "91c26bc17b293d5c3a5168816a47d6a9221903b6",
-            "message": "Change distance count",
+            "messageTitle": "Change distance count",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "71011f74920bc2ec1789187423a616f105dfd1cc",
-            "message": "Add coins mission",
+            "messageTitle": "Add coins mission",
+            "messageBody": "",
             "insertions": 38,
             "deletions": 12
           },
           {
             "hash": "31b55e21f0ea1c06799bf45428a309851be58c8a",
-            "message": "Selection for shadow play",
+            "messageTitle": "Selection for shadow play",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 16
           },
           {
             "hash": "23750903cc85d4bfc872b57977a8acd11e53bdbb",
-            "message": "Add error message",
+            "messageTitle": "Add error message",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 14
           },
           {
             "hash": "2b90ce79e02ba00e427791f004cbf2e1e6dc0034",
-            "message": "Show game over after high score",
+            "messageTitle": "Show game over after high score",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 0
           },
           {
             "hash": "2ce17362f940d4199af2c53242a5afc3abac7936",
-            "message": "Use arrow icons",
+            "messageTitle": "Use arrow icons",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 6
           },
           {
             "hash": "46211fbf1721574b5faa4fae68db9137394c3f7b",
-            "message": "Replace more icons",
+            "messageTitle": "Replace more icons",
+            "messageBody": "",
             "insertions": 88,
             "deletions": 45
           },
           {
             "hash": "9b20cdac936cf230aa50bed934dd1ece6f372574",
-            "message": "Add counting coin label",
+            "messageTitle": "Add counting coin label",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 3
           },
           {
             "hash": "664fd9ea29a27c17b89271a8bdf4e8d6624ad6f0",
-            "message": "Add skip button",
+            "messageTitle": "Add skip button",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 0
           },
           {
             "hash": "2b112c7037f2e3f23371ea754ff68fb4aa3b425e",
-            "message": "Add return to menu button in more screens",
+            "messageTitle": "Add return to menu button in more screens",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 0
           },
           {
             "hash": "011f9cec1f01ae45bb59f34cfb046ee839a29ebc",
-            "message": "Adjust layout in highscores",
+            "messageTitle": "Adjust layout in highscores",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "cb967e21899ceb645371713a571753e15b656c4e",
-            "message": "Preserve menu state",
+            "messageTitle": "Preserve menu state",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "70a39e56780304f51350459618496ab784a1a8c7",
-            "message": "Preserve menu scene after multiplayer lobby",
+            "messageTitle": "Preserve menu scene after multiplayer lobby",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "177db9c7d5ddb1362998bf0449848b49dc3c37ef",
-            "message": "Disable stats",
+            "messageTitle": "Disable stats",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -1142,37 +1287,43 @@
         "commitResults": [
           {
             "hash": "666a3a0ae61686136e2422bd623febdb1d18123b",
-            "message": "Refactor return to menu node",
+            "messageTitle": "Refactor return to menu node",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 18
           },
           {
             "hash": "a2162f0c7ae0adc9d72d0f7f455e1a8fb021e43b",
-            "message": "Prevent double game over",
+            "messageTitle": "Prevent double game over",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "b20d9490be7ea8713dbbea15f8de08a8600d0364",
-            "message": "Refactor text field",
+            "messageTitle": "Refactor text field",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 39
           },
           {
             "hash": "f60ddff34604cee33d009ae62c5798e8ebd0053e",
-            "message": "Update return to menu node",
+            "messageTitle": "Update return to menu node",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 16
           },
           {
             "hash": "1b084c8f51acdc1b563acf0aa27a981f966ecc3d",
-            "message": "Refactor coin score node",
+            "messageTitle": "Refactor coin score node",
+            "messageBody": "",
             "insertions": 39,
             "deletions": 36
           },
           {
             "hash": "cb524c483424b42a83decfe8215c6beba235a2a2",
-            "message": "Fix text field bugs",
+            "messageTitle": "Fix text field bugs",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 9
           }
@@ -1185,31 +1336,36 @@
         "commitResults": [
           {
             "hash": "608d94e92cc9ef20222a13f28b174c6a560688e4",
-            "message": "Save mission checkpoint instead of message",
+            "messageTitle": "Save mission checkpoint instead of message",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 42
           },
           {
             "hash": "441c7215175a8db78c9d3d05cb7ccb4b7942aa4b",
-            "message": "Delete old menu scene",
+            "messageTitle": "Delete old menu scene",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 62
           },
           {
             "hash": "f0eed42ee893a2794aabdb5e89d0995fcea886a3",
-            "message": "Refactor missions",
+            "messageTitle": "Refactor missions",
+            "messageBody": "",
             "insertions": 68,
             "deletions": 60
           },
           {
             "hash": "2b9df56e5975304fdbe7f868e7ec1fe7e4ad7c05",
-            "message": "Refactor notifications",
+            "messageTitle": "Refactor notifications",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 9
           },
           {
             "hash": "2190ef13cfed3cd96e64d9dc096fef90ca55eabe",
-            "message": "Move font names into constants",
+            "messageTitle": "Move font names into constants",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 39
           }
@@ -1222,31 +1378,36 @@
         "commitResults": [
           {
             "hash": "6fc7737e85210f121db422cb5a9dc408a56d5818",
-            "message": "Make initialisation of storage private",
+            "messageTitle": "Make initialisation of storage private",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "8cc6052b528002b2d5c5713e74cb906dff02e9a9",
-            "message": "Fix comment",
+            "messageTitle": "Fix comment",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "36225603d36fa03ebe8102dbb505aae97a91703c",
-            "message": "Add some header comments",
+            "messageTitle": "Add some header comments",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 1
           },
           {
             "hash": "5753a9370f08eb170ff72a9501827b4cc56b2434",
-            "message": "Remove todos, comments and print statements",
+            "messageTitle": "Remove todos, comments and print statements",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 7
           },
           {
             "hash": "13a39c1b84e4391a1df06124ff7f224a6415f969",
-            "message": "A bit more refactoring",
+            "messageTitle": "A bit more refactoring",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           }
