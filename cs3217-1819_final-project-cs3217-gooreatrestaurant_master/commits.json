@@ -8,8 +8,7 @@
         "commitResults": [
           {
             "hash": "41e7e3cedd95609ea9471e3280918d26cdbb293b",
-            "messageTitle": "Set up scene",
-            "messageBody": "",
+            "message": "Set up scene",
             "insertions": 838,
             "deletions": 47
           }
@@ -22,8 +21,7 @@
         "commitResults": [
           {
             "hash": "aad43a185c7f62ba4fc205e9b342f3789a1d6b20",
-            "messageTitle": "Jumping and slime.atlas file included",
-            "messageBody": "",
+            "message": "Jumping and slime.atlas file included",
             "insertions": 110,
             "deletions": 12
           }
@@ -36,8 +34,7 @@
         "commitResults": [
           {
             "hash": "29edd676c6a7d31815f3b45ea6493caf7ebeb7c5",
-            "messageTitle": "Change namings",
-            "messageBody": "",
+            "message": "Change namings",
             "insertions": 5,
             "deletions": 5
           }
@@ -50,50 +47,43 @@
         "commitResults": [
           {
             "hash": "805f4d543d33bfc5a07128c2155919ae09dc25a1",
-            "messageTitle": "Set up plist",
-            "messageBody": "",
+            "message": "Set up plist",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "a5f0d9367ca187ca0cbbce7d3f0ffd3535f958ef",
-            "messageTitle": "Implemented plist for level design",
-            "messageBody": "",
+            "message": "Implemented plist for level design",
             "insertions": 29,
             "deletions": 57
           },
           {
             "hash": "a6829b039ad7499fdfe7ad6d46ad7ac3dd22ff37",
-            "messageTitle": "Added comments",
-            "messageBody": "",
+            "message": "Added comments",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "f4969362066c257687ce211ea8b48b0295d579a2",
-            "messageTitle": "Added refinements to movement of slime",
-            "messageBody": "",
+            "message": "Added refinements to movement of slime",
             "insertions": 10,
             "deletions": 0
           },
           {
             "hash": "e8b5b2dd38d921d02a842419e964d6f939af373a",
-            "messageTitle": "Set up ladder",
-            "messageBody": "",
+            "message": "Set up ladder",
             "insertions": 18,
             "deletions": 2
           },
           {
             "hash": "ee5c74edc84995ab4f9b26b77e865bd0147fdca0",
-            "messageTitle": "Climbing up of ladder",
-            "messageBody": "",
+            "message": "Climbing up of ladder",
             "insertions": 33,
             "deletions": 3
           },
           {
             "hash": "9003802edb88c5fceb69a72fc58a0bd28ec8b9bb",
-            "messageTitle": "Fix aspect ratio and included background, spaceship and joystick",
-            "messageBody": "",
+            "message": "Fix aspect ratio and included background, spaceship and joystick",
             "insertions": 40,
             "deletions": 49
           }
@@ -106,78 +96,67 @@
         "commitResults": [
           {
             "hash": "86aaeb191099c922639bac8b79901747966e7d66",
-            "messageTitle": "Remove unneeded code",
-            "messageBody": "",
+            "message": "Remove unneeded code",
             "insertions": 27,
             "deletions": 39
           },
           {
             "hash": "49ebbe0ee0945c3ae4c88a1669575bb8737414b0",
-            "messageTitle": "Updated jump button",
-            "messageBody": "",
+            "message": "Updated jump button",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "bef4e85880b2989b49f8e1ba8d72353f879b804f",
-            "messageTitle": "Added main game area",
-            "messageBody": "",
+            "message": "Added main game area",
             "insertions": 50,
             "deletions": 4
           },
           {
             "hash": "9e229a36a6ce42e89d073770f1a201eeca0cdb05",
-            "messageTitle": "Implemented game area border",
-            "messageBody": "",
+            "message": "Implemented game area border",
             "insertions": 37,
             "deletions": 32
           },
           {
             "hash": "103fa3c54954f0772816434e54a857d1b9d7d5e6",
-            "messageTitle": "fix jump and size",
-            "messageBody": "",
+            "message": "fix jump and size",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "17b995a0ab3fd528274ae9453e27a4b4cea1c5b1",
-            "messageTitle": "Clean up code!",
-            "messageBody": "",
+            "message": "Clean up code!",
             "insertions": 1,
             "deletions": 28
           },
           {
             "hash": "43b4dae7e7a293a307f360d004dd7e136f26c5d2",
-            "messageTitle": "fix initial slime position",
-            "messageBody": "",
+            "message": "fix initial slime position",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8709cb221374dcbb4e549e46e1848c0daedeea9a",
-            "messageTitle": "Remove extra code",
-            "messageBody": "",
+            "message": "Remove extra code",
             "insertions": 0,
             "deletions": 25
           },
           {
             "hash": "33f5521441b91d2473f9a4c2613c4b95803a1d0b",
-            "messageTitle": "Remove code",
-            "messageBody": "",
+            "message": "Remove code",
             "insertions": 0,
             "deletions": 31
           },
           {
             "hash": "8665a82fb35b43be645b4b74b72e7fd83890e098",
-            "messageTitle": "Fix size and positions for slime",
-            "messageBody": "",
+            "message": "Fix size and positions for slime",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "28ab7313c4926796b184f00b2678eb3f6a73178e",
-            "messageTitle": "Implementing ladder halfway",
-            "messageBody": "",
+            "message": "Implementing ladder halfway",
             "insertions": 55,
             "deletions": 25
           }
@@ -190,22 +169,19 @@
         "commitResults": [
           {
             "hash": "cae7d9c8d923df6b46859f98e97e3365445e6725",
-            "messageTitle": "Set up ladderpositioning",
-            "messageBody": "",
+            "message": "Set up ladderpositioning",
             "insertions": 14,
             "deletions": 7
           },
           {
             "hash": "9a5782d133cd04d1513bb50020f57c8e9ffe2b47",
-            "messageTitle": "Set up ladder physics",
-            "messageBody": "",
+            "message": "Set up ladder physics",
             "insertions": 4,
             "deletions": 18
           },
           {
             "hash": "8a5def03763a49c29a2722a81f60251f5295aa57",
-            "messageTitle": "Cleaning up code for generating of level",
-            "messageBody": "",
+            "message": "Cleaning up code for generating of level",
             "insertions": 14,
             "deletions": 10
           }
@@ -218,15 +194,13 @@
         "commitResults": [
           {
             "hash": "291990eb058c26ee6410d00ea411c6c0b63b5e6c",
-            "messageTitle": "Set up interact button",
-            "messageBody": "",
+            "message": "Set up interact button",
             "insertions": 16,
             "deletions": 2
           },
           {
             "hash": "c70f222e69d7e2c9b983dc36e67fedf816a12590",
-            "messageTitle": "Integrated interact function for integrate button",
-            "messageBody": "",
+            "message": "Integrated interact function for integrate button",
             "insertions": 1,
             "deletions": 1
           }
@@ -239,8 +213,7 @@
         "commitResults": [
           {
             "hash": "ad9dff1b52a958f68eb83aee2e34ec35ebbd2a4d",
-            "messageTitle": "Refactor generating of scene code",
-            "messageBody": "",
+            "message": "Refactor generating of scene code",
             "insertions": 66,
             "deletions": 37
           }
@@ -253,50 +226,43 @@
         "commitResults": [
           {
             "hash": "17ea3951fe9f12e70ef30d843a65de1e88088f22",
-            "messageTitle": "Set up prefab and images",
-            "messageBody": "",
+            "message": "Set up prefab and images",
             "insertions": 33,
             "deletions": 0
           },
           {
             "hash": "9b48d1d27043d74c00fc6f4b7684bd97eb8b7cb8",
-            "messageTitle": "set up base menu prefab",
-            "messageBody": "",
+            "message": "set up base menu prefab",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "cbf2ff0019b4d1086b0f61987943a784e87805e2",
-            "messageTitle": "Generating apple pie into the menu",
-            "messageBody": "",
+            "message": "Generating apple pie into the menu",
             "insertions": 11,
             "deletions": 5
           },
           {
             "hash": "94328acd697b641388e532e4ba41d000d18b48ea",
-            "messageTitle": "Added temp ingredient as a child of the menu prefab recipe",
-            "messageBody": "",
+            "message": "Added temp ingredient as a child of the menu prefab recipe",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "1ae5d0465491422e572e8f21e7ca3bc793db3d51",
-            "messageTitle": "Added in countdown bar",
-            "messageBody": "",
+            "message": "Added in countdown bar",
             "insertions": 12,
             "deletions": 2
           },
           {
             "hash": "c04c9b378e3d77aee89604dfc252e64ececf0002",
-            "messageTitle": "Adding ingredients and change pos",
-            "messageBody": "",
+            "message": "Adding ingredients and change pos",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "fb5d72dffdcc039c0d998dd4c8f771c2799f615d",
-            "messageTitle": "Menu prefab refinement",
-            "messageBody": "",
+            "message": "Menu prefab refinement",
             "insertions": 3,
             "deletions": 1
           }
@@ -309,8 +275,7 @@
         "commitResults": [
           {
             "hash": "3dd5c9ee88cf58a4de17fb00ad0cb6f950fe7221",
-            "messageTitle": "Test countdown scale prefab",
-            "messageBody": "",
+            "message": "Test countdown scale prefab",
             "insertions": 8,
             "deletions": 0
           }
@@ -323,57 +288,49 @@
         "commitResults": [
           {
             "hash": "795f54fe18ac995d27b9b2fe680586ec2e61d9b3",
-            "messageTitle": "Set anchor point",
-            "messageBody": "",
+            "message": "Set anchor point",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "7842a6ab5a68e205670c695cb4cd1f283935fef4",
-            "messageTitle": "Timer works!!",
-            "messageBody": "",
+            "message": "Timer works!!",
             "insertions": 35,
             "deletions": 12
           },
           {
             "hash": "02ab8c4c76216d3f278cf01afa5645e598e616fc",
-            "messageTitle": "Remove unneeded lines of code",
-            "messageBody": "",
+            "message": "Remove unneeded lines of code",
             "insertions": 4,
             "deletions": 18
           },
           {
             "hash": "825c7f4232df4e1aafd87f4a6cdc7808f70b86d7",
-            "messageTitle": "Update potato to apple",
-            "messageBody": "",
+            "message": "Update potato to apple",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "6be8085055e0caf2ff54f50d2563159be8856d34",
-            "messageTitle": "Update Menu Prefab look",
-            "messageBody": "",
+            "message": "Update Menu Prefab look",
             "insertions": 9,
             "deletions": 6
           },
           {
             "hash": "ca166465cf44fc81a62f45484dca9125a81384f9",
-            "messageTitle": "Rename countdown function",
-            "messageBody": "",
+            "message": "Rename countdown function",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "1b5182fd6684ce003baadc312f7b894230115975",
-            "messageTitle": "Abstraction of add ingredient function",
-            "messageBody": "",
+            "message": "Abstraction of add ingredient function",
             "insertions": 14,
             "deletions": 10
           },
           {
             "hash": "09da0d0db3164ab9e01787c864a9bacf8238867c",
-            "messageTitle": "Set up temp collection view",
-            "messageBody": "",
+            "message": "Set up temp collection view",
             "insertions": 27,
             "deletions": 1
           }
@@ -386,71 +343,61 @@
         "commitResults": [
           {
             "hash": "5ded6d0c465939cdc44d5f1712d39ccad3e43848",
-            "messageTitle": "Layout finally works!!!!!",
-            "messageBody": "",
+            "message": "Layout finally works!!!!!",
             "insertions": 108,
             "deletions": 19
           },
           {
             "hash": "c38aab19a71263f95e2dcc53d8a3a7e80f54a431",
-            "messageTitle": "Fix collection view",
-            "messageBody": "",
+            "message": "Fix collection view",
             "insertions": 30,
             "deletions": 29
           },
           {
             "hash": "cf96199093ee287cdd62f70b22c04dd7dc0e6a7f",
-            "messageTitle": "Remove unneeded code",
-            "messageBody": "",
+            "message": "Remove unneeded code",
             "insertions": 1,
             "deletions": 24
           },
           {
             "hash": "748318e5a7194296f9d759702205a768b556dbf1",
-            "messageTitle": "Update plist to include recipe name",
-            "messageBody": "",
+            "message": "Update plist to include recipe name",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "f420f07b9a3244d1cd25309689f82fa205decdc3",
-            "messageTitle": "Integrate recipe name",
-            "messageBody": "",
+            "message": "Integrate recipe name",
             "insertions": 20,
             "deletions": 18
           },
           {
             "hash": "fb6ec2d21c365169e62f211bb3317565aef22cfc",
-            "messageTitle": "Modified recipe input",
-            "messageBody": "",
+            "message": "Modified recipe input",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "918d4874d229202302e9416599624a98d3030a6e",
-            "messageTitle": "Creating menu prefab based off recipe name and ingredients type parsed in the plist",
-            "messageBody": "",
+            "message": "Creating menu prefab based off recipe name and ingredients type parsed in the plist",
             "insertions": 14,
             "deletions": 7
           },
           {
             "hash": "71c62e12b751d1c8b8b8c26e805d9e4133c737fa",
-            "messageTitle": "Clean up code",
-            "messageBody": "",
+            "message": "Clean up code",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "e3d5e59d0995520f547d0aa8ffc68c426de7d814",
-            "messageTitle": "Set up table image",
-            "messageBody": "",
+            "message": "Set up table image",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "63a357f59f20be4a08c6641d89dcc4c253420220",
-            "messageTitle": "Made every station setup to be a table",
-            "messageBody": "",
+            "message": "Made every station setup to be a table",
             "insertions": 4,
             "deletions": 6
           }
@@ -463,15 +410,13 @@
         "commitResults": [
           {
             "hash": "d431a73a86f43fb4e1cba98bbf4d263fb2e5ece1",
-            "messageTitle": "Updated slime zpositioning, remove random lying tables",
-            "messageBody": "",
+            "message": "Updated slime zpositioning, remove random lying tables",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "82837d24e00310eab05d6b6c7a4ef2faaf65511a",
-            "messageTitle": "Why does it works i have no idea",
-            "messageBody": "",
+            "message": "Why does it works i have no idea",
             "insertions": 4,
             "deletions": 3
           }
@@ -484,50 +429,43 @@
         "commitResults": [
           {
             "hash": "0c83d7e89ff665cfb81e2ca256771ab58b2939e6",
-            "messageTitle": "Added in countdown label for the stage",
-            "messageBody": "",
+            "message": "Added in countdown label for the stage",
             "insertions": 15,
             "deletions": 0
           },
           {
             "hash": "5aad471fa5b13172510636feb2c984a54ca0ee30",
-            "messageTitle": "Implemented gameover logic",
-            "messageBody": "",
+            "message": "Implemented gameover logic",
             "insertions": 29,
             "deletions": 1
           },
           {
             "hash": "9c05b2cb57b4cd68f55efec1b9a5f48f02126e87",
-            "messageTitle": "Change viewDidAppear code to viewDidLoad",
-            "messageBody": "",
+            "message": "Change viewDidAppear code to viewDidLoad",
             "insertions": 16,
             "deletions": 18
           },
           {
             "hash": "4d7e1400ab2d9416e68affaec7022dfae74c9bb4",
-            "messageTitle": "Countdown table implemented",
-            "messageBody": "",
+            "message": "Countdown table implemented",
             "insertions": 5,
             "deletions": 7
           },
           {
             "hash": "b0ee6bb54db0695a6d37fdebe1fcf5e9062390f6",
-            "messageTitle": "Updated countdown timer positioning",
-            "messageBody": "",
+            "message": "Updated countdown timer positioning",
             "insertions": 25,
             "deletions": 21
           },
           {
             "hash": "418e626113dd94ea51042c106bb290230ad9e590",
-            "messageTitle": "Set up rest of station and positioning",
-            "messageBody": "",
+            "message": "Set up rest of station and positioning",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "19cede94d998d6a858c93133024c0728df03b0a3",
-            "messageTitle": "integrate order timing to the menu prefab",
-            "messageBody": "",
+            "message": "integrate order timing to the menu prefab",
             "insertions": 12,
             "deletions": 12
           }
@@ -540,85 +478,73 @@
         "commitResults": [
           {
             "hash": "59a750d4e4d6ff4f30655c844af2ddcb18a504ef",
-            "messageTitle": "implmenting halfway",
-            "messageBody": "",
+            "message": "implmenting halfway",
             "insertions": 16,
             "deletions": 12
           },
           {
             "hash": "0369d04cb7da3614bd200cd9f7e7b9cc60d2e6c0",
-            "messageTitle": "Updated format for parsing border and blocked area",
-            "messageBody": "",
+            "message": "Updated format for parsing border and blocked area",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "f1f99218d104b50095e51b88bd0c34f8d49915b0",
-            "messageTitle": "Fix blocked area collider",
-            "messageBody": "",
+            "message": "Fix blocked area collider",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "617b919ca712b0a1a73a45ebfdbef7f7ade60742",
-            "messageTitle": "Fix one ore border and updated speed to make it more smooth",
-            "messageBody": "",
+            "message": "Fix one ore border and updated speed to make it more smooth",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "776a46a550d8cb5e2ad72a69b2f22f2e3760b168",
-            "messageTitle": "Updated plate asset",
-            "messageBody": "",
+            "message": "Updated plate asset",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "6f0fbc051f87231d0efb5a40254255e59c5fd454",
-            "messageTitle": "Updated assets when picking up food",
-            "messageBody": "",
+            "message": "Updated assets when picking up food",
             "insertions": 11,
             "deletions": 5
           },
           {
             "hash": "c72e1b1b93fa0a38b458ebf015fbfe69c9ac747a",
-            "messageTitle": "Updated asset",
-            "messageBody": "",
+            "message": "Updated asset",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "cbe4bebff1d7e455d8003406f73f8ce509d6b2c2",
-            "messageTitle": "Implemented serving logic and a back button",
-            "messageBody": "",
+            "message": "Implemented serving logic and a back button",
             "insertions": 43,
             "deletions": 6
           },
           {
             "hash": "a86f92c7279c6456f2609e419a4a73b6b433cd99",
-            "messageTitle": "Update font type",
-            "messageBody": "",
+            "message": "Update font type",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "91fa6fa1f729ca2a129745276ac8e7cbab088e3c",
-            "messageTitle": "Refinement on positioning and font",
-            "messageBody": "",
+            "message": "Refinement on positioning and font",
             "insertions": 9,
             "deletions": 10
           },
           {
             "hash": "010bf23487a4950575ad8d9498f94d34c2f571e0",
-            "messageTitle": "Edit syntax",
-            "messageBody": "",
+            "message": "Edit syntax",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "7e469e8fd22c53031d1f33abb8e8e951b69b2767",
-            "messageTitle": "Fix number",
-            "messageBody": "",
+            "message": "Fix number",
             "insertions": 1,
             "deletions": 1
           }
@@ -631,36 +557,31 @@
         "commitResults": [
           {
             "hash": "5d62fcc9b81cfd12a60403f263007391489926e2",
-            "messageTitle": "Initial set up of game over prefab and refinements",
-            "messageBody": "",
+            "message": "Initial set up of game over prefab and refinements",
             "insertions": 36,
             "deletions": 4
           },
           {
             "hash": "9603bcfa6b257f560ffac9488f604108464431c7",
-            "messageTitle": "Rough set up of game over screen",
-            "messageBody": "",
+            "message": "Rough set up of game over screen",
             "insertions": 57,
             "deletions": 7
           },
           {
             "hash": "1e589ea8d39867c75ef64ac80a4cab0562407db4",
-            "messageTitle": "Set up audio script",
-            "messageBody": "",
+            "message": "Set up audio script",
             "insertions": 28,
             "deletions": 0
           },
           {
             "hash": "f8f136015c238c3a773e86c695db88bef1b5bef5",
-            "messageTitle": "Update music set up",
-            "messageBody": "",
+            "message": "Update music set up",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "f9db8d0ea232656262c5df336a7396c105deacc5",
-            "messageTitle": "Refinement",
-            "messageBody": "",
+            "message": "Refinement",
             "insertions": 2,
             "deletions": 6
           }
@@ -673,22 +594,19 @@
         "commitResults": [
           {
             "hash": "f43471e25e761450d6aabf62a7dc6b9e10faa34e",
-            "messageTitle": "Refining and reorganizing assets",
-            "messageBody": "",
+            "message": "Refining and reorganizing assets",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "99d50c7ee09fd1140733a9ade8fd3f304271e046",
-            "messageTitle": "Updating assets and editing game  over prefab",
-            "messageBody": "",
+            "message": "Updating assets and editing game  over prefab",
             "insertions": 13,
             "deletions": 4
           },
           {
             "hash": "b846798a64601871b259cb6694f6f7fa6dc375a5",
-            "messageTitle": "Update assets",
-            "messageBody": "",
+            "message": "Update assets",
             "insertions": 8,
             "deletions": 6
           }
@@ -701,29 +619,25 @@
         "commitResults": [
           {
             "hash": "afbc04123fe0e9a0848ed09383aa5c55451a3324",
-            "messageTitle": "nani",
-            "messageBody": "",
+            "message": "nani",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8128fafa38a6b3a74ebedd7f80ddf95696df43da",
-            "messageTitle": "Fix Game over screen/prefab",
-            "messageBody": "",
+            "message": "Fix Game over screen/prefab",
             "insertions": 19,
             "deletions": 13
           },
           {
             "hash": "4725343fc016ed7742ac9af1c812070d1de7b883",
-            "messageTitle": "Positioning of the menu prefabs",
-            "messageBody": "",
+            "message": "Positioning of the menu prefabs",
             "insertions": 18,
             "deletions": 3
           },
           {
             "hash": "839faa1968ae763050c5b2ae05bf7dfd9d51cb84",
-            "messageTitle": "MORE REFINEMENTS",
-            "messageBody": "",
+            "message": "MORE REFINEMENTS",
             "insertions": 8,
             "deletions": 1
           }
@@ -736,50 +650,43 @@
         "commitResults": [
           {
             "hash": "11fbda1c65ac279d8f8e8679a494577e1510ca81",
-            "messageTitle": "Refinement",
-            "messageBody": "",
+            "message": "Refinement",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "e16cb288ad73ecbf4ba1b8b5f43a72e773fd1c2e",
-            "messageTitle": "Refine sizing and positioning",
-            "messageBody": "",
+            "message": "Refine sizing and positioning",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "fadccb59b94528e154d4932df6fe679bf625a436",
-            "messageTitle": "Update menu prefab",
-            "messageBody": "",
+            "message": "Update menu prefab",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "8e873edd8472a5e11d07e9f314a57a7c416848e3",
-            "messageTitle": "Refine prefabs and UI",
-            "messageBody": "",
+            "message": "Refine prefabs and UI",
             "insertions": 9,
             "deletions": 1
           },
           {
             "hash": "9c0db60a89636afefe876204ba81a21ba6e4a6de",
-            "messageTitle": "Yay progress bar",
-            "messageBody": "",
+            "message": "Yay progress bar",
             "insertions": 20,
             "deletions": 0
           },
           {
             "hash": "a8b3e20f4960a52591283cc94129c1a4a21af1cf",
-            "messageTitle": "update assets",
-            "messageBody": "",
+            "message": "update assets",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "7c6b601ec17163505db0f1a8369d58c7a38f83b8",
-            "messageTitle": "Changed values for the time being, more testing needed",
-            "messageBody": "",
+            "message": "Changed values for the time being, more testing needed",
             "insertions": 2,
             "deletions": 2
           }
@@ -792,43 +699,37 @@
         "commitResults": [
           {
             "hash": "c476ac74af244b690de7d76be28b8c666d553d0a",
-            "messageTitle": "Remove menu prefab when order is completed",
-            "messageBody": "",
+            "message": "Remove menu prefab when order is completed",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "0beaa64601255de39d0acaee998b7aa481b1a4ed",
-            "messageTitle": "Refine timing and fix bug",
-            "messageBody": "",
+            "message": "Refine timing and fix bug",
             "insertions": 3,
             "deletions": 4
           },
           {
             "hash": "b11048ac8fda37a326767f670e818986652330c9",
-            "messageTitle": "Update prefab positioning",
-            "messageBody": "",
+            "message": "Update prefab positioning",
             "insertions": 12,
             "deletions": 1
           },
           {
             "hash": "bbe5119f719a5bbc6972121afb774f35d36afb85",
-            "messageTitle": "Refining of values",
-            "messageBody": "",
+            "message": "Refining of values",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "2d31abfd904622b1c040e2ad18ddb1e64df0a087",
-            "messageTitle": "Remove menu prefab when complete timer is up",
-            "messageBody": "",
+            "message": "Remove menu prefab when complete timer is up",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "a350da880117179642c65f64f0fe65c0ef82f13a",
-            "messageTitle": "Temp set up of trashbin",
-            "messageBody": "",
+            "message": "Temp set up of trashbin",
             "insertions": 14,
             "deletions": 1
           }
@@ -841,50 +742,43 @@
         "commitResults": [
           {
             "hash": "ffe5e1364887900075aede080161a1bf2e8b8619",
-            "messageTitle": "Update trashbin",
-            "messageBody": "",
+            "message": "Update trashbin",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8286c240551860ce7b56fbe63c6cb419990da013",
-            "messageTitle": "fix trashbin",
-            "messageBody": "",
+            "message": "fix trashbin",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "c75e8e10b44767ef3c69931d79feed859ac6622d",
-            "messageTitle": "Refinements for positionings",
-            "messageBody": "",
+            "message": "Refinements for positionings",
             "insertions": 7,
             "deletions": 4
           },
           {
             "hash": "8538278e4eac0e7e531a39ec90286d27ad3f2eb2",
-            "messageTitle": "remove unneeded audio controller",
-            "messageBody": "",
+            "message": "remove unneeded audio controller",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "df12c7de0b6b81e2f562038df1981d3dec5ada2e",
-            "messageTitle": "refinements",
-            "messageBody": "",
+            "message": "refinements",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "3f3d6a3bec53640c273579f5d29182cf8867261c",
-            "messageTitle": "remove unneeded lines",
-            "messageBody": "",
+            "message": "remove unneeded lines",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "c5d01ced22323084d140125a962ed964164e7b95",
-            "messageTitle": "Initial setup",
-            "messageBody": "",
+            "message": "Initial setup",
             "insertions": 29,
             "deletions": 7
           }
@@ -897,64 +791,55 @@
         "commitResults": [
           {
             "hash": "42602200c60d4815689846089f3b5e751ba84a42",
-            "messageTitle": "Displaying ingredients on the plate",
-            "messageBody": "",
+            "message": "Displaying ingredients on the plate",
             "insertions": 11,
             "deletions": 4
           },
           {
             "hash": "21ff3eccd2731b1b9988ff61d7ca862ab95b958f",
-            "messageTitle": "Update joystick behaviour",
-            "messageBody": "",
+            "message": "Update joystick behaviour",
             "insertions": 20,
             "deletions": 1
           },
           {
             "hash": "a36b1eebfd699c1c68a94e59fee5b1cfd61752b8",
-            "messageTitle": "Fix bugs",
-            "messageBody": "",
+            "message": "Fix bugs",
             "insertions": 19,
             "deletions": 19
           },
           {
             "hash": "75eb408a997edb9d854c5b07b42167f878bc8a52",
-            "messageTitle": "Refinements to the joystick",
-            "messageBody": "",
+            "message": "Refinements to the joystick",
             "insertions": 20,
             "deletions": 18
           },
           {
             "hash": "4bf2ed1f475aee5b0aa23c196aa614fa903fbd94",
-            "messageTitle": "Initial set up of camera",
-            "messageBody": "",
+            "message": "Initial set up of camera",
             "insertions": 14,
             "deletions": 0
           },
           {
             "hash": "e5ba36669cfb20487b0ae59be1816280c405f588",
-            "messageTitle": "set up fix prefabs to the screen despite the camera movements",
-            "messageBody": "",
+            "message": "set up fix prefabs to the screen despite the camera movements",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "3d7cb8c87163bd0339fdebeab156d9ef0b4ef5bf",
-            "messageTitle": "Refactoring",
-            "messageBody": "",
+            "message": "Refactoring",
             "insertions": 11,
             "deletions": 11
           },
           {
             "hash": "4d9843ec3762f4b4f5257841814c6da9e9de4cae",
-            "messageTitle": "Update refactoring",
-            "messageBody": "",
+            "message": "Update refactoring",
             "insertions": 11,
             "deletions": 11
           },
           {
             "hash": "eae8facb9511a656a4aa67a0c75cdfeba297a2ba",
-            "messageTitle": "Menu prefab under camera as a child instead of the scene",
-            "messageBody": "",
+            "message": "Menu prefab under camera as a child instead of the scene",
             "insertions": 7,
             "deletions": 7
           }
@@ -967,106 +852,91 @@
         "commitResults": [
           {
             "hash": "5eef5590a40583fef0801f8c868fe2880bd360d5",
-            "messageTitle": "Change size of the level",
-            "messageBody": "",
+            "message": "Change size of the level",
             "insertions": 12,
             "deletions": 10
           },
           {
             "hash": "3c15cf0d17b39e8b10dcd48aa65128151eeb32bc",
-            "messageTitle": "Refine borders",
-            "messageBody": "",
+            "message": "Refine borders",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "abe62883bb8e2ba5fa73116dd69b0c9e8acf3dc3",
-            "messageTitle": "Refinements to the plist",
-            "messageBody": "",
+            "message": "Refinements to the plist",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "e2e9ebb657945b5fb4b655fe9a01b605cd9f75c9",
-            "messageTitle": "Refinements to the positionings",
-            "messageBody": "",
+            "message": "Refinements to the positionings",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "adfd1949ffe1844bfefef0b735d02f97a264e39e",
-            "messageTitle": "Fix size",
-            "messageBody": "",
+            "message": "Fix size",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6fe8d386f78fe93357f104419db2bba20db9599d",
-            "messageTitle": "Removing the joystick that can be moved anywhere temp",
-            "messageBody": "",
+            "message": "Removing the joystick that can be moved anywhere temp",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "dcb2f1d1bef2dec3cc92673f550fde9d426f9665",
-            "messageTitle": "Added back ingredient image and refined size for the plates",
-            "messageBody": "",
+            "message": "Added back ingredient image and refined size for the plates",
             "insertions": 9,
             "deletions": 7
           },
           {
             "hash": "65c9ce71739e696a543192422c5a0ad1914f6b66",
-            "messageTitle": "remove unneeded code",
-            "messageBody": "",
+            "message": "remove unneeded code",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "bd3cb3354a2674ea67b4f443f883b17e5ad2a7b0",
-            "messageTitle": "Remove joystick refinements for now",
-            "messageBody": "",
+            "message": "Remove joystick refinements for now",
             "insertions": 0,
             "deletions": 22
           },
           {
             "hash": "ec135231501e57aea1f9a3caa82be732d5bd9964",
-            "messageTitle": "#sendhelp Gabriel",
-            "messageBody": "",
+            "message": "#sendhelp Gabriel",
             "insertions": 8,
             "deletions": 2
           },
           {
             "hash": "0f0e18a577a4d474aa8e65bd92f063fef0da3184",
-            "messageTitle": "fix game over screen",
-            "messageBody": "",
+            "message": "fix game over screen",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "ca71ffe3edecbaaeabf5a171be12106e658c8b24",
-            "messageTitle": "Link back to main screen controller",
-            "messageBody": "",
+            "message": "Link back to main screen controller",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "db236300a93c4e4ff919eafda04b0bb2337c4163",
-            "messageTitle": "restart game",
-            "messageBody": "",
+            "message": "restart game",
             "insertions": 8,
             "deletions": 6
           },
           {
             "hash": "5630e89690ac7be58d39a6245e6d1cc72a808a48",
-            "messageTitle": "Linking up the game flow",
-            "messageBody": "",
+            "message": "Linking up the game flow",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "7cad240d86e4e7f4c34938bf6ba715cc95c51366",
-            "messageTitle": "Update score to increase instead of a fixed constant",
-            "messageBody": "",
+            "message": "Update score to increase instead of a fixed constant",
             "insertions": 10,
             "deletions": 1
           }
@@ -1079,36 +949,31 @@
         "commitResults": [
           {
             "hash": "1064644c62845d21b51cdbd4ee0180c54703f2b8",
-            "messageTitle": "Rearrangement of code",
-            "messageBody": "",
+            "message": "Rearrangement of code",
             "insertions": 32,
             "deletions": 32
           },
           {
             "hash": "27fa1f7537c80707670c1f5f9a2d6c159d955dca",
-            "messageTitle": "Rearrangement of code",
-            "messageBody": "",
+            "message": "Rearrangement of code",
             "insertions": 72,
             "deletions": 72
           },
           {
             "hash": "e4041f26a48eb0eac00ff6d626228b1f89d9d03f",
-            "messageTitle": "setting up ready label for now",
-            "messageBody": "",
+            "message": "setting up ready label for now",
             "insertions": 11,
             "deletions": 0
           },
           {
             "hash": "8f6ab0dbd184171700182f0c74655713f97b126f",
-            "messageTitle": "add in ready label",
-            "messageBody": "",
+            "message": "add in ready label",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "31e4f9e099b309c74f7a9efb7c50aaec6b13ffe2",
-            "messageTitle": "Set up ready and go flag",
-            "messageBody": "",
+            "message": "Set up ready and go flag",
             "insertions": 12,
             "deletions": 4
           }
@@ -1121,134 +986,115 @@
         "commitResults": [
           {
             "hash": "3bcdb4dd611cb8a4f4c383032aa76740ce21af63",
-            "messageTitle": "in progress",
-            "messageBody": "",
+            "message": "in progress",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "69caad9d1b243378ddf0314f9c80e3fabb8c7dea",
-            "messageTitle": "change prefab",
-            "messageBody": "",
+            "message": "change prefab",
             "insertions": 4,
             "deletions": 9
           },
           {
             "hash": "388ebd50c647ab96d55455dff4c10c28ef9ab941",
-            "messageTitle": "Set up ready and go flag prefab",
-            "messageBody": "",
+            "message": "Set up ready and go flag prefab",
             "insertions": 7,
             "deletions": 9
           },
           {
             "hash": "0deba081d9bef3143e6859e592ef05c1cbb9eefb",
-            "messageTitle": "Added black bg to prevent tapping on buttons",
-            "messageBody": "",
+            "message": "Added black bg to prevent tapping on buttons",
             "insertions": 12,
             "deletions": 1
           },
           {
             "hash": "8543eadb23262eb2c92e8b87a07bd0719b6d65ca",
-            "messageTitle": "New implementation",
-            "messageBody": "",
+            "message": "New implementation",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "180d84017274c265c0775205ce3e7c841a6eba4e",
-            "messageTitle": "Renaming assets and linking back to atlases",
-            "messageBody": "",
+            "message": "Renaming assets and linking back to atlases",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "8b8a46418884eb1d201f7a6ed67132691e288280",
-            "messageTitle": "refine size and positioning of asset",
-            "messageBody": "",
+            "message": "refine size and positioning of asset",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "7b893d7de76f4aa87ffb88787d3e502e673de404",
-            "messageTitle": "Refining positionings",
-            "messageBody": "",
+            "message": "Refining positionings",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "ca3c6d0d80d0cb0d2bef4eeeaade133f6563fdba",
-            "messageTitle": "Update recipe and implementation for adding ingredients",
-            "messageBody": "",
+            "message": "Update recipe and implementation for adding ingredients",
             "insertions": 10,
             "deletions": 7
           },
           {
             "hash": "2eab51da855ff2403bd2740f7a617d40bb551664",
-            "messageTitle": "Assets update",
-            "messageBody": "",
+            "message": "Assets update",
             "insertions": 16,
             "deletions": 5
           },
           {
             "hash": "46853fcde2b188ccf93a651e4b652ba113a257c9",
-            "messageTitle": "Refining",
-            "messageBody": "",
+            "message": "Refining",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "b536f9007ca3a6653fcbe54c0fd7a3899f4802d9",
-            "messageTitle": "Fix ingredient that is showing up after chopping and baking",
-            "messageBody": "",
+            "message": "Fix ingredient that is showing up after chopping and baking",
             "insertions": 4,
             "deletions": 6
           },
           {
             "hash": "16431a4c414ceff43f0a1ac3a8881ec167fc13c9",
-            "messageTitle": "More refinements to positionings",
-            "messageBody": "",
+            "message": "More refinements to positionings",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5a100ebdae84c84feaef57afb265fee0355abca0",
-            "messageTitle": "Enable detection of joystick to be around the screen",
-            "messageBody": "",
+            "message": "Enable detection of joystick to be around the screen",
             "insertions": 24,
             "deletions": 0
           },
           {
             "hash": "919194ec77e6727d14b3678d6db742f76d19a301",
-            "messageTitle": "Clean up a bit of code",
-            "messageBody": "",
+            "message": "Clean up a bit of code",
             "insertions": 3,
             "deletions": 5
           },
           {
             "hash": "1d382d86063c2327d0ba7b28ca6b927fa9be05f3",
-            "messageTitle": "Fix bug and fak this!!! fak xcode uwu",
-            "messageBody": "",
+            "message": "Fix bug and fak this!!! fak xcode uwu",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "bfcd9998571ada89f892ea9a9ae849dc05683643",
-            "messageTitle": "Save my soul please",
-            "messageBody": "",
+            "message": "Save my soul please",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "0539faef4f58f1334c7f90dd8bd2667fa3c1bbdd",
-            "messageTitle": "Update assets",
-            "messageBody": "",
+            "message": "Update assets",
             "insertions": 7,
             "deletions": 6
           },
           {
             "hash": "75c2ba9425aa1abcb163b98ec959b946808111f3",
-            "messageTitle": "fak xcode!! OWO",
-            "messageBody": "",
+            "message": "fak xcode!! OWO",
             "insertions": 5,
             "deletions": 3
           }
@@ -1261,204 +1107,175 @@
         "commitResults": [
           {
             "hash": "fb0b11f625ee909a8db3b972125d5f2728af1bc0",
-            "messageTitle": "1 step at a time guys",
-            "messageBody": "",
+            "message": "1 step at a time guys",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "f0d17a82c087153c8b127d1d41393a5190080a13",
-            "messageTitle": "Update more assets",
-            "messageBody": "",
+            "message": "Update more assets",
             "insertions": 14,
             "deletions": 7
           },
           {
             "hash": "bb95461aa099e31e6464677b4070a05a5518d107",
-            "messageTitle": "Refine",
-            "messageBody": "",
+            "message": "Refine",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e2e97dad2373fa15fe5ca26efe3e1ee48a44066a",
-            "messageTitle": "save me pls",
-            "messageBody": "",
+            "message": "save me pls",
             "insertions": 11,
             "deletions": 9
           },
           {
             "hash": "3846269da791f93f99435aec1ad29ea41c9f5279",
-            "messageTitle": "idk help",
-            "messageBody": "",
+            "message": "idk help",
             "insertions": 9,
             "deletions": 3
           },
           {
             "hash": "10e4eb20d258b0b0f3e1b72ef44d6f7b50629a4f",
-            "messageTitle": "refine",
-            "messageBody": "",
+            "message": "refine",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "6ca176c6c63e49a335ea4a6a9c0c99fa9406c6ad",
-            "messageTitle": "uwu...",
-            "messageBody": "",
+            "message": "uwu...",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "d74b65459900386385a520876e4e77d89e1f2bd9",
-            "messageTitle": "my soul is dying",
-            "messageBody": "",
+            "message": "my soul is dying",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "d85f7e293fae95527aacf5ab651d19d133360a28",
-            "messageTitle": "Change color",
-            "messageBody": "",
+            "message": "Change color",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "f3396542bbdd7182a890600643cb5d7d83326db6",
-            "messageTitle": "Accessories and Hat set up",
-            "messageBody": "",
+            "message": "Accessories and Hat set up",
             "insertions": 15,
             "deletions": 4
           },
           {
             "hash": "df32dcf5c649e8d68fcadab23bca275238554576",
-            "messageTitle": "color",
-            "messageBody": "",
+            "message": "color",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "12bcbad7b7a700e80dd575d6eb2d9b4c6e3f5e7e",
-            "messageTitle": "Fix",
-            "messageBody": "",
+            "message": "Fix",
             "insertions": 58,
             "deletions": 52
           },
           {
             "hash": "47190115bc147534abccdab37283486aadbcfeca",
-            "messageTitle": "refactor",
-            "messageBody": "",
+            "message": "refactor",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "b2e4e101348c59e9d7cddfa25134b890bbb52d3e",
-            "messageTitle": "switch statements for level",
-            "messageBody": "",
+            "message": "switch statements for level",
             "insertions": 29,
             "deletions": 3
           },
           {
             "hash": "bd82af69ac0832449a2a30e6200f0dc8126103f5",
-            "messageTitle": "halp",
-            "messageBody": "",
+            "message": "halp",
             "insertions": 17,
             "deletions": 14
           },
           {
             "hash": "2f770d624407245bf6b5b9689e85f1b00a752b33",
-            "messageTitle": "meow",
-            "messageBody": "",
+            "message": "meow",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "1b9b7e405e0e599b8a05bd3676424e85a8efc412",
-            "messageTitle": "chottou a minute",
-            "messageBody": "",
+            "message": "chottou a minute",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "fcc0c803b0c94ff659321c306e86deaa862e989a",
-            "messageTitle": "OWOW!!!!",
-            "messageBody": "",
+            "message": "OWOW!!!!",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ca58cc29ea60930bf6a4601a129a73e6ce619c78",
-            "messageTitle": "UWU",
-            "messageBody": "",
+            "message": "UWU",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "cceb144b5b2ccbf67ef8efaa6e5b6988e079fcb5",
-            "messageTitle": "aaa",
-            "messageBody": "",
+            "message": "aaa",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "fdb05c0408de0575a51195bb599410dd647a090d",
-            "messageTitle": "meow",
-            "messageBody": "",
+            "message": "meow",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "31a8f58cb90966c936c5d7c6a84d681740c501cc",
-            "messageTitle": "yay",
-            "messageBody": "",
+            "message": "yay",
             "insertions": 18,
             "deletions": 2
           },
           {
             "hash": "0d3166eba0d32e90e9c7a653f39c652bc13db239",
-            "messageTitle": "OWOWOWO",
-            "messageBody": "",
+            "message": "OWOWOWO",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "e37541b302dc74a48da60b6f846d58ea6f208b36",
-            "messageTitle": "omo",
-            "messageBody": "",
+            "message": "omo",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "0c117a5221f2ddbcec3ee901b0fdf7a7e03a1ffc",
-            "messageTitle": "fix",
-            "messageBody": "",
+            "message": "fix",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "ea0e2be6e11cded39ec53cffe29c3c57c43ed43c",
-            "messageTitle": "owo",
-            "messageBody": "",
+            "message": "owo",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "691d12da40bf20b9d30935718ce8d3ba9050bdf2",
-            "messageTitle": "!?",
-            "messageBody": "",
+            "message": "!?",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "f743360bee0ffd4aedb2268491072b089bb0cc41",
-            "messageTitle": "owowoowow",
-            "messageBody": "",
+            "message": "owowoowow",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "21df28456cc08b88323446cc82e227481f3a138c",
-            "messageTitle": "chopchop fryfry",
-            "messageBody": "",
+            "message": "chopchop fryfry",
             "insertions": 10,
             "deletions": 0
           }
@@ -1471,15 +1288,13 @@
         "commitResults": [
           {
             "hash": "cfeb82eb3a0fe32c1cbd00a0c2267d59627f8ee0",
-            "messageTitle": "ish best i can do",
-            "messageBody": "",
+            "message": "ish best i can do",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "df370f0bb6b33f0a2619ba67a4affa8c86f9f4d7",
-            "messageTitle": "it junk",
-            "messageBody": "",
+            "message": "it junk",
             "insertions": 3,
             "deletions": 3
           }
@@ -1492,29 +1307,25 @@
         "commitResults": [
           {
             "hash": "7069c3a1c6fb37e6a4ef4756d1168298cd92975e",
-            "messageTitle": "Some cleaning up",
-            "messageBody": "",
+            "message": "Some cleaning up",
             "insertions": 0,
             "deletions": 20
           },
           {
             "hash": "32b9f86d2861e0ad8568c67b5bcee3c1bd539600",
-            "messageTitle": "More cleaning up",
-            "messageBody": "",
+            "message": "More cleaning up",
             "insertions": 2,
             "deletions": 14
           },
           {
             "hash": "9a15da78c1543281430104c76f9439296f8cf48f",
-            "messageTitle": "more cleaning~",
-            "messageBody": "",
+            "message": "more cleaning~",
             "insertions": 10,
             "deletions": 39
           },
           {
             "hash": "a93abff4ba7c73f45da7ffd73d74cd551a35fe0a",
-            "messageTitle": "why cleaning so tough owo",
-            "messageBody": "",
+            "message": "why cleaning so tough owo",
             "insertions": 6,
             "deletions": 5
           }
@@ -1527,43 +1338,37 @@
         "commitResults": [
           {
             "hash": "6cee148b05c07e375506f91772912a6f0336e406",
-            "messageTitle": "clean up shit",
-            "messageBody": "",
+            "message": "clean up shit",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "c958e3268642e31371a45236951110f8e949805b",
-            "messageTitle": "Adding in comments for the menuprefab class",
-            "messageBody": "",
+            "message": "Adding in comments for the menuprefab class",
             "insertions": 18,
             "deletions": 2
           },
           {
             "hash": "306596e8c2a69a213a74b4d715db3c72aecba9bd",
-            "messageTitle": "more comments",
-            "messageBody": "",
+            "message": "more comments",
             "insertions": 14,
             "deletions": 28
           },
           {
             "hash": "70067bb34112382fbc632117a0cbed8493f9e187",
-            "messageTitle": "More cleaning up",
-            "messageBody": "",
+            "message": "More cleaning up",
             "insertions": 0,
             "deletions": 25
           },
           {
             "hash": "a8adfc50d5a7c48d6ea88e4fc7497d1af42d3db7",
-            "messageTitle": "lalla",
-            "messageBody": "",
+            "message": "lalla",
             "insertions": 0,
             "deletions": 7
           },
           {
             "hash": "d0040776b3d0ccaecbb2f44e573a5f2dfce030e1",
-            "messageTitle": "More comments~",
-            "messageBody": "",
+            "message": "More comments~",
             "insertions": 4,
             "deletions": 2
           }
@@ -1578,43 +1383,37 @@
         "commitResults": [
           {
             "hash": "a1126af31d4a6b05baf852e92512527ad102e794",
-            "messageTitle": "configured firebase",
-            "messageBody": "",
+            "message": "configured firebase",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "8e1ee7049c19894b530fb32c7e3c317cf536ccc5",
-            "messageTitle": "added interfaces for networking",
-            "messageBody": "",
+            "message": "added interfaces for networking",
             "insertions": 754,
             "deletions": 0
           },
           {
             "hash": "b6aa51863f738474eb0794476508f03c9533bcc7",
-            "messageTitle": "added anonymous sign in on title screen",
-            "messageBody": "",
+            "message": "added anonymous sign in on title screen",
             "insertions": 13,
             "deletions": 7
           },
           {
             "hash": "d5d35ecddfc63553bd285dd5a2f22e0c835bff8e",
-            "messageTitle": "added db to context",
-            "messageBody": "",
+            "message": "added db to context",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "7666e7c5a2637c25acd73fa84a7b9049e3274260",
-            "messageTitle": "integrated networking for room",
-            "messageBody": "",
+            "message": "integrated networking for room",
             "insertions": 176,
             "deletions": 4
           },
           {
             "hash": "8ff9ccf3af9b4989e4db28e845c9c8c1c5160f0d",
-            "messageTitle": "fixed room observers",
-            "messageBody": "",
+            "message": "fixed room observers",
             "insertions": 28,
             "deletions": 21
           }
@@ -1627,22 +1426,19 @@
         "commitResults": [
           {
             "hash": "d60ea747d7f62e203d2f0739fd4d85b420a82c2b",
-            "messageTitle": "changed Firebase keys to constants so it\u0027s more type safe to use",
-            "messageBody": "",
+            "message": "changed Firebase keys to constants so it\u0027s more type safe to use",
             "insertions": 60,
             "deletions": 39
           },
           {
             "hash": "364f6bfd8f50f7574a4b1cf6e14eb907800f2a19",
-            "messageTitle": "added join key function for the constants allowing more type safe operations",
-            "messageBody": "",
+            "message": "added join key function for the constants allowing more type safe operations",
             "insertions": 32,
             "deletions": 18
           },
           {
             "hash": "5ecfcf5e1eecb51efa8bde794f71c99b4ddebb8b",
-            "messageTitle": "changed transition from level select to game screen",
-            "messageBody": "",
+            "message": "changed transition from level select to game screen",
             "insertions": 40,
             "deletions": 0
           }
@@ -1655,57 +1451,49 @@
         "commitResults": [
           {
             "hash": "9224439d923356021a8ea18bf2db0f8218bc8340",
-            "messageTitle": "added placeholder constants for game",
-            "messageBody": "",
+            "message": "added placeholder constants for game",
             "insertions": 42,
             "deletions": 5
           },
           {
             "hash": "f8efb938f81b27470efbba5a243bd4ea4dbcce44",
-            "messageTitle": "Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant",
-            "messageBody": "",
+            "message": "Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant",
             "insertions": 15,
             "deletions": 12
           },
           {
             "hash": "c2d83c4d5e060eb5eca32203e7067eac8d149896",
-            "messageTitle": "Revert \"Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant\"",
-            "messageBody": "This reverts commit f8efb938f81b27470efbba5a243bd4ea4dbcce44.\n",
+            "message": "Revert \"Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant\"",
             "insertions": 12,
             "deletions": 15
           },
           {
             "hash": "008e9478531cd6ad51c560e27f21efe555bfdce8",
-            "messageTitle": "Revert \"Revert \"Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant\"\"",
-            "messageBody": "This reverts commit c2d83c4d5e060eb5eca32203e7067eac8d149896.\n",
+            "message": "Revert \"Revert \"Merge branch \u0027master\u0027 of https://github.com/Caephler/GooreatRestaurant\"\"",
             "insertions": 15,
             "deletions": 12
           },
           {
             "hash": "834308897bac8bd07a27119fb8055d4739ba0e35",
-            "messageTitle": "added queue order interface for db",
-            "messageBody": "",
+            "message": "added queue order interface for db",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "321993e8a945e3dfb83673b71549ff0c7dfabef9",
-            "messageTitle": "refactored network stuff",
-            "messageBody": "",
+            "message": "refactored network stuff",
             "insertions": 526,
             "deletions": 512
           },
           {
             "hash": "d3586d06ea12798268a1fe32564af737bfa9ccef",
-            "messageTitle": "added several protocol stubs for game segment of the networking",
-            "messageBody": "",
+            "message": "added several protocol stubs for game segment of the networking",
             "insertions": 44,
             "deletions": 0
           },
           {
             "hash": "f61e7c89388de149b14d570c250f8ad99f3f35b6",
-            "messageTitle": "added firebase implementation for queueOrder, removeOrder, and submitOrder",
-            "messageBody": "",
+            "message": "added firebase implementation for queueOrder, removeOrder, and submitOrder",
             "insertions": 60,
             "deletions": 0
           }
@@ -1718,64 +1506,55 @@
         "commitResults": [
           {
             "hash": "bdd1407922884dac350740f5bdef89dd2c2a89cd",
-            "messageTitle": "added case when game has started for joinroom",
-            "messageBody": "",
+            "message": "added case when game has started for joinroom",
             "insertions": 41,
             "deletions": 6
           },
           {
             "hash": "16bec8c330d7e8b150db99e8d6928dcc564c805a",
-            "messageTitle": "updated createGame and updatePlayerPosition methods",
-            "messageBody": "",
+            "message": "updated createGame and updatePlayerPosition methods",
             "insertions": 63,
             "deletions": 4
           },
           {
             "hash": "2698f44bc232e8e91b37c0b02e32ac02ff6f6126",
-            "messageTitle": "added join game implementation for firebase",
-            "messageBody": "",
+            "message": "added join game implementation for firebase",
             "insertions": 21,
             "deletions": 1
           },
           {
             "hash": "aedfa362a67205727c434f5bc8e4a1812b0058ec",
-            "messageTitle": "added docs for join game",
-            "messageBody": "",
+            "message": "added docs for join game",
             "insertions": 10,
             "deletions": 2
           },
           {
             "hash": "f50556c7a7ca31816ac0adc0c57dfbfff8cfd0b2",
-            "messageTitle": "updated observe game method to support multiple observers",
-            "messageBody": "",
+            "message": "updated observe game method to support multiple observers",
             "insertions": 42,
             "deletions": 3
           },
           {
             "hash": "97166e8a47da1f2a999636c6c5374e9f06a98689",
-            "messageTitle": "updated join room to cater for game started flag when joining room",
-            "messageBody": "",
+            "message": "updated join room to cater for game started flag when joining room",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "bfac97962c30ba8405a3b8b35df4f17c59a411c0",
-            "messageTitle": "adds disconnect operations to join game and added rejoin flag",
-            "messageBody": "",
+            "message": "adds disconnect operations to join game and added rejoin flag",
             "insertions": 26,
             "deletions": 3
           },
           {
             "hash": "4943efb30449fb5ada1510edad97b0c7981a1f1a",
-            "messageTitle": "refined implementation for rejoinGame",
-            "messageBody": "",
+            "message": "refined implementation for rejoinGame",
             "insertions": 18,
             "deletions": 2
           },
           {
             "hash": "21e617ec887a92a6ffc208318af9bab1e22b91c2",
-            "messageTitle": "added observer for stations in observeGame",
-            "messageBody": "",
+            "message": "added observer for stations in observeGame",
             "insertions": 7,
             "deletions": 0
           }
@@ -1788,15 +1567,13 @@
         "commitResults": [
           {
             "hash": "9f3d8de3c80f22999e611d3ba2f43e03c1d22e34",
-            "messageTitle": "added support to segue to multiplayer room",
-            "messageBody": "",
+            "message": "added support to segue to multiplayer room",
             "insertions": 35,
             "deletions": 1
           },
           {
             "hash": "563d125be9fde571e682908d3a0e58eca9e02eea",
-            "messageTitle": "updated observe game state",
-            "messageBody": "",
+            "message": "updated observe game state",
             "insertions": 100,
             "deletions": 17
           }
@@ -1809,43 +1586,37 @@
         "commitResults": [
           {
             "hash": "947348d193b35f49de75393bb8657305723968d1",
-            "messageTitle": "added some skeleton for multiplayer",
-            "messageBody": "",
+            "message": "added some skeleton for multiplayer",
             "insertions": 66,
             "deletions": 0
           },
           {
             "hash": "0e09ed9b9a3ded33a917bcec0e0e9cae3516c358",
-            "messageTitle": "added flag for when all players are ready in the game",
-            "messageBody": "",
+            "message": "added flag for when all players are ready in the game",
             "insertions": 43,
             "deletions": 2
           },
           {
             "hash": "f960dbe5827c049be67e770bb9146660163ea7fb",
-            "messageTitle": "updated implementation for when everyone is ready",
-            "messageBody": "",
+            "message": "updated implementation for when everyone is ready",
             "insertions": 9,
             "deletions": 6
           },
           {
             "hash": "8199547aa140de3d7b74ab9ce7fefbdc90943574",
-            "messageTitle": "added station generator in createGame method",
-            "messageBody": "",
+            "message": "added station generator in createGame method",
             "insertions": 93,
             "deletions": 13
           },
           {
             "hash": "f0f865218bc0d6377f4c2625cea0882d1657a420",
-            "messageTitle": "refined create game method",
-            "messageBody": "",
+            "message": "refined create game method",
             "insertions": 10,
             "deletions": 6
           },
           {
             "hash": "0ee46f1e0bc68361e9e9a645e2fdd77540d00b07",
-            "messageTitle": "add docs to new private funcs",
-            "messageBody": "",
+            "message": "add docs to new private funcs",
             "insertions": 45,
             "deletions": 0
           }
@@ -1858,29 +1629,25 @@
         "commitResults": [
           {
             "hash": "ad216f1c3fc2fad926d96b4893a2817988d82e99",
-            "messageTitle": "added customization options for room only",
-            "messageBody": "",
+            "message": "added customization options for room only",
             "insertions": 291,
             "deletions": 72
           },
           {
             "hash": "ac5c37b07248e298031faec938e8bd08c99754d2",
-            "messageTitle": "docs",
-            "messageBody": "",
+            "message": "docs",
             "insertions": 29,
             "deletions": 0
           },
           {
             "hash": "a532f4e4d3ba38e4dcaf647a587e12629af98a24",
-            "messageTitle": "more docs",
-            "messageBody": "",
+            "message": "more docs",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "60d4c356cc84a0ba993d1f0361ff75fe82c55d72",
-            "messageTitle": "refactored and refined game generation in db",
-            "messageBody": "",
+            "message": "refactored and refined game generation in db",
             "insertions": 88,
             "deletions": 66
           }
@@ -1893,71 +1660,61 @@
         "commitResults": [
           {
             "hash": "4749bb2259e86ea8dd133ec7944baac2f6baefc6",
-            "messageTitle": "added onComplete for observeGameState, swapped joinGame with observe, enclosed the scope for the multiplayer flags into the stage",
-            "messageBody": "",
+            "message": "added onComplete for observeGameState, swapped joinGame with observe, enclosed the scope for the multiplayer flags into the stage",
             "insertions": 62,
             "deletions": 60
           },
           {
             "hash": "7041648aed98b0f6b1662fbb10e554997f7b7489",
-            "messageTitle": "added todos for stage",
-            "messageBody": "",
+            "message": "added todos for stage",
             "insertions": 19,
             "deletions": 0
           },
           {
             "hash": "de26d991375da52dd6f6cfa58d5bf9d428b4e2f3",
-            "messageTitle": "added add score protocol stub, changed create and observe game to cater for customization of slimes",
-            "messageBody": "",
+            "message": "added add score protocol stub, changed create and observe game to cater for customization of slimes",
             "insertions": 42,
             "deletions": 24
           },
           {
             "hash": "f052993e971d457fbc19ca97efbc52eed126e821",
-            "messageTitle": "update user customization to use local storage instead",
-            "messageBody": "",
+            "message": "update user customization to use local storage instead",
             "insertions": 117,
             "deletions": 71
           },
           {
             "hash": "3897a368c803e6073496925fca142f98cb287b9f",
-            "messageTitle": "updated id for stations to be string",
-            "messageBody": "",
+            "message": "updated id for stations to be string",
             "insertions": 14,
             "deletions": 35
           },
           {
             "hash": "260cb684f2a21e2bd9916c60e68eba55346ea675",
-            "messageTitle": "changed game generation keys for stations to match the id",
-            "messageBody": "",
+            "message": "changed game generation keys for stations to match the id",
             "insertions": 20,
             "deletions": 18
           },
           {
             "hash": "b8e0c4b9cd248cea66feffc336f618090fbc0cb9",
-            "messageTitle": "added method to change hasStarted flag inside the game",
-            "messageBody": "",
+            "message": "added method to change hasStarted flag inside the game",
             "insertions": 45,
             "deletions": 14
           },
           {
             "hash": "7c6fbed1af01c457b056ce6f781121bc780a084e",
-            "messageTitle": "implemented addScore to prevent race conditions, removed forced unwrap on error messages",
-            "messageBody": "",
+            "message": "implemented addScore to prevent race conditions, removed forced unwrap on error messages",
             "insertions": 25,
             "deletions": 7
           },
           {
             "hash": "2a32a29b0f63d51e3e6b930337106ff32138dd79",
-            "messageTitle": "updated multiplayer for game: decrementing time left (host), game start logic (user not being able to move character when game has not started), changed setupControl() to outside of Stage to make sure isMultiplayer is recorded before running this function",
-            "messageBody": "",
+            "message": "updated multiplayer for game: decrementing time left (host), game start logic (user not being able to move character when game has not started), changed setupControl() to outside of Stage to make sure isMultiplayer is recorded before running this function",
             "insertions": 231,
             "deletions": 84
           },
           {
             "hash": "7357d14ed75ccef3dcf9f23d29de4f8816f58d0e",
-            "messageTitle": "updated gameHasEnded flags for multiplayer in stage",
-            "messageBody": "",
+            "message": "updated gameHasEnded flags for multiplayer in stage",
             "insertions": 120,
             "deletions": 20
           }
@@ -1970,78 +1727,67 @@
         "commitResults": [
           {
             "hash": "3707d8034813d40115cef35e486d89f6a637d223",
-            "messageTitle": "updated no-item values to \"none\"",
-            "messageBody": "",
+            "message": "updated no-item values to \"none\"",
             "insertions": 27,
             "deletions": 19
           },
           {
             "hash": "a528f261ca755175b687673a4a9bc9647f51fbee",
-            "messageTitle": "refactored some stuff inside stage and added player generation for multiplayer",
-            "messageBody": "",
+            "message": "refactored some stuff inside stage and added player generation for multiplayer",
             "insertions": 42,
             "deletions": 48
           },
           {
             "hash": "2d0a77159d13bbb674dc96f48b61665dfd04bff6",
-            "messageTitle": "added some placeholders for stage",
-            "messageBody": "",
+            "message": "added some placeholders for stage",
             "insertions": 34,
             "deletions": 14
           },
           {
             "hash": "aa1b62471c1d6c6e5df319a39f6e57f09a54dc39",
-            "messageTitle": "added placeholder for db",
-            "messageBody": "",
+            "message": "added placeholder for db",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5c7064aff3f1337c05c1aad6dc702ccdd743add3",
-            "messageTitle": "added item serializer in db",
-            "messageBody": "",
+            "message": "added item serializer in db",
             "insertions": 24,
             "deletions": 8
           },
           {
             "hash": "c4ffa0bd53dc0e855fe0cba7182b13bae27f6a48",
-            "messageTitle": "fixed a minor bug",
-            "messageBody": "",
+            "message": "fixed a minor bug",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c2c9625c5fbf9bfc94e0dc4d39099052c641f1d4",
-            "messageTitle": "moved implementation of addScore to db",
-            "messageBody": "",
+            "message": "moved implementation of addScore to db",
             "insertions": 0,
             "deletions": 9
           },
           {
             "hash": "60797a6313cc5f5510881933009def5379c7757c",
-            "messageTitle": "updated implementation of submit order and queue order for multiplayer",
-            "messageBody": "",
+            "message": "updated implementation of submit order and queue order for multiplayer",
             "insertions": 25,
             "deletions": 23
           },
           {
             "hash": "c50c46ae90244221572db7d89d567f35847171f8",
-            "messageTitle": "refined multiplayer in the stage, squished some stupid bugs",
-            "messageBody": "",
+            "message": "refined multiplayer in the stage, squished some stupid bugs",
             "insertions": 81,
             "deletions": 47
           },
           {
             "hash": "e842af65b3f23e19b613b35e91fe52d2dcf81e93",
-            "messageTitle": "updated observe game to cater for self item change and station updates",
-            "messageBody": "",
+            "message": "updated observe game to cater for self item change and station updates",
             "insertions": 99,
             "deletions": 43
           },
           {
             "hash": "3763c1beb68d3e2047df274b117a29dd18ac2b66",
-            "messageTitle": "updated interact button to reflect its contents in the db",
-            "messageBody": "",
+            "message": "updated interact button to reflect its contents in the db",
             "insertions": 41,
             "deletions": 7
           }
@@ -2054,92 +1800,79 @@
         "commitResults": [
           {
             "hash": "71b9d63ba8222b578cb7baed12be82ed94450d29",
-            "messageTitle": "added assertion for interact with item for multiplayer",
-            "messageBody": "",
+            "message": "added assertion for interact with item for multiplayer",
             "insertions": 51,
             "deletions": 12
           },
           {
             "hash": "feb2eafdc2413f4ed866e6269f60d494b2fc47e8",
-            "messageTitle": "removed some print statements",
-            "messageBody": "",
+            "message": "removed some print statements",
             "insertions": 4,
             "deletions": 19
           },
           {
             "hash": "9cf7e1838ac60aeeac8f5e5048cbf9fee8ac5126",
-            "messageTitle": "refined disconnect flags, updated disconnects for game, host disconnect \u003d everyone kicked out ggwp",
-            "messageBody": "",
+            "message": "refined disconnect flags, updated disconnects for game, host disconnect \u003d everyone kicked out ggwp",
             "insertions": 129,
             "deletions": 44
           },
           {
             "hash": "c86beddbea70a90f6aa30ded1f9f520cce795f10",
-            "messageTitle": "decimated some print statements",
-            "messageBody": "",
+            "message": "decimated some print statements",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "8b434958e1fd5b23b6e436cd9085e87011dd6aba",
-            "messageTitle": "added placeholder for ready flag and start flag for the multiplayer stage, fixed a bug with the oven not being recorded in the db",
-            "messageBody": "",
+            "message": "added placeholder for ready flag and start flag for the multiplayer stage, fixed a bug with the oven not being recorded in the db",
             "insertions": 11,
             "deletions": 1
           },
           {
             "hash": "34f1212be82cb3480ddab87dcb741a617838086c",
-            "messageTitle": "refined rejoin game, added rejoin game to title screen",
-            "messageBody": "",
+            "message": "refined rejoin game, added rejoin game to title screen",
             "insertions": 114,
             "deletions": 19
           },
           {
             "hash": "9c3861bf8b32bc11062ad998173ba5dd97d91810",
-            "messageTitle": "added functions to handle orderqueue in multiplayer",
-            "messageBody": "",
+            "message": "added functions to handle orderqueue in multiplayer",
             "insertions": 84,
             "deletions": 69
           },
           {
             "hash": "6fa5c1e4db5dbb7fef3ca3ca067d15e9bfa5a944",
-            "messageTitle": "updated submitOrder, fixed routing from multiplayer lobby to game vc",
-            "messageBody": "",
+            "message": "updated submitOrder, fixed routing from multiplayer lobby to game vc",
             "insertions": 65,
             "deletions": 34
           },
           {
             "hash": "7d895f1259b96fc0b588e21f4c8cacf312a8b031",
-            "messageTitle": "updated submit order and segue to multiplayer, also refactored some slime update multiplayer code",
-            "messageBody": "",
+            "message": "updated submit order and segue to multiplayer, also refactored some slime update multiplayer code",
             "insertions": 18,
             "deletions": 20
           },
           {
             "hash": "c77732eb10af85c5b79b10d6e4a6f87d2f3a5460",
-            "messageTitle": "updated game over prefab to cater for multiplayer",
-            "messageBody": "",
+            "message": "updated game over prefab to cater for multiplayer",
             "insertions": 25,
             "deletions": 12
           },
           {
             "hash": "2c18dc066bfc5ad79d7f7933627dcc628c940ef6",
-            "messageTitle": "added observer for new order submitted",
-            "messageBody": "",
+            "message": "added observer for new order submitted",
             "insertions": 30,
             "deletions": 3
           },
           {
             "hash": "fa88289aec049066c4f503cb97bd48bd778ba46c",
-            "messageTitle": "updated orderqueue to support multiplayer",
-            "messageBody": "",
+            "message": "updated orderqueue to support multiplayer",
             "insertions": 72,
             "deletions": 51
           },
           {
             "hash": "6a89b2b861bd23ed3124d264c360e2581f1213b2",
-            "messageTitle": "removed one possibility of calling updateOrderQueue an extra time",
-            "messageBody": "",
+            "message": "removed one possibility of calling updateOrderQueue an extra time",
             "insertions": 1,
             "deletions": 0
           }
@@ -2152,57 +1885,49 @@
         "commitResults": [
           {
             "hash": "4e6260aff28f57f9e8158b9c745dddcfa15c9a32",
-            "messageTitle": "added multiplayer functions for adding random order",
-            "messageBody": "",
+            "message": "added multiplayer functions for adding random order",
             "insertions": 9,
             "deletions": 6
           },
           {
             "hash": "973a2a16eee3c996b673ad857c7ebeead3b16467",
-            "messageTitle": "updated timer inside orderqueue to support multiplayer (may have bugs)",
-            "messageBody": "",
+            "message": "updated timer inside orderqueue to support multiplayer (may have bugs)",
             "insertions": 4,
             "deletions": 15
           },
           {
             "hash": "578eda471548106efd8e07417bb78428b6b0c15a",
-            "messageTitle": "fixed a few bugs regarding positionings",
-            "messageBody": "",
+            "message": "fixed a few bugs regarding positionings",
             "insertions": 28,
             "deletions": 8
           },
           {
             "hash": "746e5ef5b882d59c8b14b538ae3bb81cd9ed9174",
-            "messageTitle": "activated onOrderQueueChangeed",
-            "messageBody": "",
+            "message": "activated onOrderQueueChangeed",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "00a79c48594a061c4bee0e52c15da3dc0abf1891",
-            "messageTitle": "fixed multiplayer orderqueue non-hosts not removing timed out orders",
-            "messageBody": "",
+            "message": "fixed multiplayer orderqueue non-hosts not removing timed out orders",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "dd7180c344dc2429c3b9f3f30e5c5abb605d6f58",
-            "messageTitle": "removed one observer to reduce load on network",
-            "messageBody": "",
+            "message": "removed one observer to reduce load on network",
             "insertions": 4,
             "deletions": 14
           },
           {
             "hash": "d2eec967bbd756800ce4441344c0c107164cc29e",
-            "messageTitle": "changed transition from multiplayer to game to fade, refined rejoin game to maintain integrity of db",
-            "messageBody": "",
+            "message": "changed transition from multiplayer to game to fade, refined rejoin game to maintain integrity of db",
             "insertions": 21,
             "deletions": 2
           },
           {
             "hash": "e1e4e05674e962152b322b372560ac66673524d7",
-            "messageTitle": "added notification prefab, but the text is still not rendered (bug?)",
-            "messageBody": "",
+            "message": "added notification prefab, but the text is still not rendered (bug?)",
             "insertions": 83,
             "deletions": 1
           }
@@ -2215,92 +1940,79 @@
         "commitResults": [
           {
             "hash": "c64d82a922234553b87e9e3cc5296dbc992e3804",
-            "messageTitle": "added notification system for database",
-            "messageBody": "",
+            "message": "added notification system for database",
             "insertions": 44,
             "deletions": 6
           },
           {
             "hash": "f7f82ffec6a1ceaf8b4d74c1c6ea59b82b38d9d0",
-            "messageTitle": "completed notification feature for multiplayer",
-            "messageBody": "",
+            "message": "completed notification feature for multiplayer",
             "insertions": 117,
             "deletions": 51
           },
           {
             "hash": "512a2aa79e1970ab07cc5b4ee4fe0d44a59ced51",
-            "messageTitle": "moved joinGame for multiplayer to after stage loads, this should prevent the host from getting a headstart for loading earlier than the rest",
-            "messageBody": "",
+            "message": "moved joinGame for multiplayer to after stage loads, this should prevent the host from getting a headstart for loading earlier than the rest",
             "insertions": 12,
             "deletions": 4
           },
           {
             "hash": "ace38caf01e8f4fe91b5d654b401b6201492f008",
-            "messageTitle": "fixed ready set go flag for multiplayer",
-            "messageBody": "",
+            "message": "fixed ready set go flag for multiplayer",
             "insertions": 11,
             "deletions": 5
           },
           {
             "hash": "8cb42fae694a05102eff62b0a41cf932299969d2",
-            "messageTitle": "implemented a timer hack for host loading early in multiplayer (not advisable but gets the job done)",
-            "messageBody": "",
+            "message": "implemented a timer hack for host loading early in multiplayer (not advisable but gets the job done)",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "6cbf38f8b9b74d4fa71500db5b5f557606322d0c",
-            "messageTitle": "changed start flag so that when \"START\" occurs, user can control their slime",
-            "messageBody": "",
+            "message": "changed start flag so that when \"START\" occurs, user can control their slime",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e75635cac4dd0d0b433bc0b0be69c31627bc2581",
-            "messageTitle": "updated timer to be inside stageDidLoad",
-            "messageBody": "",
+            "message": "updated timer to be inside stageDidLoad",
             "insertions": 10,
             "deletions": 6
           },
           {
             "hash": "948de310b100ea1686e0d09b54b4c8400e8929c6",
-            "messageTitle": "tested for rejoin game (IT WORKS!!) and fixed the gameover and host exploded message stacking on each other",
-            "messageBody": "",
+            "message": "tested for rejoin game (IT WORKS!!) and fixed the gameover and host exploded message stacking on each other",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e977b78c19c4e5c6ede22b03f40fd4e4433a28e4",
-            "messageTitle": "invalidated timers that causes notifications to still be sent even after a game ends",
-            "messageBody": "",
+            "message": "invalidated timers that causes notifications to still be sent even after a game ends",
             "insertions": 26,
             "deletions": 3
           },
           {
             "hash": "fdd98f09d0fad0393b0bed47466d2cb5c36eea6c",
-            "messageTitle": "created db protocol stubs and implementation for dropping and picking up items",
-            "messageBody": "",
+            "message": "created db protocol stubs and implementation for dropping and picking up items",
             "insertions": 122,
             "deletions": 2
           },
           {
             "hash": "a4e9b1cdb3c3666db3ee5804d42abc2b86f63fe5",
-            "messageTitle": "added handlers for onStageItemAdded and onStageItemRemoved",
-            "messageBody": "",
+            "message": "added handlers for onStageItemAdded and onStageItemRemoved",
             "insertions": 31,
             "deletions": 3
           },
           {
             "hash": "338ec6c7d86f006c1316fcf5fe33364ddb7e6636",
-            "messageTitle": "missed addChild calls on onStageItemAdded",
-            "messageBody": "",
+            "message": "missed addChild calls on onStageItemAdded",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "3d601334e22d5a2422ba00c58476007cd96cccf4",
-            "messageTitle": "change naming from stationItems -\u003e stageItems",
-            "messageBody": "",
+            "message": "change naming from stationItems -\u003e stageItems",
             "insertions": 22,
             "deletions": 16
           }
@@ -2313,85 +2025,73 @@
         "commitResults": [
           {
             "hash": "fc0a4c7d0fcd21ddc6212d985e14e6549dfef608",
-            "messageTitle": "added interaction in multiplayer with several bugs",
-            "messageBody": "",
+            "message": "added interaction in multiplayer with several bugs",
             "insertions": 179,
             "deletions": 59
           },
           {
             "hash": "3c15eff7830256afb6dc3b7ff6f1fac868d8cedb",
-            "messageTitle": "completed drop and interact, known bug: when someone puts an item into a plate on the ground and someone else picks the plate up, the item duplicates itself",
-            "messageBody": "",
+            "message": "completed drop and interact, known bug: when someone puts an item into a plate on the ground and someone else picks the plate up, the item duplicates itself",
             "insertions": 23,
             "deletions": 19
           },
           {
             "hash": "c2bbeba562ab00b6aae837ce5178f9a90c63b3aa",
-            "messageTitle": "HOLY SHIT I FIXED THE BUG!!",
-            "messageBody": "",
+            "message": "HOLY SHIT I FIXED THE BUG!!",
             "insertions": 10,
             "deletions": 13
           },
           {
             "hash": "7400bf361249afb053676599cd0c939327f19d7a",
-            "messageTitle": "changed onDisconnect firing location, no diff, life is tough",
-            "messageBody": "",
+            "message": "changed onDisconnect firing location, no diff, life is tough",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "8b17fa7b79c17bb79995e94cae897359a9e429ca",
-            "messageTitle": "deleted some useless function, added onItemChanged observer to the array inside the db",
-            "messageBody": "",
+            "message": "deleted some useless function, added onItemChanged observer to the array inside the db",
             "insertions": 1,
             "deletions": 13
           },
           {
             "hash": "bfcf60de9cd235dd29f227f0e1b843414000a758",
-            "messageTitle": "deleted ItemSerializer struct",
-            "messageBody": "",
+            "message": "deleted ItemSerializer struct",
             "insertions": 1,
             "deletions": 24
           },
           {
             "hash": "fe43bef3743074ab13071d494ae3e71e33f3d8b3",
-            "messageTitle": "added docs, changed multiplayer stage time to StageConstants",
-            "messageBody": "",
+            "message": "added docs, changed multiplayer stage time to StageConstants",
             "insertions": 35,
             "deletions": 1
           },
           {
             "hash": "6673a1d8187e1a537881630ae6e0d0af5b742f6c",
-            "messageTitle": "fixed index out of range and put score into db when multiplayer",
-            "messageBody": "",
+            "message": "fixed index out of range and put score into db when multiplayer",
             "insertions": 9,
             "deletions": 3
           },
           {
             "hash": "901f43f12bb4362a2785d2f3219b80d95ad193ee",
-            "messageTitle": "merge",
-            "messageBody": "",
+            "message": "merge",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "57a5f3c834619cdaf87c2d3f81472e11cb0eccd8",
-            "messageTitle": "update",
-            "messageBody": "",
+            "message": "update",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a60fce27e01ced85538769d31cb34ab6e34694bb",
-            "messageTitle": "updated game db to use LevelsReader",
-            "messageBody": "",
+            "message": "updated game db to use LevelsReader",
             "insertions": 12,
             "deletions": 3
           },
           {
             "hash": "8cfa8dca34f8b9abc11deb11ddc53e9d005948bb",
-            "messageTitle": "changed jump logic to make it smoother",
-            "messageBody": "",
+            "message": "changed jump logic to make it smoother",
             "insertions": 9,
             "deletions": 2
           }
@@ -2404,57 +2104,49 @@
         "commitResults": [
           {
             "hash": "95ef0df7dbf16a9fcc5b7a46bfd5377bddf5a360",
-            "messageTitle": "holy mother of bugs, solved the duplication bugs for items on the floor and tables ONLY (not other stations)",
-            "messageBody": "",
+            "message": "holy mother of bugs, solved the duplication bugs for items on the floor and tables ONLY (not other stations)",
             "insertions": 197,
             "deletions": 25
           },
           {
             "hash": "5f39b232a93c665c15d54219483e599db669fa02",
-            "messageTitle": "updated item picking up at the same time",
-            "messageBody": "",
+            "message": "updated item picking up at the same time",
             "insertions": 18,
             "deletions": 9
           },
           {
             "hash": "30ed60576fcac150fdf204fec33d86baf4c19528",
-            "messageTitle": "tried not clamping velocity but doesn\u0027t work",
-            "messageBody": "",
+            "message": "tried not clamping velocity but doesn\u0027t work",
             "insertions": 10,
             "deletions": 2
           },
           {
             "hash": "7489e8638c5cfb399afb28ed9b9558f5aa37fa50",
-            "messageTitle": "added smoothing to other slime\u0027s movements",
-            "messageBody": "",
+            "message": "added smoothing to other slime\u0027s movements",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "bc4d0b85e4b24991b1cdb684fb8dd5b408a9efbd",
-            "messageTitle": "fixed item duplicating after picking up from table",
-            "messageBody": "",
+            "message": "fixed item duplicating after picking up from table",
             "insertions": 45,
             "deletions": 18
           },
           {
             "hash": "d0f56ccc6a947b95b10453e806d54205a78a38ab",
-            "messageTitle": "rolled back previous update, bug still exists",
-            "messageBody": "",
+            "message": "rolled back previous update, bug still exists",
             "insertions": 17,
             "deletions": 14
           },
           {
             "hash": "beb3e85105e3f35a47ea545eef77996ca118092e",
-            "messageTitle": "added feature to morph item to intended recipe in multiplayer",
-            "messageBody": "",
+            "message": "added feature to morph item to intended recipe in multiplayer",
             "insertions": 20,
             "deletions": 7
           },
           {
             "hash": "9394bec97893fd2920e5dbbb0efd0c329dca3531",
-            "messageTitle": "updated crash at 4 players",
-            "messageBody": "",
+            "message": "updated crash at 4 players",
             "insertions": 1,
             "deletions": 1
           }
@@ -2467,50 +2159,43 @@
         "commitResults": [
           {
             "hash": "5d957f5e080e704ea4abb3ffdb9bb80b657d161f",
-            "messageTitle": "refactored stage multiplayer features to Stage+Multiplayer",
-            "messageBody": "",
+            "message": "refactored stage multiplayer features to Stage+Multiplayer",
             "insertions": 507,
             "deletions": 480
           },
           {
             "hash": "a96e84e7080f494001c15e64f5dce99fba3c499c",
-            "messageTitle": "more refactoring of Stage",
-            "messageBody": "",
+            "message": "more refactoring of Stage",
             "insertions": 31,
             "deletions": 19
           },
           {
             "hash": "e68b1046382b53bb1b2bedaf2586f012f4ba5545",
-            "messageTitle": "refactored firebase implementation of gamedatabase",
-            "messageBody": "",
+            "message": "refactored firebase implementation of gamedatabase",
             "insertions": 688,
             "deletions": 655
           },
           {
             "hash": "c881736245679a1f4f0feb0e32d134e614236feb",
-            "messageTitle": "refactored firebase auth implementation",
-            "messageBody": "",
+            "message": "refactored firebase auth implementation",
             "insertions": 35,
             "deletions": 30
           },
           {
             "hash": "10adbc9771e4a7a2bf2abd6759d988f4ad08a1ee",
-            "messageTitle": "oops",
-            "messageBody": "",
+            "message": "oops",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "9ee1521f122f402ef43675b8a0adbc639b730682",
-            "messageTitle": "partially migrated some multiplayer calls/implementation in Game VC to stage",
-            "messageBody": "",
+            "message": "partially migrated some multiplayer calls/implementation in Game VC to stage",
             "insertions": 11,
             "deletions": 5
           },
           {
             "hash": "c240e52862c95353da36393f640acdf33afad757",
-            "messageTitle": "refactored implementation of Multiplayer in orderqueue",
-            "messageBody": "",
+            "message": "refactored implementation of Multiplayer in orderqueue",
             "insertions": 44,
             "deletions": 38
           }
@@ -2523,15 +2208,13 @@
         "commitResults": [
           {
             "hash": "298588920167426fd8b3519c66d1115014ff8eb1",
-            "messageTitle": "fixed multiplayerAddSlimes not recognizing previous room",
-            "messageBody": "",
+            "message": "fixed multiplayerAddSlimes not recognizing previous room",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "3cb5764066ee9bd7f3efd191fab8c29d8ef9ac3b",
-            "messageTitle": "moved back implementation of Auth",
-            "messageBody": "",
+            "message": "moved back implementation of Auth",
             "insertions": 26,
             "deletions": 35
           }
@@ -2546,8 +2229,7 @@
         "commitResults": [
           {
             "hash": "645d7130f700e2bd62fd367518f587b8364a48c0",
-            "messageTitle": "delete debugging lines",
-            "messageBody": "",
+            "message": "delete debugging lines",
             "insertions": 0,
             "deletions": 3
           }
@@ -2560,22 +2242,19 @@
         "commitResults": [
           {
             "hash": "0dfa0a2efac64e61efaab4aaa80822c467a2efb6",
-            "messageTitle": "removed Game class and changed spaceship texture",
-            "messageBody": "",
+            "message": "removed Game class and changed spaceship texture",
             "insertions": 46,
             "deletions": 103
           },
           {
             "hash": "8557d4cf1f8961c7fcf44e2922027db0d07f3f69",
-            "messageTitle": "changed slime frame to texture instead of rect",
-            "messageBody": "",
+            "message": "changed slime frame to texture instead of rect",
             "insertions": 74,
             "deletions": 43
           },
           {
             "hash": "49c4dc4047de648c0af8f9561e0579a4b9c394a9",
-            "messageTitle": "added background",
-            "messageBody": "",
+            "message": "added background",
             "insertions": 6,
             "deletions": 0
           }
@@ -2588,8 +2267,7 @@
         "commitResults": [
           {
             "hash": "8891b232e0cdd2e86b49b25b9ab5228d4ccefe5c",
-            "messageTitle": "added joystick into stage",
-            "messageBody": "",
+            "message": "added joystick into stage",
             "insertions": 54,
             "deletions": 3
           }
@@ -2602,29 +2280,25 @@
         "commitResults": [
           {
             "hash": "e17b7e444572cae1e07536995f61dcd90adf816b",
-            "messageTitle": "changed wall implementation",
-            "messageBody": "",
+            "message": "changed wall implementation",
             "insertions": 25,
             "deletions": 67
           },
           {
             "hash": "45049e641c83149e06ff368006cc205f0cbc491b",
-            "messageTitle": "changed slime movement implementation",
-            "messageBody": "",
+            "message": "changed slime movement implementation",
             "insertions": 14,
             "deletions": 63
           },
           {
             "hash": "4d2c68269e83725b9768688207ced74599c445bb",
-            "messageTitle": "added name to nodes",
-            "messageBody": "",
+            "message": "added name to nodes",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "f65381e1e79965aeb419f0c1f5a72e8e54c07505",
-            "messageTitle": "changed extra variables to get node based on name",
-            "messageBody": "",
+            "message": "changed extra variables to get node based on name",
             "insertions": 41,
             "deletions": 68
           }
@@ -2637,22 +2311,19 @@
         "commitResults": [
           {
             "hash": "e0cff90dc8ce1f75abe670adf5d1db3efdaf297e",
-            "messageTitle": "set bitmask category for objects",
-            "messageBody": "",
+            "message": "set bitmask category for objects",
             "insertions": 26,
             "deletions": 0
           },
           {
             "hash": "bd14e36dab929e6cec2fef556c4ac277cff326f2",
-            "messageTitle": "modify slime interact function by using all contacted bodies",
-            "messageBody": "",
+            "message": "modify slime interact function by using all contacted bodies",
             "insertions": 97,
             "deletions": 11
           },
           {
             "hash": "4d71b6f03574f6c6ad4eb4853631bce5a0e12608",
-            "messageTitle": "remove Room class",
-            "messageBody": "",
+            "message": "remove Room class",
             "insertions": 0,
             "deletions": 24
           }
@@ -2665,36 +2336,31 @@
         "commitResults": [
           {
             "hash": "0dad028cc0ab5326f2a15065bd9789af003cb2a2",
-            "messageTitle": "remove some unnecessary parts",
-            "messageBody": "",
+            "message": "remove some unnecessary parts",
             "insertions": 5,
             "deletions": 9
           },
           {
             "hash": "403bd119be705ee5ce361f78afa259ae68c0db5e",
-            "messageTitle": "added node name to stage constants",
-            "messageBody": "",
+            "message": "added node name to stage constants",
             "insertions": 36,
             "deletions": 30
           },
           {
             "hash": "7e08ad72362827105ebd1b399be625a4a78df704",
-            "messageTitle": "Refactoring slime movements and adding movement behaviour in ladder",
-            "messageBody": "",
+            "message": "Refactoring slime movements and adding movement behaviour in ladder",
             "insertions": 84,
             "deletions": 39
           },
           {
             "hash": "e763f1a7b0965ebe0708aa19e9849c90223c151a",
-            "messageTitle": "reedit file structure, modify naming node location, adding implementation of CookingEquipment and PlateStorage",
-            "messageBody": "",
+            "message": "reedit file structure, modify naming node location, adding implementation of CookingEquipment and PlateStorage",
             "insertions": 136,
             "deletions": 10
           },
           {
             "hash": "6f3388a73cfa0630e13d3d43346418a9bb1a6563",
-            "messageTitle": "remove auto interact",
-            "messageBody": "",
+            "message": "remove auto interact",
             "insertions": 0,
             "deletions": 2
           }
@@ -2707,92 +2373,79 @@
         "commitResults": [
           {
             "hash": "3def9de3060e086f227b6b413ccf080c9680d536",
-            "messageTitle": "changed structure",
-            "messageBody": "",
+            "message": "changed structure",
             "insertions": 52,
             "deletions": 17
           },
           {
             "hash": "1a4b2535b857bf43f40af5ddd999abf525b2862b",
-            "messageTitle": "add station protocol",
-            "messageBody": "",
+            "message": "add station protocol",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "92897799421785c5caaea31638481cb315824374",
-            "messageTitle": "change station from protocol to superclass",
-            "messageBody": "",
+            "message": "change station from protocol to superclass",
             "insertions": 26,
             "deletions": 2
           },
           {
             "hash": "e6069926bee078ae1f8ce4803faeb49293e0bd2c",
-            "messageTitle": "make changes into station",
-            "messageBody": "",
+            "message": "make changes into station",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "32d83567c98bec48733701143d9ca4d9d2ff8693",
-            "messageTitle": "implemented PlateStorage as Station subclass",
-            "messageBody": "",
+            "message": "implemented PlateStorage as Station subclass",
             "insertions": 20,
             "deletions": 9
           },
           {
             "hash": "396a19a68257cc09ae5efb85841931106fd9f81c",
-            "messageTitle": "make zPosition constants",
-            "messageBody": "",
+            "message": "make zPosition constants",
             "insertions": 20,
             "deletions": 7
           },
           {
             "hash": "c0440a1ad0a5eecdd2744e14bce63642b64c9af2",
-            "messageTitle": "implemented ingredientstorage",
-            "messageBody": "",
+            "message": "implemented ingredientstorage",
             "insertions": 52,
             "deletions": 41
           },
           {
             "hash": "71c610f9f2d358efe539ad51a521d30b28d59eb5",
-            "messageTitle": "edited naming",
-            "messageBody": "",
+            "message": "edited naming",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "57df9eafff7d7f219fd19ac7aacf42c985eca3ae",
-            "messageTitle": "added CookingEquipment implementation",
-            "messageBody": "",
+            "message": "added CookingEquipment implementation",
             "insertions": 58,
             "deletions": 23
           },
           {
             "hash": "6c43caae63c548b34cce941ad246185b65cb7c41",
-            "messageTitle": "added two subclasses of CookingEquipment",
-            "messageBody": "",
+            "message": "added two subclasses of CookingEquipment",
             "insertions": 53,
             "deletions": 1
           },
           {
             "hash": "b7dc53dcc66db660889a320f9f5bd618c9372ef6",
-            "messageTitle": "implement table",
-            "messageBody": "",
+            "message": "implement table",
             "insertions": 32,
             "deletions": 1
           },
           {
             "hash": "c002c6f1768b14a555a14f40b898262dcacbd5de",
-            "messageTitle": "implement storefront",
-            "messageBody": "",
+            "message": "implement storefront",
             "insertions": 39,
             "deletions": 2
           },
           {
             "hash": "9c99a1f7aeecac5a39ce0b83fc299de355f4ee99",
-            "messageTitle": "change color",
-            "messageBody": "",
+            "message": "change color",
             "insertions": 1,
             "deletions": 1
           }
@@ -2805,85 +2458,73 @@
         "commitResults": [
           {
             "hash": "e268f8972458b1ef4e8b465b60536c2f59b4b49d",
-            "messageTitle": "add Trash",
-            "messageBody": "",
+            "message": "add Trash",
             "insertions": 39,
             "deletions": 0
           },
           {
             "hash": "54d952dd3efffdfabb7434921e9c937f242f8dd6",
-            "messageTitle": "added choppingequipment",
-            "messageBody": "",
+            "message": "added choppingequipment",
             "insertions": 25,
             "deletions": 0
           },
           {
             "hash": "1c463f0d62e92a831da539b71567fd7d5ff6564f",
-            "messageTitle": "remove sunused stuffs",
-            "messageBody": "",
+            "message": "remove sunused stuffs",
             "insertions": 0,
             "deletions": 110
           },
           {
             "hash": "927fd61c8ca5063931166a05c6dd3ee9ed48bfb6",
-            "messageTitle": "remove slime-world interaction temporarily",
-            "messageBody": "",
+            "message": "remove slime-world interaction temporarily",
             "insertions": 13,
             "deletions": 97
           },
           {
             "hash": "75a89f2f672bc4a2be34380022bf521122ad86b6",
-            "messageTitle": "edited ingredients",
-            "messageBody": "",
+            "message": "edited ingredients",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "fec0c59d1472bbb83d9a6b47a0b888cc81d4dce9",
-            "messageTitle": "extend ingredient to Hashable",
-            "messageBody": "",
+            "message": "extend ingredient to Hashable",
             "insertions": 11,
             "deletions": 1
           },
           {
             "hash": "d419e6562e03ec35a257e8528f95c4d54d6ec2ac",
-            "messageTitle": "remove redundant Hashable",
-            "messageBody": "",
+            "message": "remove redundant Hashable",
             "insertions": 1,
             "deletions": 9
           },
           {
             "hash": "a574936fc18284e2b1b67663cfbe1a07dba88a8d",
-            "messageTitle": "implement food",
-            "messageBody": "",
+            "message": "implement food",
             "insertions": 12,
             "deletions": 0
           },
           {
             "hash": "15d848836e1eacf59e60b45cde912bdcda70d411",
-            "messageTitle": "changed table implementation",
-            "messageBody": "",
+            "message": "changed table implementation",
             "insertions": 28,
             "deletions": 10
           },
           {
             "hash": "f6321b1fe74f33b3221a3e29b68dd26054bac1ff",
-            "messageTitle": "bug fix",
-            "messageBody": "",
+            "message": "bug fix",
             "insertions": 28,
             "deletions": 9
           },
           {
             "hash": "e310b8cbda459cfb8bfb47b5bf9d5578c2467bef",
-            "messageTitle": "add slime-station interaction",
-            "messageBody": "",
+            "message": "add slime-station interaction",
             "insertions": 30,
             "deletions": 0
           },
           {
             "hash": "6606cb5f2508cc897c839427fe8f5d2fd965711c",
-            "messageTitle": "make IngredientType and CookingType into separate file",
-            "messageBody": "",
+            "message": "make IngredientType and CookingType into separate file",
             "insertions": 38,
             "deletions": 24
           }
@@ -2896,8 +2537,7 @@
         "commitResults": [
           {
             "hash": "627a92be6dd06436ca9ee229b61807cbd05d782c",
-            "messageTitle": "implemented Recipe",
-            "messageBody": "",
+            "message": "implemented Recipe",
             "insertions": 56,
             "deletions": 7
           }
@@ -2910,8 +2550,7 @@
         "commitResults": [
           {
             "hash": "be792cf890f168f7322bc8ef79a0465890615d11",
-            "messageTitle": "update recipe",
-            "messageBody": "",
+            "message": "update recipe",
             "insertions": 12,
             "deletions": 14
           }
@@ -2924,78 +2563,67 @@
         "commitResults": [
           {
             "hash": "68f36807e5e7a3a78cc7f45f6d895c723eac6d26",
-            "messageTitle": "implemented order",
-            "messageBody": "",
+            "message": "implemented order",
             "insertions": 10,
             "deletions": 5
           },
           {
             "hash": "5f38da4671476e487c29935954b7392a35aa0fe6",
-            "messageTitle": "added add stuffs on spaceship",
-            "messageBody": "",
+            "message": "added add stuffs on spaceship",
             "insertions": 64,
             "deletions": 33
           },
           {
             "hash": "20698910fa955e11b0f3539975186c4b5ebc2a50",
-            "messageTitle": "add orders processing implementation",
-            "messageBody": "",
+            "message": "add orders processing implementation",
             "insertions": 18,
             "deletions": 1
           },
           {
             "hash": "372efc5c45bd7233db084ad6ca55e0839af471ab",
-            "messageTitle": "bug fix",
-            "messageBody": "",
+            "message": "bug fix",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f0bcdf9141a1eb486fd9b93b056a135b76bf47b4",
-            "messageTitle": "move generate level function to stage from spaceship",
-            "messageBody": "",
+            "message": "move generate level function to stage from spaceship",
             "insertions": 18,
             "deletions": 18
           },
           {
             "hash": "e2966fa1f98029ce291fb06a5604a30de76e08c1",
-            "messageTitle": "add orders processing and generation",
-            "messageBody": "",
+            "message": "add orders processing and generation",
             "insertions": 26,
             "deletions": 3
           },
           {
             "hash": "c92f288b901d7624fae4e1fc39faa03cbf17a5d5",
-            "messageTitle": "repair bug interaction",
-            "messageBody": "",
+            "message": "repair bug interaction",
             "insertions": 12,
             "deletions": 8
           },
           {
             "hash": "fbaffe86b860f0b0d70fe312bfab9b6adff51386",
-            "messageTitle": "added most stuffs into plist",
-            "messageBody": "",
+            "message": "added most stuffs into plist",
             "insertions": 42,
             "deletions": 0
           },
           {
             "hash": "87819bdad66170a7928589447de10efabbbd06e1",
-            "messageTitle": "added the remaining to plist",
-            "messageBody": "",
+            "message": "added the remaining to plist",
             "insertions": 105,
             "deletions": 12
           },
           {
             "hash": "5de0d65fafda0bd22bf66658f99a281add003f9b",
-            "messageTitle": "remove \u003d\u003d",
-            "messageBody": "",
+            "message": "remove \u003d\u003d",
             "insertions": 4,
             "deletions": 6
           },
           {
             "hash": "6cb74b4c95e11a23a287692c50838dd68fafd66b",
-            "messageTitle": "repair dictionary comparison bug",
-            "messageBody": "",
+            "message": "repair dictionary comparison bug",
             "insertions": 51,
             "deletions": 31
           }
@@ -3008,22 +2636,19 @@
         "commitResults": [
           {
             "hash": "3b268eb53ea6bcef20fc1fcefa390cd564bb8cf9",
-            "messageTitle": "remove IngredientData struct, change back to Ingredient",
-            "messageBody": "",
+            "message": "remove IngredientData struct, change back to Ingredient",
             "insertions": 48,
             "deletions": 90
           },
           {
             "hash": "678d6fcd80c86adc079ccd79655d69dfcf2be71b",
-            "messageTitle": "write a bit of comment and restructuring to read things easier",
-            "messageBody": "",
+            "message": "write a bit of comment and restructuring to read things easier",
             "insertions": 64,
             "deletions": 56
           },
           {
             "hash": "aa4a61ad0a218241c26763a7c79c6ece3f73dab1",
-            "messageTitle": "..",
-            "messageBody": "",
+            "message": "..",
             "insertions": 0,
             "deletions": 1
           }
@@ -3036,29 +2661,25 @@
         "commitResults": [
           {
             "hash": "c4ef89f153f0abbb57e920730458562b8f72d1a2",
-            "messageTitle": "enable multiple touch",
-            "messageBody": "",
+            "message": "enable multiple touch",
             "insertions": 14,
             "deletions": 9
           },
           {
             "hash": "5f49807edc9140d19c1e92d89f60a0a09cacfa41",
-            "messageTitle": "remove jump from joystick",
-            "messageBody": "",
+            "message": "remove jump from joystick",
             "insertions": 0,
             "deletions": 9
           },
           {
             "hash": "9d2f56e1db588f6072f37f9c6268d43f15e8ba67",
-            "messageTitle": "added multiple processing with prerequisite to ingredient",
-            "messageBody": "",
+            "message": "added multiple processing with prerequisite to ingredient",
             "insertions": 14,
             "deletions": 10
           },
           {
             "hash": "eae0850936ba8ce7937c6fe4d6af330386f60589",
-            "messageTitle": "added processing percentage (ingredient part)",
-            "messageBody": "",
+            "message": "added processing percentage (ingredient part)",
             "insertions": 20,
             "deletions": 4
           }
@@ -3071,22 +2692,19 @@
         "commitResults": [
           {
             "hash": "4b78115acc8eb9e1020a4b533583af6132047e5a",
-            "messageTitle": "change order to orderqueue and refactor from stage",
-            "messageBody": "",
+            "message": "change order to orderqueue and refactor from stage",
             "insertions": 107,
             "deletions": 75
           },
           {
             "hash": "5701f837cf75b568feb3fcbd22a7ae3e7b5f72c5",
-            "messageTitle": "add dough can chop",
-            "messageBody": "",
+            "message": "add dough can chop",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "baff37b2ccebb8520a6f235f6a6df6248c50944a",
-            "messageTitle": "undo",
-            "messageBody": "",
+            "message": "undo",
             "insertions": 1,
             "deletions": 1
           }
@@ -3099,36 +2717,31 @@
         "commitResults": [
           {
             "hash": "beadfc12d5f3becf7c8c0d17105789e3f2f2cdc9",
-            "messageTitle": "added backbone for custom cooking equipment",
-            "messageBody": "",
+            "message": "added backbone for custom cooking equipment",
             "insertions": 66,
             "deletions": 12
           },
           {
             "hash": "8344a004840c9eb997db9b0df8aa6639d1a3474f",
-            "messageTitle": "added automatic processing",
-            "messageBody": "",
+            "message": "added automatic processing",
             "insertions": 19,
             "deletions": 7
           },
           {
             "hash": "8a29d6cca671101fb6d080cefce0175b8dbd51cf",
-            "messageTitle": "set automatic and manual processing for the cooking equipment subclasses",
-            "messageBody": "",
+            "message": "set automatic and manual processing for the cooking equipment subclasses",
             "insertions": 30,
             "deletions": 0
           },
           {
             "hash": "4070b52e198dfdad997df565d771605a3d4ae9c2",
-            "messageTitle": "add comment",
-            "messageBody": "",
+            "message": "add comment",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "c8bd0e8476756995bf33443a6073618aae50d650",
-            "messageTitle": "add interface for the view to call when order timeout",
-            "messageBody": "",
+            "message": "add interface for the view to call when order timeout",
             "insertions": 10,
             "deletions": 1
           }
@@ -3141,8 +2754,7 @@
         "commitResults": [
           {
             "hash": "736486886e9b07eedba8c278d05bd3330a777435",
-            "messageTitle": "make the order amount have min and max, and add order periodically",
-            "messageBody": "",
+            "message": "make the order amount have min and max, and add order periodically",
             "insertions": 31,
             "deletions": 9
           }
@@ -3155,15 +2767,13 @@
         "commitResults": [
           {
             "hash": "ac6c59e006e4188a45d0b84d178b934aaf79369f",
-            "messageTitle": "map the slime to player uid",
-            "messageBody": "",
+            "message": "map the slime to player uid",
             "insertions": 45,
             "deletions": 12
           },
           {
             "hash": "43db5f91f85ab45b42304fd8e95029dca5d873dc",
-            "messageTitle": "added auto self remove from order queue when the time is up (timer invalidated)",
-            "messageBody": "",
+            "message": "added auto self remove from order queue when the time is up (timer invalidated)",
             "insertions": 15,
             "deletions": 1
           }
@@ -3176,29 +2786,25 @@
         "commitResults": [
           {
             "hash": "93ec021719c5d91dae6461f58595eac3c3f2f4e2",
-            "messageTitle": "enable while carrying plate take ingredients in table/cooking equipment",
-            "messageBody": "",
+            "message": "enable while carrying plate take ingredients in table/cooking equipment",
             "insertions": 51,
             "deletions": 11
           },
           {
             "hash": "d7b63944a13b52cd9f9c2aaf352313a8e9592af3",
-            "messageTitle": "changed enum from int to codable",
-            "messageBody": "",
+            "message": "changed enum from int to codable",
             "insertions": 15,
             "deletions": 41
           },
           {
             "hash": "5d4d8b63afea17f7edaf42fc0b01f68f0ad86cbb",
-            "messageTitle": "added id in station to make db easier",
-            "messageBody": "",
+            "message": "added id in station to make db easier",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "5617c9297a29f771b62707e09da434b1f71401c2",
-            "messageTitle": "repair the progress bar that not showing up after the first processing",
-            "messageBody": "",
+            "message": "repair the progress bar that not showing up after the first processing",
             "insertions": 18,
             "deletions": 5
           }
@@ -3211,64 +2817,55 @@
         "commitResults": [
           {
             "hash": "c52ac1a04b2811e0c5d86b262dd7ff3e794e9d34",
-            "messageTitle": "remove a useless enum case",
-            "messageBody": "",
+            "message": "remove a useless enum case",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "89e00e525cdb3d71fb1bd63d83b5d1cc06de2e2c",
-            "messageTitle": "change category name of the station",
-            "messageBody": "",
+            "message": "change category name of the station",
             "insertions": 2,
             "deletions": 4
           },
           {
             "hash": "e9dc14bb37b2e9a7c73536700a5541dff0a96565",
-            "messageTitle": "write comments on Station class",
-            "messageBody": "",
+            "message": "write comments on Station class",
             "insertions": 18,
             "deletions": 0
           },
           {
             "hash": "33934e163a9e11e9f3cdce9070dde70ed538e2c1",
-            "messageTitle": "added more explanations",
-            "messageBody": "",
+            "message": "added more explanations",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "ad571bcc3a0dddb4adb4b46cea0acbad6fe23490",
-            "messageTitle": "added itemInside properties in station",
-            "messageBody": "",
+            "message": "added itemInside properties in station",
             "insertions": 30,
             "deletions": 33
           },
           {
             "hash": "fca33e942726d691d0c403d12bb017d334045e69",
-            "messageTitle": "adding things to set slime\u0027s item from outside",
-            "messageBody": "",
+            "message": "adding things to set slime\u0027s item from outside",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "9e71ecd6f726ad0a7a58d66d040b5d62c9d98d16",
-            "messageTitle": "add addItem and removeItem in station",
-            "messageBody": "",
+            "message": "add addItem and removeItem in station",
             "insertions": 16,
             "deletions": 8
           },
           {
             "hash": "e3c23bf379f7d90d4c74591d564c94f43ab5206e",
-            "messageTitle": "make food related stuff encodable and decodable",
-            "messageBody": "",
+            "message": "make food related stuff encodable and decodable",
             "insertions": 118,
             "deletions": 18
           },
           {
             "hash": "52b71f731aef3977628a69a04896b3128b871a1d",
-            "messageTitle": "repair green bar display bug on orderqueue",
-            "messageBody": "",
+            "message": "repair green bar display bug on orderqueue",
             "insertions": 2,
             "deletions": 2
           }
@@ -3281,36 +2878,31 @@
         "commitResults": [
           {
             "hash": "096f083a7783395f848f5dc142e33a4b8f86cf0c",
-            "messageTitle": "add ingredient image the same time ingredient added to plate",
-            "messageBody": "",
+            "message": "add ingredient image the same time ingredient added to plate",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "e96b8840d464e89e8cdaf7eacccf1d0187192c38",
-            "messageTitle": "making private",
-            "messageBody": "",
+            "message": "making private",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "ab100457321d443bf29e68afdacad67984b05a48",
-            "messageTitle": "make OrderQueue Codable",
-            "messageBody": "",
+            "message": "make OrderQueue Codable",
             "insertions": 121,
             "deletions": 15
           },
           {
             "hash": "dc93f55cef9fe904cd1e0ba904ce55a591a09940",
-            "messageTitle": "updated orderqueue function",
-            "messageBody": "",
+            "message": "updated orderqueue function",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "12574ab4153c3d29ebfcc04ea2607876b636ce3b",
-            "messageTitle": "fix bug encode timer",
-            "messageBody": "",
+            "message": "fix bug encode timer",
             "insertions": 5,
             "deletions": 7
           }
@@ -3323,71 +2915,61 @@
         "commitResults": [
           {
             "hash": "41de34feab391b1e6c518e8ac0b4724f91ed2891",
-            "messageTitle": "repair more bug",
-            "messageBody": "",
+            "message": "repair more bug",
             "insertions": 8,
             "deletions": 5
           },
           {
             "hash": "01f89e576c8f9376bf473c09532cf857f44f8a9f",
-            "messageTitle": "repair bug crash",
-            "messageBody": "",
+            "message": "repair bug crash",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "e9163c895ae9ce2f27c12e48ab2fae6958850e1f",
-            "messageTitle": "decouple automatic processing from fps",
-            "messageBody": "",
+            "message": "decouple automatic processing from fps",
             "insertions": 9,
             "deletions": 14
           },
           {
             "hash": "258441aa332ecc15506ed3947758b5eb9f08ba24",
-            "messageTitle": "small change",
-            "messageBody": "",
+            "message": "small change",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "40fc7570150558b108955a1c8eba4604dd65386e",
-            "messageTitle": "bug fix",
-            "messageBody": "",
+            "message": "bug fix",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "7eade38fa677ed8516f90e31cf797dcc1c058da3",
-            "messageTitle": "put comments on station",
-            "messageBody": "",
+            "message": "put comments on station",
             "insertions": 14,
             "deletions": 3
           },
           {
             "hash": "4b8e6380ce748e655e12e32f89647f7137c4f850",
-            "messageTitle": "added comments in trash",
-            "messageBody": "",
+            "message": "added comments in trash",
             "insertions": 8,
             "deletions": 1
           },
           {
             "hash": "90e07de7767fed48631ef5d367635b235aee35d5",
-            "messageTitle": "added comments to table",
-            "messageBody": "",
+            "message": "added comments to table",
             "insertions": 18,
             "deletions": 0
           },
           {
             "hash": "b6a1955ab42a11682c72b5152e489dc65c610081",
-            "messageTitle": "Saving orderqueue to a variable in stage",
-            "messageBody": "",
+            "message": "Saving orderqueue to a variable in stage",
             "insertions": 12,
             "deletions": 23
           },
           {
             "hash": "52e7c8023f96f48e1d08311e55aaee24d17959b6",
-            "messageTitle": "small bug fix",
-            "messageBody": "",
+            "message": "small bug fix",
             "insertions": 4,
             "deletions": 0
           }
@@ -3400,99 +2982,85 @@
         "commitResults": [
           {
             "hash": "9336d8e7261bbcdfafb3e6d6b8ccfb6651d26858",
-            "messageTitle": "change comments on trash",
-            "messageBody": "",
+            "message": "change comments on trash",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "2728709da8282448078e2aa7ecc792d1245940b7",
-            "messageTitle": "add comments to storefront",
-            "messageBody": "",
+            "message": "add comments to storefront",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "27cd316bf2aadef68cf15474a087ea451d12c71d",
-            "messageTitle": "write comments to platestorage",
-            "messageBody": "",
+            "message": "write comments to platestorage",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "6703d6222f3a019ed3b3a7374b5fdc1e3a8dbee6",
-            "messageTitle": "added comments to ingredientstorage",
-            "messageBody": "",
+            "message": "added comments to ingredientstorage",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "828197fa3fe86160b492650dc7f8b1be59fa0001",
-            "messageTitle": "partial comments for cookingequipment",
-            "messageBody": "",
+            "message": "partial comments for cookingequipment",
             "insertions": 38,
             "deletions": 24
           },
           {
             "hash": "21110b111d184119223dfd4b45ed94462612265d",
-            "messageTitle": "making back public",
-            "messageBody": "",
+            "message": "making back public",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "05933373008df948640755391490b4f38a4680bb",
-            "messageTitle": "change constants",
-            "messageBody": "",
+            "message": "change constants",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "515132c4592d6c4fcea5675da4a940efacc3a5e3",
-            "messageTitle": "defining mobileItem and item",
-            "messageBody": "",
+            "message": "defining mobileItem and item",
             "insertions": 78,
             "deletions": 36
           },
           {
             "hash": "6947ebcaee40b533716ea72a216abf07161db70f",
-            "messageTitle": "change naming folderwide",
-            "messageBody": "",
+            "message": "change naming folderwide",
             "insertions": 25,
             "deletions": 25
           },
           {
             "hash": "05f5fc4dd5b832de67667703616fa93a85b2bc50",
-            "messageTitle": "Added id to mobileitem",
-            "messageBody": "",
+            "message": "Added id to mobileitem",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "d2e10b24fa7049dbd3aa869c13fef2aa0d42a4ef",
-            "messageTitle": "generalize mobileitem with all the interactions",
-            "messageBody": "",
+            "message": "generalize mobileitem with all the interactions",
             "insertions": 54,
             "deletions": 22
           },
           {
             "hash": "4839ae02b571182df3dde699d13d9150532ee0cc",
-            "messageTitle": "added full interaction with flor",
-            "messageBody": "",
+            "message": "added full interaction with flor",
             "insertions": 92,
             "deletions": 3
           },
           {
             "hash": "401a540cce8620ea7c230145fe1a59c84426322f",
-            "messageTitle": "repair flipping plate",
-            "messageBody": "",
+            "message": "repair flipping plate",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "5b739f3a5de9551baef8a81dd4139e26536069f4",
-            "messageTitle": "forgot to put ?",
-            "messageBody": "",
+            "message": "forgot to put ?",
             "insertions": 1,
             "deletions": 1
           }
@@ -3505,134 +3073,115 @@
         "commitResults": [
           {
             "hash": "5a0ff4354b12aa0ac356d1694a2fbb53b0f0a997",
-            "messageTitle": "refactor (and hope I didnt fked up lol)",
-            "messageBody": "",
+            "message": "refactor (and hope I didnt fked up lol)",
             "insertions": 12,
             "deletions": 60
           },
           {
             "hash": "c7c92d25aed7ec4063a138e3dd317ca003cc8c91",
-            "messageTitle": "encode and decode id for plate and ingredient",
-            "messageBody": "",
+            "message": "encode and decode id for plate and ingredient",
             "insertions": 9,
             "deletions": 1
           },
           {
             "hash": "f1f59cdecc737093c1b8fb9445ca47ef4f11d678",
-            "messageTitle": "change such that we not allowing ingredient to be cooked in the way that we dont want",
-            "messageBody": "",
+            "message": "change such that we not allowing ingredient to be cooked in the way that we dont want",
             "insertions": 22,
             "deletions": 17
           },
           {
             "hash": "85256e3d305322dcb83b065b2f290ce0c9c9ae18",
-            "messageTitle": "update plist",
-            "messageBody": "",
+            "message": "update plist",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "36df56d7f342ae8f60dea2b3f45033c5f5122510",
-            "messageTitle": "set specification for FryingEquipment",
-            "messageBody": "",
+            "message": "set specification for FryingEquipment",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "ac8a427457ce4744e8349d34eeb87e017998bf97",
-            "messageTitle": "handling zPositions",
-            "messageBody": "",
+            "message": "handling zPositions",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "b8fd2927ace4a9e603b4be27786bf4d8744a2fe5",
-            "messageTitle": "undoing my evening changes",
-            "messageBody": "",
+            "message": "undoing my evening changes",
             "insertions": 15,
             "deletions": 19
           },
           {
             "hash": "88cd72a3e25a0512cc227ecdb77e49207b57c69c",
-            "messageTitle": "added deny processing for specific types (potato frying without chopping)",
-            "messageBody": "",
+            "message": "added deny processing for specific types (potato frying without chopping)",
             "insertions": 16,
             "deletions": 3
           },
           {
             "hash": "0343e27c61f56c98dab98f3a93198cb12c0ded3c",
-            "messageTitle": "fix bug",
-            "messageBody": "",
+            "message": "fix bug",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "e9b76a3c8ad3b7d83b555ec8289d91f2a2003dc3",
-            "messageTitle": "temporarily handle junk",
-            "messageBody": "",
+            "message": "temporarily handle junk",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "68cd2687de866aab007478f4b25241f3263dfa82",
-            "messageTitle": "added frying time",
-            "messageBody": "",
+            "message": "added frying time",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "7201006a0dd7615c37d6cb1bcabafd6f9380a8fb",
-            "messageTitle": "revert stageconstants",
-            "messageBody": "",
+            "message": "revert stageconstants",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "438ace7d89435189e2ac47e0ae5cc223ee5b162a",
-            "messageTitle": "tidy up",
-            "messageBody": "",
+            "message": "tidy up",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8a0ad42abaf52ff28ae30cc6ddabd57b915f229c",
-            "messageTitle": "edit zpos",
-            "messageBody": "",
+            "message": "edit zpos",
             "insertions": 9,
             "deletions": 9
           },
           {
             "hash": "8741dfe3ede429fc431cbac297a49ff28fc2d8f8",
-            "messageTitle": "make jump speed and duration constant",
-            "messageBody": "",
+            "message": "make jump speed and duration constant",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "7e458134b69b19a3df00c3e6b0b5d59e13af9231",
-            "messageTitle": "fix",
-            "messageBody": "",
+            "message": "fix",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "d9decd1bf8ecccc7f51ebdd017829eb44d78ed8f",
-            "messageTitle": "change z pos",
-            "messageBody": "",
+            "message": "change z pos",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "17f5b1a71aa69c61f382066379c7e52dd69141f9",
-            "messageTitle": "conflict fix",
-            "messageBody": "",
+            "message": "conflict fix",
             "insertions": 1,
             "deletions": 6
           },
           {
             "hash": "8c0542258257cc840ee556f71e65c8287d6955ec",
-            "messageTitle": "making public",
-            "messageBody": "",
+            "message": "making public",
             "insertions": 2,
             "deletions": 2
           }
@@ -3645,92 +3194,79 @@
         "commitResults": [
           {
             "hash": "52a34bf34e7f9547ed8381256e5f10bfc7c79c7f",
-            "messageTitle": "added backbone of checkfoodname",
-            "messageBody": "",
+            "message": "added backbone of checkfoodname",
             "insertions": 6,
             "deletions": 2
           },
           {
             "hash": "7ad7c91ea4b848b451f8f0eae32ebe798e4def5e",
-            "messageTitle": "bug crash fix",
-            "messageBody": "",
+            "message": "bug crash fix",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "808cd1c7f8322d2f8440afa120637508196463c9",
-            "messageTitle": "added check food type every add ingredient to plate",
-            "messageBody": "",
+            "message": "added check food type every add ingredient to plate",
             "insertions": 51,
             "deletions": 0
           },
           {
             "hash": "da5408a33ed560b1d9eeb4e28e7a7d6ae716a135",
-            "messageTitle": "change plate codable, fix ! to ?, and make undoInteract",
-            "messageBody": "",
+            "message": "change plate codable, fix ! to ?, and make undoInteract",
             "insertions": 46,
             "deletions": 8
           },
           {
             "hash": "e726345a13b6d3b68de236b530cd6f36919be312",
-            "messageTitle": "do DRY",
-            "messageBody": "",
+            "message": "do DRY",
             "insertions": 1,
             "deletions": 4
           },
           {
             "hash": "075c96a0dfd7e427e2d36b40421a14f211575a27",
-            "messageTitle": "change junk location",
-            "messageBody": "",
+            "message": "change junk location",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "91b52ae1981b5d94d6c8c3d568ce32bb775253c8",
-            "messageTitle": "refactor",
-            "messageBody": "",
+            "message": "refactor",
             "insertions": 13,
             "deletions": 30
           },
           {
             "hash": "f5100e72b5afbe7d96fb0bc02b705745ec08ecbe",
-            "messageTitle": "add feature of auto change ingredient, remove this commit if unwanted",
-            "messageBody": "",
+            "message": "add feature of auto change ingredient, remove this commit if unwanted",
             "insertions": 41,
             "deletions": 6
           },
           {
             "hash": "7be2b057acf7786cd8eb4fd273e2a34e18ab6098",
-            "messageTitle": "remove autochanging",
-            "messageBody": "",
+            "message": "remove autochanging",
             "insertions": 0,
             "deletions": 6
           },
           {
             "hash": "7c4f43ab5433fb4be5cc2a95e9efee8ef9b93ee5",
-            "messageTitle": "tidy up",
-            "messageBody": "",
+            "message": "tidy up",
             "insertions": 0,
             "deletions": 5
           },
           {
             "hash": "7098d48c23b3e6324c13aea3a340f9b21ccafa6c",
-            "messageTitle": "auto without global",
-            "messageBody": "",
+            "message": "auto without global",
             "insertions": 22,
             "deletions": 7
           },
           {
             "hash": "f7121db8f254b8c3bed6969e71691cc33c20c970",
-            "messageTitle": "repair autochange",
-            "messageBody": "",
+            "message": "repair autochange",
             "insertions": 26,
             "deletions": 1
           },
           {
             "hash": "c892482a10dc0590fe89abbee8f52a099bcad1cf",
-            "messageTitle": "repair bug",
-            "messageBody": "",
+            "message": "repair bug",
             "insertions": 1,
             "deletions": 1
           }
@@ -3743,50 +3279,43 @@
         "commitResults": [
           {
             "hash": "c7a14fb9be732e8259a091d419b2766343d3e255",
-            "messageTitle": "added RecipeTemplate, refactored Recipe",
-            "messageBody": "",
+            "message": "added RecipeTemplate, refactored Recipe",
             "insertions": 156,
             "deletions": 94
           },
           {
             "hash": "6f1406fd6a5d0dbc960ff52879e1d8b324c09e2b",
-            "messageTitle": "add comments",
-            "messageBody": "",
+            "message": "add comments",
             "insertions": 38,
             "deletions": 31
           },
           {
             "hash": "3f05bbeb47a3daf7a120ee7a1006bd1c9d6822a5",
-            "messageTitle": "added recipebook, refactoring",
-            "messageBody": "",
+            "message": "added recipebook, refactoring",
             "insertions": 13,
             "deletions": 12
           },
           {
             "hash": "4ce86b19adade75c5737b9f00530260831e7d3fe",
-            "messageTitle": "smoothing multiplayer for order time delay",
-            "messageBody": "",
+            "message": "smoothing multiplayer for order time delay",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "bc61eb4b8c5c0f671e1893c9f8a4b95e027f28bd",
-            "messageTitle": "cleaning up",
-            "messageBody": "",
+            "message": "cleaning up",
             "insertions": 0,
             "deletions": 7
           },
           {
             "hash": "12cf156b1dc79b0bdf3b469a57d256e8af2f9c81",
-            "messageTitle": "Refactor",
-            "messageBody": "",
+            "message": "Refactor",
             "insertions": 7,
             "deletions": 1
           },
           {
             "hash": "9c436af5e4de7dc3c939f469451f8df2a33e0d80",
-            "messageTitle": "cleaning uwu",
-            "messageBody": "",
+            "message": "cleaning uwu",
             "insertions": 0,
             "deletions": 4
           }
@@ -3802,8 +3331,7 @@
         "commitResults": [
           {
             "hash": "0ff16950cae87f4fddb85009fbb786ebbe78a27c",
-            "messageTitle": "Initial commit",
-            "messageBody": "",
+            "message": "Initial commit",
             "insertions": 35122,
             "deletions": 0
           }
@@ -3816,22 +3344,19 @@
         "commitResults": [
           {
             "hash": "a448ce96909d067ef9f17d9efc6109c2ff5e1944",
-            "messageTitle": "Added some extra color schemes and removed debugging statements",
-            "messageBody": "",
+            "message": "Added some extra color schemes and removed debugging statements",
             "insertions": 55,
             "deletions": 13
           },
           {
             "hash": "b06bd03bdb7a53fbcc1c92abe8a44ae959695cb6",
-            "messageTitle": "Update colourful stuff",
-            "messageBody": "",
+            "message": "Update colourful stuff",
             "insertions": 142,
             "deletions": 141
           },
           {
             "hash": "165cd35ded269461caea3474fd481f4f0589cfa4",
-            "messageTitle": "Created order blob component",
-            "messageBody": "",
+            "message": "Created order blob component",
             "insertions": 87,
             "deletions": 1
           }
@@ -3844,15 +3369,13 @@
         "commitResults": [
           {
             "hash": "4834a3689d97ad4feaca63d3e136c1fa005335dd",
-            "messageTitle": "Update routing to be handled by context, create RatingView, fixes",
-            "messageBody": "",
+            "message": "Update routing to be handled by context, create RatingView, fixes",
             "insertions": 162,
             "deletions": 93
           },
           {
             "hash": "b6b75b365b1158e539deb14b56971b036f55ad10",
-            "messageTitle": "Update some UI stuff",
-            "messageBody": "",
+            "message": "Update some UI stuff",
             "insertions": 50,
             "deletions": 11
           }
@@ -3865,29 +3388,25 @@
         "commitResults": [
           {
             "hash": "53271fbde82e9c206e49f75b1577ec9351a2f30d",
-            "messageTitle": "Create Controller protocol, create Logger utility class",
-            "messageBody": "",
+            "message": "Create Controller protocol, create Logger utility class",
             "insertions": 180,
             "deletions": 39
           },
           {
             "hash": "80770fb81c3e432b74cded291d4d85c265bcbea3",
-            "messageTitle": "Update numberpad for 0, backspace, and clear",
-            "messageBody": "",
+            "message": "Update numberpad for 0, backspace, and clear",
             "insertions": 363,
             "deletions": 20
           },
           {
             "hash": "c48b984b26780939cb0b03a34fe6f4b10b81721e",
-            "messageTitle": "Support for additional colours for numpad buttons",
-            "messageBody": "",
+            "message": "Support for additional colours for numpad buttons",
             "insertions": 16,
             "deletions": 5
           },
           {
             "hash": "0baf1b3375fab081de917e8592e8d63fb2472b6d",
-            "messageTitle": "Update so modals/alerts now are displayed on a separate layer",
-            "messageBody": "",
+            "message": "Update so modals/alerts now are displayed on a separate layer",
             "insertions": 15,
             "deletions": 8
           }
@@ -3900,22 +3419,19 @@
         "commitResults": [
           {
             "hash": "7392bb51c6349f2775dfae7eecdcd121929ed151",
-            "messageTitle": "Update room code",
-            "messageBody": "",
+            "message": "Update room code",
             "insertions": 44,
             "deletions": 12
           },
           {
             "hash": "3f3c6a78e33626688ad961f01808281cd0476d8c",
-            "messageTitle": "Update transition to numberpad",
-            "messageBody": "",
+            "message": "Update transition to numberpad",
             "insertions": 59,
             "deletions": 50
           },
           {
             "hash": "7a1080c8519d5ef441a0522ccc4f5babc2db203a",
-            "messageTitle": "Add host player integration",
-            "messageBody": "",
+            "message": "Add host player integration",
             "insertions": 22,
             "deletions": 4
           }
@@ -3928,29 +3444,25 @@
         "commitResults": [
           {
             "hash": "e49d131b71b31eece22e9b533a1b6386a86adeff",
-            "messageTitle": "Add LocalData support (using Realm), and some component prototypes",
-            "messageBody": "",
+            "message": "Add LocalData support (using Realm), and some component prototypes",
             "insertions": 7567,
             "deletions": 1
           },
           {
             "hash": "12eca56c9a6dad775f749b1b3d428a61c79cf339",
-            "messageTitle": "Halfway commit for input view",
-            "messageBody": "",
+            "message": "Halfway commit for input view",
             "insertions": 269,
             "deletions": 53
           },
           {
             "hash": "1454aa9257a8100f36479e5c3baa5379c369fba6",
-            "messageTitle": "Fix keyboard",
-            "messageBody": "",
+            "message": "Fix keyboard",
             "insertions": 46,
             "deletions": 8
           },
           {
             "hash": "501c3d1c7cb8313c88e16873ecb369ecd773ba34",
-            "messageTitle": "Fixed the stupid keyboard thing",
-            "messageBody": "",
+            "message": "Fixed the stupid keyboard thing",
             "insertions": 642,
             "deletions": 229
           }
@@ -3963,36 +3475,31 @@
         "commitResults": [
           {
             "hash": "b07a6f6df69c07e3df5ffd9bb32af32cfd00f5bf",
-            "messageTitle": "Update",
-            "messageBody": "",
+            "message": "Update",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "55fa94fe8327b8753f7bbc2bee673e6fe0202526",
-            "messageTitle": "Test",
-            "messageBody": "",
+            "message": "Test",
             "insertions": 215,
             "deletions": 5
           },
           {
             "hash": "c0ad65976872c236599dada873a5bf2f57d5467b",
-            "messageTitle": "Base for character customization done",
-            "messageBody": "",
+            "message": "Base for character customization done",
             "insertions": 234,
             "deletions": 176
           },
           {
             "hash": "4f45a7eedbd713ccb58e6404c4a94d80995ddb38",
-            "messageTitle": "Initial prototpe of stuff",
-            "messageBody": "",
+            "message": "Initial prototpe of stuff",
             "insertions": 1439,
             "deletions": 1273
           },
           {
             "hash": "6b6ad6c267f771ba5a6ef655b9d8e559e2b874c0",
-            "messageTitle": "Updated for good measure",
-            "messageBody": "",
+            "message": "Updated for good measure",
             "insertions": 103,
             "deletions": 47
           }
@@ -4005,36 +3512,31 @@
         "commitResults": [
           {
             "hash": "fa0457ffa96279067a730a03b2bb5ae9732b92f3",
-            "messageTitle": "Add Jokes component",
-            "messageBody": "",
+            "message": "Add Jokes component",
             "insertions": 283,
             "deletions": 6
           },
           {
             "hash": "fb43b474fbff512d20c24eea4252bfea543491c1",
-            "messageTitle": "Update stuff",
-            "messageBody": "",
+            "message": "Update stuff",
             "insertions": 61,
             "deletions": 7
           },
           {
             "hash": "2c9628fc004204f8c3d80ebcda98c7f2247f5ba1",
-            "messageTitle": "Update",
-            "messageBody": "",
+            "message": "Update",
             "insertions": 17,
             "deletions": 40
           },
           {
             "hash": "791ad32ea2fda909cc81aabb8d53afdd5b7ca195",
-            "messageTitle": "Update MP player view",
-            "messageBody": "",
+            "message": "Update MP player view",
             "insertions": 48,
             "deletions": 10
           },
           {
             "hash": "2b9c4b5b8481c7b5d12a8b833a7fb67f7a2ae21e",
-            "messageTitle": "Add some sounds, update images, etc.",
-            "messageBody": "",
+            "message": "Add some sounds, update images, etc.",
             "insertions": 107,
             "deletions": 14
           }
@@ -4047,29 +3549,25 @@
         "commitResults": [
           {
             "hash": "04af5f7252fd349c213b1b6bb73e3601f6b2e784",
-            "messageTitle": "Update hat and accessories list",
-            "messageBody": "",
+            "message": "Update hat and accessories list",
             "insertions": 51,
             "deletions": 32
           },
           {
             "hash": "fc2616c2aac06120ddd1bf97a5c7a910a3644615",
-            "messageTitle": "Fix bg not scrolling after inactive-active",
-            "messageBody": "",
+            "message": "Fix bg not scrolling after inactive-active",
             "insertions": 47,
             "deletions": 12
           },
           {
             "hash": "a7f9d0b34f0add22dcdb99101f1e052e733302cc",
-            "messageTitle": "Add tutorial prototype",
-            "messageBody": "",
+            "message": "Add tutorial prototype",
             "insertions": 149,
             "deletions": 12
           },
           {
             "hash": "2afc56947bd83cdea73ebb64b4ec17220a1828f4",
-            "messageTitle": "Allow customization of base color and fix text input issues, MP lobby redisgn",
-            "messageBody": "",
+            "message": "Allow customization of base color and fix text input issues, MP lobby redisgn",
             "insertions": 101,
             "deletions": 8
           }
@@ -4082,29 +3580,25 @@
         "commitResults": [
           {
             "hash": "dc5618ad9d92d487615397f6c7552a01e3262b08",
-            "messageTitle": "Add Stage summary prototype",
-            "messageBody": "",
+            "message": "Add Stage summary prototype",
             "insertions": 120,
             "deletions": 20
           },
           {
             "hash": "cfdb3fe0e487750ec5a8899ac3cfc07b038f7e60",
-            "messageTitle": "Change to VC",
-            "messageBody": "",
+            "message": "Change to VC",
             "insertions": 83,
             "deletions": 73
           },
           {
             "hash": "e775d1ac94381c91c158e6f5d6d756953fe16337",
-            "messageTitle": "Update",
-            "messageBody": "",
+            "message": "Update",
             "insertions": 7,
             "deletions": 3
           },
           {
             "hash": "7d2e97e4b20438a9ba01e6fd320df7b0bb33ecf9",
-            "messageTitle": "Make callback based prepare",
-            "messageBody": "",
+            "message": "Make callback based prepare",
             "insertions": 11,
             "deletions": 0
           }
@@ -4117,15 +3611,13 @@
         "commitResults": [
           {
             "hash": "aaf971afba2f03b0ee86612cc6f4ed91d6dda6d6",
-            "messageTitle": "Add some sounds",
-            "messageBody": "",
+            "message": "Add some sounds",
             "insertions": 80,
             "deletions": 14
           },
           {
             "hash": "0a0ddaec1142e4a49b9e0859cdb377e73c4345b3",
-            "messageTitle": "oo",
-            "messageBody": "",
+            "message": "oo",
             "insertions": 152,
             "deletions": 27
           }
@@ -4138,78 +3630,67 @@
         "commitResults": [
           {
             "hash": "6b466d8c684675cd80543f3388ff16841e1a1e2d",
-            "messageTitle": "General enhancements",
-            "messageBody": "",
+            "message": "General enhancements",
             "insertions": 97,
             "deletions": 34
           },
           {
             "hash": "ba9a2b0dc415841cd11b051dc0371198da615203",
-            "messageTitle": "Stage selection / etc implemented",
-            "messageBody": "",
+            "message": "Stage selection / etc implemented",
             "insertions": 328,
             "deletions": 17
           },
           {
             "hash": "b572a6f5d048926e2bcc759a259afdbe93958514",
-            "messageTitle": "Update to show characters",
-            "messageBody": "",
+            "message": "Update to show characters",
             "insertions": 70,
             "deletions": 31
           },
           {
             "hash": "33937dd35a4a9b64904f8824e55e3e38a556a6c8",
-            "messageTitle": "Accessories and hats look good now :D",
-            "messageBody": "",
+            "message": "Accessories and hats look good now :D",
             "insertions": 36,
             "deletions": 5
           },
           {
             "hash": "1458f67b391332ec16c723ed47ea56d1170f3d2c",
-            "messageTitle": "Some stuff",
-            "messageBody": "",
+            "message": "Some stuff",
             "insertions": 5,
             "deletions": 7
           },
           {
             "hash": "0397f63938877b2792bd21cf195c298ce9c2e869",
-            "messageTitle": "Frying",
-            "messageBody": "",
+            "message": "Frying",
             "insertions": 29,
             "deletions": 1
           },
           {
             "hash": "5f593985e7164902711fe1f225621835716ed9d9",
-            "messageTitle": "Update",
-            "messageBody": "",
+            "message": "Update",
             "insertions": 40,
             "deletions": 4
           },
           {
             "hash": "bf23c663360f0bff874b205bf98b2af3fb9bd441",
-            "messageTitle": "bugfixes",
-            "messageBody": "",
+            "message": "bugfixes",
             "insertions": 29,
             "deletions": 15
           },
           {
             "hash": "260e1f6427dd646973f5a45c52a661804f79cc71",
-            "messageTitle": "update timeout",
-            "messageBody": "",
+            "message": "update timeout",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "da0faa2722f3f53d9b1f6667930c726b12083b93",
-            "messageTitle": "Update bugfixes",
-            "messageBody": "",
+            "message": "Update bugfixes",
             "insertions": 14,
             "deletions": 5
           },
           {
             "hash": "fb65e59c33d5943652f4849093a916dda1065b22",
-            "messageTitle": "levels good",
-            "messageBody": "",
+            "message": "levels good",
             "insertions": 21,
             "deletions": 7
           }
@@ -4222,22 +3703,19 @@
         "commitResults": [
           {
             "hash": "dfc059b4313d5d43936a4bdad43c87a392d459d4",
-            "messageTitle": "Fixes and improvements",
-            "messageBody": "",
+            "message": "Fixes and improvements",
             "insertions": 67,
             "deletions": 26
           },
           {
             "hash": "d2ce9261a31a6f3b84d9839801439255d5aea2eb",
-            "messageTitle": "Add base score for order",
-            "messageBody": "",
+            "message": "Add base score for order",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e8741848d5f13af128cc6205f07577cbfc400814",
-            "messageTitle": "Routing magic",
-            "messageBody": "",
+            "message": "Routing magic",
             "insertions": 7,
             "deletions": 3
           }
@@ -4250,8 +3728,7 @@
         "commitResults": [
           {
             "hash": "5bede13e9bcf59aaebd39908cb6323414c587485",
-            "messageTitle": "refactored ui portions",
-            "messageBody": "",
+            "message": "refactored ui portions",
             "insertions": 133,
             "deletions": 64
           }
@@ -4264,8 +3741,7 @@
         "commitResults": [
           {
             "hash": "356e4bc921f19908b109de829674ed06ab9d84c0",
-            "messageTitle": "fix some memory leaks",
-            "messageBody": "",
+            "message": "fix some memory leaks",
             "insertions": 100,
             "deletions": 79
           }

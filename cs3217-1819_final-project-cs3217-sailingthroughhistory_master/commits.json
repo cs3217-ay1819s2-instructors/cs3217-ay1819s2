@@ -9,8 +9,7 @@
         "commitResults": [
           {
             "hash": "af7425d5347b932b340542f01b5ede808cf6956c",
-            "messageTitle": "add level editor",
-            "messageBody": "",
+            "message": "add level editor",
             "insertions": 218,
             "deletions": 0
           }
@@ -23,22 +22,19 @@
         "commitResults": [
           {
             "hash": "4f0039b79664e6274f21245329657c985608476b",
-            "messageTitle": "use gameObject icon",
-            "messageBody": "",
+            "message": "use gameObject icon",
             "insertions": 64,
             "deletions": 30
           },
           {
             "hash": "e4f0bd3f0c5278641a6679f9998a5faec8ba68d1",
-            "messageTitle": "enable add map",
-            "messageBody": "",
+            "message": "enable add map",
             "insertions": 38,
             "deletions": 13
           },
           {
             "hash": "cbe40f2104a75aba2c443fd302662b6b7709aa98",
-            "messageTitle": "add map class",
-            "messageBody": "",
+            "message": "add map class",
             "insertions": 195,
             "deletions": 61
           }
@@ -51,8 +47,7 @@
         "commitResults": [
           {
             "hash": "127415a4aeb137b4d5a747fe63a57275a633ea06",
-            "messageTitle": "add edit item/parameter",
-            "messageBody": "",
+            "message": "add edit item/parameter",
             "insertions": 370,
             "deletions": 59
           }
@@ -65,29 +60,25 @@
         "commitResults": [
           {
             "hash": "aad62fa721ecd2e3953d4d14d0ae1096f5c9bb1f",
-            "messageTitle": "change edit item screen",
-            "messageBody": "",
+            "message": "change edit item screen",
             "insertions": 76,
             "deletions": 100
           },
           {
             "hash": "5cb777eb2703c1814656a41af28087e1bd67a62b",
-            "messageTitle": "disable text input except for int",
-            "messageBody": "",
+            "message": "disable text input except for int",
             "insertions": 130,
             "deletions": 49
           },
           {
             "hash": "d3f4d4bc1f937359db2eee40f9947afbffdecd60",
-            "messageTitle": "enable editItem with update",
-            "messageBody": "",
+            "message": "enable editItem with update",
             "insertions": 62,
             "deletions": 63
           },
           {
             "hash": "5b9aea813d124ff32bd1aaf1dad42dc62a8ec0d0",
-            "messageTitle": "remove UIImageView in GameObject",
-            "messageBody": "",
+            "message": "remove UIImageView in GameObject",
             "insertions": 64,
             "deletions": 16
           }
@@ -100,43 +91,37 @@
         "commitResults": [
           {
             "hash": "9a7cedbbc9fe73d8dcb418c7c4c08500349980be",
-            "messageTitle": "implement Codable",
-            "messageBody": "",
+            "message": "implement Codable",
             "insertions": 370,
             "deletions": 93
           },
           {
             "hash": "078b603f081de17b7735534a05a4946f6bbc164d",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b20d42d173549dd8f7f0ddab3b904da061af871b",
-            "messageTitle": "enable storage path/nodes",
-            "messageBody": "",
+            "message": "enable storage path/nodes",
             "insertions": 209,
             "deletions": 28
           },
           {
             "hash": "e1b7653e2d25f9f3170a62967d15ffa1bce7ab9e",
-            "messageTitle": "enable item parameter storage",
-            "messageBody": "",
+            "message": "enable item parameter storage",
             "insertions": 72,
             "deletions": 37
           },
           {
             "hash": "2e25988e9123bb01bfeb6db313acc19d7b9a594c",
-            "messageTitle": "enable image storage",
-            "messageBody": "",
+            "message": "enable image storage",
             "insertions": 6,
             "deletions": 8
           },
           {
             "hash": "4cb874e23fd95c8543f1723a7e63aa6b993eebee",
-            "messageTitle": "add header view for item collection view",
-            "messageBody": "",
+            "message": "add header view for item collection view",
             "insertions": 13,
             "deletions": 0
           }
@@ -149,29 +134,25 @@
         "commitResults": [
           {
             "hash": "ce6147700b57619c2b349bcce3822067d21178b6",
-            "messageTitle": "fix scrollView",
-            "messageBody": "",
+            "message": "fix scrollView",
             "insertions": 51,
             "deletions": 33
           },
           {
             "hash": "5ce9ae3b6e52f6658de3173bc495cf644ce5226a",
-            "messageTitle": "enable player parameter editing",
-            "messageBody": "",
+            "message": "enable player parameter editing",
             "insertions": 106,
             "deletions": 28
           },
           {
             "hash": "1286486c6ef6cb45ff9c129ab52efc83dd43d977",
-            "messageTitle": "add double tap gesture",
-            "messageBody": "",
+            "message": "add double tap gesture",
             "insertions": 158,
             "deletions": 11
           },
           {
             "hash": "969f75fa223fd59073c5a4211c5eaa8a0c8f9b98",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 8,
             "deletions": 7
           }
@@ -184,36 +165,31 @@
         "commitResults": [
           {
             "hash": "93dbb7d5f97d0d8610b947a348947e6d3cac2db8",
-            "messageTitle": "fix storage",
-            "messageBody": "",
+            "message": "fix storage",
             "insertions": 24,
             "deletions": 13
           },
           {
             "hash": "7c9c420a2017531cec2e27d10726e41409475f6b",
-            "messageTitle": "fix item table",
-            "messageBody": "",
+            "message": "fix item table",
             "insertions": 15,
             "deletions": 8
           },
           {
             "hash": "e912f5b72164367c7273bf422eff0449b8e63d5c",
-            "messageTitle": "enable assign port",
-            "messageBody": "",
+            "message": "enable assign port",
             "insertions": 25,
             "deletions": 10
           },
           {
             "hash": "c6fd6daeadf5c39abfff71d2b095089cf90b07f0",
-            "messageTitle": "Set menu behavior",
-            "messageBody": "",
+            "message": "Set menu behavior",
             "insertions": 19,
             "deletions": 8
           },
           {
             "hash": "abe9fb30424964bc1e671744fab4b06fc04f5fdc",
-            "messageTitle": "enable",
-            "messageBody": "",
+            "message": "enable",
             "insertions": 20,
             "deletions": 12
           }
@@ -226,15 +202,13 @@
         "commitResults": [
           {
             "hash": "11616c46d26389e7bfa7ee1cd4c2fe6ec38fea86",
-            "messageTitle": "add game turn UI",
-            "messageBody": "",
+            "message": "add game turn UI",
             "insertions": 170,
             "deletions": 47
           },
           {
             "hash": "292456b2c40a712299a8aebef6da2213fd715c38",
-            "messageTitle": "Enable item half life",
-            "messageBody": "",
+            "message": "Enable item half life",
             "insertions": 85,
             "deletions": 14
           }
@@ -247,8 +221,7 @@
         "commitResults": [
           {
             "hash": "a42d66d9bc14079c5808493f8c0c1d4bce8a2806",
-            "messageTitle": "Seperate Node and GameObject",
-            "messageBody": "",
+            "message": "Seperate Node and GameObject",
             "insertions": 82,
             "deletions": 57
           }
@@ -261,22 +234,19 @@
         "commitResults": [
           {
             "hash": "9380e7139f614f9ccb3c05b568b9aa01a5248311",
-            "messageTitle": "add team",
-            "messageBody": "",
+            "message": "add team",
             "insertions": 183,
             "deletions": 90
           },
           {
             "hash": "f5f6e730c18cd461e0bf574d11b197feb46bb401",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 73,
             "deletions": 48
           },
           {
             "hash": "bdbc7d8aabaee758d22aed726034b6cb05cc01d0",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 1
           }
@@ -289,36 +259,31 @@
         "commitResults": [
           {
             "hash": "1c330fc34febab469028800e792c631fcd08b191",
-            "messageTitle": "add team",
-            "messageBody": "",
+            "message": "add team",
             "insertions": 183,
             "deletions": 90
           },
           {
             "hash": "0d1f0b2c3c1246f4b8e520b6747781ed35b1d9e2",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 73,
             "deletions": 48
           },
           {
             "hash": "bfb66b3374d7d7dfa996d6310c806c8f1bf195d7",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "30ef11c41d683d3fd418f422e28c2c9afc4d5260",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c6fec797b2ba0c70f9e927ab72f13d2f8c5a7b9c",
-            "messageTitle": "add bounds to map",
-            "messageBody": "",
+            "message": "add bounds to map",
             "insertions": 55,
             "deletions": 15
           }
@@ -331,43 +296,37 @@
         "commitResults": [
           {
             "hash": "24a340d3675880e75adfa5314a039c003deeb458",
-            "messageTitle": "fix bug",
-            "messageBody": "",
+            "message": "fix bug",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "8558f0cd056e2a054f7e4ca9a4493342af697c3e",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 4,
             "deletions": 12
           },
           {
             "hash": "9cfdb6639cfde053b1e6cdb1677eb404f0666f7f",
-            "messageTitle": "fix remove node UI",
-            "messageBody": "",
+            "message": "fix remove node UI",
             "insertions": 56,
             "deletions": 13
           },
           {
             "hash": "c72b1a40a04088abb4ebd3979bdf132af25ff401",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "bfe8cd6bcfab13bd3dae089780c06ba98944fe1c",
-            "messageTitle": "add test",
-            "messageBody": "",
+            "message": "add test",
             "insertions": 109,
             "deletions": 6
           },
           {
             "hash": "2e7e2de840867c84b62395b15a81b6c99aa9d20f",
-            "messageTitle": "finish gameParameter test",
-            "messageBody": "",
+            "message": "finish gameParameter test",
             "insertions": 199,
             "deletions": 6
           }
@@ -380,50 +339,43 @@
         "commitResults": [
           {
             "hash": "c85a677e7042dcf59ac59a1240bf58d4ca579e8f",
-            "messageTitle": "change port owner to Team",
-            "messageBody": "",
+            "message": "change port owner to Team",
             "insertions": 22,
             "deletions": 28
           },
           {
             "hash": "465752c1e471314370f1722a3e0685ee6e16d015",
-            "messageTitle": "change Pirate to GameObject",
-            "messageBody": "",
+            "message": "change Pirate to GameObject",
             "insertions": 14,
             "deletions": 21
           },
           {
             "hash": "1094d2442f821e41bb2500194880be295222f026",
-            "messageTitle": "change Pirate to GameObject",
-            "messageBody": "",
+            "message": "change Pirate to GameObject",
             "insertions": 62,
             "deletions": 32
           },
           {
             "hash": "2cb1c58af159e8a69fe176813a41f56856174fe1",
-            "messageTitle": "change levelEditor adding feature",
-            "messageBody": "",
+            "message": "change levelEditor adding feature",
             "insertions": 19,
             "deletions": 14
           },
           {
             "hash": "ce37c92484330e469a3ea6d7566c825649674f8d",
-            "messageTitle": "add identifier to node",
-            "messageBody": "",
+            "message": "add identifier to node",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "0333ce01c126918fe9ce07fd0bde1e0bd408deec",
-            "messageTitle": "fix node storage",
-            "messageBody": "",
+            "message": "fix node storage",
             "insertions": 53,
             "deletions": 19
           },
           {
             "hash": "7d980beb517aaa8015410f99dd3491efd7902a70",
-            "messageTitle": "remove Team constructor in Port",
-            "messageBody": "",
+            "message": "remove Team constructor in Port",
             "insertions": 57,
             "deletions": 7
           }
@@ -436,43 +388,37 @@
         "commitResults": [
           {
             "hash": "1f4cfdea50f967ce5964e894b81e71659f557bf1",
-            "messageTitle": "fix memory issue",
-            "messageBody": "",
+            "message": "fix memory issue",
             "insertions": 50,
             "deletions": 32
           },
           {
             "hash": "a67c734f63ee60119361a7dbd2e7ae91db9b29ef",
-            "messageTitle": "fix levelEditor screen reload",
-            "messageBody": "",
+            "message": "fix levelEditor screen reload",
             "insertions": 14,
             "deletions": 20
           },
           {
             "hash": "9891983e0fe0848a0f05ebb0982da7a25f5ceb8f",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 5,
             "deletions": 3
           },
           {
             "hash": "7b9cb5c800ce5dbb781ac99ddef7e25b6b27e46b",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 3,
             "deletions": 4
           },
           {
             "hash": "6dafc0d00b47a35175a80bbd6cb3bc226a94f446",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 6,
             "deletions": 4
           },
           {
             "hash": "d955acb81cfe8ee50a1d8ea55e922e97ac8c4a18",
-            "messageTitle": "minor change",
-            "messageBody": "",
+            "message": "minor change",
             "insertions": 1,
             "deletions": 0
           }
@@ -485,36 +431,31 @@
         "commitResults": [
           {
             "hash": "24b0ac25b94c824e7fcd49bc9297ef8666497618",
-            "messageTitle": "add level name verification",
-            "messageBody": "",
+            "message": "add level name verification",
             "insertions": 90,
             "deletions": 40
           },
           {
             "hash": "4d8c8e28f22789ccc6255cb06393c43d1b848c9f",
-            "messageTitle": "fix gallery broken data reload",
-            "messageBody": "",
+            "message": "fix gallery broken data reload",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "4f2468e8fb24fab731f6d0cf2e84f757e166e835",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "971f583990f82fc3b7d7d5741538a7cf8f7fd1a8",
-            "messageTitle": "enable weather editing",
-            "messageBody": "",
+            "message": "enable weather editing",
             "insertions": 125,
             "deletions": 46
           },
           {
             "hash": "777072cf3bf7ab13c55c9a44fcb93b7bf436a1a5",
-            "messageTitle": "allow remove path",
-            "messageBody": "",
+            "message": "allow remove path",
             "insertions": 32,
             "deletions": 9
           }
@@ -527,15 +468,13 @@
         "commitResults": [
           {
             "hash": "6e0e04591119a0ce1bb7b8b0f6ed6128061dad05",
-            "messageTitle": "hard code 2 players each room",
-            "messageBody": "",
+            "message": "hard code 2 players each room",
             "insertions": 18,
             "deletions": 12
           },
           {
             "hash": "b1610e4d088a0ac0f64318e503c1e1149263b055",
-            "messageTitle": "add join player button",
-            "messageBody": "",
+            "message": "add join player button",
             "insertions": 139,
             "deletions": 54
           }
@@ -548,29 +487,25 @@
         "commitResults": [
           {
             "hash": "3d988982205b754325dbd0c031c1336da9ec8e54",
-            "messageTitle": "add device doc",
-            "messageBody": "",
+            "message": "add device doc",
             "insertions": 125,
             "deletions": 64
           },
           {
             "hash": "0dc4d524f92700011973696d4c02aec9e0ad1243",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 21,
             "deletions": 28
           },
           {
             "hash": "4d08773db107afc88fda534481154f0fb200603a",
-            "messageTitle": "remove removeCallback",
-            "messageBody": "",
+            "message": "remove removeCallback",
             "insertions": 9,
             "deletions": 14
           },
           {
             "hash": "4884f1e662fa06ca08992d90bc88df2057410ca9",
-            "messageTitle": "enable local multi-player",
-            "messageBody": "",
+            "message": "enable local multi-player",
             "insertions": 27,
             "deletions": 15
           }
@@ -583,29 +518,25 @@
         "commitResults": [
           {
             "hash": "c9abacf638bdcfa004fce896702180e87bd0d1f7",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "557801f16c20d07e1518ba54056573827741f7af",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "1ce6c179d52625e27263ea58ff925218869f627f",
-            "messageTitle": "implement add starting node",
-            "messageBody": "",
+            "message": "implement add starting node",
             "insertions": 165,
             "deletions": 42
           },
           {
             "hash": "3e982043730932362dc20e66cc87b41910f4de6a",
-            "messageTitle": "enable staring node during gameplay",
-            "messageBody": "",
+            "message": "enable staring node during gameplay",
             "insertions": 30,
             "deletions": 19
           }
@@ -618,22 +549,19 @@
         "commitResults": [
           {
             "hash": "e4d226bf34e393cf901ecbb04e19dd82247115ec",
-            "messageTitle": "add map test",
-            "messageBody": "",
+            "message": "add map test",
             "insertions": 289,
             "deletions": 149
           },
           {
             "hash": "a9413508fe4d11d9e1b99919683bf7993ad68565",
-            "messageTitle": "add tesm test",
-            "messageBody": "",
+            "message": "add tesm test",
             "insertions": 93,
             "deletions": 4
           },
           {
             "hash": "fd61dd1d13794776ae854ca38e4dc2c5dfb432ff",
-            "messageTitle": "fix naming bugs",
-            "messageBody": "",
+            "message": "fix naming bugs",
             "insertions": 94,
             "deletions": 9
           }
@@ -646,22 +574,19 @@
         "commitResults": [
           {
             "hash": "04e351999d37235083769433c389e65b2762eccd",
-            "messageTitle": "finish gameParameter test",
-            "messageBody": "",
+            "message": "finish gameParameter test",
             "insertions": 95,
             "deletions": 15
           },
           {
             "hash": "08054556efb1e52ad6f9eb40fcdd47036a8d1b19",
-            "messageTitle": "modify map checkRef",
-            "messageBody": "",
+            "message": "modify map checkRef",
             "insertions": 22,
             "deletions": 0
           },
           {
             "hash": "442fff31e9cd4d45c544cd800ee7f92c2e615d2a",
-            "messageTitle": "remove entity tests",
-            "messageBody": "",
+            "message": "remove entity tests",
             "insertions": 9,
             "deletions": 67
           }
@@ -674,36 +599,31 @@
         "commitResults": [
           {
             "hash": "07dd28a34d9c4667b7ac6de0898a1edc8d73fcdf",
-            "messageTitle": "add back button",
-            "messageBody": "",
+            "message": "add back button",
             "insertions": 16,
             "deletions": 11
           },
           {
             "hash": "cdeff9e01e06c2d72581572aaf0c3a39b15af7a7",
-            "messageTitle": "add comments for storage",
-            "messageBody": "",
+            "message": "add comments for storage",
             "insertions": 55,
             "deletions": 17
           },
           {
             "hash": "c86a2c9fe23ce0e2a6cc22941c0db34154da45fb",
-            "messageTitle": "reorganize localstorage",
-            "messageBody": "",
+            "message": "reorganize localstorage",
             "insertions": 13,
             "deletions": 11
           },
           {
             "hash": "ffcd76c9bea762b88e8c78f818512ddce8d89dfa",
-            "messageTitle": "add callback for joinroom",
-            "messageBody": "",
+            "message": "add callback for joinroom",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "53972b2661f9bfb7cfe4f5c58b7808053cfe3fb2",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 35,
             "deletions": 1
           }
@@ -716,22 +636,19 @@
         "commitResults": [
           {
             "hash": "38af12a5f0d4cba9f4f449146934afd03b8fdfa6",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 6,
             "deletions": 8
           },
           {
             "hash": "6ebb3f00e239a7035da5c3ef1e1f8b0961270211",
-            "messageTitle": "add flag and NPC icon",
-            "messageBody": "",
+            "message": "add flag and NPC icon",
             "insertions": 187,
             "deletions": 89
           },
           {
             "hash": "59b5b746b60110b4f3c715c881914e5b99740e8a",
-            "messageTitle": "encode weather",
-            "messageBody": "",
+            "message": "encode weather",
             "insertions": 143,
             "deletions": 29
           }
@@ -744,36 +661,31 @@
         "commitResults": [
           {
             "hash": "6868e172a08dac1908b328c1f09adb03723ea7b2",
-            "messageTitle": "resize wrapper after add map",
-            "messageBody": "",
+            "message": "resize wrapper after add map",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "bc4d11692d8b524f095fbbac5456a9934c4f4d2d",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 20,
             "deletions": 7
           },
           {
             "hash": "079f50e6de28609520ec2b087899a2cc41da23df",
-            "messageTitle": "layout scrollview",
-            "messageBody": "",
+            "message": "layout scrollview",
             "insertions": 11,
             "deletions": 19
           },
           {
             "hash": "e49413768fba3e228a4138f329d9510b2e52dd19",
-            "messageTitle": "fix bugs",
-            "messageBody": "",
+            "message": "fix bugs",
             "insertions": 84,
             "deletions": 30
           },
           {
             "hash": "31516df093b83fe6e6a9f28533c079b43885b4e4",
-            "messageTitle": "remove player if master leave",
-            "messageBody": "",
+            "message": "remove player if master leave",
             "insertions": 51,
             "deletions": 8
           }
@@ -786,64 +698,55 @@
         "commitResults": [
           {
             "hash": "31a67f02ada4f3ef0cbb225c52972ceaa71ac1e5",
-            "messageTitle": "fix addPlayer heartBeat",
-            "messageBody": "",
+            "message": "fix addPlayer heartBeat",
             "insertions": 16,
             "deletions": 24
           },
           {
             "hash": "c7b81b230c59c5de957560f7830d38600519a228",
-            "messageTitle": "fix exit doesn\u0027t clear players",
-            "messageBody": "",
+            "message": "fix exit doesn\u0027t clear players",
             "insertions": 17,
             "deletions": 14
           },
           {
             "hash": "da2ad704b2624c5e2810a7d629823d8ba7762765",
-            "messageTitle": "fix force exit bug",
-            "messageBody": "",
+            "message": "fix force exit bug",
             "insertions": 13,
             "deletions": 15
           },
           {
             "hash": "c12f2a46e77b0ed376731f419c0a9142670433c3",
-            "messageTitle": "implement edit player name",
-            "messageBody": "",
+            "message": "implement edit player name",
             "insertions": 82,
             "deletions": 23
           },
           {
             "hash": "1d040b0ed628bb1d7e00fd50a98fb4d68cd3e182",
-            "messageTitle": "customize textfield",
-            "messageBody": "",
+            "message": "customize textfield",
             "insertions": 3,
             "deletions": 12
           },
           {
             "hash": "1573d5c5624a803ab91e0ac9ee541363bac98080",
-            "messageTitle": "fix alert causing exit",
-            "messageBody": "",
+            "message": "fix alert causing exit",
             "insertions": 47,
             "deletions": 30
           },
           {
             "hash": "671e0a3d875d3ad92a61fb424d774090a81fa45f",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 8,
             "deletions": 6
           },
           {
             "hash": "f39f1e52b27cb89cca4b9c2594470054e51fe3b0",
-            "messageTitle": "reorganize teamMenu",
-            "messageBody": "",
+            "message": "reorganize teamMenu",
             "insertions": 32,
             "deletions": 34
           },
           {
             "hash": "f312025c596822584bd7fe3fbeeb994193f20870",
-            "messageTitle": "reorganize level editor",
-            "messageBody": "",
+            "message": "reorganize level editor",
             "insertions": 212,
             "deletions": 171
           }
@@ -856,36 +759,31 @@
         "commitResults": [
           {
             "hash": "e1f332d6c488cf82c8eb2805158e0d8437b42aa5",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 33,
             "deletions": 49
           },
           {
             "hash": "ea3a9b3f0f5a368b9aa42a2b594983c1ed29129c",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 4,
             "deletions": 8
           },
           {
             "hash": "025dfc5e001ff1ebdd124939c9f722466c14bb3b",
-            "messageTitle": "structure change",
-            "messageBody": "",
+            "message": "structure change",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "80bf8095e79418d713dec17e92e86cc44f5da4b4",
-            "messageTitle": "remove halfLife",
-            "messageBody": "",
+            "message": "remove halfLife",
             "insertions": 18,
             "deletions": 48
           },
           {
             "hash": "a5f3d86b611ccce1d666f656255cb17c79a8f734",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 5,
             "deletions": 5
           }
@@ -898,43 +796,37 @@
         "commitResults": [
           {
             "hash": "b3e4f1d33e3a3ceeab40d394ef82b376d57324e0",
-            "messageTitle": "add loading image",
-            "messageBody": "",
+            "message": "add loading image",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "d50ee5ae69c225fd16a9a4884c2fcafbfcbe1edc",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 44,
             "deletions": 24
           },
           {
             "hash": "543269a6beccda36d9b448e8dcbb7f31370391f5",
-            "messageTitle": "remove deleted files",
-            "messageBody": "",
+            "message": "remove deleted files",
             "insertions": 0,
             "deletions": 110
           },
           {
             "hash": "c871754217ad43f3de5f8ee8358c87838261e213",
-            "messageTitle": "remove time limit",
-            "messageBody": "",
+            "message": "remove time limit",
             "insertions": 134,
             "deletions": 191
           },
           {
             "hash": "75f6edce932047c2ce9ed82389ee2e37306e9572",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 23,
             "deletions": 16
           },
           {
             "hash": "4e2e696c9780a80032b7ef66d4c41b14d4900e33",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 1,
             "deletions": 1
           }
@@ -947,85 +839,73 @@
         "commitResults": [
           {
             "hash": "0c671158ad9b6f797db8d10cdd9d1617f91c0195",
-            "messageTitle": "remove UIAlert",
-            "messageBody": "",
+            "message": "remove UIAlert",
             "insertions": 198,
             "deletions": 162
           },
           {
             "hash": "e6b7d69fee1e362b6f738b72978527c94131a91f",
-            "messageTitle": "add documentation",
-            "messageBody": "",
+            "message": "add documentation",
             "insertions": 122,
             "deletions": 34
           },
           {
             "hash": "1072ebffcad2cc4848e388feb9d66f6f3e7ecfe9",
-            "messageTitle": "extract game parameters",
-            "messageBody": "",
+            "message": "extract game parameters",
             "insertions": 0,
             "deletions": 63
           },
           {
             "hash": "9c50b8917fc3cb8729813742c341f505c45148dc",
-            "messageTitle": "refactor",
-            "messageBody": "",
+            "message": "refactor",
             "insertions": 28,
             "deletions": 51
           },
           {
             "hash": "0b5a7c8bac4f93d0f560f64352cd568690be2de4",
-            "messageTitle": "refactor",
-            "messageBody": "",
+            "message": "refactor",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "bf4ad0d59e2b029b31f4aa1c4227681330855ded",
-            "messageTitle": "silent warnings",
-            "messageBody": "",
+            "message": "silent warnings",
             "insertions": 87,
             "deletions": 454
           },
           {
             "hash": "806dd5d4ce1434bf3fc8561a5f5a20877e0436ca",
-            "messageTitle": "add remove for gallery",
-            "messageBody": "",
+            "message": "add remove for gallery",
             "insertions": 17,
             "deletions": 0
           },
           {
             "hash": "01c09bc3d9f7fa562763984eaf35e1e064905f6d",
-            "messageTitle": "fix lint",
-            "messageBody": "",
+            "message": "fix lint",
             "insertions": 39,
             "deletions": 28
           },
           {
             "hash": "3210137a73c814795a2d37a95ced27e2654e560e",
-            "messageTitle": "fix lint",
-            "messageBody": "",
+            "message": "fix lint",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b4cfac964c69267286fedd400b0366cf42c59001",
-            "messageTitle": "minor changes",
-            "messageBody": "",
+            "message": "minor changes",
             "insertions": 8,
             "deletions": 5
           },
           {
             "hash": "c7f7af05d5c4595abc4cd686a1e1eb60c1819a80",
-            "messageTitle": "fix typo",
-            "messageBody": "",
+            "message": "fix typo",
             "insertions": 10,
             "deletions": 9
           },
           {
             "hash": "e985d585815b8404f497c56b3dfdd1e0a35e697f",
-            "messageTitle": "add missing comment",
-            "messageBody": "",
+            "message": "add missing comment",
             "insertions": 23,
             "deletions": 0
           }
@@ -1040,8 +920,7 @@
         "commitResults": [
           {
             "hash": "6ded4668e9d3c53814e9f7bdb671687d69d2d329",
-            "messageTitle": "Add skeleton for game state.",
-            "messageBody": "",
+            "message": "Add skeleton for game state.",
             "insertions": 203,
             "deletions": 3
           }
@@ -1054,57 +933,49 @@
         "commitResults": [
           {
             "hash": "c7d4408b6619260ee1e025fdcde4e533e5966c82",
-            "messageTitle": "Add more skeleton code to game state.",
-            "messageBody": "",
+            "message": "Add more skeleton code to game state.",
             "insertions": 93,
             "deletions": 13
           },
           {
             "hash": "3f854e3c1c7ba2e8ee0550daf1de06e0612764a3",
-            "messageTitle": "Add various functionality to Player and GameState.",
-            "messageBody": "",
+            "message": "Add various functionality to Player and GameState.",
             "insertions": 167,
             "deletions": 19
           },
           {
             "hash": "3957fc68bd827f1619c67389296c116e47697344",
-            "messageTitle": "Remove direct referencing of RxSwift in various files.",
-            "messageBody": "",
+            "message": "Remove direct referencing of RxSwift in various files.",
             "insertions": 6,
             "deletions": 9
           },
           {
             "hash": "bb8fd4df9148843eee3b5db1ea64bfc0c720073b",
-            "messageTitle": "Fix bug.",
-            "messageBody": "",
+            "message": "Fix bug.",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "578441d7ef07f77b713240144173cb37ecd3e76e",
-            "messageTitle": "Add taxes to ports, add comments and fields to ItemType protocol.",
-            "messageBody": "",
+            "message": "Add taxes to ports, add comments and fields to ItemType protocol.",
             "insertions": 47,
             "deletions": 10
           },
           {
             "hash": "626518125ca7487fac922c9c9491cdda8d65bb72",
-            "messageTitle": "Convert multiple protocols to class.",
-            "messageBody": "",
+            "message": "Convert multiple protocols to class.",
             "insertions": 97,
             "deletions": 30
           },
           {
             "hash": "e569acb40a4a5f9fd5cd05434da20919114d096c",
-            "messageTitle": "Fix GenericPlayer\u0027s Self issue, add back protocols for items.",
-            "messageBody": "",
+            "message": "Fix GenericPlayer\u0027s Self issue, add back protocols for items.",
             "insertions": 120,
             "deletions": 34
           },
           {
             "hash": "70ddc0972e43d092d300ab775e503da7795ffae6",
-            "messageTitle": "Force classes to use generic APIs.",
-            "messageBody": "",
+            "message": "Force classes to use generic APIs.",
             "insertions": 6,
             "deletions": 6
           }
@@ -1117,29 +988,25 @@
         "commitResults": [
           {
             "hash": "bcc7285cd20575d8689d714b48cfd0c79cedd715",
-            "messageTitle": "Add basic buy/sell logic.",
-            "messageBody": "",
+            "message": "Add basic buy/sell logic.",
             "insertions": 147,
             "deletions": 31
           },
           {
             "hash": "0e682f341203e2e5acaaf1dcacf7bc9d754d9d62",
-            "messageTitle": "Remove trailing whitespaces.",
-            "messageBody": "",
+            "message": "Remove trailing whitespaces.",
             "insertions": 78,
             "deletions": 86
           },
           {
             "hash": "6fb96296c2d7ecdd5d278209cf9bbfd19dbf5439",
-            "messageTitle": "Add ShipUI GameObject.",
-            "messageBody": "",
+            "message": "Add ShipUI GameObject.",
             "insertions": 32,
             "deletions": 1
           },
           {
             "hash": "42ace48acda5f67c00d22a599abb89cd8f69ad0a",
-            "messageTitle": "Finish start/end turn logic for player/ship.",
-            "messageBody": "",
+            "message": "Finish start/end turn logic for player/ship.",
             "insertions": 71,
             "deletions": 16
           }
@@ -1152,15 +1019,13 @@
         "commitResults": [
           {
             "hash": "5c506f24cdbaf7f8802d1707b135723fd604d5bc",
-            "messageTitle": "Minor edits after merging.",
-            "messageBody": "",
+            "message": "Minor edits after merging.",
             "insertions": 17,
             "deletions": 22
           },
           {
             "hash": "09e1b477547979582f7cfbb45d1888627f897de9",
-            "messageTitle": "Fix naming issue of ItemParameter.",
-            "messageBody": "",
+            "message": "Fix naming issue of ItemParameter.",
             "insertions": 24,
             "deletions": 24
           }
@@ -1173,57 +1038,49 @@
         "commitResults": [
           {
             "hash": "cbfe6aa620ac907ae5fde8ec52755a315435b581",
-            "messageTitle": "Add bigger ship upgrade.",
-            "messageBody": "",
+            "message": "Add bigger ship upgrade.",
             "insertions": 112,
             "deletions": 10
           },
           {
             "hash": "4232e65946fd02f6ce0b5af4bc29b992724c6fac",
-            "messageTitle": "Remove publics and trailing whitespace.",
-            "messageBody": "",
+            "message": "Remove publics and trailing whitespace.",
             "insertions": 47,
             "deletions": 47
           },
           {
             "hash": "0632d43171c678a069664de26cdab8f942e9dce1",
-            "messageTitle": "Add some error messages.",
-            "messageBody": "",
+            "message": "Add some error messages.",
             "insertions": 23,
             "deletions": 12
           },
           {
             "hash": "e38ed5522d2e7d3f8e428158ce89bb2057131991",
-            "messageTitle": "Add subscribable values to player.",
-            "messageBody": "",
+            "message": "Add subscribable values to player.",
             "insertions": 70,
             "deletions": 30
           },
           {
             "hash": "89e6345933735130f4bfac3a03cec884bdba495e",
-            "messageTitle": "Fix some code style violations.",
-            "messageBody": "",
+            "message": "Fix some code style violations.",
             "insertions": 24,
             "deletions": 29
           },
           {
             "hash": "83e5a992e74595949f54843fbcb06c1863999b40",
-            "messageTitle": "Add ship UI Update logic.",
-            "messageBody": "",
+            "message": "Add ship UI Update logic.",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "a7053ba72220242dbeca8ae3ecdc5d6bd613627d",
-            "messageTitle": "Add method to get players, their location and add speedMultiplier effect.",
-            "messageBody": "",
+            "message": "Add method to get players, their location and add speedMultiplier effect.",
             "insertions": 25,
             "deletions": 12
           },
           {
             "hash": "fe11a2d3db7b1d75a9576ce6a732e2f8916ae32c",
-            "messageTitle": "Add notion of GameTime to GameState.",
-            "messageBody": "",
+            "message": "Add notion of GameTime to GameState.",
             "insertions": 18,
             "deletions": 49
           }
@@ -1236,22 +1093,19 @@
         "commitResults": [
           {
             "hash": "55a439457a8ea08d497eb1178d67b7e0c40f6571",
-            "messageTitle": "Add errors messages to ship.",
-            "messageBody": "- Add basic BFS in Node.\n- Add basic pirate trigger.\n",
+            "message": "Add errors messages to ship.",
             "insertions": 77,
             "deletions": 23
           },
           {
             "hash": "29afad90488a08582f67e04ca6c3b25cb5067174",
-            "messageTitle": "Finish weather computations.",
-            "messageBody": "",
+            "message": "Finish weather computations.",
             "insertions": 35,
             "deletions": 18
           },
           {
             "hash": "a8e9571dfb97b7fd5585b8e5f8aa8e0080d425a9",
-            "messageTitle": "Add bankruptcy check on player.",
-            "messageBody": "",
+            "message": "Add bankruptcy check on player.",
             "insertions": 10,
             "deletions": 0
           }
@@ -1264,8 +1118,7 @@
         "commitResults": [
           {
             "hash": "71fe1f54167df0e6bf5b83db8e99388634093eff",
-            "messageTitle": "GameState is now codable.",
-            "messageBody": "",
+            "message": "GameState is now codable.",
             "insertions": 153,
             "deletions": 36
           }
@@ -1278,36 +1131,31 @@
         "commitResults": [
           {
             "hash": "fe579ec78f73cfc30a86324c076dfac27990c9ee",
-            "messageTitle": "Add item decay logic.",
-            "messageBody": "",
+            "message": "Add item decay logic.",
             "insertions": 39,
             "deletions": 3
           },
           {
             "hash": "0bc267aba05aaaa2834531bcd419d5b31afc3bf8",
-            "messageTitle": "Fix build errors.",
-            "messageBody": "",
+            "message": "Fix build errors.",
             "insertions": 15,
             "deletions": 6
           },
           {
             "hash": "eb944e5f304c1a8cbe8269032662e5dbe6d5f153",
-            "messageTitle": "Comment out defunc interface code.",
-            "messageBody": "",
+            "message": "Comment out defunc interface code.",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "0235737f3c982f6f3141258923c7e618dd90c19d",
-            "messageTitle": "Fix up encode/decode stub for Items.",
-            "messageBody": "",
+            "message": "Fix up encode/decode stub for Items.",
             "insertions": 56,
             "deletions": 38
           },
           {
             "hash": "eb4830511d93f06502876e8bcffce5d64e495fb1",
-            "messageTitle": "Add teams to game state.",
-            "messageBody": "",
+            "message": "Add teams to game state.",
             "insertions": 3,
             "deletions": 0
           }
@@ -1320,43 +1168,37 @@
         "commitResults": [
           {
             "hash": "a7c95d8523e876d235074800b84dd0069fc6a06e",
-            "messageTitle": "Add GameObjects to GameState.",
-            "messageBody": "",
+            "message": "Add GameObjects to GameState.",
             "insertions": 60,
             "deletions": 10
           },
           {
             "hash": "7d18fdb66b78c23c4d31f6947024a78876ef3947",
-            "messageTitle": "Encode items with ItemType rather than name.",
-            "messageBody": "",
+            "message": "Encode items with ItemType rather than name.",
             "insertions": 17,
             "deletions": 23
           },
           {
             "hash": "f0ecf1b95590dfc94a1ecddcca8cbe557f2083dc",
-            "messageTitle": "Add path return when player.move is called.",
-            "messageBody": "",
+            "message": "Add path return when player.move is called.",
             "insertions": 24,
             "deletions": 2
           },
           {
             "hash": "f0113db15fadb1fe1cadffe13ee2e6c193a329a3",
-            "messageTitle": "Add error message stub.",
-            "messageBody": "",
+            "message": "Add error message stub.",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "8586d087483e9c117231f85ea4edf2a3dd50ccb0",
-            "messageTitle": "Change decoding scheme for Ship.",
-            "messageBody": "",
+            "message": "Change decoding scheme for Ship.",
             "insertions": 59,
             "deletions": 31
           },
           {
             "hash": "1b6e9eae34a570421f0a5ea48d127b7125b8304b",
-            "messageTitle": "Minor fix for missing ShipUI GameObject.",
-            "messageBody": "",
+            "message": "Minor fix for missing ShipUI GameObject.",
             "insertions": 1,
             "deletions": 0
           }
@@ -1369,22 +1211,19 @@
         "commitResults": [
           {
             "hash": "1659a09dfc42b1d9ee54cea373fc2465b5e60e2f",
-            "messageTitle": "Add API for selling items on  Player.",
-            "messageBody": "",
+            "message": "Add API for selling items on  Player.",
             "insertions": 28,
             "deletions": 21
           },
           {
             "hash": "a5f2be4d955833d00842f12b55b2da74b9648c7b",
-            "messageTitle": "Add method to get nodes in range with roll on player.",
-            "messageBody": "",
+            "message": "Add method to get nodes in range with roll on player.",
             "insertions": 66,
             "deletions": 49
           },
           {
             "hash": "35c5e151520f7be6815c2a2f50fb8bdbef9962a6",
-            "messageTitle": "Fix bug with Ship\u0027s sell using removeItem.",
-            "messageBody": "",
+            "message": "Fix bug with Ship\u0027s sell using removeItem.",
             "insertions": 18,
             "deletions": 18
           }
@@ -1397,43 +1236,37 @@
         "commitResults": [
           {
             "hash": "6eb247fd53c62d95df10a62ae246b190119eee2c",
-            "messageTitle": "Add API to get Buy/Sell items at ports.",
-            "messageBody": "",
+            "message": "Add API to get Buy/Sell items at ports.",
             "insertions": 34,
             "deletions": 37
           },
           {
             "hash": "4bc7874ac367322d788a3d1a0b697e2de1f57bc5",
-            "messageTitle": "Fix build errors.",
-            "messageBody": "",
+            "message": "Fix build errors.",
             "insertions": 17,
             "deletions": 15
           },
           {
             "hash": "3d0a16e6ac8d717ef13df12d9ab2591fff0a8a31",
-            "messageTitle": "Fix port encoding issue.",
-            "messageBody": "",
+            "message": "Fix port encoding issue.",
             "insertions": 43,
             "deletions": 31
           },
           {
             "hash": "a1a400045ae4f2ac071da7ec96d760e9bdbcba59",
-            "messageTitle": "Fix build errors.",
-            "messageBody": "",
+            "message": "Fix build errors.",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "612c879c04b74534e738945e463d344ad2242ace",
-            "messageTitle": "Push all errors into port item datasource.",
-            "messageBody": "",
+            "message": "Push all errors into port item datasource.",
             "insertions": 33,
             "deletions": 25
           },
           {
             "hash": "7eb24fead02ffefcbbec6fe693884a8b37002e98",
-            "messageTitle": "Fix remaining ItemType/Parameter mismatch.",
-            "messageBody": "",
+            "message": "Fix remaining ItemType/Parameter mismatch.",
             "insertions": 4,
             "deletions": 4
           }
@@ -1446,22 +1279,19 @@
         "commitResults": [
           {
             "hash": "389bbc9f880dd9635c7cfe38097fb61f6ad373c6",
-            "messageTitle": "Fix item purchase to negative money, fix player money negative.",
-            "messageBody": "",
+            "message": "Fix item purchase to negative money, fix player money negative.",
             "insertions": 6,
             "deletions": 5
           },
           {
             "hash": "c60b73202f9bbf30de6f0ca7fd4c3c8153789ae6",
-            "messageTitle": "Remove commented code from Ship.",
-            "messageBody": "",
+            "message": "Remove commented code from Ship.",
             "insertions": 0,
             "deletions": 8
           },
           {
             "hash": "3658efeec2d223c024cada666423f7cfab1a5440",
-            "messageTitle": "Remove some trailing whitespace.",
-            "messageBody": "",
+            "message": "Remove some trailing whitespace.",
             "insertions": 2,
             "deletions": 2
           }
@@ -1474,57 +1304,49 @@
         "commitResults": [
           {
             "hash": "29cf4567fb45fb92fd5be30a5d14f1f41bec6627",
-            "messageTitle": "Prevent player money from going below 0.",
-            "messageBody": "",
+            "message": "Prevent player money from going below 0.",
             "insertions": 13,
             "deletions": 7
           },
           {
             "hash": "2d92c405fb2907df4da2325164e5de7fd21818c4",
-            "messageTitle": "Add missing colon.",
-            "messageBody": "",
+            "message": "Add missing colon.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "1091e6cec71560a7cf37258d4ccdd9bdf40dd9c4",
-            "messageTitle": "Add upgrades.",
-            "messageBody": "",
+            "message": "Add upgrades.",
             "insertions": 80,
             "deletions": 1
           },
           {
             "hash": "9e638cc9064625e0d65b1cd7446219ce62d5478b",
-            "messageTitle": "Fix array typing.",
-            "messageBody": "",
+            "message": "Fix array typing.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e148abdc3842877301762e23614ffd0f5b8af26d",
-            "messageTitle": "Fix protocol conformance.",
-            "messageBody": "",
+            "message": "Fix protocol conformance.",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "f04e9eff9c04c45aa86739b1fc35a0e2198d64cc",
-            "messageTitle": "Fix typo.",
-            "messageBody": "",
+            "message": "Fix typo.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d3ddf3fedad4d33db90eeaac476eb652c4027d1d",
-            "messageTitle": "Fix ship sell item bug.",
-            "messageBody": "",
+            "message": "Fix ship sell item bug.",
             "insertions": 8,
             "deletions": 4
           },
           {
             "hash": "23d026b443bc0f3cb19b6edf9101f16d16d25cbf",
-            "messageTitle": "Tidy code.",
-            "messageBody": "",
+            "message": "Tidy code.",
             "insertions": 71,
             "deletions": 72
           }
@@ -1537,15 +1359,13 @@
         "commitResults": [
           {
             "hash": "5ef973fe93ad16a6641ecf18acabea675715bb94",
-            "messageTitle": "Remove showMessage from Ship.",
-            "messageBody": "",
+            "message": "Remove showMessage from Ship.",
             "insertions": 114,
             "deletions": 67
           },
           {
             "hash": "01da89f4730a5494bc0cfa5c79ae0a5857f1b132",
-            "messageTitle": "Correct typo of deficit.",
-            "messageBody": "",
+            "message": "Correct typo of deficit.",
             "insertions": 11,
             "deletions": 11
           }
@@ -1558,29 +1378,25 @@
         "commitResults": [
           {
             "hash": "aefab1ca5ebec4f7a596a3d622214aa0b753ea71",
-            "messageTitle": "Change BuyItem and SellItem to have messages.",
-            "messageBody": "",
+            "message": "Change BuyItem and SellItem to have messages.",
             "insertions": 14,
             "deletions": 2
           },
           {
             "hash": "1b45471c1acec5100810770a2a0a5356797e6659",
-            "messageTitle": "Fix weather computation",
-            "messageBody": "",
+            "message": "Fix weather computation",
             "insertions": 174,
             "deletions": 27
           },
           {
             "hash": "eb82a593cfe3d22f380fc02f0bfe5cc976a4a58a",
-            "messageTitle": "Fix node id issue with ship.",
-            "messageBody": "",
+            "message": "Fix node id issue with ship.",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "8e9c6abad3adf5c4fcbc53e5b6f6c9544a87a00d",
-            "messageTitle": "Finish pirates event+gameState.",
-            "messageBody": "",
+            "message": "Finish pirates event+gameState.",
             "insertions": 84,
             "deletions": 25
           }
@@ -1593,8 +1409,7 @@
         "commitResults": [
           {
             "hash": "ca41c15441750b3c35f1b686c0ec59aa9c47c837",
-            "messageTitle": "Add missing link between turn system and event system for pirate.",
-            "messageBody": "",
+            "message": "Add missing link between turn system and event system for pirate.",
             "insertions": 16,
             "deletions": 43
           }
@@ -1607,85 +1422,73 @@
         "commitResults": [
           {
             "hash": "6a4d09ef47197458681c6b518ae4cda5983992de",
-            "messageTitle": "Add pirate to map model, add pirate chance computation to player.",
-            "messageBody": "",
+            "message": "Add pirate to map model, add pirate chance computation to player.",
             "insertions": 249,
             "deletions": 12
           },
           {
             "hash": "86cd938cbe21869a329d8a02813e32932ef043a9",
-            "messageTitle": "Remove files.",
-            "messageBody": "",
+            "message": "Remove files.",
             "insertions": 0,
             "deletions": 45
           },
           {
             "hash": "5379f8bdf5213236ac5027801244c90431721227",
-            "messageTitle": "Replace if with switch case in ObjectsViewController.",
-            "messageBody": "",
+            "message": "Replace if with switch case in ObjectsViewController.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "84a6b751534d24807e601b7be8b21f762ed58aff",
-            "messageTitle": "Remove obsolete code for node gameobjects in ship move.",
-            "messageBody": "",
+            "message": "Remove obsolete code for node gameobjects in ship move.",
             "insertions": 1,
             "deletions": 9
           },
           {
             "hash": "ce7b6472cbfaf32a5e7322bce11b1642797e67cc",
-            "messageTitle": "Correct typo.",
-            "messageBody": "",
+            "message": "Correct typo.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "4d711f80ad73227314c20ff3464234309ef41def",
-            "messageTitle": "Fix broken test.",
-            "messageBody": "",
+            "message": "Fix broken test.",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "5a219b8b1a73400560fe791634426418fefab078",
-            "messageTitle": "Reorganise Ship Code to be more modular.",
-            "messageBody": "",
+            "message": "Reorganise Ship Code to be more modular.",
             "insertions": 203,
             "deletions": 98
           },
           {
             "hash": "1dde39bb60d9b8ca71f5eab0c702e4aac1471376",
-            "messageTitle": "Add GameMaster, and make a bunch of properties nil.",
-            "messageBody": "",
+            "message": "Add GameMaster, and make a bunch of properties nil.",
             "insertions": 511,
             "deletions": 18
           },
           {
             "hash": "47cd0b0d85cee4b2ee671c677563963a938b879c",
-            "messageTitle": "Remove files.",
-            "messageBody": "",
+            "message": "Remove files.",
             "insertions": 0,
             "deletions": 348
           },
           {
             "hash": "ceb9fa0c18c8d8de756df85d996f056af635a796",
-            "messageTitle": "Reorganise code for Ship.",
-            "messageBody": "",
+            "message": "Reorganise code for Ship.",
             "insertions": 570,
             "deletions": 2
           },
           {
             "hash": "bc405ae8dd3c7ff8b6d18ab96a68b4362c337cc1",
-            "messageTitle": "Remove files.",
-            "messageBody": "",
+            "message": "Remove files.",
             "insertions": 0,
             "deletions": 502
           },
           {
             "hash": "3239e34135470f8384c8468850df2272dab6b370",
-            "messageTitle": "Add skeleton for Ship tests.",
-            "messageBody": "",
+            "message": "Add skeleton for Ship tests.",
             "insertions": 137,
             "deletions": 37
           }
@@ -1698,64 +1501,55 @@
         "commitResults": [
           {
             "hash": "4d0bf2c093addb8d243c2066417130adadc01693",
-            "messageTitle": "Add tests for ShipAPI.",
-            "messageBody": "",
+            "message": "Add tests for ShipAPI.",
             "insertions": 341,
             "deletions": 15
           },
           {
             "hash": "2fe009c7c92c18510271db3f5f2e200d70c5394f",
-            "messageTitle": "Encode/decode name for GameMaster.",
-            "messageBody": "",
+            "message": "Encode/decode name for GameMaster.",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "6fa68b9cb035944fe2dc762980550ceaad706203",
-            "messageTitle": "Remove obsolete code from Ship and Player.",
-            "messageBody": "",
+            "message": "Remove obsolete code from Ship and Player.",
             "insertions": 27,
             "deletions": 44
           },
           {
             "hash": "72549dcd0bed2b2c653047c8add37648894d67e0",
-            "messageTitle": "Delete Consumable, move NPCUI.",
-            "messageBody": "",
+            "message": "Delete Consumable, move NPCUI.",
             "insertions": 31,
             "deletions": 25
           },
           {
             "hash": "405c8aedfe6d6a7a1494a8f508876f65f6e916c3",
-            "messageTitle": "remove files.",
-            "messageBody": "",
+            "message": "remove files.",
             "insertions": 0,
             "deletions": 20
           },
           {
             "hash": "28ca8b80d4855b3dce022068c1869ec90bbf3b75",
-            "messageTitle": "Halfway through NPC implementation, have build issue.",
-            "messageBody": "",
+            "message": "Halfway through NPC implementation, have build issue.",
             "insertions": 184,
             "deletions": 72
           },
           {
             "hash": "ba8916a90f76904a7d3f6bdab01d29e3420313aa",
-            "messageTitle": "Finish NPCs.",
-            "messageBody": "",
+            "message": "Finish NPCs.",
             "insertions": 18,
             "deletions": 9
           },
           {
             "hash": "2d4dfa3b8e528ac92a5edb2f48246c72a9aed0d4",
-            "messageTitle": "Fix coding problem for NPCs in map.",
-            "messageBody": "",
+            "message": "Fix coding problem for NPCs in map.",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "465f6c88e3bb1ae3e5e71aa7ba451c926efe3da8",
-            "messageTitle": "Fix mismatching API on NPC for moveToNextNode.",
-            "messageBody": "",
+            "message": "Fix mismatching API on NPC for moveToNextNode.",
             "insertions": 8,
             "deletions": 7
           }
@@ -1768,29 +1562,25 @@
         "commitResults": [
           {
             "hash": "21617a79420a0066eba675d0b81845f3e226e3b2",
-            "messageTitle": "Fix swift lint warnings.",
-            "messageBody": "",
+            "message": "Fix swift lint warnings.",
             "insertions": 114,
             "deletions": 95
           },
           {
             "hash": "4745caaa98a2968b3681803eff9ca14e58a4c732",
-            "messageTitle": "Add default item consumption of 1 food to player.",
-            "messageBody": "",
+            "message": "Add default item consumption of 1 food to player.",
             "insertions": 43,
             "deletions": 45
           },
           {
             "hash": "33542412606ffdc6ff4b59b0f450c403f6296b7e",
-            "messageTitle": "Fix conflict.",
-            "messageBody": "",
+            "message": "Fix conflict.",
             "insertions": 2,
             "deletions": 12
           },
           {
             "hash": "d6d7544025b1bf6b2eae495353d4329d6b489b38",
-            "messageTitle": "Change global buy/sell price.",
-            "messageBody": "",
+            "message": "Change global buy/sell price.",
             "insertions": 21,
             "deletions": 32
           }
@@ -1803,57 +1593,49 @@
         "commitResults": [
           {
             "hash": "735c88759dd226e31711560a20b68b17a338eef2",
-            "messageTitle": "Add default item weights.",
-            "messageBody": "",
+            "message": "Add default item weights.",
             "insertions": 18,
             "deletions": 11
           },
           {
             "hash": "44294f38d36dc169f419c2b9567739e032ca11b7",
-            "messageTitle": "Add message for pirate countdown.",
-            "messageBody": "",
+            "message": "Add message for pirate countdown.",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "90b7dca5a18721a3203007df6486e89ad0896ed2",
-            "messageTitle": "Add starting items for players.",
-            "messageBody": "",
+            "message": "Add starting items for players.",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "a533f7f6066bad30da80f5852e4a23b6ac1db714",
-            "messageTitle": "Fix deficit message.",
-            "messageBody": "",
+            "message": "Fix deficit message.",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "e43a7445a2445374260864ea22c1af439823361f",
-            "messageTitle": "Add check for gameState integrity.",
-            "messageBody": "",
+            "message": "Add check for gameState integrity.",
             "insertions": 105,
             "deletions": 9
           },
           {
             "hash": "4c62f08ac1d1492dae4dc0dc9c046619ffe56444",
-            "messageTitle": "Comment out assertion for gameState - It does not work correctly.",
-            "messageBody": "",
+            "message": "Comment out assertion for gameState - It does not work correctly.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "b439f697382e913161836125a56c9bc3d59813a7",
-            "messageTitle": "numNPC changed to follow number of players.",
-            "messageBody": "",
+            "message": "numNPC changed to follow number of players.",
             "insertions": 1,
             "deletions": 3
           },
           {
             "hash": "317415fc1ce184d72817408fff2d1ed241ca2fff",
-            "messageTitle": "Prevent sellValue and buyValue from getting past each other.",
-            "messageBody": "",
+            "message": "Prevent sellValue and buyValue from getting past each other.",
             "insertions": 4,
             "deletions": 2
           }
@@ -1866,64 +1648,55 @@
         "commitResults": [
           {
             "hash": "6fc6372a93bb2bd9cd6e548a306212cb24b60c98",
-            "messageTitle": "Remove redundant ItemType.",
-            "messageBody": "",
+            "message": "Remove redundant ItemType.",
             "insertions": 200,
             "deletions": 209
           },
           {
             "hash": "f48e474dae3357e6dbaa11cc32eb0e564ea691fc",
-            "messageTitle": "Refactor Ship to separate some behavior from state.",
-            "messageBody": "",
+            "message": "Refactor Ship to separate some behavior from state.",
             "insertions": 289,
             "deletions": 135
           },
           {
             "hash": "a151f052ce7687c1295c950ec5d24e8d9a7cecdb",
-            "messageTitle": "Remove files.",
-            "messageBody": "",
+            "message": "Remove files.",
             "insertions": 0,
             "deletions": 221
           },
           {
             "hash": "754b888df970600a71f9a1afe9fc9154d6259858",
-            "messageTitle": "Fix error message for insufficient cargo space.",
-            "messageBody": "",
+            "message": "Fix error message for insufficient cargo space.",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "c0201749eed55cd167ff336cbf7868288b514ddd",
-            "messageTitle": "Add skeleton for remaining GameState tests.",
-            "messageBody": "",
+            "message": "Add skeleton for remaining GameState tests.",
             "insertions": 171,
             "deletions": 5
           },
           {
             "hash": "8e7591b66ebed31a811b889aa9dae90f508e3d5f",
-            "messageTitle": "Change Ship to ShipUI in constants enum.",
-            "messageBody": "",
+            "message": "Change Ship to ShipUI in constants enum.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f8ac7d2c6ed49b312b72bca3e3140ff19057b771",
-            "messageTitle": "Rename suppliesConsumed to itemConsumed.",
-            "messageBody": "",
+            "message": "Rename suppliesConsumed to itemConsumed.",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "9ef1eb3de3b63398073c168cec8d324a80a0a62d",
-            "messageTitle": "Refactor InfoMessage.",
-            "messageBody": "",
+            "message": "Refactor InfoMessage.",
             "insertions": 57,
             "deletions": 40
           },
           {
             "hash": "24b773d709c26c96a364ac612cd53d95cbea33ad",
-            "messageTitle": "Complete tests for ShipAPI.",
-            "messageBody": "",
+            "message": "Complete tests for ShipAPI.",
             "insertions": 199,
             "deletions": 93
           }
@@ -1936,120 +1709,103 @@
         "commitResults": [
           {
             "hash": "be45af3945224d97a2e99cdd2efe95e5c5ab13a9",
-            "messageTitle": "Finish some ItemStorage tests.",
-            "messageBody": "",
+            "message": "Finish some ItemStorage tests.",
             "insertions": 265,
             "deletions": 47
           },
           {
             "hash": "f1d802fcf969aa57a00cba8230320f0a06d9230c",
-            "messageTitle": "Remove sellItem.",
-            "messageBody": "",
+            "message": "Remove sellItem.",
             "insertions": 1,
             "deletions": 18
           },
           {
             "hash": "4654369669ba92195ac7165876d1fc18409cff22",
-            "messageTitle": "Add test for selling item.",
-            "messageBody": "",
+            "message": "Add test for selling item.",
             "insertions": 99,
             "deletions": 23
           },
           {
             "hash": "b9edf249ceb0b613682b466c8d1321fa1cb2611a",
-            "messageTitle": "Fix broken test.",
-            "messageBody": "",
+            "message": "Fix broken test.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6b58270ac41adb56d44d1832a8318120b6a2feef",
-            "messageTitle": "Complete ItemStorage tests.",
-            "messageBody": "",
+            "message": "Complete ItemStorage tests.",
             "insertions": 60,
             "deletions": 2
           },
           {
             "hash": "530b842efb13597d0a38ddb81fbd161cf47ca33d",
-            "messageTitle": "Add test for UpgradeManager.",
-            "messageBody": "",
+            "message": "Add test for UpgradeManager.",
             "insertions": 60,
             "deletions": 19
           },
           {
             "hash": "b8ffdee674f68eefa3bf3f45076555ca3f5b00ed",
-            "messageTitle": "Complete NavigationManager tests.",
-            "messageBody": "",
+            "message": "Complete NavigationManager tests.",
             "insertions": 217,
             "deletions": 10
           },
           {
             "hash": "b728f3e0a61f1e43e00f5070c3ad2a8d148aae96",
-            "messageTitle": "Fix broken tests.",
-            "messageBody": "",
+            "message": "Fix broken tests.",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b0c5184590864d634414de4ca178f5029b6bbb9e",
-            "messageTitle": "Finish PirateWeatherEntity test.",
-            "messageBody": "",
+            "message": "Finish PirateWeatherEntity test.",
             "insertions": 75,
             "deletions": 30
           },
           {
             "hash": "a303a208b3d7995e7f175667f500044588503b56",
-            "messageTitle": "Add some NPC tests.",
-            "messageBody": "",
+            "message": "Add some NPC tests.",
             "insertions": 76,
             "deletions": 14
           },
           {
             "hash": "b38b8ecf17df01c2888f5b56e8c94c9336a57251",
-            "messageTitle": "(Herald) fix tests",
-            "messageBody": "",
+            "message": "(Herald) fix tests",
             "insertions": 87,
             "deletions": 46
           },
           {
             "hash": "9ed81500c942f2e779ab2ee068d93fbc2b30e0d7",
-            "messageTitle": "Remove some whitespaces.",
-            "messageBody": "",
+            "message": "Remove some whitespaces.",
             "insertions": 5,
             "deletions": 5
           },
           {
             "hash": "01ce7ab35480a643083b330a476a6981ef627ccb",
-            "messageTitle": "Finish NPC tests.",
-            "messageBody": "",
+            "message": "Finish NPC tests.",
             "insertions": 68,
             "deletions": 69
           },
           {
             "hash": "61c1c182608bc96bd6d76d5182e55fc3552f98d0",
-            "messageTitle": "Finish Player Unit Tests.",
-            "messageBody": "",
+            "message": "Finish Player Unit Tests.",
             "insertions": 213,
             "deletions": 80
           },
           {
             "hash": "2ae5c87bdf2af234f0d13cf2fa028c530944b989",
-            "messageTitle": "Fix node getNumNodesTo bug with 0 distance.",
-            "messageBody": "",
+            "message": "Fix node getNumNodesTo bug with 0 distance.",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "2a0cce8627b81ffa714747af9fdf324511017064",
-            "messageTitle": "Remove gameState tests.",
-            "messageBody": "",
+            "message": "Remove gameState tests.",
             "insertions": 0,
             "deletions": 41
           },
           {
             "hash": "86bb29761e2d2be0a47d8522a8db92d42058ff99",
-            "messageTitle": "Fix tests.",
-            "messageBody": "",
+            "message": "Fix tests.",
             "insertions": 2,
             "deletions": 1
           }
@@ -2062,22 +1818,19 @@
         "commitResults": [
           {
             "hash": "08cc562d3a881c729c367d2e6e212dc91e8c988d",
-            "messageTitle": "Fix 2 tests.",
-            "messageBody": "",
+            "message": "Fix 2 tests.",
             "insertions": 1,
             "deletions": 6
           },
           {
             "hash": "7a0bc35eb199cd566993d455ae417854aca6976d",
-            "messageTitle": "Fix lint errors.",
-            "messageBody": "",
+            "message": "Fix lint errors.",
             "insertions": 22,
             "deletions": 29
           },
           {
             "hash": "ba0a32a0eb2eb90686b28bdf39ffc55201d0af3f",
-            "messageTitle": "Document code for GameState.",
-            "messageBody": "",
+            "message": "Document code for GameState.",
             "insertions": 65,
             "deletions": 4
           }
@@ -2092,15 +1845,13 @@
         "commitResults": [
           {
             "hash": "8c27a47849927ab66bcd818f75bbc0e1e1c565e5",
-            "messageTitle": "Create workspace",
-            "messageBody": "",
+            "message": "Create workspace",
             "insertions": 134,
             "deletions": 0
           },
           {
             "hash": "d9ce9361aa5a84851171304074ac6791f0e3fbad",
-            "messageTitle": "Add structs for environment",
-            "messageBody": "",
+            "message": "Add structs for environment",
             "insertions": 101,
             "deletions": 0
           }
@@ -2113,29 +1864,25 @@
         "commitResults": [
           {
             "hash": "82cb75a3fc10081eaedd0bb0e71e82a07d803f1d",
-            "messageTitle": "Partially implement interface",
-            "messageBody": "",
+            "message": "Partially implement interface",
             "insertions": 347,
             "deletions": 38
           },
           {
             "hash": "460fca39ca583f3abbd179dafcb3fa75a126f5c2",
-            "messageTitle": "Add Interface support for changing month",
-            "messageBody": "",
+            "message": "Add Interface support for changing month",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "d7b29b5d28a40940490a9a6ac8bbe27ab608c804",
-            "messageTitle": "Enable panning and zooming",
-            "messageBody": "",
+            "message": "Enable panning and zooming",
             "insertions": 190,
             "deletions": 6
           },
           {
             "hash": "86cf94aff8783728e32019eba4e088cf7b15c68e",
-            "messageTitle": "Implement proper zooming",
-            "messageBody": "",
+            "message": "Implement proper zooming",
             "insertions": 29,
             "deletions": 52
           }
@@ -2148,57 +1895,49 @@
         "commitResults": [
           {
             "hash": "d8ab4fefa3f9f9dbc6a385423a5b60d26a5205d8",
-            "messageTitle": "Add interface sync on subscription",
-            "messageBody": "",
+            "message": "Add interface sync on subscription",
             "insertions": 13,
             "deletions": 1
           },
           {
             "hash": "7647b5802ab0b820c878540f00ec24517ee3ff1a",
-            "messageTitle": "Implement pause and show alert api for interface",
-            "messageBody": "",
+            "message": "Implement pause and show alert api for interface",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "4650085ca552b0e99731d5ccc35cd1580b34fd93",
-            "messageTitle": "Implement paths in interface",
-            "messageBody": "",
+            "message": "Implement paths in interface",
             "insertions": 97,
             "deletions": 7
           },
           {
             "hash": "ad140d720967607afdc51e7033cf36702030d01c",
-            "messageTitle": "Sea now inherits from Node",
-            "messageBody": "",
+            "message": "Sea now inherits from Node",
             "insertions": 9,
             "deletions": 3
           },
           {
             "hash": "ab486c7c6b290ab37a7dc42c6dfcb30093f92dc9",
-            "messageTitle": "Create subscription wrapper in Interface",
-            "messageBody": "",
+            "message": "Create subscription wrapper in Interface",
             "insertions": 9,
             "deletions": 2
           },
           {
             "hash": "5624b041147b9b045e86b73269c22e543de69fe1",
-            "messageTitle": "Interface maintains state until changes are broadcasted",
-            "messageBody": "",
+            "message": "Interface maintains state until changes are broadcasted",
             "insertions": 24,
             "deletions": 15
           },
           {
             "hash": "bc45bd874a18cf5c1d4a9488b9a3e90957be5ce0",
-            "messageTitle": "Add blur effect to port information",
-            "messageBody": "",
+            "message": "Add blur effect to port information",
             "insertions": 20,
             "deletions": 1
           },
           {
             "hash": "9b43dfc1cc672ca72c9a5240381f6cc6bf0b0b0c",
-            "messageTitle": "Implement UIGameImageView class",
-            "messageBody": "",
+            "message": "Implement UIGameImageView class",
             "insertions": 22,
             "deletions": 0
           }
@@ -2211,29 +1950,25 @@
         "commitResults": [
           {
             "hash": "044d488bfec15b9ab42f29e317545783c7556052",
-            "messageTitle": "Add partial player information display",
-            "messageBody": "",
+            "message": "Add partial player information display",
             "insertions": 171,
             "deletions": 41
           },
           {
             "hash": "13b9aee3f981b450a5b85d87740c09c2480096b8",
-            "messageTitle": "Implement showTravelChoices in interface",
-            "messageBody": "",
+            "message": "Implement showTravelChoices in interface",
             "insertions": 86,
             "deletions": 3
           },
           {
             "hash": "c3b5da3ab66ae0e1c1cc352dae8781281b8cbac0",
-            "messageTitle": "Add wrapper for publish subject",
-            "messageBody": "",
+            "message": "Add wrapper for publish subject",
             "insertions": 34,
             "deletions": 8
           },
           {
             "hash": "16bc9315bef62373c2b3a5a29879294048908668",
-            "messageTitle": "Add turn time limit support",
-            "messageBody": "",
+            "message": "Add turn time limit support",
             "insertions": 28,
             "deletions": 14
           }
@@ -2246,29 +1981,25 @@
         "commitResults": [
           {
             "hash": "258395ae366a5cdaba69201a734fda2a4256723b",
-            "messageTitle": "Add \"dice roll\" animation",
-            "messageBody": "",
+            "message": "Add \"dice roll\" animation",
             "insertions": 41,
             "deletions": 19
           },
           {
             "hash": "7fd6159d3e519f5978c83ca8e3fa91bfb4c1a74a",
-            "messageTitle": "Add comments to Interface API",
-            "messageBody": "",
+            "message": "Add comments to Interface API",
             "insertions": 47,
             "deletions": 0
           },
           {
             "hash": "c951ee6205bed8b4a5121243e96e9a041efda051",
-            "messageTitle": "Add capability to support all aspect ratios",
-            "messageBody": "",
+            "message": "Add capability to support all aspect ratios",
             "insertions": 39,
             "deletions": 10
           },
           {
             "hash": "a25f5cea3b12de8e8840fb0de8d8510279baf4d5",
-            "messageTitle": "Add modifiers to path",
-            "messageBody": "",
+            "message": "Add modifiers to path",
             "insertions": 44,
             "deletions": 23
           }
@@ -2281,113 +2012,97 @@
         "commitResults": [
           {
             "hash": "0b9779cca35edfd8d72184a6d6faa79b7b094480",
-            "messageTitle": "Remove RxCocoa and Abstracted PathsViewController",
-            "messageBody": "",
+            "message": "Remove RxCocoa and Abstracted PathsViewController",
             "insertions": 119,
             "deletions": 75
           },
           {
             "hash": "a7d6513fec1b7ce472e1529d779ba146def8a82f",
-            "messageTitle": "Extract ObjectsViewController",
-            "messageBody": "",
+            "message": "Extract ObjectsViewController",
             "insertions": 133,
             "deletions": 101
           },
           {
             "hash": "cbd044b188258e3e09d92dc0b1c4bcb2b3e70dca",
-            "messageTitle": "Shortened functions in MainGameViewController",
-            "messageBody": "",
+            "message": "Shortened functions in MainGameViewController",
             "insertions": 32,
             "deletions": 20
           },
           {
             "hash": "3dfca68149a663acccc9911dcf5a505f5e41af8a",
-            "messageTitle": "Extract and implement UIBlurredBackgroundView",
-            "messageBody": "",
+            "message": "Extract and implement UIBlurredBackgroundView",
             "insertions": 40,
             "deletions": 23
           },
           {
             "hash": "14e797beb9977a0173bb0ae64041eab3a5879c17",
-            "messageTitle": "Group Interface files appropriately",
-            "messageBody": "",
+            "message": "Group Interface files appropriately",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "9bd053b05b24a6ea8bb25261bde456c58a563e43",
-            "messageTitle": "Remove redundant guard condition",
-            "messageBody": "",
+            "message": "Remove redundant guard condition",
             "insertions": 1,
             "deletions": 2
           },
           {
             "hash": "1f67a086c5b033252924f4d173273f6242f1ba2b",
-            "messageTitle": "Remove addBlurBackground from MainGameViewController",
-            "messageBody": "",
+            "message": "Remove addBlurBackground from MainGameViewController",
             "insertions": 0,
             "deletions": 10
           },
           {
             "hash": "b0ac44ac882337db71e790062bcc2b6f66798d0a",
-            "messageTitle": "Make ports selectable to show Information",
-            "messageBody": "",
+            "message": "Make ports selectable to show Information",
             "insertions": 33,
             "deletions": 6
           },
           {
             "hash": "dbdb846622234a3e370a83db7f60de8600b3414a",
-            "messageTitle": "Extract fade out into its own function",
-            "messageBody": "",
+            "message": "Extract fade out into its own function",
             "insertions": 15,
             "deletions": 7
           },
           {
             "hash": "51bf893e824b804e94b1308961ae9b44cc1c6253",
-            "messageTitle": "Remove redundant disposeBag in Interface",
-            "messageBody": "",
+            "message": "Remove redundant disposeBag in Interface",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "0f5e3a4028a5ac8120a77479232029677e61286d",
-            "messageTitle": "Move GameObject to common",
-            "messageBody": "",
+            "message": "Move GameObject to common",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "00df5805bf9878afda6e6f5a07cd3efb67f6c5dc",
-            "messageTitle": "Remove UIImageView reference from game object and clean up NodeView",
-            "messageBody": "",
+            "message": "Remove UIImageView reference from game object and clean up NodeView",
             "insertions": 20,
             "deletions": 18
           },
           {
             "hash": "47334f2ba57dc28f218b1f3c41ae01eafb9ddd6f",
-            "messageTitle": "Rename initLabel",
-            "messageBody": "",
+            "message": "Rename initLabel",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "8486f2cc93cbe5896256d1c0db53a1073b7b6561",
-            "messageTitle": "Make Interface properties private set",
-            "messageBody": "",
+            "message": "Make Interface properties private set",
             "insertions": 11,
             "deletions": 5
           },
           {
             "hash": "4d6b038963522dbd62b054df005eac356855ca90",
-            "messageTitle": "Update interface to use GenericPlayer instead",
-            "messageBody": "",
+            "message": "Update interface to use GenericPlayer instead",
             "insertions": 8,
             "deletions": 3
           },
           {
             "hash": "4284b88c3e9a3756c65faf1fd51e67a9f807b7e1",
-            "messageTitle": "Add support for animated GameObject",
-            "messageBody": "",
+            "message": "Add support for animated GameObject",
             "insertions": 61,
             "deletions": 5
           }
@@ -2400,43 +2115,37 @@
         "commitResults": [
           {
             "hash": "1f324d6f6793f1d71c9c2362bff2c3969ab36e16",
-            "messageTitle": "Remove unused variable",
-            "messageBody": "",
+            "message": "Remove unused variable",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "298294bf90d87707b6edbc4ae9c5bc71deb236b6",
-            "messageTitle": "Extract paths storage in Interface and ViewController to ObjectPaths",
-            "messageBody": "",
+            "message": "Extract paths storage in Interface and ViewController to ObjectPaths",
             "insertions": 81,
             "deletions": 33
           },
           {
             "hash": "637826838261018cb7c1d06b0ff8bc48ccc9f1f0",
-            "messageTitle": "Fix build errors from previous commit",
-            "messageBody": "",
+            "message": "Fix build errors from previous commit",
             "insertions": 3,
             "deletions": 4
           },
           {
             "hash": "36e1b0fd9083b9913ebca557b253752705e808eb",
-            "messageTitle": "Implement port information on select",
-            "messageBody": "",
+            "message": "Implement port information on select",
             "insertions": 81,
             "deletions": 3
           },
           {
             "hash": "d256cf72907de68e2c8ff55e040580ae1701bab6",
-            "messageTitle": "Port item interface",
-            "messageBody": "",
+            "message": "Port item interface",
             "insertions": 114,
             "deletions": 18
           },
           {
             "hash": "4bf4ceaf8305ba5c6bfdaaa411932e5d7e5e913a",
-            "messageTitle": ".",
-            "messageBody": "",
+            "message": ".",
             "insertions": 6,
             "deletions": 1
           }
@@ -2449,15 +2158,13 @@
         "commitResults": [
           {
             "hash": "123b7269f45b26b63e445f1f0f789f2a2e0d8bee",
-            "messageTitle": "Add support for player item table",
-            "messageBody": "",
+            "message": "Add support for player item table",
             "insertions": 105,
             "deletions": 1
           },
           {
             "hash": "b49c8540c22f313e6fbf80a5bd720d447c940a02",
-            "messageTitle": "Add some interface tests and fix compile errors",
-            "messageBody": "",
+            "message": "Add some interface tests and fix compile errors",
             "insertions": 83,
             "deletions": 4
           }
@@ -2470,15 +2177,13 @@
         "commitResults": [
           {
             "hash": "55b199951291693c4a1169d8777de6c4fdfd9c1b",
-            "messageTitle": "Deprecated GameObject and Path usage in Interface API",
-            "messageBody": "",
+            "message": "Deprecated GameObject and Path usage in Interface API",
             "insertions": 66,
             "deletions": 22
           },
           {
             "hash": "f544319df834fb1754564afa4f52425953203db3",
-            "messageTitle": "Add InterfaceDrawable and InterfaceEvent",
-            "messageBody": "",
+            "message": "Add InterfaceDrawable and InterfaceEvent",
             "insertions": 151,
             "deletions": 9
           }
@@ -2491,8 +2196,7 @@
         "commitResults": [
           {
             "hash": "96a3fbbf699f814e41d49f316439400472295d68",
-            "messageTitle": "Add interface drawables",
-            "messageBody": "",
+            "message": "Add interface drawables",
             "insertions": 335,
             "deletions": 218
           }
@@ -2505,15 +2209,13 @@
         "commitResults": [
           {
             "hash": "f241a31ac95296c6b8c6934dc9d5556f0553c998",
-            "messageTitle": "Complete implementation for ContextDrawable",
-            "messageBody": "",
+            "message": "Complete implementation for ContextDrawable",
             "insertions": 84,
             "deletions": 3
           },
           {
             "hash": "7fbc494770366dd4c9800df054a49d4f44f9552e",
-            "messageTitle": "Fix interface unit tests",
-            "messageBody": "",
+            "message": "Fix interface unit tests",
             "insertions": 59,
             "deletions": 19
           }
@@ -2526,15 +2228,13 @@
         "commitResults": [
           {
             "hash": "870c77e1108e1c698e43c2de89470260134caf2d",
-            "messageTitle": "Partial implementation for network layer",
-            "messageBody": "",
+            "message": "Partial implementation for network layer",
             "insertions": 308,
             "deletions": 2
           },
           {
             "hash": "cb628eedf3989c6d436fd9ffc1fdac54ed2d2ce8",
-            "messageTitle": "Network mostly implemented",
-            "messageBody": "",
+            "message": "Network mostly implemented",
             "insertions": 209,
             "deletions": 20
           }
@@ -2547,22 +2247,19 @@
         "commitResults": [
           {
             "hash": "e3c98964c9bcbec75d810f9f9d994dcff6e238dc",
-            "messageTitle": "Improved wrapper for ObservableObject",
-            "messageBody": "",
+            "message": "Improved wrapper for ObservableObject",
             "insertions": 37,
             "deletions": 38
           },
           {
             "hash": "d46cbb2e27dd1c0c7634b7fc94a60d9b3ca97761",
-            "messageTitle": "Improve RxSwift wrappers",
-            "messageBody": "",
+            "message": "Improve RxSwift wrappers",
             "insertions": 12,
             "deletions": 27
           },
           {
             "hash": "5a36c29c08372cbe0989b7c80acd1b1876bfd4eb",
-            "messageTitle": "Improve firebase wrapping",
-            "messageBody": "",
+            "message": "Improve firebase wrapping",
             "insertions": 165,
             "deletions": 16
           }
@@ -2575,29 +2272,25 @@
         "commitResults": [
           {
             "hash": "93e7e41431fc5ae942162ed8449d2b5012c52d73",
-            "messageTitle": "Changes",
-            "messageBody": "",
+            "message": "Changes",
             "insertions": 110,
             "deletions": 113
           },
           {
             "hash": "48083d4d56ffaa3e59b2a78bc7502143c6e4e6dc",
-            "messageTitle": "no message",
-            "messageBody": "",
+            "message": "no message",
             "insertions": 24,
             "deletions": 12
           },
           {
             "hash": "73863ce8063593a411128c080e9964d49bc10b44",
-            "messageTitle": "Make GameObject inherit from BaseGameObject",
-            "messageBody": "",
+            "message": "Make GameObject inherit from BaseGameObject",
             "insertions": 101,
             "deletions": 7
           },
           {
             "hash": "afbd702512f3bb25d0cff6696e778684cf860ea1",
-            "messageTitle": "Fix not calling observer on field set",
-            "messageBody": "",
+            "message": "Fix not calling observer on field set",
             "insertions": 11,
             "deletions": 7
           }
@@ -2610,43 +2303,37 @@
         "commitResults": [
           {
             "hash": "5496a0e220ed60d8dd27edd4ab7c1ba215b91238",
-            "messageTitle": "Partial implementation for network layer",
-            "messageBody": "",
+            "message": "Partial implementation for network layer",
             "insertions": 308,
             "deletions": 2
           },
           {
             "hash": "47d8f0a38970e627ec18f09f0f90ef13af7aaecb",
-            "messageTitle": "Network mostly implemented",
-            "messageBody": "",
+            "message": "Network mostly implemented",
             "insertions": 209,
             "deletions": 20
           },
           {
             "hash": "1e127bacdc18a6520cd5c1fb3a61c641c7e5e578",
-            "messageTitle": "Improved wrapper for ObservableObject",
-            "messageBody": "",
+            "message": "Improved wrapper for ObservableObject",
             "insertions": 37,
             "deletions": 38
           },
           {
             "hash": "42233a4a3137b33f934d3e4ba8084104165170ea",
-            "messageTitle": "Improve RxSwift wrappers",
-            "messageBody": "",
+            "message": "Improve RxSwift wrappers",
             "insertions": 12,
             "deletions": 27
           },
           {
             "hash": "d31b98b1c1f1db88ba0aa4b22b25777f3a7974bf",
-            "messageTitle": "Improve firebase wrapping",
-            "messageBody": "",
+            "message": "Improve firebase wrapping",
             "insertions": 165,
             "deletions": 16
           },
           {
             "hash": "e459dbbc150227f4d8fa01660fe4b70f01225147",
-            "messageTitle": "Change network adt",
-            "messageBody": "",
+            "message": "Change network adt",
             "insertions": 146,
             "deletions": 143
           }
@@ -2659,57 +2346,49 @@
         "commitResults": [
           {
             "hash": "63c5efd495fe7c78842db676d9577f7e32b236b8",
-            "messageTitle": "Basic implementation of rooms",
-            "messageBody": "",
+            "message": "Basic implementation of rooms",
             "insertions": 349,
             "deletions": 21
           },
           {
             "hash": "fce9baf79c20172c3581ec8e3680cf6226c3d0ba",
-            "messageTitle": "Reverse unintended change",
-            "messageBody": "",
+            "message": "Reverse unintended change",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "31c9937f4a974bdd74863f500bc0266c976d7b2b",
-            "messageTitle": "cleanup unused code",
-            "messageBody": "",
+            "message": "cleanup unused code",
             "insertions": 15,
             "deletions": 1784
           },
           {
             "hash": "4358e11a5d920af19116f65e0df714acbb6d0935",
-            "messageTitle": "Add game state initialization from waiting players.",
-            "messageBody": "",
+            "message": "Add game state initialization from waiting players.",
             "insertions": 40,
             "deletions": 23
           },
           {
             "hash": "1d0d005143b0933b339583418f2e1854d6549070",
-            "messageTitle": "Fix build issues",
-            "messageBody": "",
+            "message": "Fix build issues",
             "insertions": 14,
             "deletions": 20
           },
           {
             "hash": "d85b0a7e455fecbb79e922a63d95284c9cdf74a4",
-            "messageTitle": "Turn System updates",
-            "messageBody": "",
+            "message": "Turn System updates",
             "insertions": 68,
             "deletions": 14
           },
           {
             "hash": "11e962ca9761167a4bf4082c1f59d6d6409073c4",
-            "messageTitle": "Partial implementation for startGame",
-            "messageBody": "",
+            "message": "Partial implementation for startGame",
             "insertions": 93,
             "deletions": 9
           },
           {
             "hash": "b7f5c45f3eadcc29321dcff4872be0a14804a241",
-            "messageTitle": "l",
-            "messageBody": "",
+            "message": "l",
             "insertions": 3,
             "deletions": 1
           }
@@ -2722,15 +2401,13 @@
         "commitResults": [
           {
             "hash": "ad6eb6a71f099fe52065e8ff0b4eee2d7fb759d1",
-            "messageTitle": "Make gameobjects observable",
-            "messageBody": "",
+            "message": "Make gameobjects observable",
             "insertions": 54,
             "deletions": 21
           },
           {
             "hash": "ac835f682e0b411d7b01c1b2dffc267feb45076b",
-            "messageTitle": "Implemented functionalities",
-            "messageBody": "",
+            "message": "Implemented functionalities",
             "insertions": 282,
             "deletions": 170
           }
@@ -2743,36 +2420,31 @@
         "commitResults": [
           {
             "hash": "5013b8470d0ca626acc03c31d72b1a0acae42b7e",
-            "messageTitle": "Game is able to start",
-            "messageBody": "",
+            "message": "Game is able to start",
             "insertions": 142,
             "deletions": 88
           },
           {
             "hash": "9dcfa8cd14daa9f80056137f6e994111f1b63c4d",
-            "messageTitle": "Fix build error",
-            "messageBody": "",
+            "message": "Fix build error",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "4b2eb89119060affdcd16be788d45b4e962efc7b",
-            "messageTitle": "Implement network action processing",
-            "messageBody": "",
+            "message": "Implement network action processing",
             "insertions": 83,
             "deletions": 16
           },
           {
             "hash": "111272ac3c817a29dae78e9265e618dd8600452d",
-            "messageTitle": "Add todo for conflicting taxes",
-            "messageBody": "",
+            "message": "Add todo for conflicting taxes",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "94e2fd1cb4d7132d9fe7df3048dff71def57d174",
-            "messageTitle": "Implement basic game functionality",
-            "messageBody": "",
+            "message": "Implement basic game functionality",
             "insertions": 155,
             "deletions": 97
           }
@@ -2785,29 +2457,25 @@
         "commitResults": [
           {
             "hash": "d1b901bb22c559c964b233f0afad4dc9097e7eee",
-            "messageTitle": "Interface frames independant from model frame",
-            "messageBody": "",
+            "message": "Interface frames independant from model frame",
             "insertions": 68,
             "deletions": 218
           },
           {
             "hash": "b64fcf1cbab1bce1b685469ef8dce4d9acdd8abb",
-            "messageTitle": "Implement turn time limit",
-            "messageBody": "",
+            "message": "Implement turn time limit",
             "insertions": 52,
             "deletions": 36
           },
           {
             "hash": "74f93386fcf624ccf24930a6349af78cacd44476",
-            "messageTitle": "Partial implementation of buy/sell",
-            "messageBody": "",
+            "message": "Partial implementation of buy/sell",
             "insertions": 86,
             "deletions": 53
           },
           {
             "hash": "3f05cfd263c2eecccfc4b762daba0d21e1a519b5",
-            "messageTitle": "Fix missing parameters",
-            "messageBody": "",
+            "message": "Fix missing parameters",
             "insertions": 3,
             "deletions": 0
           }
@@ -2820,8 +2488,7 @@
         "commitResults": [
           {
             "hash": "01fc07fcd2e2e3fe58d292c4cff1d85da3414071",
-            "messageTitle": "Implement multiplayer",
-            "messageBody": "",
+            "message": "Implement multiplayer",
             "insertions": 111,
             "deletions": 36
           }
@@ -2834,36 +2501,31 @@
         "commitResults": [
           {
             "hash": "861eb83acb593045be4269b9c92d0512a685bfa9",
-            "messageTitle": "Fix sell items not visible",
-            "messageBody": "",
+            "message": "Fix sell items not visible",
             "insertions": 50,
             "deletions": 67
           },
           {
             "hash": "3b376cdd9d6c51e25060010e4b7144898ccf75f2",
-            "messageTitle": "Fix bug with image size",
-            "messageBody": "",
+            "message": "Fix bug with image size",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "34954a91199a88ef2ba446962b6b29c26f508847",
-            "messageTitle": "Fix build error",
-            "messageBody": "",
+            "message": "Fix build error",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "08a12d99c50a7010d727c0d15af39421ff741719",
-            "messageTitle": "Fix cyclic observer dependancy preventing the game from running",
-            "messageBody": "",
+            "message": "Fix cyclic observer dependancy preventing the game from running",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "c5681279e3b0ea22cd5368a818b560b7fa2c92ce",
-            "messageTitle": "Fix errors",
-            "messageBody": "",
+            "message": "Fix errors",
             "insertions": 1,
             "deletions": 1
           }
@@ -2876,15 +2538,13 @@
         "commitResults": [
           {
             "hash": "d4d00e8591039cc772f56e196708e4692fb7f832",
-            "messageTitle": "Integrate upgrades with interface",
-            "messageBody": "",
+            "message": "Integrate upgrades with interface",
             "insertions": 190,
             "deletions": 29
           },
           {
             "hash": "d44a48dd01e19a58bc328ce53992e7767a2a98b3",
-            "messageTitle": "Integrate buy upgrade with network",
-            "messageBody": "",
+            "message": "Integrate buy upgrade with network",
             "insertions": 18,
             "deletions": 4
           }
@@ -2897,15 +2557,13 @@
         "commitResults": [
           {
             "hash": "77e56cacc1858f08f09413235811ee65eacfd820",
-            "messageTitle": "Add team money view and weather view",
-            "messageBody": "",
+            "message": "Add team money view and weather view",
             "insertions": 311,
             "deletions": 120
           },
           {
             "hash": "88f7abf6a40193f44a5e61931a16f82b8f0257b2",
-            "messageTitle": "Fix build errors",
-            "messageBody": "",
+            "message": "Fix build errors",
             "insertions": 1,
             "deletions": 1
           }
@@ -2918,15 +2576,13 @@
         "commitResults": [
           {
             "hash": "2d1faa0533af4a17349c3a2ea7ab7762b72f3919",
-            "messageTitle": "General fixes",
-            "messageBody": "",
+            "message": "General fixes",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "4ce8206e49b472ad5bf8b04d58589388c916adac",
-            "messageTitle": "General fixes",
-            "messageBody": "",
+            "message": "General fixes",
             "insertions": 89,
             "deletions": 22
           }
@@ -2939,15 +2595,13 @@
         "commitResults": [
           {
             "hash": "d7f0eb994a1f7358364093f519bc0e6c4596accc",
-            "messageTitle": "Add pirate and fix network bugs",
-            "messageBody": "",
+            "message": "Add pirate and fix network bugs",
             "insertions": 312,
             "deletions": 256
           },
           {
             "hash": "0cb0b70b70484507275b930b82e0abc81bdb0c0f",
-            "messageTitle": "Add local multiplayer",
-            "messageBody": "",
+            "message": "Add local multiplayer",
             "insertions": 128,
             "deletions": 109
           }
@@ -2960,22 +2614,19 @@
         "commitResults": [
           {
             "hash": "7df9fa17b1658e3a226c937335a2bd882c1c0959",
-            "messageTitle": "Implement set tax",
-            "messageBody": "",
+            "message": "Implement set tax",
             "insertions": 103,
             "deletions": 26
           },
           {
             "hash": "d69a6939b269b525b0e4a3e24de8d76140def652",
-            "messageTitle": "Fix crash",
-            "messageBody": "",
+            "message": "Fix crash",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "ee3f7293e2d66deb9e5f826fd9e83c3c9b290434",
-            "messageTitle": "Delete old turnsystem",
-            "messageBody": "",
+            "message": "Delete old turnsystem",
             "insertions": 491,
             "deletions": 564
           }
@@ -2988,15 +2639,13 @@
         "commitResults": [
           {
             "hash": "41303af26d937f8beb49e90da02620ab07327695",
-            "messageTitle": "Fix game state encoding",
-            "messageBody": "",
+            "message": "Fix game state encoding",
             "insertions": 242,
             "deletions": 174
           },
           {
             "hash": "e76c8f36e0d56a6da945d5b99d1b1a11037622fa",
-            "messageTitle": ".",
-            "messageBody": "",
+            "message": ".",
             "insertions": 195,
             "deletions": 68
           }
@@ -3009,43 +2658,37 @@
         "commitResults": [
           {
             "hash": "ed07a213d757b27c00e2985890b302340ee1c76f",
-            "messageTitle": "Fix weather",
-            "messageBody": "",
+            "message": "Fix weather",
             "insertions": 13,
             "deletions": 12
           },
           {
             "hash": "c8e5723856a38a30e07f3267ae61a0670d515ef4",
-            "messageTitle": "Fix GM deleting other characters and spectator mode",
-            "messageBody": "",
+            "message": "Fix GM deleting other characters and spectator mode",
             "insertions": 15,
             "deletions": 11
           },
           {
             "hash": "cbfe110bafd3516b6399d48df3e8991c0a100d59",
-            "messageTitle": "Add end game",
-            "messageBody": "",
+            "message": "Add end game",
             "insertions": 27,
             "deletions": 2
           },
           {
             "hash": "655ecc7eab696d73a748609edded89cc5915c6c5",
-            "messageTitle": "Fix bug",
-            "messageBody": "",
+            "message": "Fix bug",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "fbf713055723295db993a9eaf95dacc07a11dff8",
-            "messageTitle": "Add background to main menu",
-            "messageBody": "",
+            "message": "Add background to main menu",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "92bf58357fea5f572c78c8bc5d6a9f05638d58c1",
-            "messageTitle": "Fix network bug",
-            "messageBody": "",
+            "message": "Fix network bug",
             "insertions": 9,
             "deletions": 9
           }
@@ -3058,22 +2701,19 @@
         "commitResults": [
           {
             "hash": "088b4f4b05e524f29a514572aa872027f9add987",
-            "messageTitle": "Fix nested collections not being deleted",
-            "messageBody": "",
+            "message": "Fix nested collections not being deleted",
             "insertions": 16,
             "deletions": 23
           },
           {
             "hash": "4c2692bd42b2c6c9b5271856a6dcc06547c7e112",
-            "messageTitle": "Return to menu on room delete, nested collections should now be deleted, Game no longer waits for players that have been removed",
-            "messageBody": "",
+            "message": "Return to menu on room delete, nested collections should now be deleted, Game no longer waits for players that have been removed",
             "insertions": 185,
             "deletions": 113
           },
           {
             "hash": "70787933f82299bb0c3c9273996f37dd6dee9ec0",
-            "messageTitle": "Fix bug",
-            "messageBody": "",
+            "message": "Fix bug",
             "insertions": 1,
             "deletions": 1
           }
@@ -3086,15 +2726,13 @@
         "commitResults": [
           {
             "hash": "e14ca9179e9458047dcb88436ecc1a5d3ecfaf0e",
-            "messageTitle": "Fix bugs, add quantity trading, npc messages and player leave messages",
-            "messageBody": "",
+            "message": "Fix bugs, add quantity trading, npc messages and player leave messages",
             "insertions": 355,
             "deletions": 104
           },
           {
             "hash": "91338378d6e93b7d663b21b85527196efd719c6b",
-            "messageTitle": "Refactoring",
-            "messageBody": "",
+            "message": "Refactoring",
             "insertions": 275,
             "deletions": 636
           }
@@ -3107,50 +2745,43 @@
         "commitResults": [
           {
             "hash": "5c396af6a032025746c7e459579b460a75a95887",
-            "messageTitle": "Fix turn stuck",
-            "messageBody": "",
+            "message": "Fix turn stuck",
             "insertions": 58,
             "deletions": 25
           },
           {
             "hash": "3f9f0ee77682de78f98c209d4325f9d53185e29a",
-            "messageTitle": "Refactoring",
-            "messageBody": "",
+            "message": "Refactoring",
             "insertions": 226,
             "deletions": 53
           },
           {
             "hash": "2022b7eae875cb88a7ae88910b6ab3c6a2adc144",
-            "messageTitle": "Fix network bugs",
-            "messageBody": "",
+            "message": "Fix network bugs",
             "insertions": 94,
             "deletions": 31
           },
           {
             "hash": "d16c0c8ffcd828f9957a08eeda21f5eb9a11a665",
-            "messageTitle": "Add tests",
-            "messageBody": "",
+            "message": "Add tests",
             "insertions": 129,
             "deletions": 15
           },
           {
             "hash": "7ff8a107d4f367d974f8db4cdf536b51ccc952d7",
-            "messageTitle": "Additional Tests",
-            "messageBody": "",
+            "message": "Additional Tests",
             "insertions": 151,
             "deletions": 7
           },
           {
             "hash": "21dc2b78f814fdfe14d5fcfee9f048e5e916594e",
-            "messageTitle": "Remove test with race condition",
-            "messageBody": "",
+            "message": "Remove test with race condition",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "aead998bf58aa8987256890fb34b5fa39bf6f8ab",
-            "messageTitle": "Refactor",
-            "messageBody": "",
+            "message": "Refactor",
             "insertions": 0,
             "deletions": 1
           }
@@ -3163,57 +2794,49 @@
         "commitResults": [
           {
             "hash": "a36f685ead7d6086d0e1166996d8099a6b951154",
-            "messageTitle": "Fix bugs",
-            "messageBody": "",
+            "message": "Fix bugs",
             "insertions": 28,
             "deletions": 6
           },
           {
             "hash": "bb76462674347b6af604eab3d9bb4351934993ae",
-            "messageTitle": "Minor fixes",
-            "messageBody": "",
+            "message": "Minor fixes",
             "insertions": 8,
             "deletions": 5
           },
           {
             "hash": "a57d3593fcc462418793f864b7022cc799f849c6",
-            "messageTitle": "Bug fixes",
-            "messageBody": "",
+            "message": "Bug fixes",
             "insertions": 3,
             "deletions": 2
           },
           {
             "hash": "24401203e9c45267da96588806c9f99124bc9659",
-            "messageTitle": "Remove redundant variable",
-            "messageBody": "",
+            "message": "Remove redundant variable",
             "insertions": 0,
             "deletions": 4
           },
           {
             "hash": "a08b3be31f41371b53724f51429e7f85a01ce36a",
-            "messageTitle": "no message",
-            "messageBody": "",
+            "message": "no message",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "dcb52323f13bf4979693a7e18a97c972d5480c62",
-            "messageTitle": "Add missing comment",
-            "messageBody": "",
+            "message": "Add missing comment",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "584201b5b76afc6a234b1a8cc67c5a2284bd10d0",
-            "messageTitle": "Enforce max tax",
-            "messageBody": "",
+            "message": "Enforce max tax",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "c5782cc8a43ce53491d7f9a00bb0edc7f14c3220",
-            "messageTitle": "Add input validation",
-            "messageBody": "",
+            "message": "Add input validation",
             "insertions": 4,
             "deletions": 1
           }
@@ -3229,29 +2852,25 @@
         "commitResults": [
           {
             "hash": "890e4b6b1b314a44046e5bc2f255e48225d12b17",
-            "messageTitle": "add protocols",
-            "messageBody": "",
+            "message": "add protocols",
             "insertions": 210,
             "deletions": 0
           },
           {
             "hash": "c27d2d607d41d197d716fbf534cbeec567ee81fd",
-            "messageTitle": "update",
-            "messageBody": "",
+            "message": "update",
             "insertions": 108,
             "deletions": 64
           },
           {
             "hash": "7ee78b128ead23441f2a596970bcfc4127f3ae3e",
-            "messageTitle": "swiftlint",
-            "messageBody": "",
+            "message": "swiftlint",
             "insertions": 35,
             "deletions": 38
           },
           {
             "hash": "3207d697b5aa41f99b2f290b4a9d63fdd92c6f84",
-            "messageTitle": "add emotion engine logic",
-            "messageBody": "",
+            "message": "add emotion engine logic",
             "insertions": 52,
             "deletions": 15
           }
@@ -3264,22 +2883,19 @@
         "commitResults": [
           {
             "hash": "74abf4a7ff05cbbd0b33508733735b3a0f265c80",
-            "messageTitle": "Add gamespeed test for gamelogic",
-            "messageBody": "",
+            "message": "Add gamespeed test for gamelogic",
             "insertions": 82,
             "deletions": 5
           },
           {
             "hash": "93b5cc30065a828dcc9900ec499b4443889a99a3",
-            "messageTitle": "add test for settime",
-            "messageBody": "",
+            "message": "add test for settime",
             "insertions": 17,
             "deletions": 15
           },
           {
             "hash": "ac055486a2c5d43167577aa9029b228e5c782417",
-            "messageTitle": "add stubs for updating game state",
-            "messageBody": "",
+            "message": "add stubs for updating game state",
             "insertions": 91,
             "deletions": 4
           }
@@ -3292,43 +2908,37 @@
         "commitResults": [
           {
             "hash": "a76bfadab73c273f62086c37798c9910ea55c7f6",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 460,
             "deletions": 141
           },
           {
             "hash": "d7d0f706bc7ba9e0c1b8211f557fcd558a9c4cc1",
-            "messageTitle": "remove files",
-            "messageBody": "",
+            "message": "remove files",
             "insertions": 5,
             "deletions": 128
           },
           {
             "hash": "41ab8955e94ebe73b0d2c1f0311b2bda46eb491f",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 6,
             "deletions": 8
           },
           {
             "hash": "77b1d3a3489bf36981c2d8de36dc91076b4245d9",
-            "messageTitle": "Make code compilable",
-            "messageBody": "",
+            "message": "Make code compilable",
             "insertions": 15,
             "deletions": 3
           },
           {
             "hash": "18ab41de08319fa76eca58d8aa062125f01ba634",
-            "messageTitle": "add event logic",
-            "messageBody": "",
+            "message": "add event logic",
             "insertions": 119,
             "deletions": 45
           },
           {
             "hash": "7a163c8bd978547e6c48c28b458f963b746312f5",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 283,
             "deletions": 77
           }
@@ -3341,15 +2951,13 @@
         "commitResults": [
           {
             "hash": "893d379df20a3ee4387f771e7b4e5729a5d9e9ff",
-            "messageTitle": "Adding EngineObject as intermediate class",
-            "messageBody": "",
+            "message": "Adding EngineObject as intermediate class",
             "insertions": 317,
             "deletions": 143
           },
           {
             "hash": "01b1c95597e4ab8186131c29ba1ab91d02818a17",
-            "messageTitle": "Finish API",
-            "messageBody": "",
+            "message": "Finish API",
             "insertions": 173,
             "deletions": 52
           }
@@ -3362,57 +2970,49 @@
         "commitResults": [
           {
             "hash": "91c980d69fd5724853f1baf0fa34e479096feab5",
-            "messageTitle": "non-compiling commit",
-            "messageBody": "",
+            "message": "non-compiling commit",
             "insertions": 155,
             "deletions": 92
           },
           {
             "hash": "5be1071c6e3b2cca6d8b8783751655efb5c1f5b7",
-            "messageTitle": "tidying up code",
-            "messageBody": "",
+            "message": "tidying up code",
             "insertions": 165,
             "deletions": 198
           },
           {
             "hash": "ce7a1228386e5237077626b03fa7c7fd0f8fa338",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 113,
             "deletions": 55
           },
           {
             "hash": "dd99be875a6c7a34acaf2df50383051644faa311",
-            "messageTitle": "fix most compile errors",
-            "messageBody": "",
+            "message": "fix most compile errors",
             "insertions": 59,
             "deletions": 52
           },
           {
             "hash": "f36f16cd7e047f51031fd1802b227c19d458c55b",
-            "messageTitle": "edits",
-            "messageBody": "",
+            "message": "edits",
             "insertions": 195,
             "deletions": 69
           },
           {
             "hash": "43fd7fd69101ac3073b4a8679af1e338b8e6794f",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 31,
             "deletions": 10
           },
           {
             "hash": "45a664a6c72473025e24e1e70e1159eae3971cda",
-            "messageTitle": "add logic to update player position, writing test classes",
-            "messageBody": "",
+            "message": "add logic to update player position, writing test classes",
             "insertions": 197,
             "deletions": 8
           },
           {
             "hash": "4e2b27ac0d48368694dc2e8e753ddbd3b9593996",
-            "messageTitle": "add test stubs",
-            "messageBody": "",
+            "message": "add test stubs",
             "insertions": 117,
             "deletions": 92
           }
@@ -3425,8 +3025,7 @@
         "commitResults": [
           {
             "hash": "ae00b501b5268d83d44f15da3dd82a72c2afcc9b",
-            "messageTitle": "fix minor mistake in GameLogic",
-            "messageBody": "",
+            "message": "fix minor mistake in GameLogic",
             "insertions": 4,
             "deletions": 1
           }
@@ -3439,36 +3038,31 @@
         "commitResults": [
           {
             "hash": "7475a2c6b660b64c8c409f350ee3dd7926e2ece3",
-            "messageTitle": "add files",
-            "messageBody": "",
+            "message": "add files",
             "insertions": 385,
             "deletions": 1
           },
           {
             "hash": "8037d5b590556ededa338de235b905508c4cb409",
-            "messageTitle": "remove files",
-            "messageBody": "",
+            "message": "remove files",
             "insertions": 0,
             "deletions": 286
           },
           {
             "hash": "afaa91711e34e341081b0d3f28a00ca1bbb52d4c",
-            "messageTitle": "merge",
-            "messageBody": "",
+            "message": "merge",
             "insertions": 369,
             "deletions": 0
           },
           {
             "hash": "b157144dd7761070c91cea4ed6f4577e438d9191",
-            "messageTitle": "add basic playeractions and events",
-            "messageBody": "",
+            "message": "add basic playeractions and events",
             "insertions": 118,
             "deletions": 9
           },
           {
             "hash": "e7153ed11f32de7a3a9074c96db6571eec925d00",
-            "messageTitle": "minor edits",
-            "messageBody": "",
+            "message": "minor edits",
             "insertions": 105,
             "deletions": 8
           }
@@ -3481,15 +3075,13 @@
         "commitResults": [
           {
             "hash": "4c66e815c6aec35c30b8f285020ea8ba148eb27d",
-            "messageTitle": "wip events",
-            "messageBody": "",
+            "message": "wip events",
             "insertions": 456,
             "deletions": 35
           },
           {
             "hash": "69a78f8ab703efc4b2fe6c4939f1a067805e1e0b",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 44,
             "deletions": 37
           }
@@ -3502,15 +3094,13 @@
         "commitResults": [
           {
             "hash": "d08fca1d6982aeac7814a48dc6ebe997b884ecdd",
-            "messageTitle": "add evaluatable support for event actions",
-            "messageBody": "",
+            "message": "add evaluatable support for event actions",
             "insertions": 207,
             "deletions": 57
           },
           {
             "hash": "91924c9fa880ad5af6e175cd12c60e290923cb5a",
-            "messageTitle": "minor change",
-            "messageBody": "",
+            "message": "minor change",
             "insertions": 18,
             "deletions": 0
           }
@@ -3523,8 +3113,7 @@
         "commitResults": [
           {
             "hash": "ab37380f484b73281e04213d7a4f0b6993037963",
-            "messageTitle": "Change events to use triggers as observers",
-            "messageBody": "",
+            "message": "Change events to use triggers as observers",
             "insertions": 177,
             "deletions": 114
           }
@@ -3537,15 +3126,13 @@
         "commitResults": [
           {
             "hash": "869efa152b202764faa340fb3ce779f2da9e72ca",
-            "messageTitle": "Add player and map class skeletons, need to add evaluators, operators, and support for array indexing",
-            "messageBody": "",
+            "message": "Add player and map class skeletons, need to add evaluators, operators, and support for array indexing",
             "insertions": 355,
             "deletions": 16
           },
           {
             "hash": "a0a214afc4262ce2da56e23836856a9dc76c5ed2",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 30,
             "deletions": 15
           }
@@ -3558,15 +3145,13 @@
         "commitResults": [
           {
             "hash": "01d1d7f087c15f4cf23a65f6e4651e9031b26bc2",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 10,
             "deletions": 1
           },
           {
             "hash": "0d9f226a86320bb9aa1021650cec0edb15672685",
-            "messageTitle": "minor rework of turnsystem and playeractions",
-            "messageBody": "",
+            "message": "minor rework of turnsystem and playeractions",
             "insertions": 73,
             "deletions": 39
           }
@@ -3579,15 +3164,13 @@
         "commitResults": [
           {
             "hash": "dd504f9d69571ece881c8f2bd3fd4be1783e5039",
-            "messageTitle": "modify player to throw buyItemError for buy/sell. Need to change TurnSystem to evaluate resulting money.",
-            "messageBody": "",
+            "message": "modify player to throw buyItemError for buy/sell. Need to change TurnSystem to evaluate resulting money.",
             "insertions": 95,
             "deletions": 42
           },
           {
             "hash": "d03fbe4d01926e344e49822b9960a8b58e1f1e6d",
-            "messageTitle": "edit TurnSystem",
-            "messageBody": "",
+            "message": "edit TurnSystem",
             "insertions": 58,
             "deletions": 12
           }
@@ -3600,8 +3183,7 @@
         "commitResults": [
           {
             "hash": "47a0b408fed39afe75383567994c1a3a14f46c8a",
-            "messageTitle": "rework events",
-            "messageBody": "",
+            "message": "rework events",
             "insertions": 284,
             "deletions": 340
           }
@@ -3614,8 +3196,7 @@
         "commitResults": [
           {
             "hash": "85ad8a71f0b6e19c41841788f96228e3c54f6a30",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 43,
             "deletions": 10
           }
@@ -3628,22 +3209,19 @@
         "commitResults": [
           {
             "hash": "fb51511085bdf24b38353fbaa844a3ca7106c9f5",
-            "messageTitle": "wip: events for monsoon, set tax, free tea, negate money. wip: extract turnsystem",
-            "messageBody": "",
+            "message": "wip: events for monsoon, set tax, free tea, negate money. wip: extract turnsystem",
             "insertions": 376,
             "deletions": 63
           },
           {
             "hash": "dba069e561ba651f3c10beded4bf2cff6b3daad9",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 0,
             "deletions": 27
           },
           {
             "hash": "c4647edff84a7852bfee94e8c8d4e1d8a0cf366d",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 25,
             "deletions": 9
           }
@@ -3656,36 +3234,31 @@
         "commitResults": [
           {
             "hash": "9834883cd1f8510efece5d864d88e6eca4dc2ca7",
-            "messageTitle": "add neutral tax and monsoon events",
-            "messageBody": "",
+            "message": "add neutral tax and monsoon events",
             "insertions": 124,
             "deletions": 49
           },
           {
             "hash": "05ec550b4d2d2947fac928697ceab00b340e2f69",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 25,
             "deletions": 1
           },
           {
             "hash": "4d711e8e3227453ed683696550e8fc94d5053705",
-            "messageTitle": "wip presets table",
-            "messageBody": "",
+            "message": "wip presets table",
             "insertions": 171,
             "deletions": 65
           },
           {
             "hash": "adc698305c4842114f7a1c1b69f1ff7bd4928b55",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 22,
             "deletions": 17
           },
           {
             "hash": "d84514cba6b5d7f151ad2eb2259a45fa79957f76",
-            "messageTitle": "refine events, add item buy price event",
-            "messageBody": "",
+            "message": "refine events, add item buy price event",
             "insertions": 188,
             "deletions": 38
           }
@@ -3698,22 +3271,19 @@
         "commitResults": [
           {
             "hash": "ac370156b97d02e839a5c9ef8ba76f3cf1d66607",
-            "messageTitle": "add logic for preset event. wip gamemessage, need to write message parser",
-            "messageBody": "",
+            "message": "add logic for preset event. wip gamemessage, need to write message parser",
             "insertions": 160,
             "deletions": 72
           },
           {
             "hash": "c25d106ce1fba173be2425fef16a4609848349fc",
-            "messageTitle": "fix build errors",
-            "messageBody": "",
+            "message": "fix build errors",
             "insertions": 12,
             "deletions": 68
           },
           {
             "hash": "32cd20c3f27f04e7e0dcef191429360ab1c9d9e9",
-            "messageTitle": "Add pirates. Add presetevents.",
-            "messageBody": "",
+            "message": "Add pirates. Add presetevents.",
             "insertions": 113,
             "deletions": 4
           }
@@ -3726,8 +3296,7 @@
         "commitResults": [
           {
             "hash": "22a51db8758e1db6692b7899c28824b6a7a939cc",
-            "messageTitle": "Edit md",
-            "messageBody": "",
+            "message": "Edit md",
             "insertions": 477,
             "deletions": 19
           }
@@ -3740,15 +3309,13 @@
         "commitResults": [
           {
             "hash": "33aecbdb874bee98a05a15843d78fa3cd9d07c6f",
-            "messageTitle": "split TurnSystem",
-            "messageBody": "",
+            "message": "split TurnSystem",
             "insertions": 505,
             "deletions": 552
           },
           {
             "hash": "9aa636486f871e421f74f716148a2a06bf49a676",
-            "messageTitle": "wip",
-            "messageBody": "",
+            "message": "wip",
             "insertions": 221,
             "deletions": 55
           }
@@ -3761,92 +3328,79 @@
         "commitResults": [
           {
             "hash": "43cd20bebba36bd213b5bf8707b33a90486574a5",
-            "messageTitle": "split turnsystemnetwork",
-            "messageBody": "",
+            "message": "split turnsystemnetwork",
             "insertions": 126,
             "deletions": 230
           },
           {
             "hash": "9e19250a7bf835ec54e434397948af919223b645",
-            "messageTitle": "add protocols",
-            "messageBody": "",
+            "message": "add protocols",
             "insertions": 90,
             "deletions": 19
           },
           {
             "hash": "03b7a3fd9455caf38fc54bc33dde8eccbb18fd59",
-            "messageTitle": "extract inputcontroller from turnsystem",
-            "messageBody": "",
+            "message": "extract inputcontroller from turnsystem",
             "insertions": 297,
             "deletions": 124
           },
           {
             "hash": "d12891010e9b06d1de0f54e54751ac39f4365216",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 0,
             "deletions": 11
           },
           {
             "hash": "68136a5436db3e3fd48d1145745f487679b5ff84",
-            "messageTitle": "edits",
-            "messageBody": "",
+            "message": "edits",
             "insertions": 81,
             "deletions": 1
           },
           {
             "hash": "ca83de8aa44f4070235aa8bf2789d886958592a5",
-            "messageTitle": "add tests",
-            "messageBody": "",
+            "message": "add tests",
             "insertions": 90,
             "deletions": 29
           },
           {
             "hash": "e5295553d2b4edc167f2d45edd4b2e11395bb2d8",
-            "messageTitle": "add tests for turnsystem class",
-            "messageBody": "",
+            "message": "add tests for turnsystem class",
             "insertions": 241,
             "deletions": 18
           },
           {
             "hash": "a77ba7fbf6fe9e7642eefc61fec4e3ee4e159b4b",
-            "messageTitle": "edit",
-            "messageBody": "",
+            "message": "edit",
             "insertions": 7,
             "deletions": 60
           },
           {
             "hash": "58bc644fbabaa478e8a3a55d215422c4225d6092",
-            "messageTitle": "Add PlayerActionAdapter andPlayerInputController tests",
-            "messageBody": "",
+            "message": "Add PlayerActionAdapter andPlayerInputController tests",
             "insertions": 119,
             "deletions": 8
           },
           {
             "hash": "38c87dda6bebbf3614e82f07c4e920dead0b0533",
-            "messageTitle": "add tests for turnSystemState and turnSystemEvent",
-            "messageBody": "",
+            "message": "add tests for turnSystemState and turnSystemEvent",
             "insertions": 129,
             "deletions": 14
           },
           {
             "hash": "92ccf2651858ee0e6c838839340df61d0582ae51",
-            "messageTitle": "add documentation",
-            "messageBody": "",
+            "message": "add documentation",
             "insertions": 199,
             "deletions": 17
           },
           {
             "hash": "6fa70cf98ec67b2d3daef78998940d942501cfbd",
-            "messageTitle": "documentation",
-            "messageBody": "",
+            "message": "documentation",
             "insertions": 112,
             "deletions": 188
           },
           {
             "hash": "d88a8bf6a0437c6c1a3a3577195f5cc6ae980e44",
-            "messageTitle": "add documentation",
-            "messageBody": "",
+            "message": "add documentation",
             "insertions": 126,
             "deletions": 12
           }
@@ -3859,15 +3413,13 @@
         "commitResults": [
           {
             "hash": "9030f9a692ab5e3b229dc5d682d19b7a257440db",
-            "messageTitle": "fix bug",
-            "messageBody": "",
+            "message": "fix bug",
             "insertions": 26,
             "deletions": 28
           },
           {
             "hash": "024a8920f3040d1181dd8dd55d4f5a61daabb53f",
-            "messageTitle": "Update GenericPlayerInputController.swift",
-            "messageBody": "",
+            "message": "Update GenericPlayerInputController.swift",
             "insertions": 1,
             "deletions": 1
           }

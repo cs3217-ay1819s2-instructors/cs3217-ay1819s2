@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "43ae58637f",
-  "reportGeneratedTime": "Wed Jul 24 04:40:46 2019 UTC",
+  "repoSenseVersion": "v1.9",
+  "reportGeneratedTime": "Thu Jul 25 04:40:10 2019 UTC",
   "repos": [
     {
       "location": {
@@ -9,8 +9,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-cs3217-sailingthroughhistory[master]",
-      "outputFolderName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master"
+      "displayName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master"
     },
     {
       "location": {
@@ -19,8 +18,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-kickback[master]",
-      "outputFolderName": "cs3217-1819_final-project-kickback_master"
+      "displayName": "cs3217-1819_final-project-kickback_master"
     },
     {
       "location": {
@@ -29,8 +27,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-dash[master]",
-      "outputFolderName": "cs3217-1819_final-project-dash_master"
+      "displayName": "cs3217-1819_final-project-dash_master"
     },
     {
       "location": {
@@ -39,8 +36,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-cs3217-crispybacon[master]",
-      "outputFolderName": "cs3217-1819_final-project-cs3217-crispybacon_master"
+      "displayName": "cs3217-1819_final-project-cs3217-crispybacon_master"
     },
     {
       "location": {
@@ -49,8 +45,7 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-cs3217-gooreatrestaurant[master]",
-      "outputFolderName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master"
+      "displayName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master"
     },
     {
       "location": {
@@ -59,10 +54,9 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819/final-project-cs3217-name[master]",
-      "outputFolderName": "cs3217-1819_final-project-cs3217-name_master"
+      "displayName": "cs3217-1819_final-project-cs3217-name_master"
     }
   ],
   "sinceDate": "2019-02-15",
-  "untilDate": "2019-07-24"
+  "untilDate": "2019-04-22"
 }
