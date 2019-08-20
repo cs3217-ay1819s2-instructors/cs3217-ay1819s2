@@ -1,6 +1,6 @@
 {
-  "repoSenseVersion": "v1.9",
-  "reportGeneratedTime": "Mon Aug 19 04:54:33 2019 UTC",
+  "repoSenseVersion": "v1.10rc2",
+  "reportGeneratedTime": "Tue Aug 20 04:56:25 2019 UTC",
   "repos": [
     {
       "location": {
@@ -9,16 +9,8 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master"
-    },
-    {
-      "location": {
-        "location": "https://github.com/cs3217-1819/final-project-kickback.git",
-        "repoName": "final-project-kickback",
-        "organization": "cs3217-1819"
-      },
-      "branch": "master",
-      "displayName": "cs3217-1819_final-project-kickback_master"
+      "displayName": "cs3217-1819/final-project-cs3217-sailingthroughhistory[master]",
+      "outputFolderName": "cs3217-1819_final-project-cs3217-sailingthroughhistory_master"
     },
     {
       "location": {
@@ -27,7 +19,8 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-dash_master"
+      "displayName": "cs3217-1819/final-project-dash[master]",
+      "outputFolderName": "cs3217-1819_final-project-dash_master"
     },
     {
       "location": {
@@ -36,7 +29,8 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-crispybacon_master"
+      "displayName": "cs3217-1819/final-project-cs3217-crispybacon[master]",
+      "outputFolderName": "cs3217-1819_final-project-cs3217-crispybacon_master"
     },
     {
       "location": {
@@ -45,7 +39,8 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master"
+      "displayName": "cs3217-1819/final-project-cs3217-gooreatrestaurant[master]",
+      "outputFolderName": "cs3217-1819_final-project-cs3217-gooreatrestaurant_master"
     },
     {
       "location": {
@@ -54,9 +49,18 @@
         "organization": "cs3217-1819"
       },
       "branch": "master",
-      "displayName": "cs3217-1819_final-project-cs3217-name_master"
+      "displayName": "cs3217-1819/final-project-cs3217-name[master]",
+      "outputFolderName": "cs3217-1819_final-project-cs3217-name_master"
+    }
+  ],
+  "errorList": [
+    {
+      "repoName": "cs3217-1819/final-project-kickback[master]",
+      "errorMessage": "Failed to clone from https://github.com/cs3217-1819/final-project-kickback.git"
     }
   ],
   "sinceDate": "2019-02-15",
-  "untilDate": "2019-04-22"
+  "untilDate": "2019-08-20",
+  "isSinceDateProvided": true,
+  "isUntilDateProvided": false
 }
