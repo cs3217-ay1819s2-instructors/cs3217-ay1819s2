@@ -1,7 +1,6 @@
 [
   {
     "path": "bacon/AppDelegate+BackgroundLocation.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -389,7 +388,6 @@
   },
   {
     "path": "bacon/AppDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1420,7 +1418,6 @@
   },
   {
     "path": "bacon/commons/CodableCLLocation.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2312,7 +2309,6 @@
   },
   {
     "path": "bacon/commons/CodableUIImage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2685,7 +2681,6 @@
   },
   {
     "path": "bacon/commons/Constants.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3957,7 +3952,6 @@
   },
   {
     "path": "bacon/commons/HashableClass.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4155,7 +4149,6 @@
   },
   {
     "path": "bacon/commons/New Group/FileStorageManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4619,7 +4612,6 @@
   },
   {
     "path": "bacon/commons/New Group/UIViewController+Alert.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5251,7 +5243,6 @@
   },
   {
     "path": "bacon/commons/Observable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5512,7 +5503,6 @@
   },
   {
     "path": "bacon/commons/Observer.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5654,7 +5644,6 @@
   },
   {
     "path": "bacon/commons/errors/InitializationError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5754,7 +5743,6 @@
   },
   {
     "path": "bacon/commons/errors/InvalidArgumentError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5854,7 +5842,6 @@
   },
   {
     "path": "bacon/commons/errors/StorageError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5954,7 +5941,6 @@
   },
   {
     "path": "bacon/commons/extensions/Date+getStartOrEndOfMonth.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6180,7 +6166,6 @@
   },
   {
     "path": "bacon/commons/extensions/Decimal+toFormattedString.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6329,7 +6314,6 @@
   },
   {
     "path": "bacon/commons/extensions/String+initFromCLPlacemark.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6465,7 +6449,6 @@
   },
   {
     "path": "bacon/controller/AddTransactionViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9492,7 +9475,6 @@
   },
   {
     "path": "bacon/controller/AnalysisViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10383,7 +10365,6 @@
   },
   {
     "path": "bacon/controller/DateTimeSelectionViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11519,7 +11500,6 @@
   },
   {
     "path": "bacon/controller/LocationAnalysisSelectionViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12123,7 +12103,6 @@
   },
   {
     "path": "bacon/controller/LocationAnalysisViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12553,7 +12532,6 @@
   },
   {
     "path": "bacon/controller/MainPageViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13873,7 +13851,6 @@
   },
   {
     "path": "bacon/controller/SetBuddgetViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14198,7 +14175,6 @@
   },
   {
     "path": "bacon/controller/TagAnalysisViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15320,7 +15296,6 @@
   },
   {
     "path": "bacon/controller/TagSelectionViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16757,7 +16732,6 @@
   },
   {
     "path": "bacon/controller/TransactionsViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18979,7 +18953,6 @@
   },
   {
     "path": "bacon/controller/coreLogic/CoreLogic+BreakDownByLocation.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19170,7 +19143,6 @@
   },
   {
     "path": "bacon/controller/coreLogic/CoreLogic+BreakDownByTag.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19585,7 +19557,6 @@
   },
   {
     "path": "bacon/controller/coreLogic/CoreLogic+BreakDownByTime.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20126,7 +20097,6 @@
   },
   {
     "path": "bacon/controller/coreLogic/CoreLogic.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21497,7 +21467,6 @@
   },
   {
     "path": "bacon/controller/coreLogic/CoreLogicInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21964,7 +21933,6 @@
   },
   {
     "path": "bacon/controller/locationPrompt/ApiHandlerProtocol.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22141,7 +22109,6 @@
   },
   {
     "path": "bacon/controller/locationPrompt/GooglePlacesApiHandler.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22668,7 +22635,6 @@
   },
   {
     "path": "bacon/controller/locationPrompt/LocationPrompt.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22873,7 +22839,6 @@
   },
   {
     "path": "bacon/model/budget/Budget.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23107,7 +23072,6 @@
   },
   {
     "path": "bacon/model/budget/BudgetManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23377,7 +23341,6 @@
   },
   {
     "path": "bacon/model/budget/BudgetManagerInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23562,7 +23525,6 @@
   },
   {
     "path": "bacon/model/budget/SpendingStatus.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23783,7 +23745,6 @@
   },
   {
     "path": "bacon/model/prediction/BaconPredictionGenerator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24611,7 +24572,6 @@
   },
   {
     "path": "bacon/model/prediction/Prediction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24930,7 +24890,6 @@
   },
   {
     "path": "bacon/model/prediction/PredictionGenerator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25136,7 +25095,6 @@
   },
   {
     "path": "bacon/model/prediction/PredictionManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25441,7 +25399,6 @@
   },
   {
     "path": "bacon/model/prediction/PredictionManagerInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25591,7 +25548,6 @@
   },
   {
     "path": "bacon/model/storage/StorageCouchBaseDB+Budget.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -26364,7 +26320,6 @@
   },
   {
     "path": "bacon/model/storage/StorageCouchBaseDB+Prediction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27227,7 +27182,6 @@
   },
   {
     "path": "bacon/model/storage/StorageCouchBaseDB+TagAssociation.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28785,7 +28739,6 @@
   },
   {
     "path": "bacon/model/storage/StorageCouchBaseDB+Transaction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -31868,7 +31821,6 @@
   },
   {
     "path": "bacon/model/storage/StorageCouchBaseDB.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33252,7 +33204,6 @@
   },
   {
     "path": "bacon/model/storage/StorageManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -34327,7 +34278,6 @@
   },
   {
     "path": "bacon/model/storage/StorageManagerInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35359,7 +35309,6 @@
   },
   {
     "path": "bacon/model/tags/TagManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -39815,7 +39764,6 @@
   },
   {
     "path": "bacon/model/tags/TagManagerInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40308,7 +40256,6 @@
   },
   {
     "path": "bacon/model/tags/TagValueSourceInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40429,7 +40376,6 @@
   },
   {
     "path": "bacon/model/transaction/Transaction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42855,7 +42801,6 @@
   },
   {
     "path": "bacon/model/transaction/TransactionFrequency.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43424,7 +43369,6 @@
   },
   {
     "path": "bacon/model/transaction/TransactionManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44884,7 +44828,6 @@
   },
   {
     "path": "bacon/model/transaction/TransactionManagerInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45139,7 +45082,6 @@
   },
   {
     "path": "bacon/model/transaction/TransactionTime.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45344,7 +45286,6 @@
   },
   {
     "path": "bacon/model/transaction/TransactionType.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45452,7 +45393,6 @@
   },
   {
     "path": "bacon/view/CalendarCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45580,7 +45520,6 @@
   },
   {
     "path": "bacon/view/ChildTagCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45841,7 +45780,6 @@
   },
   {
     "path": "bacon/view/FoldingCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -49427,7 +49365,6 @@
   },
   {
     "path": "bacon/view/ParentTagCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50115,7 +50052,6 @@
   },
   {
     "path": "bacon/view/PreviewImageView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50537,7 +50473,6 @@
   },
   {
     "path": "bacon/view/TransactionCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50868,7 +50803,6 @@
   },
   {
     "path": "baconTests/TestUtils.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -53239,7 +53173,6 @@
   },
   {
     "path": "baconTests/baconTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -53486,7 +53419,6 @@
   },
   {
     "path": "baconTests/commons/CodableCLLocationTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -53789,7 +53721,6 @@
   },
   {
     "path": "baconTests/commons/CodableUIImageTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54121,7 +54052,6 @@
   },
   {
     "path": "baconTests/commons/ObserverTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54578,7 +54508,6 @@
   },
   {
     "path": "baconTests/controller/CoreLogicTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55892,7 +55821,6 @@
   },
   {
     "path": "baconTests/controller/LocationPromptTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -56098,7 +56026,6 @@
   },
   {
     "path": "baconTests/model/budget/BudgetTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -56436,7 +56363,6 @@
   },
   {
     "path": "baconTests/model/prediction/PredictionGeneratorTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -56921,7 +56847,6 @@
   },
   {
     "path": "baconTests/model/prediction/PredictionTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -57168,7 +57093,6 @@
   },
   {
     "path": "baconTests/model/storage/StorageManagerTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -61225,7 +61149,6 @@
   },
   {
     "path": "baconTests/model/tag/TagManagerTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -63755,7 +63678,6 @@
   },
   {
     "path": "baconTests/model/transaction/TransactionFrequencyTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -64226,7 +64148,6 @@
   },
   {
     "path": "baconTests/model/transaction/TransactionManagerTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65103,7 +65024,6 @@
   },
   {
     "path": "baconTests/model/transaction/TransactionTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66135,7 +66055,6 @@
   },
   {
     "path": "baconTests/model/transaction/TransactionTimeTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66333,7 +66252,6 @@
   },
   {
     "path": "baconUITests/baconUITests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,

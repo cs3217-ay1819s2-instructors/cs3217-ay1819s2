@@ -1,7 +1,6 @@
 [
   {
     "path": "GenericGameInterface.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80,7 +79,6 @@
   },
   {
     "path": "SailingThroughHistory/AppDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -348,7 +346,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/Array+Rotate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -455,7 +452,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/CGPoint+Arithmetic.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -597,7 +593,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/CGRect+Rect.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -760,7 +755,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/CGRect+Translate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1028,7 +1022,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/ComparablePair.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1233,7 +1226,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/Double+Lerp.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1361,7 +1353,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/Float+Epsilon.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1517,7 +1508,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/GameObject.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1914,7 +1904,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/Int+Lerp.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2049,7 +2038,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/PriorityQueue.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2871,7 +2859,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/String+Crypto.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3454,7 +3441,6 @@
   },
   {
     "path": "SailingThroughHistory/Common/Vector2F.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3925,7 +3911,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/GameParameter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4482,7 +4467,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Item.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5290,7 +5274,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/ItemParameter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5840,7 +5823,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Map.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8785,7 +8767,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Node.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10210,7 +10191,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Path.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10956,7 +10936,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/PirateIsland.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11120,7 +11099,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/PlayerParameter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11683,7 +11661,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Port.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12717,7 +12694,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Sea.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12881,7 +12857,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/VolatileModifier.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13123,7 +13098,6 @@
   },
   {
     "path": "SailingThroughHistory/Game Parameters/Weather.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13336,7 +13310,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/GameVariable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13647,7 +13620,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/GenericGameState.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13847,7 +13819,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/GenericPlayer.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14412,7 +14383,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/GenericTeam.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14611,7 +14581,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/InGameMessage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14795,7 +14764,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/ItemStorage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14930,7 +14898,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/Navigatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15058,7 +15025,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/ObservableVariable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15187,7 +15153,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/Pirate_WeatherEntity.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15301,7 +15266,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/PlayerState.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15422,7 +15386,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/ShipAPI.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15711,7 +15674,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/Upgradable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15818,7 +15780,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/API/Upgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15960,7 +15921,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Entities/NPC.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -17035,7 +16995,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/GameState.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19099,7 +19058,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/InfoMessage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19514,7 +19472,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/MovementError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19691,7 +19648,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/PlayerAndTeam/GameMaster.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20772,7 +20728,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/PlayerAndTeam/Player.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22864,7 +22819,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/PlayerAndTeam/Team.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23385,7 +23339,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/PortAdminError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23583,7 +23536,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Ship/Ship.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25141,7 +25093,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Ship/ShipItemManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25794,7 +25745,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Ship/ShipNavigationManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -26286,7 +26236,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Ship/ShipUI.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -26541,7 +26490,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Ship/ShipUpgradeManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -26809,7 +26757,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/TradeItemError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27100,7 +27047,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/AuxiliaryUpgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27348,7 +27294,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/BiggerSailsUpgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27540,7 +27485,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/BiggerShipUpgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27753,7 +27697,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/FasterShipUpgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27973,7 +27916,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/MercernaryUpgrade.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28137,7 +28079,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/ShipChassis.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28399,7 +28340,6 @@
   },
   {
     "path": "SailingThroughHistory/Game State/Upgrades/UpgradeType.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28647,7 +28587,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/EngineObject.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29111,7 +29050,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatableNPC.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29260,7 +29198,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatablePirate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29402,7 +29339,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatablePirateIsland.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29551,7 +29487,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatablePlayer.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29840,7 +29775,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatablePlayerTurn.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30157,7 +30091,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatablePort.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30306,7 +30239,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatableTime.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30525,7 +30457,6 @@
   },
   {
     "path": "SailingThroughHistory/GameEngine/Engine Objects/UpdatableWeather.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30723,7 +30654,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/ADT/NodePaths.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -31166,7 +31096,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/ADT/Rect.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -31539,7 +31468,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/AlertWindowController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -31933,7 +31861,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/AvailableUpgradesController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32376,7 +32303,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/Delegates/AlertWindowDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32469,7 +32395,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/Delegates/AvailableUpgradesControllerDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32562,7 +32487,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/Delegates/EventTableControllerDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32655,7 +32579,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/Delegates/ObjectsViewControllerDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32748,7 +32671,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/Delegates/PortItemTableControllerDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32841,7 +32763,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/EventTableController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33291,7 +33212,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/MainGameViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37748,7 +37668,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/MessagesTableController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -38268,7 +38187,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/ObjectsViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40365,7 +40283,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/PlayerItemsTableController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40823,7 +40740,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/PortItemTableController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -41652,7 +41568,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Controller/TeamScoreTableController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42004,7 +41919,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/ControllerUtils.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42644,7 +42558,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/InterfaceConstants.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42800,7 +42713,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/Path.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42942,7 +42854,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/CountdownLabelView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43175,7 +43086,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/PortItemButtonAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43269,7 +43179,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/PortItemTableCellDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43355,7 +43264,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UIBezierPath+Arrow.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43554,7 +43462,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UIBlurredBackgroundView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43780,7 +43687,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UIButtonRounded.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44091,7 +43997,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UIEventTableCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44317,7 +44222,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UILightningView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44628,7 +44532,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UILightningViewFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44742,7 +44645,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UITradeTableCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45087,7 +44989,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/UIVIew+Border.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45390,7 +45291,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/View+SpecialEffects.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45658,7 +45558,6 @@
   },
   {
     "path": "SailingThroughHistory/Interface/View/View+Translate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -45947,7 +45846,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/API/GenericItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46209,7 +46107,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/API/GenericLevel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46465,7 +46362,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/DetailEditTableViewController + Delegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46874,7 +46770,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/DetailEditTableViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -47380,7 +47275,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/EditPanelViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -48027,7 +47921,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/GalleryViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -48695,7 +48588,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/ItemCollectionViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -49560,7 +49452,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/LevelEditorViewController + Delegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50234,7 +50125,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/LevelEditorViewController + Layout.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -51167,7 +51057,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/LevelEditorViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54111,7 +54000,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/TeamMenuViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54771,7 +54659,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Controller/UIViewController + PointIn.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55011,7 +54898,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Enums/EditMode.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55287,7 +55173,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Model/GameParameterItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55737,7 +55622,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/Storage/LocalStorage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -57085,7 +56969,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/GalleryCollectionViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -57192,7 +57075,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/ItemCollectionViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -57306,7 +57188,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/NodeView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -57925,7 +57806,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/PathView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -58403,7 +58283,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/TeamTableViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -58608,7 +58487,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/TurnTableViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -58827,7 +58705,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/UIImageView+Icon.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59032,7 +58909,6 @@
   },
   {
     "path": "SailingThroughHistory/Level Editor/View/UIView + ScreenShot.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59195,7 +59071,6 @@
   },
   {
     "path": "SailingThroughHistory/MainMenuViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59519,7 +59394,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Firestore/FirestoreConstants.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59809,7 +59683,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Firestore/FirestoreRoom.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -60386,7 +60259,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Firestore/FirestoreRoomConnection.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -64317,7 +64189,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Firestore/FirestoreRooms.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -64641,7 +64512,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Local/LocalRoomConnection.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65653,7 +65523,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/NetworkError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65753,7 +65622,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/NetworkFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65994,7 +65862,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/NetworkRooms.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66115,7 +65982,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/Room.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66250,7 +66116,6 @@
   },
   {
     "path": "SailingThroughHistory/Network/RoomConnection.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -67136,7 +67001,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/GameRoom.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -67916,7 +67780,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/MembersTableDataSource.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -68458,7 +68321,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/RoomMember.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -68643,7 +68505,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/RoomViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -68813,7 +68674,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/Rooms.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -69068,7 +68928,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/RoomsMenuViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -69652,7 +69511,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/RoomsTableDataSource.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -69969,7 +69827,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/WaitingRoomCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -70616,7 +70473,6 @@
   },
   {
     "path": "SailingThroughHistory/Rooms/WaitingRoomViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72293,7 +72149,6 @@
   },
   {
     "path": "SailingThroughHistory/Stubs/GenericItemStub.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72793,7 +72648,6 @@
   },
   {
     "path": "SailingThroughHistory/Stubs/GenericPlayerStub.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -73783,7 +73637,6 @@
   },
   {
     "path": "SailingThroughHistory/Stubs/NodeStub.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -73974,7 +73827,6 @@
   },
   {
     "path": "SailingThroughHistory/Stubs/PortStub.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74391,7 +74243,6 @@
   },
   {
     "path": "SailingThroughHistory/Stubs/WeatherStub.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74603,7 +74454,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Data/GameTime.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74963,7 +74813,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Data/Protocols/Printable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -75049,7 +74898,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Data/Protocols/SerializableGameObject.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -75170,7 +75018,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Data/Protocols/Unique.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -75256,7 +75103,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/EngineConstants.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76192,7 +76038,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/BAEEvaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76446,7 +76291,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/ConditionEvaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76715,7 +76559,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Evaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76899,7 +76742,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/EventAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77119,7 +76961,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/EventCondition.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77338,7 +77179,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/EventTrigger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77641,7 +77481,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/FlipFlopTrigger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77797,7 +77636,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/GameVariableEvaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77988,7 +77826,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Arithmetic/AddOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78116,7 +77953,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Arithmetic/DivideOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78244,7 +78080,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Arithmetic/MultiplyOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78372,7 +78207,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Arithmetic/SubtractOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78500,7 +78334,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/Extensions/ConditionComparable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78685,7 +78518,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/Extensions/Int+ConditionComparable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78793,7 +78625,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/GreaterThanOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78921,7 +78752,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/GreaterThanOrEqualOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79049,7 +78879,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/LessThanOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79177,7 +79006,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Comparable/LessThanOrEqualOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79305,7 +79133,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Equatable/EqualOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79433,7 +79260,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Equatable/NotEqualOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79561,7 +79387,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Evaluate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79647,7 +79472,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Modify.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79733,7 +79557,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/Arithmetic.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79917,7 +79740,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/ComparableOp.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80003,7 +79825,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/GenericComparator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80089,7 +79910,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/GenericEvaluateOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80190,7 +80010,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/GenericOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80283,7 +80102,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Protocols/Operatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80369,7 +80187,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/Trigger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80462,7 +80279,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Operators/TrueOperator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80590,7 +80406,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/Activatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80676,7 +80491,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/EventPresets.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -81303,7 +81117,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/EventTable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -81545,7 +81358,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/GameTime/CountdownCondition.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -81674,7 +81486,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/GameTime/GameTime+Equatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -81837,7 +81648,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/GameTime/MonthWithin.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82106,7 +81916,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/GameTime/MonthWithinCondition.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82304,7 +82113,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/GameTime/MonthWithinTrigger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82432,7 +82240,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/ItemPrice/ItemBuyPriceEvaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82708,7 +82515,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/ItemPrice/ItemPriceEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83069,7 +82875,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/ItemPrice/PortPriceAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83302,7 +83107,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/Monsoon/HeavyMonsoonEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83578,7 +83382,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/Monsoon/RegularMonsoonEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83783,7 +83586,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PlayerArrival/HistoryFactAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83933,7 +83735,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PlayerArrival/PirateAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -84076,7 +83877,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PlayerArrival/PlayerArrivalEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -84234,7 +84034,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PlayerDeath/NegativeMoneyEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -84476,7 +84275,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PresetConstants.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -84618,7 +84416,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/PresetEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -84937,7 +84734,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/Presets/Taxes/TaxChangeEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -85185,7 +84981,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/TurnSystemEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -85693,7 +85488,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/UniqueTurnSystemEvent.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86151,7 +85945,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Events/VariableEvaluatable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86342,7 +86135,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GameMessage/GameMessage.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86456,7 +86248,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GameMessage/GameMessenger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86570,7 +86361,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GameMessage/Messenger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86677,7 +86467,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GameMessage/Parsable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86784,7 +86573,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GenericTurnSystem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -87432,7 +87220,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/GenericTurnSystemState.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -87813,7 +87600,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/InputController/GenericPlayerInputController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -87990,7 +87776,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/InputController/GenericPlayerInputControllerFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -88160,7 +87945,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/InputController/PlayerInputController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -88506,7 +88290,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/InputController/PlayerInputControllerFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -88613,7 +88396,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/GenericPlayerActionAdapter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89014,7 +88796,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/GenericPlayerActionAdapterFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89198,7 +88979,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/GenericTurnSystemNetwork.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89501,7 +89281,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/NetworkInfo.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89664,7 +89443,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/PlayerActionAdapter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -90835,7 +90613,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/PlayerActionAdapterFactory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -90963,7 +90740,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Network/TurnSystemNetwork.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -92996,7 +92772,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/PlayerActions/ChangeType.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -93097,7 +92872,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/PlayerActions/PlayerAction.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -93850,7 +93624,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/PlayerActions/PlayerActionBatch.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -93965,7 +93738,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/PlayerActions/PlayerActionError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -94142,7 +93914,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Supporting Classes/TurnRangeTrigger.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -94249,7 +94020,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Supporting Classes/VolatileMonsoon.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -94441,7 +94211,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Tests/TestClasses.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -95145,7 +94914,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Tests/TestRoomConnection.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -95807,7 +95575,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/Tests/TestTurnSystem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -96202,7 +95969,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/TurnSystem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -97592,7 +97358,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/TurnSystemState.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -98134,7 +97899,6 @@
   },
   {
     "path": "SailingThroughHistory/TurnSystem/UniqueObject.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -98542,7 +98306,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/EmotionEngineTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -98621,7 +98384,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameParameter/GameParameterTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -99892,7 +99654,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameParameter/ItemTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -100533,7 +100294,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameParameter/MapTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -102055,7 +101815,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameParameter/NodeTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -102617,7 +102376,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameParameter/TeamTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -103200,7 +102958,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/NPCUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -104063,7 +103820,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/PlayerUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -105802,7 +105558,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/ShipItemStorageUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -108591,7 +108346,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/ShipNavigatableUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -109959,7 +109713,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/ShipPirateWeatherUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -110241,7 +109994,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/ShipUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -111617,7 +111369,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/GameState/ShipUpgradableUnitTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -112193,7 +111944,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/Interface/ADT/NodePathsTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -112713,7 +112463,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/Interface/ADT/RectTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -113121,7 +112870,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/Interface/AlertWindowControllerTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -113494,7 +113242,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/Interface/ObjectsViewControllerTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -113909,7 +113656,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/Network/Local/LocalRoomConnectionTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -114555,7 +114301,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/SailingThroughHistoryTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -114802,7 +114547,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/EventPresetsTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -114973,7 +114717,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/PlayerActionAdapterTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -115354,7 +115097,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/PlayerInputControllerTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -115715,7 +115457,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/TurnSystemEventsTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -116096,7 +115837,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/TurnSystemStateTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -116624,7 +116364,6 @@
   },
   {
     "path": "SailingThroughHistoryTests/TurnSystem/TurnSystemTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -117404,7 +117143,6 @@
   },
   {
     "path": "SailingThroughHistoryUITests/SailingThroughHistoryUITests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
