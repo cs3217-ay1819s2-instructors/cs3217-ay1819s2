@@ -1,7 +1,6 @@
 [
   {
     "path": "NAME/AppDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -494,7 +493,6 @@
   },
   {
     "path": "NAME/Models/Access Control/AccessControl.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -930,7 +928,6 @@
   },
   {
     "path": "NAME/Models/Access Control/Account.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1429,7 +1426,6 @@
   },
   {
     "path": "NAME/Models/Access Control/AccountType.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1522,7 +1518,6 @@
   },
   {
     "path": "NAME/Models/Bill/Bill.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2364,7 +2359,6 @@
   },
   {
     "path": "NAME/Models/Bill/BillItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2765,7 +2759,6 @@
   },
   {
     "path": "NAME/Models/Customer.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2860,7 +2853,6 @@
   },
   {
     "path": "NAME/Models/Establishment.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3123,7 +3115,6 @@
   },
   {
     "path": "NAME/Models/Menu/IndividualMenuItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3596,7 +3587,6 @@
   },
   {
     "path": "NAME/Models/Menu/Menu.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4545,7 +4535,6 @@
   },
   {
     "path": "NAME/Models/Menu/MenuCategory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4766,7 +4755,6 @@
   },
   {
     "path": "NAME/Models/Menu/MenuDisplayable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -4874,7 +4862,6 @@
   },
   {
     "path": "NAME/Models/Menu/MenuEditable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5086,7 +5073,6 @@
   },
   {
     "path": "NAME/Models/Menu/MenuItemOption.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5656,7 +5642,6 @@
   },
   {
     "path": "NAME/Models/Menu/MenuItemOptionType.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6213,7 +6198,6 @@
   },
   {
     "path": "NAME/Models/Menu/SetMenuItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6511,7 +6495,6 @@
   },
   {
     "path": "NAME/Models/ModelError.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6611,7 +6594,6 @@
   },
   {
     "path": "NAME/Models/ModelHelper.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6809,7 +6791,6 @@
   },
   {
     "path": "NAME/Models/Order/Order.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -7381,7 +7362,6 @@
   },
   {
     "path": "NAME/Models/Order/OrderHistory.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -7615,7 +7595,6 @@
   },
   {
     "path": "NAME/Models/Order/OrderItem.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8179,7 +8158,6 @@
   },
   {
     "path": "NAME/Models/Order/OrderItemOption.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8595,7 +8573,6 @@
   },
   {
     "path": "NAME/Models/Order/OrderItemOptionValue.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9122,7 +9099,6 @@
   },
   {
     "path": "NAME/Models/Order/OrderLifecycle.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9166,7 +9142,6 @@
   },
   {
     "path": "NAME/Models/PriceModifiables/Discount.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9688,7 +9663,6 @@
   },
   {
     "path": "NAME/Models/PriceModifiables/PriceModification.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9929,7 +9903,6 @@
   },
   {
     "path": "NAME/Models/PriceModifiables/PriceModifier.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9975,7 +9948,6 @@
   },
   {
     "path": "NAME/Models/PriceModifiables/Rounder.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10203,7 +10175,6 @@
   },
   {
     "path": "NAME/Models/PriceModifiables/Surcharge.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10424,7 +10395,6 @@
   },
   {
     "path": "NAME/Models/Priceable.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10476,7 +10446,6 @@
   },
   {
     "path": "NAME/Models/Stall.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10766,7 +10735,6 @@
   },
   {
     "path": "NAME/Models/TimeCondition/TimeCondition.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -10971,7 +10939,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/Configurator/AdminSettingsConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11190,7 +11157,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/Interactor/AdminSettingsInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12046,7 +12012,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/Presenter/AdminSettingsPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12566,7 +12531,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/Router/AdminSettingsRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12799,7 +12763,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/View/AdminSettingsCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13361,7 +13324,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/View/AdminSettingsFooterView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13902,7 +13864,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/View/AdminSettingsViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14975,7 +14936,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/ViewModel/AdminSettingsViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15201,7 +15161,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/AdminSettings/Worker/AdminSettingsWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15294,7 +15253,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/Configurator/LoginConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15506,7 +15464,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/Interactor/LoginInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16027,7 +15984,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/Presenter/LoginPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16401,7 +16357,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/Router/LoginRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16712,7 +16667,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/View/LoginContainerView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -17638,7 +17592,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/View/LoginViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18467,7 +18420,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/ViewModel/LoginViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18588,7 +18540,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Login/Worker/LoginWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18681,7 +18632,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/Configurator/SplashConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18845,7 +18795,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/Interactor/SplashInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19078,7 +19027,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/Presenter/SplashPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19319,7 +19267,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/Router/SplashRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19609,7 +19556,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/View/SplashViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20467,7 +20413,6 @@
   },
   {
     "path": "NAME/Scenes/AdminCommon/Splash/ViewModel/SplashViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20567,7 +20512,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/Configurator/EstablishmentRootConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20772,7 +20716,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/Interactor/EstablishmentRootInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21201,7 +21144,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/Presenter/EstablishmentRootPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21470,7 +21412,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/Router/EstablishmentRootRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21795,7 +21736,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/View/EstablishmentRootViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22372,7 +22312,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/ViewModel/EstablishmentRootViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22465,7 +22404,6 @@
   },
   {
     "path": "NAME/Scenes/AdminEstablishment/EstablishmentRoot/Worker/EstablishmentRootWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22558,7 +22496,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Configurator/KitchenBacklogConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22777,7 +22714,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Interactor/KitchenBacklogInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23521,7 +23457,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Interactor/KitchenBacklogInteractorMediator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23691,7 +23626,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Presenter/KitchenBacklogPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24001,7 +23935,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Router/KitchenBacklogRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24255,7 +24188,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/View/KitchenBacklogCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25167,7 +25099,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/View/KitchenBacklogCellHeaderView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25631,7 +25562,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/View/KitchenBacklogViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27565,7 +27495,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/View/KitchenClockView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27952,7 +27881,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/ViewModel/KitchenBacklogViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28094,7 +28022,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/KitchenBacklog/Worker/KitchenBacklogWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28215,7 +28142,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/Configurator/OrderConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28441,7 +28367,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/Interactor/OrderInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29115,7 +29040,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/Presenter/OrderPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29861,7 +29785,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/Router/OrderRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30059,7 +29982,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/View/OrderItemDetailsView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30999,7 +30921,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/View/OrderItemViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -31890,7 +31811,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/View/OrderViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -32907,7 +32827,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/ViewModel/OrderViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33084,7 +33003,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/Order/Worker/OrderWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33184,7 +33102,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/Configurator/StallRootConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33389,7 +33306,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/Interactor/StallRootInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33818,7 +33734,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/Presenter/StallRootPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -34086,7 +34001,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/Router/StallRootRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -34439,7 +34353,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/View/StallRootViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35030,7 +34943,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/ViewModel/StallRootViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35130,7 +35042,6 @@
   },
   {
     "path": "NAME/Scenes/AdminStall/StallRoot/Worker/StallRootWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35223,7 +35134,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/Configurator/CustomAlertConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35400,7 +35310,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/Interactor/CustomAlertInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35626,7 +35535,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/Presenter/CustomAlertPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -35838,7 +35746,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/Router/CustomAlertRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -36071,7 +35978,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/View/CustomAlertViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37403,7 +37309,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/ViewModel/CustomAlertViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37503,7 +37408,6 @@
   },
   {
     "path": "NAME/Scenes/Common/CustomAlert/Worker/CustomAlertWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37596,7 +37500,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Configurator/MenuConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37865,7 +37768,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Interactor/MenuInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -39353,7 +39255,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Interactor/MenuIntersceneMediator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -39523,7 +39424,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Presenter/MenuPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40016,7 +39916,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Router/MenuRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40306,7 +40205,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/CategorySelector.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -41604,7 +41502,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuAddCollectionViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -41858,7 +41755,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuCategoryHeaderView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42184,7 +42080,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuDataSource.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43019,7 +42914,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuDragHandlers.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -43917,7 +43811,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuItemCollectionViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -44186,7 +44079,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/View/MenuViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46549,7 +46441,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/ViewModel/MenuViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46846,7 +46737,6 @@
   },
   {
     "path": "NAME/Scenes/Common/Menu/Worker/MenuWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -46939,7 +46829,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/Configurator/MenuAddonsConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -47172,7 +47061,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/Interactor/MenuAddonsInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -49575,7 +49463,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/Presenter/MenuAddonsPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50452,7 +50339,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/Router/MenuAddonsRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50685,7 +50571,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsAddOptionDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -50946,7 +50831,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsCollectionViewAddCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -51305,7 +51189,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsCollectionViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -51896,7 +51779,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsCollectionViewDataSourceDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -52976,7 +52858,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsFooterView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -53728,7 +53609,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsQuantityViewDelegate.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54038,7 +53918,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsTableViewAddCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -54411,7 +54290,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsTableViewChoiceCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55212,7 +55090,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsTableViewHeaderView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -55936,7 +55813,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsTableViewQuantityCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -56310,7 +56186,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/View/MenuAddonsViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59022,7 +58897,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/ViewModel/MenuAddonsViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59241,7 +59115,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuAddons/Worker/MenuAddonsWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59334,7 +59207,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Configurator/MenuDetailConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -59617,7 +59489,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Interactor/MenuDetailInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -60187,7 +60058,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Interactor/MenuDetailMediator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -60392,7 +60262,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Presenter/MenuDetailPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -60604,7 +60473,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Router/MenuDetailRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -60949,7 +60817,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/View/MenuDetailViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -61380,7 +61247,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/ViewModel/MenuDetailViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -61480,7 +61346,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuDetail/Worker/MenuDetailWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -61573,7 +61438,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/Configurator/MenuInfoConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -61792,7 +61656,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/Interactor/MenuInfoInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -62627,7 +62490,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/Presenter/MenuInfoPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -62923,7 +62785,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/Router/MenuInfoRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -63156,7 +63017,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/View/MenuInfoViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65140,7 +65000,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/ViewModel/MenuInfoViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65254,7 +65113,6 @@
   },
   {
     "path": "NAME/Scenes/Common/MenuInfo/Worker/MenuInfoWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65368,7 +65226,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/Configurator/StallListConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -65595,7 +65452,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/Interactor/StallListInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66403,7 +66259,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/Presenter/StallListPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -66791,7 +66646,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/Router/StallListRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -67095,7 +66949,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/View/StallListCustomerCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -67580,7 +67433,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/View/StallListEstablishmentCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -68450,7 +68302,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/View/StallListViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -70155,7 +70006,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/ViewModel/StallListViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -70318,7 +70168,6 @@
   },
   {
     "path": "NAME/Scenes/Common/StallList/Worker/StallListWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -70411,7 +70260,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Configurator/BrowseConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -70652,7 +70500,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Interactor/BrowseInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -71278,7 +71125,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Interactor/BrowseInteractorMediator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -71518,7 +71364,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Presenter/BrowsePresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -71752,7 +71597,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Router/BrowseRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72077,7 +71921,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/View/BrowseViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72535,7 +72378,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/ViewModel/BrowseViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72635,7 +72477,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/Browse/Worker/BrowseWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72728,7 +72569,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Configurator/CustomerRootConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -72969,7 +72809,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Interactor/CustomerRootInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -73349,7 +73188,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Interactor/CustomerRootIntersceneMediator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -73519,7 +73357,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Presenter/CustomerRootPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -73760,7 +73597,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Router/CustomerRootRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74084,7 +73920,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/View/CustomerRootViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74549,7 +74384,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/ViewModel/CustomerRootViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74649,7 +74483,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/CustomerRoot/Worker/CustomerRootWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74742,7 +74575,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Configurator/OrderConfirmationConfigurator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -74898,7 +74730,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Interactor/OrderConfirmationInteractor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -75117,7 +74948,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Interactor/OrderToBillProcessor.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76225,7 +76055,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Presenter/OrderConfirmationPresenter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -76829,7 +76658,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Router/OrderConfirmationRouter.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -77055,7 +76883,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/OrderConfirmationItemViewCell.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -78429,7 +78256,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/OrderConfirmationTotalView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -79558,7 +79384,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/OrderConfirmationViewController.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -80758,7 +80583,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/SubViews/OrderConfirmationAdditionalInfoView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -81628,7 +81452,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/SubViews/OrderConfirmationItemDiscountView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82043,7 +81866,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/View/SubViews/OrderConfirmationItemOptionsAddonView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -82766,7 +82588,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/ViewModel/OrderConfirmationViewModel.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83104,7 +82925,6 @@
   },
   {
     "path": "NAME/Scenes/Customer/OrderConfirmation/Worker/OrderConfirmationWorker.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83190,7 +83010,6 @@
   },
   {
     "path": "NAME/Utilities/AlertHelper.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83458,7 +83277,6 @@
   },
   {
     "path": "NAME/Utilities/AuthManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -83873,7 +83691,6 @@
   },
   {
     "path": "NAME/Utilities/Config.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86223,7 +86040,6 @@
   },
   {
     "path": "NAME/Utilities/Date+Extensions.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86421,7 +86237,6 @@
   },
   {
     "path": "NAME/Utilities/DependencyInjector.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -86621,7 +86436,6 @@
   },
   {
     "path": "NAME/Utilities/FixtureGenerator.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89595,7 +89409,6 @@
   },
   {
     "path": "NAME/Utilities/Int+Extensions.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -89822,7 +89635,6 @@
   },
   {
     "path": "NAME/Utilities/RealmStorageManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -90806,7 +90618,6 @@
   },
   {
     "path": "NAME/Utilities/ShoppingCart.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -91109,7 +90920,6 @@
   },
   {
     "path": "NAME/Utilities/StorageManager.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -91393,7 +91203,6 @@
   },
   {
     "path": "NAME/Utilities/String+Extension.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -91570,7 +91379,6 @@
   },
   {
     "path": "NAME/Utilities/UIColor+Extensions.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -91810,7 +91618,6 @@
   },
   {
     "path": "NAME/Views/PassthroughStackView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -91987,7 +91794,6 @@
   },
   {
     "path": "NAME/Views/QuantityView.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -92851,7 +92657,6 @@
   },
   {
     "path": "NAMETests/Models/BillItemTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -93560,7 +93365,6 @@
   },
   {
     "path": "NAMETests/Models/BillTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -95053,7 +94857,6 @@
   },
   {
     "path": "NAMETests/Models/BillUnstackableEstablishmentDiscountTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -96007,7 +95810,6 @@
   },
   {
     "path": "NAMETests/NAMETests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -96254,7 +96056,6 @@
   },
   {
     "path": "NAMETests/Scenes/Common/MenuInfo/Interactor/MenuInfoInteractorTest.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -97243,7 +97044,6 @@
   },
   {
     "path": "NAMETests/Scenes/OrderConfirmation/OrderToBillProcessorTests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -98680,7 +98480,6 @@
   },
   {
     "path": "NAMETests/Utilities/StorageManager+Extensions.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -99207,7 +99006,6 @@
   },
   {
     "path": "NAMEUITests/NAMEUITests.swift",
-    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
