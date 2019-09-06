@@ -1,6 +1,7 @@
 [
   {
     "path": "Dash/Dash/AppDelegate.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -381,6 +382,7 @@
   },
   {
     "path": "Dash/Dash/Configuration/Constants.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -909,6 +911,7 @@
   },
   {
     "path": "Dash/Dash/Configuration/GameTexture.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1239,6 +1242,7 @@
   },
   {
     "path": "Dash/Dash/Configuration/MenuTexture.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1394,6 +1398,7 @@
   },
   {
     "path": "Dash/Dash/Configuration/MissionConfig.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -1612,6 +1617,7 @@
   },
   {
     "path": "Dash/Dash/Controller/GameViewController.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2014,6 +2020,7 @@
   },
   {
     "path": "Dash/Dash/Controller/PlayerControllers/ArrowController.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2450,6 +2457,7 @@
   },
   {
     "path": "Dash/Dash/Controller/PlayerControllers/FlappyController.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -2858,6 +2866,7 @@
   },
   {
     "path": "Dash/Dash/Controller/PlayerControllers/GlideController.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3245,6 +3254,7 @@
   },
   {
     "path": "Dash/Dash/Controller/PlayerControllers/PlayerController.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3379,6 +3389,7 @@
   },
   {
     "path": "Dash/Dash/Logic/CollectibleGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -3604,6 +3615,7 @@
   },
   {
     "path": "Dash/Dash/Logic/GameEngine.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -5378,6 +5390,7 @@
   },
   {
     "path": "Dash/Dash/Logic/GameParameters.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -6058,6 +6071,7 @@
   },
   {
     "path": "Dash/Dash/Logic/MainGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -7683,6 +7697,7 @@
   },
   {
     "path": "Dash/Dash/Logic/MissionManager.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8335,6 +8350,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/Codable+Dictionary.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8540,6 +8556,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/Envelope.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -8800,6 +8817,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/FirebaseHighScoreProvider.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9165,6 +9183,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/FirebaseInstance.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -9313,6 +9332,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/FirebaseNetwork.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11156,6 +11176,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/GameMode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11269,6 +11290,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/GamePayload.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11368,6 +11390,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/HighScoreCategory.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11481,6 +11504,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/HighScoreProvider.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11608,6 +11632,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/HighScoreRecord.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11714,6 +11739,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/LocalHighScoreProvider.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -11960,6 +11986,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/NetworkManager.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12283,6 +12310,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Network/Networkable.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -12508,6 +12536,7 @@
   },
   {
     "path": "Dash/Dash/Logic/ObstacleGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -13020,6 +13049,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Path.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -14211,6 +14241,7 @@
   },
   {
     "path": "Dash/Dash/Logic/PathGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -15780,6 +15811,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Point.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16019,6 +16051,7 @@
   },
   {
     "path": "Dash/Dash/Logic/SeededGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16265,6 +16298,7 @@
   },
   {
     "path": "Dash/Dash/Logic/Storage/Storage.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16652,6 +16686,7 @@
   },
   {
     "path": "Dash/Dash/Logic/UIBezierPath+Point.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -16835,6 +16870,7 @@
   },
   {
     "path": "Dash/Dash/Logic/WallGenerator.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -17390,6 +17426,7 @@
   },
   {
     "path": "Dash/Dash/Model/Action.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -17832,6 +17869,7 @@
   },
   {
     "path": "Dash/Dash/Model/ActionType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -17959,6 +17997,7 @@
   },
   {
     "path": "Dash/Dash/Model/CharacterType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18060,6 +18099,7 @@
   },
   {
     "path": "Dash/Dash/Model/Coin.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18334,6 +18374,7 @@
   },
   {
     "path": "Dash/Dash/Model/GameModel.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18764,6 +18805,7 @@
   },
   {
     "path": "Dash/Dash/Model/GameState.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18863,6 +18905,7 @@
   },
   {
     "path": "Dash/Dash/Model/Mission.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -18998,6 +19041,7 @@
   },
   {
     "path": "Dash/Dash/Model/MissionType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19097,6 +19141,7 @@
   },
   {
     "path": "Dash/Dash/Model/MovingObject.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -19266,6 +19311,7 @@
   },
   {
     "path": "Dash/Dash/Model/MovingObjectQueue.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20184,6 +20230,7 @@
   },
   {
     "path": "Dash/Dash/Model/MovingObjectType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20283,6 +20330,7 @@
   },
   {
     "path": "Dash/Dash/Model/Observable.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20565,6 +20613,7 @@
   },
   {
     "path": "Dash/Dash/Model/Observer.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20664,6 +20713,7 @@
   },
   {
     "path": "Dash/Dash/Model/Obstacle.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -20967,6 +21017,7 @@
   },
   {
     "path": "Dash/Dash/Model/ObstacleType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21066,6 +21117,7 @@
   },
   {
     "path": "Dash/Dash/Model/Player.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21657,6 +21709,7 @@
   },
   {
     "path": "Dash/Dash/Model/PlayerDesignedPath.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -21938,6 +21991,7 @@
   },
   {
     "path": "Dash/Dash/Model/PowerUp.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22234,6 +22288,7 @@
   },
   {
     "path": "Dash/Dash/Model/PowerUpType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22369,6 +22424,7 @@
   },
   {
     "path": "Dash/Dash/Model/Queue.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -22917,6 +22973,7 @@
   },
   {
     "path": "Dash/Dash/Model/Room.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23080,6 +23137,7 @@
   },
   {
     "path": "Dash/Dash/Model/Wall.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -23495,6 +23553,7 @@
   },
   {
     "path": "Dash/Dash/Node/BackgroundNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24168,6 +24227,7 @@
   },
   {
     "path": "Dash/Dash/Node/BoundaryNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24330,6 +24390,7 @@
   },
   {
     "path": "Dash/Dash/Node/CoinNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24695,6 +24756,7 @@
   },
   {
     "path": "Dash/Dash/Node/CoinScoreNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -24913,6 +24975,7 @@
   },
   {
     "path": "Dash/Dash/Node/ColliderType.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25047,6 +25110,7 @@
   },
   {
     "path": "Dash/Dash/Node/MenuNodes/BackButtonNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25188,6 +25252,7 @@
   },
   {
     "path": "Dash/Dash/Node/MenuNodes/ReturnToMenuNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25336,6 +25401,7 @@
   },
   {
     "path": "Dash/Dash/Node/MissionNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -25722,6 +25788,7 @@
   },
   {
     "path": "Dash/Dash/Node/ObstacleNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -26165,6 +26232,7 @@
   },
   {
     "path": "Dash/Dash/Node/PlayerNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27120,6 +27188,7 @@
   },
   {
     "path": "Dash/Dash/Node/PowerUpNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27640,6 +27709,7 @@
   },
   {
     "path": "Dash/Dash/Node/ScoreNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -27845,6 +27915,7 @@
   },
   {
     "path": "Dash/Dash/Node/WallNode.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -28225,6 +28296,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Gameplay/EnterLeaderboardScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -29578,6 +29650,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Gameplay/GameOverScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30428,6 +30501,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Gameplay/GameScene+Observer.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -30850,6 +30924,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Gameplay/GameScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -33968,6 +34043,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Gameplay/LeaderboardScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -34943,6 +35019,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/MainMenuScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -36976,6 +37053,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/MissionsScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -37573,6 +37651,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/Multiplayer/MultiplayerHostScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -39466,6 +39545,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/Multiplayer/MultiplayerJoinScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -40463,6 +40543,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/Multiplayer/MultiplayerLobbyScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -41320,6 +41401,7 @@
   },
   {
     "path": "Dash/Dash/Scene/Menu/StartScene.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -41644,6 +41726,7 @@
   },
   {
     "path": "Dash/Dash/View/LoadingView.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42058,6 +42141,7 @@
   },
   {
     "path": "Dash/Dash/View/TextFieldView.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42353,6 +42437,7 @@
   },
   {
     "path": "Dash/DashTests/DashTests.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42592,6 +42677,7 @@
   },
   {
     "path": "Dash/DashTests/GameModelTests.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,
@@ -42691,6 +42777,7 @@
   },
   {
     "path": "Dash/DashTests/GeneratorTests.swift",
+    "fileType": "swift",
     "lines": [
       {
         "lineNumber": 1,

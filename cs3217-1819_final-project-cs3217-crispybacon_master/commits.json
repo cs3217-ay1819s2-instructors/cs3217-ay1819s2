@@ -9,31 +9,36 @@
         "commitResults": [
           {
             "hash": "08543fe13eeba1c7ec435d7b641ae2b97d77b407",
-            "message": "Update tag removal logic in deleteTagFromTransactions()",
+            "messageTitle": "Update tag removal logic in deleteTagFromTransactions()",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 5
           },
           {
             "hash": "40538db072be9eb198f212898d68def4ecc4e169",
-            "message": "Modify transaction edit() to take in successCallBack and failureCallBack",
+            "messageTitle": "Modify transaction edit() to take in successCallBack and failureCallBack",
+            "messageBody": "Modify transaction to only notify at the end of edit() and not for every variable changed\n",
             "insertions": 17,
             "deletions": 11
           },
           {
             "hash": "bd49ad9cbb521c2866b6428fc032aeb7549a96a6",
-            "message": "Update TransactionManager notify to call StorageManager#updateTransaction()",
+            "messageTitle": "Update TransactionManager notify to call StorageManager#updateTransaction()",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 2
           },
           {
             "hash": "92b59fcafcc09e96ae86cf6fb0363fd0b9d71c2e",
-            "message": "Update TransactionManager notify() code to handle TagManager",
+            "messageTitle": "Update TransactionManager notify() code to handle TagManager",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 18
           },
           {
             "hash": "ac2ae37bca2abffa984ad6feed4d85dfc4d533c4",
-            "message": "Modify loadTransactions(ofTags) to take in a single Tag instead of a Set of Tags [StorageManager, TransactionManager]",
+            "messageTitle": "Modify loadTransactions(ofTags) to take in a single Tag instead of a Set of Tags [StorageManager, TransactionManager]",
+            "messageBody": "Refactor code in getAndDeleteTransactionIdsWithTag\nAdded method getTransactionIdsWithTag\n[StorageCouchBaseDB+TagAssociation]\n\nRefactor code in deleteTagFromTransactions to method loadTransactionsFromIds()\nModify loadTransactions(ofTag)\n[StorageCouchBaseDB+Transaction]\n\nModify loadTransactions(ofTag) in StorageManagerTests\n",
             "insertions": 82,
             "deletions": 64
           }
@@ -46,7 +51,8 @@
         "commitResults": [
           {
             "hash": "84d0906ca09f55bb935b859ee59ba16910d8b9de",
-            "message": "Integrate tag removal method to CoreLogic",
+            "messageTitle": "Integrate tag removal method to CoreLogic",
+            "messageBody": "Added methods to CoreLogicInterface\nRemove observer code for TagManager in TransactionManager\nAdded deleteTagFromTransactions() to TransactionManager\nModified removeChildTag() and removeParentTag() to return removed tags in an array\n",
             "insertions": 43,
             "deletions": 31
           }
@@ -59,43 +65,50 @@
         "commitResults": [
           {
             "hash": "80490d902e9cce34b7046dcd839a4d5b65e34fc7",
-            "message": "Fix missing } Modify removeTag in TagManager()",
+            "messageTitle": "Fix missing } Modify removeTag in TagManager()",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "37f9a2cced5e60b3559cfcc50c0add6913e1a504",
-            "message": "Added prediction database in StorageCouchBaseDB()",
+            "messageTitle": "Added prediction database in StorageCouchBaseDB()",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "073184b1eda76684100abf0a9ab2381df0309a7e",
-            "message": "Implement createMutableDocument(from prediction) in StorageCouchBaseDB",
+            "messageTitle": "Implement createMutableDocument(from prediction) in StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 0
           },
           {
             "hash": "8f80e3e188d5a2f4135e3869a08358ac19a4dfb7",
-            "message": "Added StorageCouchBaseDB+Prediction with methods getNumberOfPredictionsInDatabase() and clearPredictionDatabase()",
+            "messageTitle": "Added StorageCouchBaseDB+Prediction with methods getNumberOfPredictionsInDatabase() and clearPredictionDatabase()",
+            "messageBody": "Modified logging level for catch clauses in StorageCouchBaseDB+Transaction \u0026 +Budget\n",
             "insertions": 52,
             "deletions": 10
           },
           {
             "hash": "ec068b0a386766a6e4174632bda7181ee9dcd717",
-            "message": "Implemented new methods in StorageCouchBaseDB+Prediction",
+            "messageTitle": "Implemented new methods in StorageCouchBaseDB+Prediction",
+            "messageBody": "savePrediction()\nloadPredictions()\nloadPredictions(limit)\n",
             "insertions": 78,
             "deletions": 0
           },
           {
             "hash": "c271501eeaff2aec73f40cfd7828860aab72089f",
-            "message": "Implement StorageManagerInterface",
+            "messageTitle": "Implement StorageManagerInterface",
+            "messageBody": "Rearrange code in StorageManager\nModified TransactionManager, BudgetManager \u0026 PredictionManager to have StorageManagerInterface\nIncluded Prediction related method in StorageManager and StorageManagerInterface\n",
             "insertions": 113,
             "deletions": 50
           },
           {
             "hash": "753d2f050ca704a173ae501981b6d29cf617c7fa",
-            "message": "Rearrange StorageManagerTests",
+            "messageTitle": "Rearrange StorageManagerTests",
+            "messageBody": "",
             "insertions": 90,
             "deletions": 85
           }
@@ -108,31 +121,36 @@
         "commitResults": [
           {
             "hash": "3b967c91bbdf6a4d33bc099ebee0cb34cdf68e0b",
-            "message": "Implement StorageManager Prediction related tests",
+            "messageTitle": "Implement StorageManager Prediction related tests",
+            "messageBody": "Relevant changes made:\n- Modify Tag stand alone init\n- Implement Prediction equals method\n- Rename loadPredictions() to loadAllPredictions()\n",
             "insertions": 111,
             "deletions": 14
           },
           {
             "hash": "e287299fcb513d980cde38288844d0d77ee9be1f",
-            "message": "Implement loadPredictions(limit) test case",
+            "messageTitle": "Implement loadPredictions(limit) test case",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 1
           },
           {
             "hash": "27acec76f134dd0591ae2681c0d01c60bdc00f5a",
-            "message": "Implement deleteTagFromTransactions() test case",
+            "messageTitle": "Implement deleteTagFromTransactions() test case",
+            "messageBody": "",
             "insertions": 62,
             "deletions": 0
           },
           {
             "hash": "e4d6d4ccd003d6c796320c7ef4e819c9e014f375",
-            "message": "Rename transactionMapping to transactionIdMapping in StorageCouchBaseDB",
+            "messageTitle": "Rename transactionMapping to transactionIdMapping in StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "14fd3e0fdbbcc9eef00726115b1c6562fdcd2f3e",
-            "message": "Added recurringId to Transactions",
+            "messageTitle": "Added recurringId to Transactions",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 2
           }
@@ -145,49 +163,57 @@
         "commitResults": [
           {
             "hash": "1ba73f198ac5c8a583650bb013932898a5f32a9b",
-            "message": "Modify recordTransaction() in CoreLogic",
+            "messageTitle": "Modify recordTransaction() in CoreLogic",
+            "messageBody": "Modification:\nfor recurring transaction, method will generate all instances of the transaction and save all of them\n",
             "insertions": 105,
             "deletions": 0
           },
           {
             "hash": "10c9e88f80cd2d74991d7294f0350bfebb6a9220",
-            "message": "Refactor code in recordRecurringTransaction() to generateAllRecurringInstances()",
+            "messageTitle": "Refactor code in recordRecurringTransaction() to generateAllRecurringInstances()",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 6
           },
           {
             "hash": "959dd34c2887f41264c7ae2029ad11c99ae88045",
-            "message": "Implement deleteAllRecurringInstances(of transaction) in CoreLogic",
+            "messageTitle": "Implement deleteAllRecurringInstances(of transaction) in CoreLogic",
+            "messageBody": "Relevant changes made:\ndeleteAllRecurringInstances(of transaction) implemented in TransactionManager, StorageManager and StorageCouchBaseDB+Transaction\nImplemented getTransactionIdsFromQuery() in StorageCouchBaseDB+Transaction\nModified recurringId in transaction to be private set but public getter\n",
             "insertions": 81,
             "deletions": 3
           },
           {
             "hash": "cc92bc05e9827a013e3e5746e94768d9bd7e17ae",
-            "message": "Refactor transaction saving logic for recurring / normal transaction from CoreLogic to TransactionManager",
+            "messageTitle": "Refactor transaction saving logic for recurring / normal transaction from CoreLogic to TransactionManager",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 59
           },
           {
             "hash": "d1c19c50802aabcf511068ad812e10f7c0c868ef",
-            "message": "Implement updateRecurringTransaction() in TransactionManager",
+            "messageTitle": "Implement updateRecurringTransaction() in TransactionManager",
+            "messageBody": "Relevant changes made:\nImplement loadFirstRecurringInstance() in StorageManager and StorageCouchBaseDB+Transaction\n",
             "insertions": 60,
             "deletions": 2
           },
           {
             "hash": "fc9180836004339f1950171e18132ba91e12bc4d",
-            "message": "Implement TransactionManager recurring transaction methods test cases",
+            "messageTitle": "Implement TransactionManager recurring transaction methods test cases",
+            "messageBody": "",
             "insertions": 168,
             "deletions": 25
           },
           {
             "hash": "47835661cb8a1ef3e73c9a8d8c6c81647cd38b54",
-            "message": "Implement getStartOfMonth and getEndOfMonth in SetBudgetViewController()",
+            "messageTitle": "Implement getStartOfMonth and getEndOfMonth in SetBudgetViewController()",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 11
           },
           {
             "hash": "79e0286700cad3f8e322eef569869ceab36036c4",
-            "message": "Modified CoreLogic#loadBudget() to check if budget is outdated",
+            "messageTitle": "Modified CoreLogic#loadBudget() to check if budget is outdated",
+            "messageBody": "If budget is outdated, delete and throw error.\n",
             "insertions": 12,
             "deletions": 1
           }
@@ -200,7 +226,8 @@
         "commitResults": [
           {
             "hash": "d48f5428999cbe3636e9a00f25fe2a83234b984f",
-            "message": "Fix typo and added requires clause to updateRecurringTransaction in TransactionManager",
+            "messageTitle": "Fix typo and added requires clause to updateRecurringTransaction in TransactionManager",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           }
@@ -213,121 +240,141 @@
         "commitResults": [
           {
             "hash": "c2095e05547975a1f19cf36c2e4d643454fc19c1",
-            "message": "Implement TransactionManagerInterface",
+            "messageTitle": "Implement TransactionManagerInterface",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 0
           },
           {
             "hash": "99e16133080d44a4d68f3e69bae7f8250695992c",
-            "message": "Modify TransactionManager to conform to TransactionManagerInterface Remove loadTransactions(ofCategory) method",
+            "messageTitle": "Modify TransactionManager to conform to TransactionManagerInterface Remove loadTransactions(ofCategory) method",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 8
           },
           {
             "hash": "92308fb7075b9fa83722d31453ae9be30c291769",
-            "message": "Modify CoreLogic to have TransactionManagerInterface instead of TransactionManager",
+            "messageTitle": "Modify CoreLogic to have TransactionManagerInterface instead of TransactionManager",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "46bcbf2086ab5e9ba4ea66e7c168e20cf96772c9",
-            "message": "Implement PredictionManagerInterface",
+            "messageTitle": "Implement PredictionManagerInterface",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 0
           },
           {
             "hash": "f51f28b50bc976662f184d75e83ea043a221f7e1",
-            "message": "Modify PredictionManager to conform to PredictionManagerInterface Modify CoreLogic to have PredictionManagerInterface instead of PredictionManager",
+            "messageTitle": "Modify PredictionManager to conform to PredictionManagerInterface Modify CoreLogic to have PredictionManagerInterface instead of PredictionManager",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "24ebee7f694661dccbfd00b7f0cc568dc4b01a86",
-            "message": "Implement BudgetManagerInterface Made relevant changes to CoreLogic and BudgetManager",
+            "messageTitle": "Implement BudgetManagerInterface Made relevant changes to CoreLogic and BudgetManager",
+            "messageBody": "Updated CoreLogicInterface to have deleteAllRecurringInstances() method\n",
             "insertions": 20,
             "deletions": 2
           },
           {
             "hash": "db58507aea3199f37fea0e78e91f0f966c7fbc7a",
-            "message": "Included breakdown extensions in CoreLogicInterface",
+            "messageTitle": "Included breakdown extensions in CoreLogicInterface",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "2fda41f543e434f7af2b4d292efdcd708197236e",
-            "message": "Fix swiftlint violation",
+            "messageTitle": "Fix swiftlint violation",
+            "messageBody": "Remove loadTransactions(ofCategory) code from StorageCouchBaseDB+Transaction\n",
             "insertions": 12,
             "deletions": 16
           },
           {
             "hash": "a4c95082e4dc55adb7dc6a554139298126b2c112",
-            "message": "Moved API documentation from StorageManager to StorageManagerInterface",
+            "messageTitle": "Moved API documentation from StorageManager to StorageManagerInterface",
+            "messageBody": "Removed loadTransactions(ofCategory) method from StorageManager\nRemoved TransactionCategory File\n",
             "insertions": 91,
             "deletions": 119
           },
           {
             "hash": "42cd7e727d62e3123c94dd5a04273d30b5c0fb52",
-            "message": "Updated documentation for StorageCouchBaseDB",
+            "messageTitle": "Updated documentation for StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 10
           },
           {
             "hash": "2d6b3b4b9ca682971728f65e850a4390205bf730",
-            "message": "Style fix for StorageCouchBaseDB and extensions",
+            "messageTitle": "Style fix for StorageCouchBaseDB and extensions",
+            "messageBody": "",
             "insertions": 61,
             "deletions": 55
           },
           {
             "hash": "f3d053283592824c3289dfd80a4b89225980c9b7",
-            "message": "Fix swiftlint violation",
+            "messageTitle": "Fix swiftlint violation",
+            "messageBody": "Refactor tableView() method to displayDataForCell() in TransactionsViewController\n",
             "insertions": 10,
             "deletions": 4
           },
           {
             "hash": "f70b790963b6df52a8f65dc2dd3646c847f69d28",
-            "message": "Fix file length violation in AddTransactionViewController",
+            "messageTitle": "Fix file length violation in AddTransactionViewController",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "be151c57ea262ebea5ce220aeafcd7568c9af37d",
-            "message": "Fix swiftlint violation in TagManager",
+            "messageTitle": "Fix swiftlint violation in TagManager",
+            "messageBody": "Added documentation for budget group\n",
             "insertions": 53,
             "deletions": 30
           },
           {
             "hash": "413a07fb8b42da8183d619904981c962b30bc784",
-            "message": "Added documentation for prediction group",
+            "messageTitle": "Added documentation for prediction group",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "d2919d901e667be578301ad8dd39f14093b54479",
-            "message": "Fix style in transaction group",
+            "messageTitle": "Fix style in transaction group",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "5e6133b860299395325dfebfa1e869743007b03a",
-            "message": "Added header for CoreLogicInterface",
+            "messageTitle": "Added header for CoreLogicInterface",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "de9851e8012e72c9a6ecaeb069daac0907af9bc6",
-            "message": "Implement CoreLogic#getBreakdownByTime() test case",
+            "messageTitle": "Implement CoreLogic#getBreakdownByTime() test case",
+            "messageBody": "",
             "insertions": 58,
             "deletions": 0
           },
           {
             "hash": "a8eb7f631da0a577cae4d193d77db76dcbbe58e9",
-            "message": "Implement CoreLogic#getBreakdownByTag() test case",
+            "messageTitle": "Implement CoreLogic#getBreakdownByTag() test case",
+            "messageBody": "",
             "insertions": 60,
             "deletions": 1
           },
           {
             "hash": "98c9abdd70c6e463c660cd3bf0ae7397986d1ef0",
-            "message": "Update Transaction Documentation",
+            "messageTitle": "Update Transaction Documentation",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -342,13 +389,15 @@
         "commitResults": [
           {
             "hash": "2a2daece70f8986d99d16ca57888a84733aa2a6c",
-            "message": "draw landing page",
+            "messageTitle": "draw landing page",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "a9dbf78e1e6c6376307d0ca5b2d623075da623ef",
-            "message": "draw transactions page and analysis page",
+            "messageTitle": "draw transactions page and analysis page",
+            "messageBody": "",
             "insertions": 60,
             "deletions": 0
           }
@@ -361,31 +410,36 @@
         "commitResults": [
           {
             "hash": "7bd9882b8ec791b4c7eb8021157f9515dcf0c76c",
-            "message": "draw add transaction page",
+            "messageTitle": "draw add transaction page",
+            "messageBody": "",
             "insertions": 43,
             "deletions": 0
           },
           {
             "hash": "c20f005a6a2393f80416c87761d69cec72b7f1fb",
-            "message": "add add to main segue",
+            "messageTitle": "add add to main segue",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 0
           },
           {
             "hash": "935a3cc1ea6d39530d41fcbb56da9b924e4802a0",
-            "message": "add swiftlint and clean up",
+            "messageTitle": "add swiftlint and clean up",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 6
           },
           {
             "hash": "440838f03eb8f0209d5ff25d47b418ebb01efb36",
-            "message": "unuse swiftLint and some capturing",
+            "messageTitle": "unuse swiftLint and some capturing",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 0
           },
           {
             "hash": "758aac316a8f5f854418f26154b27b61c04f20fc",
-            "message": "draw category buttons",
+            "messageTitle": "draw category buttons",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 7
           }
@@ -398,19 +452,22 @@
         "commitResults": [
           {
             "hash": "15ad7bbc3d31b4e247cb8a290e5bc2be49374fcb",
-            "message": "allow all capturing of user inputs",
+            "messageTitle": "allow all capturing of user inputs",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 18
           },
           {
             "hash": "992f8d65a16a98beb640916af412b78f1c1c6da1",
-            "message": "add Config.swift",
+            "messageTitle": "add Config.swift",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 10
           },
           {
             "hash": "eb3dc13ed60dd4941e8dae89f3902e88efa6285d",
-            "message": "resolve conflict",
+            "messageTitle": "resolve conflict",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -423,61 +480,71 @@
         "commitResults": [
           {
             "hash": "8eebf39983ed175b561f8de9036976430f3b7471",
-            "message": "refactor constants",
+            "messageTitle": "refactor constants",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 18
           },
           {
             "hash": "b2aa99b65282a9eabb143b083c3874a054a8f0ef",
-            "message": "set developer team",
+            "messageTitle": "set developer team",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "ba066ba4e70835be04e692390176876cea0642e3",
-            "message": "rename",
+            "messageTitle": "rename",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           },
           {
             "hash": "d9a598d7a1e9e111fe73074ec2c6ffdcdb1bfcd0",
-            "message": "add some log info",
+            "messageTitle": "add some log info",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 0
           },
           {
             "hash": "ad9d68439e98d4fd3013b6e30c00bb2729a37c2d",
-            "message": "modify logging msg for db",
+            "messageTitle": "modify logging msg for db",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 10
           },
           {
             "hash": "c78e9513737e74f432e6052662ce9a1f64b63585",
-            "message": "typos",
+            "messageTitle": "typos",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "b32b3540f0b1ac8e178dbbe913ce811547ac3e92",
-            "message": "first attempt at this crazy library",
+            "messageTitle": "first attempt at this crazy library",
+            "messageBody": "",
             "insertions": 604,
             "deletions": 1
           },
           {
             "hash": "2b1309a49d0a8f9e4f90582b2d769306481a4c20",
-            "message": "now this crazy library works",
+            "messageTitle": "now this crazy library works",
+            "messageBody": "",
             "insertions": 70,
             "deletions": 33
           },
           {
             "hash": "59d75318e467ae7699fe15451f9349949666eaf0",
-            "message": "clean up",
+            "messageTitle": "clean up",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 46
           },
           {
             "hash": "9216c4c1f1d23a83b8aa8831478c19d96812fac7",
-            "message": "add number view to test the table view",
+            "messageTitle": "add number view to test the table view",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 2
           }
@@ -490,31 +557,36 @@
         "commitResults": [
           {
             "hash": "060b7913ed7093757eaa2b8a5582042eea44d485",
-            "message": "beautify closed",
+            "messageTitle": "beautify closed",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 2
           },
           {
             "hash": "205f56516f0461597ab2c211a3a62aa53a21d489",
-            "message": "customize open cell",
+            "messageTitle": "customize open cell",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 11
           },
           {
             "hash": "df549002b53a680d48ed160450748a694cb9b9e8",
-            "message": "add images and animation for coin",
+            "messageTitle": "add images and animation for coin",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 1
           },
           {
             "hash": "5f80241a44afa623a4b270afa46c5aca82e2fd64",
-            "message": "further refine main page",
+            "messageTitle": "further refine main page",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           },
           {
             "hash": "eb5ae977a6dc706f7a4c481b93089087309e622b",
-            "message": "refine add transaction page",
+            "messageTitle": "refine add transaction page",
+            "messageBody": "",
             "insertions": 24,
             "deletions": 2
           }
@@ -527,55 +599,64 @@
         "commitResults": [
           {
             "hash": "0f76d728b502c351867558c9996f6d8ada93f636",
-            "message": "support description",
+            "messageTitle": "support description",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "be77e38b5889b41409a01551ba434ff24f317445",
-            "message": "add support for photo",
+            "messageTitle": "add support for photo",
+            "messageBody": "",
             "insertions": 34,
             "deletions": 3
           },
           {
             "hash": "97e4d79a593e82af6791dd5ed94f477d3d5efbf9",
-            "message": "change type",
+            "messageTitle": "change type",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "d1da4e51d65446470ce12ee4b276b081a768161f",
-            "message": "support location",
+            "messageTitle": "support location",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 5
           },
           {
             "hash": "1e1f49d5393a620e63bd478840153f34a4c6343f",
-            "message": "clean up a bit",
+            "messageTitle": "clean up a bit",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 18
           },
           {
             "hash": "d200d395b9d0a076d78c0dda0303da1dd6727fa9",
-            "message": "add support for changing currency",
+            "messageTitle": "add support for changing currency",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "09ac709634b8d04e78fbcfc51a173a61c9b4dd65",
-            "message": "remove Equatable conformance",
+            "messageTitle": "remove Equatable conformance",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "62cea75e94d1f2f5a34f6587a76e4a22d64029e0",
-            "message": "refactor location capturing",
+            "messageTitle": "refactor location capturing",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 8
           },
           {
             "hash": "07bb7b63aa749bef91c60054d35593226ca6d223",
-            "message": "format location displayed",
+            "messageTitle": "format location displayed",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 1
           }
@@ -588,49 +669,57 @@
         "commitResults": [
           {
             "hash": "450a5b5be3e81ecea1c138c170901b54b55b8dbb",
-            "message": "like why???????",
+            "messageTitle": "like why???????",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 29
           },
           {
             "hash": "e0635b273e195310025d184b5863457e42a2b4f1",
-            "message": "because i never pulled",
+            "messageTitle": "because i never pulled",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "f8193892ff4bb1e29956d6f08a7796ed77e3bc3a",
-            "message": "fix one swiftlint",
+            "messageTitle": "fix one swiftlint",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "cfa166c2b69b55cc5bd15ff93b558b7e03fd094b",
-            "message": "enable transaction adding and displaying",
+            "messageTitle": "enable transaction adding and displaying",
+            "messageBody": "",
             "insertions": 121,
             "deletions": 9
           },
           {
             "hash": "559bc182f4a90f3c95ccbaa2e7658f93a02d8d92",
-            "message": "improve interface and fix cell reuse bug",
+            "messageTitle": "improve interface and fix cell reuse bug",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 1
           },
           {
             "hash": "aad9b20785c716b9d3656c7dfcdd31da4cf196d4",
-            "message": "correctly format decimal",
+            "messageTitle": "correctly format decimal",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 3
           },
           {
             "hash": "f077340db455bab6b358e3db673ad68539a43fba",
-            "message": "refactor constants",
+            "messageTitle": "refactor constants",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 3
           },
           {
             "hash": "a63ac087ac04be3571bbcf797dfb08219f5e2682",
-            "message": "implement error handling",
+            "messageTitle": "implement error handling",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 5
           }
@@ -643,7 +732,8 @@
         "commitResults": [
           {
             "hash": "f31eaa760dbefcb361c77fc212cc23196b0d834b",
-            "message": "missed storage error",
+            "messageTitle": "missed storage error",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           }
@@ -656,37 +746,43 @@
         "commitResults": [
           {
             "hash": "0ba733517ca9e6f5d8b10636ec6f58274330ba4f",
-            "message": "edit coin floating",
+            "messageTitle": "edit coin floating",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "d0ddc4608919338d7d2e7f6b15c404420f6fa95d",
-            "message": "refactor constants",
+            "messageTitle": "refactor constants",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 11
           },
           {
             "hash": "60f312f4a2a073230a497761d3af80dd16837caf",
-            "message": "implement slide to delete",
+            "messageTitle": "implement slide to delete",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 0
           },
           {
             "hash": "93fc87288e4d99b440e93760bd326a7f0fd39ccc",
-            "message": "remove delete button and add description display",
+            "messageTitle": "remove delete button and add description display",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 6
           },
           {
             "hash": "fd545ae24b9be14e4f7bc3047db96b1dd7d21c8e",
-            "message": "implement picture previews",
+            "messageTitle": "implement picture previews",
+            "messageBody": "",
             "insertions": 63,
             "deletions": 0
           },
           {
             "hash": "1ef7021ec22692bd23982dc3d3ce4d90677874a1",
-            "message": "remove comments",
+            "messageTitle": "remove comments",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 2
           }
@@ -699,19 +795,22 @@
         "commitResults": [
           {
             "hash": "5309f42cada4a5cf31f0dd48dbffc801037ab8ae",
-            "message": "get this calendar to show",
+            "messageTitle": "get this calendar to show",
+            "messageBody": "",
             "insertions": 81,
             "deletions": 7
           },
           {
             "hash": "e31ebd7a83909874042b01c85d05183ff1a0d51c",
-            "message": "style selected",
+            "messageTitle": "style selected",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 0
           },
           {
             "hash": "2c045d5f7e5984ed7dfd56c7f316bca6c6eb3955",
-            "message": "further style calendar",
+            "messageTitle": "further style calendar",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 8
           }
@@ -724,43 +823,50 @@
         "commitResults": [
           {
             "hash": "5b7f322171469e4c6c0953f659baabfa741bd159",
-            "message": "enable auto jump to a reference date",
+            "messageTitle": "enable auto jump to a reference date",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 5
           },
           {
             "hash": "26d20496825cab0e70ceabfc9081de6e7555e705",
-            "message": "resize calendar",
+            "messageTitle": "resize calendar",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "fa239505d524e6546c075bf1e9dcc1eb03ed7e04",
-            "message": "allow data to be passed",
+            "messageTitle": "allow data to be passed",
+            "messageBody": "",
             "insertions": 56,
             "deletions": 4
           },
           {
             "hash": "a65d0f5af2283c876225ccd459a65253b1e86c5f",
-            "message": "use unwind segue",
+            "messageTitle": "use unwind segue",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 13
           },
           {
             "hash": "d7add6223d6e976eb1aed6a70e52a5ba69744c45",
-            "message": "refactor",
+            "messageTitle": "refactor",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 43
           },
           {
             "hash": "68066278506ea8aa8875d68bfc2b8f921441b581",
-            "message": "allow accessing different months",
+            "messageTitle": "allow accessing different months",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 7
           },
           {
             "hash": "d3f566a5244ff9a74fcf85e8a5757a0d23f0bb71",
-            "message": "try nested table view",
+            "messageTitle": "try nested table view",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -773,43 +879,50 @@
         "commitResults": [
           {
             "hash": "9253dcdf33e6534743ab717926d4e9b1ffe71bca",
-            "message": "implement dummy tag selection page",
+            "messageTitle": "implement dummy tag selection page",
+            "messageBody": "",
             "insertions": 115,
             "deletions": 0
           },
           {
             "hash": "915a94e3aec3b280949b45513ec832ae363c6ef5",
-            "message": "change selection behaviours",
+            "messageTitle": "change selection behaviours",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 5
           },
           {
             "hash": "282649da09a8aa5d360fb9aa387a4e38b2654ea2",
-            "message": "try change to tag break down",
+            "messageTitle": "try change to tag break down",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 2
           },
           {
             "hash": "35268589de0e048170600e6a20b737d8ff5b3f11",
-            "message": "change category to tag",
+            "messageTitle": "change category to tag",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 3
           },
           {
             "hash": "132a46bf1cabf69647d497f4983626a9204ab9e8",
-            "message": "finish breakdownByTag",
+            "messageTitle": "finish breakdownByTag",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "ce1f56ab2d2b19c380c99a297458f2aad551ba51",
-            "message": "integrate Tag",
+            "messageTitle": "integrate Tag",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 6
           },
           {
             "hash": "ac31c64412553fb97d2b83c26a015c18b42eb191",
-            "message": "fix persistence",
+            "messageTitle": "fix persistence",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 12
           }
@@ -822,79 +935,92 @@
         "commitResults": [
           {
             "hash": "d702403a46a309fc9958a7376432e432a6c90c6e",
-            "message": "error handling",
+            "messageTitle": "error handling",
+            "messageBody": "",
             "insertions": 80,
             "deletions": 2
           },
           {
             "hash": "afa526f2a3019d345951f3005896c71684735ebb",
-            "message": "temporary fix to CoreLogic",
+            "messageTitle": "temporary fix to CoreLogic",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 2
           },
           {
             "hash": "6d3456a5657833216324fcfa15b3fde1cd5b5272",
-            "message": "implement budget ui components",
+            "messageTitle": "implement budget ui components",
+            "messageBody": "",
             "insertions": 61,
             "deletions": 0
           },
           {
             "hash": "1638494dbce946c1b2388778a7c294689d637fac",
-            "message": "implement budget back-end",
+            "messageTitle": "implement budget back-end",
+            "messageBody": "",
             "insertions": 74,
             "deletions": 5
           },
           {
             "hash": "4a2f9b61b7029e4d311e7baeebe4046a9721bd3a",
-            "message": "add pig views",
+            "messageTitle": "add pig views",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 1
           },
           {
             "hash": "d44df6050348db0ca11d69c2983db593404a2197",
-            "message": "remove one line",
+            "messageTitle": "remove one line",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "594abeaea4ddf90f567d06fdc7fd94f500873497",
-            "message": "change budget label color",
+            "messageTitle": "change budget label color",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "7d880c92ae2e2aa059c17233ba823f8c11586006",
-            "message": "fine tune coin animation",
+            "messageTitle": "fine tune coin animation",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "6411a6719402828c0afface90dc96d12f0b13f3f",
-            "message": "make setting budget compulsory by sending user to the page",
+            "messageTitle": "make setting budget compulsory by sending user to the page",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "eb5087a052a3496c1b1a0cbcb129d076df43c358",
-            "message": "allow CoreLogic to operate in testing mode",
+            "messageTitle": "allow CoreLogic to operate in testing mode",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "4b4dfb0e4a23bdc720093fe7f51984b0d9d95967",
-            "message": "enable tag selection addition and display from front end",
+            "messageTitle": "enable tag selection addition and display from front end",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 23
           },
           {
             "hash": "eff544c6cfdcc463516a5e1d512d1b0d2e2b3446",
-            "message": "display tags in transactions list",
+            "messageTitle": "display tags in transactions list",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 7
           },
           {
             "hash": "bdfff5dd1e873c6a158ae8a2bc58756963cee5cc",
-            "message": "prepare for tag edit",
+            "messageTitle": "prepare for tag edit",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 6
           }
@@ -907,37 +1033,43 @@
         "commitResults": [
           {
             "hash": "9d4025c716fe174be04ccdcdc297724dbf954ba5",
-            "message": "finally fixed cell reuse bug I IS CRYING",
+            "messageTitle": "finally fixed cell reuse bug I IS CRYING",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 19
           },
           {
             "hash": "4a4f27bcd43e508c7290674b73b1cbc790f59c72",
-            "message": "set the flow up for prediction mechanism",
+            "messageTitle": "set the flow up for prediction mechanism",
+            "messageBody": "",
             "insertions": 139,
             "deletions": 1
           },
           {
             "hash": "b8a33618aa6b5a1fbb8ed5d7e3ea59e6290cc0ed",
-            "message": "remove observer of transaction and tag in corelogic",
+            "messageTitle": "remove observer of transaction and tag in corelogic",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 5
           },
           {
             "hash": "bec9fc58a7c125b50687aad726663e43ae1dca5b",
-            "message": "modify add tag mechanism",
+            "messageTitle": "modify add tag mechanism",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 14
           },
           {
             "hash": "9b70713f15f9829acdc7c8cbe636dc2d4444f710",
-            "message": "rewrite tag selection again to prevent reuse issue",
+            "messageTitle": "rewrite tag selection again to prevent reuse issue",
+            "messageBody": "",
             "insertions": 58,
             "deletions": 17
           },
           {
             "hash": "1af15da04b6f09796b87d233eb2f40d843830a1f",
-            "message": "add tostring method for tag",
+            "messageTitle": "add tostring method for tag",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 2
           }
@@ -950,73 +1082,85 @@
         "commitResults": [
           {
             "hash": "bd6644d2773bb7f2587c39526f8d658e54cbf63f",
-            "message": "refactor all segue constants",
+            "messageTitle": "refactor all segue constants",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 16
           },
           {
             "hash": "0de33af923167f037bb3418e3a3f7c744aa791d5",
-            "message": "use unwind segue instead",
+            "messageTitle": "use unwind segue instead",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 9
           },
           {
             "hash": "7fc5ad50528ae5b74db4a794dcee68171237b4f6",
-            "message": "redefine NaN case percentage",
+            "messageTitle": "redefine NaN case percentage",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "8811f624c86600b7224faab553198973e488ffd6",
-            "message": "attempt to write algorithm for checking time similarity",
+            "messageTitle": "attempt to write algorithm for checking time similarity",
+            "messageBody": "",
             "insertions": 38,
             "deletions": 2
           },
           {
             "hash": "9c36e10a21fa1ada3907fda54d16c31aad576d44",
-            "message": "finish algorithm to check time similarity \u0026 rewrite data flow to have main page load transactions",
+            "messageTitle": "finish algorithm to check time similarity \u0026 rewrite data flow to have main page load transactions",
+            "messageBody": "",
             "insertions": 58,
             "deletions": 27
           },
           {
             "hash": "a0d32a231dedfae42dec0d17e56484b4c027b045",
-            "message": "finish algorithm to check location similarity",
+            "messageTitle": "finish algorithm to check location similarity",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 2
           },
           {
             "hash": "01bf86620783aa04c4bcd8fe90599a930a0b911d",
-            "message": "finish prediction flow",
+            "messageTitle": "finish prediction flow",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 3
           },
           {
             "hash": "badd399423c95d282bd4615de1611e2a635eff5d",
-            "message": "change tag prediction mechanism to prevent too many tags from appearing",
+            "messageTitle": "change tag prediction mechanism to prevent too many tags from appearing",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 2
           },
           {
             "hash": "1376c0a60067a05d6a13220f33bc4d6cfe51412c",
-            "message": "remove one line",
+            "messageTitle": "remove one line",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e8b2b6ed37495f981705ab40d1765702e1c22a19",
-            "message": "make returned prediction optional",
+            "messageTitle": "make returned prediction optional",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 14
           },
           {
             "hash": "cbe9cc7e0b05589d2c63da9a885043428445b068",
-            "message": "add logging",
+            "messageTitle": "add logging",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 3
           },
           {
             "hash": "e27139ae994edb3b4b4c12b2b350ef6314b3deef",
-            "message": "add prediction tests",
+            "messageTitle": "add prediction tests",
+            "messageBody": "",
             "insertions": 37,
             "deletions": 0
           }
@@ -1029,49 +1173,57 @@
         "commitResults": [
           {
             "hash": "4ca0a63b9190f1455575a35934bc2b02e3396de0",
-            "message": "add generator tests",
+            "messageTitle": "add generator tests",
+            "messageBody": "",
             "insertions": 105,
             "deletions": 5
           },
           {
             "hash": "7e2631ea59135008e184828abd6ecfa17c89ae6d",
-            "message": "fix typo",
+            "messageTitle": "fix typo",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "72e75617c3455325e68e21695929cfa4d01e350a",
-            "message": "fix lint",
+            "messageTitle": "fix lint",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "a9866bb01f84d281502e51b66b6683d85b068485",
-            "message": "modify decimal number formatting",
+            "messageTitle": "modify decimal number formatting",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "e209df41472ccbc4dbde3818d039e364d6786ad6",
-            "message": "refactor addVC to prepare for editing mode",
+            "messageTitle": "refactor addVC to prepare for editing mode",
+            "messageBody": "",
             "insertions": 73,
             "deletions": 20
           },
           {
             "hash": "7855e3f0b940420fb1034196b2cc58a2c371a49f",
-            "message": "fix segue to prepare for edit mode",
+            "messageTitle": "fix segue to prepare for edit mode",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 1
           },
           {
             "hash": "64f84dec721a072b676a3f6b422eaf32cbd28b92",
-            "message": "rename to currentMonthYear",
+            "messageTitle": "rename to currentMonthYear",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "ed3936c283839e9523fe6ff68609cd4611abec6c",
-            "message": "allow edit from front end",
+            "messageTitle": "allow edit from front end",
+            "messageBody": "",
             "insertions": 82,
             "deletions": 24
           }
@@ -1084,31 +1236,36 @@
         "commitResults": [
           {
             "hash": "5d702efdd92e9a283ec1823778e667685f2659d6",
-            "message": "allow edit tag from front end",
+            "messageTitle": "allow edit tag from front end",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 27
           },
           {
             "hash": "c42b8ae4d6953b116b7373fa1cb88ae5f0f30406",
-            "message": "some interface touch up",
+            "messageTitle": "some interface touch up",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "0cbcbe5987bb2331c34bc8d5ef5afcfc7a78c3a2",
-            "message": "attempt for tag delete",
+            "messageTitle": "attempt for tag delete",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "02c1681dc2a277854352935a1726080b7229bd52",
-            "message": "fix tag delete error",
+            "messageTitle": "fix tag delete error",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "14adb08327b9374f3be044c75e1db00104db9160",
-            "message": "allow tag deletion",
+            "messageTitle": "allow tag deletion",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 9
           }
@@ -1121,25 +1278,29 @@
         "commitResults": [
           {
             "hash": "1a445377f9c3e697fc565f38d9e5a21c1f6b53a8",
-            "message": "silence some swiftlint warnings",
+            "messageTitle": "silence some swiftlint warnings",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 1
           },
           {
             "hash": "57622fb0af4bc038cc3c712feaca9f55e531962c",
-            "message": "allow saving prediction",
+            "messageTitle": "allow saving prediction",
+            "messageBody": "",
             "insertions": 29,
             "deletions": 3
           },
           {
             "hash": "189ee0b1c6500766e36ad38ebb97d7d687d0d481",
-            "message": "stop saving predictor transactions for prediction",
+            "messageTitle": "stop saving predictor transactions for prediction",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 16
           },
           {
             "hash": "8246db967df10467427a6a1bb2e6ad6c28f183fe",
-            "message": "remove one line",
+            "messageTitle": "remove one line",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -1152,25 +1313,29 @@
         "commitResults": [
           {
             "hash": "7b0f9a1585546e8ad5b94cea7a195ef31ee732b8",
-            "message": "wrong place to put try",
+            "messageTitle": "wrong place to put try",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "5dba70da8321cdc699c2044fcdcaf9cdd93b420a",
-            "message": "forgot to update tests lol",
+            "messageTitle": "forgot to update tests lol",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 9
           },
           {
             "hash": "6cfb756f5c003e6ca971424cd6f87c9fc3791c2e",
-            "message": "rename func",
+            "messageTitle": "rename func",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "ca861106c30ff4f9c96b13e4856cc5fb809c6387",
-            "message": "set up storyboard and VCs",
+            "messageTitle": "set up storyboard and VCs",
+            "messageBody": "",
             "insertions": 60,
             "deletions": 0
           }
@@ -1183,79 +1348,92 @@
         "commitResults": [
           {
             "hash": "0c143b563b9b700d0a24e126cecde39a34630c6e",
-            "message": "allow generating tag break down bar graph",
+            "messageTitle": "allow generating tag break down bar graph",
+            "messageBody": "",
             "insertions": 92,
             "deletions": 24
           },
           {
             "hash": "f7e012cfd5d04fcaba2b873f49b081c54722c214",
-            "message": "change font",
+            "messageTitle": "change font",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "622643299bf594245020348ec1d1e94881b3d7aa",
-            "message": "allow choosing tags",
+            "messageTitle": "allow choosing tags",
+            "messageBody": "",
             "insertions": 59,
             "deletions": 8
           },
           {
             "hash": "7f994362413fbe8b66bba3e41de43ada666bb494",
-            "message": "allow choosing time",
+            "messageTitle": "allow choosing time",
+            "messageBody": "",
             "insertions": 50,
             "deletions": 2
           },
           {
             "hash": "b39f167913bac45bf67937ffa4c384ee70fa9351",
-            "message": "modify breakdown algo",
+            "messageTitle": "modify breakdown algo",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 0
           },
           {
             "hash": "5633737ce84629cca8fdced7ea0625fcd779c2a6",
-            "message": "further refine breakdown algo",
+            "messageTitle": "further refine breakdown algo",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 4
           },
           {
             "hash": "4f81ccbcb033d8b81c457d64ffa143bcb577247c",
-            "message": "fix lint",
+            "messageTitle": "fix lint",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 3
           },
           {
             "hash": "2ba850aa3af8dd2f17c23323dd1be288d2a8d7e2",
-            "message": "trend analysis (no customisation yet)",
+            "messageTitle": "trend analysis (no customisation yet)",
+            "messageBody": "",
             "insertions": 100,
             "deletions": 1
           },
           {
             "hash": "a07fe7bf52fd093f64ef2fcca27f4abc6b3e08e0",
-            "message": "hide time picker",
+            "messageTitle": "hide time picker",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "346387e24c23643daede8c63e662f94e563c2b2b",
-            "message": "allow customisation for trend analysis",
+            "messageTitle": "allow customisation for trend analysis",
+            "messageBody": "",
             "insertions": 65,
             "deletions": 9
           },
           {
             "hash": "3883efe416621db545c30a8f66cea614dc7185f7",
-            "message": "reorganise",
+            "messageTitle": "reorganise",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "3568e09d72c78f7e2eb1f72b2592011442e606ca",
-            "message": "change budget method call",
+            "messageTitle": "change budget method call",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "96c808a55608df9457ccb6dd01dfc56006c91f92",
-            "message": "refactor method into extension",
+            "messageTitle": "refactor method into extension",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 20
           }
@@ -1268,85 +1446,99 @@
         "commitResults": [
           {
             "hash": "689c6d2b9738b821e8c618600190cf370e9251c3",
-            "message": "modify trend analysis algo",
+            "messageTitle": "modify trend analysis algo",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 8
           },
           {
             "hash": "a31e83179282dc8db760241882c03c08118cf8d1",
-            "message": "change display",
+            "messageTitle": "change display",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "dc4349bc0b43010d5ea439b6d42a51eecac72ca2",
-            "message": "implement deletion mechanism for two types of transactions",
+            "messageTitle": "implement deletion mechanism for two types of transactions",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 7
           },
           {
             "hash": "11506986a3c57237b8abf7f5cd7b7ca760d04946",
-            "message": "allow proper display of frequency fields",
+            "messageTitle": "allow proper display of frequency fields",
+            "messageBody": "",
             "insertions": 41,
             "deletions": 0
           },
           {
             "hash": "bfdab5edf861bcd6be356e3db6cfbcb29d7ed77c",
-            "message": "allow adding (and hence deleting) of recurring",
+            "messageTitle": "allow adding (and hence deleting) of recurring",
+            "messageBody": "",
             "insertions": 35,
             "deletions": 25
           },
           {
             "hash": "73a6db4aa91d60769253cf48c2740c628d4a26c1",
-            "message": "allow editing recurring",
+            "messageTitle": "allow editing recurring",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 2
           },
           {
             "hash": "16169a76ec0d77d549877e036d433aa6abebe1ce",
-            "message": "refactor constants",
+            "messageTitle": "refactor constants",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "6139d1f02ae9e850d3b9cba906c412aba1cf8bc5",
-            "message": "change everything to using corelogicinterface",
+            "messageTitle": "change everything to using corelogicinterface",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 7
           },
           {
             "hash": "69453b5b88da461d1c0508963a363a975fdfe82a",
-            "message": "add some comments to VCs",
+            "messageTitle": "add some comments to VCs",
+            "messageBody": "",
             "insertions": 38,
             "deletions": 13
           },
           {
             "hash": "fc166f2626f2f53518bd8ad140f0a8c968299a22",
-            "message": "add one more comment",
+            "messageTitle": "add one more comment",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "58209e36c652a1354867f35b2afc3f4dce36616e",
-            "message": "fix typo",
+            "messageTitle": "fix typo",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "6f5357c01dc98a8880734a7eef7223734759fbf8",
-            "message": "location breakdown logic",
+            "messageTitle": "location breakdown logic",
+            "messageBody": "",
             "insertions": 26,
             "deletions": 0
           },
           {
             "hash": "f74f120d764b9ae0c54d024bab7d70611794615d",
-            "message": "fix heatmap",
+            "messageTitle": "fix heatmap",
+            "messageBody": "",
             "insertions": 128,
             "deletions": 14
           },
           {
             "hash": "4c2cf55a14f78ef5b3f8af29c7c4c489846e3ded",
-            "message": "add another segue",
+            "messageTitle": "add another segue",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           }
@@ -1362,31 +1554,36 @@
         "commitResults": [
           {
             "hash": "92771926ee523ca6889bfad956c4b0468432ea54",
-            "message": "Create empty project",
+            "messageTitle": "Create empty project",
+            "messageBody": "",
             "insertions": 181,
             "deletions": 0
           },
           {
             "hash": "0ace8f64652e94e2b7bae9bd5a5234921f9ba4b6",
-            "message": "Add InitializationError into \"commons\" group",
+            "messageTitle": "Add InitializationError into \"commons\" group",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 15
           },
           {
             "hash": "328cd7726922943fde9a6a204757a720dfc18bda",
-            "message": "Create Transaction and related structs",
+            "messageTitle": "Create Transaction and related structs",
+            "messageBody": "",
             "insertions": 149,
             "deletions": 0
           },
           {
             "hash": "adfea05b9d25e398201d74aa6d9c60426a2073fc",
-            "message": "Refactor TransactionType into separate file",
+            "messageTitle": "Refactor TransactionType into separate file",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 5
           },
           {
             "hash": "3615becc2cd15932f8a1c87caf96a0896e889501",
-            "message": "Add default parameters to TransactionFrequency init()",
+            "messageTitle": "Add default parameters to TransactionFrequency init()",
+            "messageBody": "This allows for more convenient initialization of one-time TransactionFrequency instances (no need to provide nil values for `interval` and `repeats`).",
             "insertions": 4,
             "deletions": 3
           }
@@ -1399,13 +1596,15 @@
         "commitResults": [
           {
             "hash": "feb100f093990c50aaf9b60a0f561cda6a514902",
-            "message": "Conform TransactionFrequency to Equatable",
+            "messageTitle": "Conform TransactionFrequency to Equatable",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "3b9793cf570a24128d0745f72b71553b233f674e",
-            "message": "Add unit tests for Transaction and TransactionFrequency",
+            "messageTitle": "Add unit tests for Transaction and TransactionFrequency",
+            "messageBody": "",
             "insertions": 95,
             "deletions": 0
           }
@@ -1418,13 +1617,15 @@
         "commitResults": [
           {
             "hash": "6964cbbeb1a7bee2556dde1c5b72a203895e7655",
-            "message": "Remove duplicate assertion statement",
+            "messageTitle": "Remove duplicate assertion statement",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           },
           {
             "hash": "f01ad75b34256796d69450d4a7c6bedf1158bbe3",
-            "message": "Add new test cases for boundary values",
+            "messageTitle": "Add new test cases for boundary values",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 2
           }
@@ -1437,37 +1638,43 @@
         "commitResults": [
           {
             "hash": "de91a18151cc4ba514f84299a466ea2741d9e177",
-            "message": "Conform Transaction to Codable",
+            "messageTitle": "Conform Transaction to Codable",
+            "messageBody": "And related dependencies to Codable too, since Transaction is a composition of its dependencies.",
             "insertions": 6,
             "deletions": 6
           },
           {
             "hash": "c7bd26fa70ef66359f243da30ded267afd20051d",
-            "message": "Revert \"Merge pull request #11 from fterh/master\"",
+            "messageTitle": "Revert \"Merge pull request #11 from fterh/master\"",
+            "messageBody": "This reverts commit 0aebc8053c4a58417613423903e57dbb0d1d0ae1.",
             "insertions": 4,
             "deletions": 115
           },
           {
             "hash": "f59cf00de3ae10357602af24fefe136a368ae26a",
-            "message": "Fix build error",
+            "messageTitle": "Fix build error",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "8e12c04a224af5aa7dc867a0f2a201369109bd3f",
-            "message": "Reintegrate transaction tests",
+            "messageTitle": "Reintegrate transaction tests",
+            "messageBody": "* Also add new convenience initializer for TransactionFrequency (1-argument init() for creating one time TransactionFrequency instances)",
             "insertions": 118,
             "deletions": 1
           },
           {
             "hash": "b40d315f0f24cdbf617def3f2665f4644248daf3",
-            "message": "Set up SwiftyBeaver in AppDelegate",
+            "messageTitle": "Set up SwiftyBeaver in AppDelegate",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 0
           },
           {
             "hash": "86bbabe55a6048082a02ba1b16c685a424f4a1f2",
-            "message": "Add log statements",
+            "messageTitle": "Add log statements",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 0
           }
@@ -1480,19 +1687,22 @@
         "commitResults": [
           {
             "hash": "35174438c47b06a53410d37258f4789795708143",
-            "message": "Create TransactionTime struct definition",
+            "messageTitle": "Create TransactionTime struct definition",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 0
           },
           {
             "hash": "250d1d25534176546dabc4a4a6c5f66683df688f",
-            "message": "Add tests for TransactionTime",
+            "messageTitle": "Add tests for TransactionTime",
+            "messageBody": "",
             "insertions": 28,
             "deletions": 0
           },
           {
             "hash": "7e050672847d60890fbbd0896f35155f52ebd3d9",
-            "message": "Update Transaction and tests to use TransactionTime instead of Date",
+            "messageTitle": "Update Transaction and tests to use TransactionTime instead of Date",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 10
           }
@@ -1505,25 +1715,29 @@
         "commitResults": [
           {
             "hash": "0b125c14fd4a24f90e8eb6caa6d1f5332b0c49fb",
-            "message": "Disable swiftlint in AppDelegate.swift",
+            "messageTitle": "Disable swiftlint in AppDelegate.swift",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 0
           },
           {
             "hash": "6dd5a69357af4bf64670a9f6d053720f8ac93bfb",
-            "message": "Fix swiftlint violations",
+            "messageTitle": "Fix swiftlint violations",
+            "messageBody": "* Disable force_try rule in tests\n* Break up long lines\n* Rename short (2 characters) variable names",
             "insertions": 44,
             "deletions": 27
           },
           {
             "hash": "977b91315c5f5b399a666c313fbd3763c8cdd2f2",
-            "message": "Revert to \"date\" property (from TransactionTime)",
+            "messageTitle": "Revert to \"date\" property (from TransactionTime)",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 13
           },
           {
             "hash": "8954151423c4d121896801ba96e1720e1788229f",
-            "message": "Implement generic observer pattern protocols",
+            "messageTitle": "Implement generic observer pattern protocols",
+            "messageBody": "",
             "insertions": 56,
             "deletions": 0
           }
@@ -1536,43 +1750,50 @@
         "commitResults": [
           {
             "hash": "8710fb852ab276cd31ccd3ad53bc640f19325ecd",
-            "message": "Update observer-observable implementation",
+            "messageTitle": "Update observer-observable implementation",
+            "messageBody": "",
             "insertions": 77,
             "deletions": 8
           },
           {
             "hash": "7bb229c1f703a44ce1857c2c368c8b2bc1d0a4ac",
-            "message": "Rewrite Transaction as class",
+            "messageTitle": "Rewrite Transaction as class",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 7
           },
           {
             "hash": "2162385e09bc6191a59e1188fde1ba93a9efdaa3",
-            "message": "Conform Transaction to Observable",
+            "messageTitle": "Conform Transaction to Observable",
+            "messageBody": "",
             "insertions": 108,
             "deletions": 13
           },
           {
             "hash": "7bbbd65bd47a6d2e94b142a21d5c81cd7b250d18",
-            "message": "Add negative test case for equatable",
+            "messageTitle": "Add negative test case for equatable",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 0
           },
           {
             "hash": "2fb0f41c6060521cbf340a1c9904cd3b3097dc26",
-            "message": "Test for Transaction + Observable logic",
+            "messageTitle": "Test for Transaction + Observable logic",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 0
           },
           {
             "hash": "528f644f95057ef08ef61c2c8e98d431d49d31cb",
-            "message": "Rewrite computed properties as stored properties with didSet observer",
+            "messageTitle": "Rewrite computed properties as stored properties with didSet observer",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 91
           },
           {
             "hash": "ed1ca7c97903f6c3f6ee0d5a19b2ea21738115e3",
-            "message": "Disable swiftlint force_try rule for test file",
+            "messageTitle": "Disable swiftlint force_try rule for test file",
+            "messageBody": "Rather than having a bunch of those comments scattered throughout the code",
             "insertions": 4,
             "deletions": 6
           }
@@ -1585,19 +1806,22 @@
         "commitResults": [
           {
             "hash": "202dd88444fe577a99f37ac5240abf399d0f5d42",
-            "message": "Implement CodableCLLocation wrapper",
+            "messageTitle": "Implement CodableCLLocation wrapper",
+            "messageBody": "CLLocation is not Codable by default. CodableCLLocation is a Codable wrapper around CLLocation for use as a Transaction property for encoding/decoding.",
             "insertions": 197,
             "deletions": 0
           },
           {
             "hash": "e9141a6431f93b35288e5be354b77bcc023e0315",
-            "message": "Fix swiftlint violations",
+            "messageTitle": "Fix swiftlint violations",
+            "messageBody": "",
             "insertions": 9,
             "deletions": 7
           },
           {
             "hash": "d966ca8854572534d0df4dc76e1dfc1f1ec3b34a",
-            "message": "Add !\u003d static method for Equatable conformance",
+            "messageTitle": "Add !\u003d static method for Equatable conformance",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           }
@@ -1610,55 +1834,64 @@
         "commitResults": [
           {
             "hash": "cbdb1a7f565fb759fa49e7d7261dac77b4ed776b",
-            "message": "Update Transaction implementation to support optional location",
+            "messageTitle": "Update Transaction implementation to support optional location",
+            "messageBody": "",
             "insertions": 12,
             "deletions": 2
           },
           {
             "hash": "539005cd4340282f844f26c297dead9f9a247de0",
-            "message": "Implement CodableUIImage",
+            "messageTitle": "Implement CodableUIImage",
+            "messageBody": "Codable wrapper around UIImage",
             "insertions": 48,
             "deletions": 0
           },
           {
             "hash": "ab9e14c8e7795dcadc68194c885dcf2d1d161ab8",
-            "message": "Fix assignment of optional UIImage to UIImage",
+            "messageTitle": "Fix assignment of optional UIImage to UIImage",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 1
           },
           {
             "hash": "c9be2ffd705a987edb7fe4fd26bc09a3f7f12caf",
-            "message": "Encode to png instead of jpeg",
+            "messageTitle": "Encode to png instead of jpeg",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "3bd95d105e99443d796883a59b9b9fd87bdbdaf8",
-            "message": "Add tests for CodableUIImage",
+            "messageTitle": "Add tests for CodableUIImage",
+            "messageBody": "",
             "insertions": 48,
             "deletions": 0
           },
           {
             "hash": "4e3723a1b2db7c4ca7a4ed1c27bdb28bf30810af",
-            "message": "Update Transaction implementation to support images",
+            "messageTitle": "Update Transaction implementation to support images",
+            "messageBody": "",
             "insertions": 10,
             "deletions": 0
           },
           {
             "hash": "15bfe12f1c5cfe47c88c0a48c5f9c4110f5e80fd",
-            "message": "Conform CodableUIImage to Equatable",
+            "messageTitle": "Conform CodableUIImage to Equatable",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "bdc7c66a097bbb1512b1ba226d19092abd8785d7",
-            "message": "Override UIImage\u0027s isEqual() method",
+            "messageTitle": "Override UIImage\u0027s isEqual() method",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 0
           },
           {
             "hash": "6938937cf2a72e994e7f6398976a5a8ba3f6c1ab",
-            "message": "Modify TransactionManager to observe transactions",
+            "messageTitle": "Modify TransactionManager to observe transactions",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 7
           }
@@ -1671,31 +1904,36 @@
         "commitResults": [
           {
             "hash": "0d1b2a9192525d2bcc35f4929df9ae233fc4e627",
-            "message": "Conform TransactionFrequency to Hashable",
+            "messageTitle": "Conform TransactionFrequency to Hashable",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "27ce113cd0764e5d8456c9081926c5c2dc292c1a",
-            "message": "Conform CodableUIImage to Hashable",
+            "messageTitle": "Conform CodableUIImage to Hashable",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "44e22e9c128cb22f84976a023786b02560f773c9",
-            "message": "Conform CodableCLLocation to Hashable",
+            "messageTitle": "Conform CodableCLLocation to Hashable",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "ee6e49b034638e49ebf6f9233bcc3226be7b4c83",
-            "message": "Conform Transaction to Hashable",
+            "messageTitle": "Conform Transaction to Hashable",
+            "messageBody": "",
             "insertions": 23,
             "deletions": 0
           },
           {
             "hash": "4dd107eef7fe66a231ddf6a6ac46eafcf2dfb3ef",
-            "message": "Fix style violation: trailing newline",
+            "messageTitle": "Fix style violation: trailing newline",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 1
           }
@@ -1708,13 +1946,15 @@
         "commitResults": [
           {
             "hash": "a1fe90ba06be87fe6eb34bd866d5e5f8e3cd269e",
-            "message": "Transaction: Implement transaction deletion mechanism",
+            "messageTitle": "Transaction: Implement transaction deletion mechanism",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 0
           },
           {
             "hash": "0f3616ecef1fa71d24e672ff8fe01b7b50958ea7",
-            "message": "TransactionManager: Implement transaction deletion mechanism",
+            "messageTitle": "TransactionManager: Implement transaction deletion mechanism",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 1
           }
@@ -1727,43 +1967,50 @@
         "commitResults": [
           {
             "hash": "6e75df8cf752a7fe14066bf487f1483be6919f64",
-            "message": "Update Equatable and Hashable definitions",
+            "messageTitle": "Update Equatable and Hashable definitions",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 23
           },
           {
             "hash": "51909357482bfe2223f9d43b24dea87f5637bc98",
-            "message": "Update tests to use transaction.equals() method",
+            "messageTitle": "Update tests to use transaction.equals() method",
+            "messageBody": "",
             "insertions": 36,
             "deletions": 14
           },
           {
             "hash": "ebe54c21cdb307fbef8336f340aea04612a47a70",
-            "message": "Add Transaction+Hashable tests",
+            "messageTitle": "Add Transaction+Hashable tests",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 0
           },
           {
             "hash": "b6af62025efb131a196fe02bb016cb4d722f37fa",
-            "message": "Add explanatory code comments",
+            "messageTitle": "Add explanatory code comments",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "6f06e4662bdbdd0efebc19ca18c41b2d9e371172",
-            "message": "Implement HashableClass superclass",
+            "messageTitle": "Implement HashableClass superclass",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 0
           },
           {
             "hash": "c6469f89c54d0a5fd31873ec483f9178b47c95f1",
-            "message": "Modify Transaction to inherit HashableClass",
+            "messageTitle": "Modify Transaction to inherit HashableClass",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 21
           },
           {
             "hash": "0a99cb5e95b9202c21a4e700fb15b88f94645c1f",
-            "message": "Fix swiftlint violations",
+            "messageTitle": "Fix swiftlint violations",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 4
           }
@@ -1776,49 +2023,57 @@
         "commitResults": [
           {
             "hash": "7a4758f29c43a6dbf4f4cdfe0636e3bfc40affba",
-            "message": "Refactor transaction property validation into validate() method",
+            "messageTitle": "Refactor transaction property validation into validate() method",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 5
           },
           {
             "hash": "626c450962f2b183007df0db1372cdb67942c3e3",
-            "message": "Add edit() method to Transaction API",
+            "messageTitle": "Add edit() method to Transaction API",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 0
           },
           {
             "hash": "54a51a25c46de34c1d3eb00c9511e87860665c2e",
-            "message": "Add/update logging statements",
+            "messageTitle": "Add/update logging statements",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "e4b9921e84163008dd0f2eb4265895cac98f8f5c",
-            "message": "Make transaction properties private(set)",
+            "messageTitle": "Make transaction properties private(set)",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "fa84cbb93071532a93e1f27e0620acd5bf890fc0",
-            "message": "Update tests to use edit() method instead",
+            "messageTitle": "Update tests to use edit() method instead",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "2129762884674df00561f986233b244d4bd2dcc9",
-            "message": "Add transaction.edit() unit tests",
+            "messageTitle": "Add transaction.edit() unit tests",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 0
           },
           {
             "hash": "72ca95b8fd44d13ff17b631cc3173b3d707ab501",
-            "message": "Add validTransactions and testDates static arrays",
+            "messageTitle": "Add validTransactions and testDates static arrays",
+            "messageBody": "",
             "insertions": 30,
             "deletions": 0
           },
           {
             "hash": "6b65ae35aec0b8483b23fd6e4e50df54f57dc0d4",
-            "message": "Update tests to use TestUtils",
+            "messageTitle": "Update tests to use TestUtils",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 24
           }
@@ -1831,61 +2086,71 @@
         "commitResults": [
           {
             "hash": "7cec0638e67acda049403f212de72bd72c359328",
-            "message": "Implement TagManager (with TagManagerInterface)",
+            "messageTitle": "Implement TagManager (with TagManagerInterface)",
+            "messageBody": "",
             "insertions": 242,
             "deletions": 0
           },
           {
             "hash": "9c03ae6a66b3224a72be91f08d176c59ad62fd18",
-            "message": "Update Tag struct",
+            "messageTitle": "Update Tag struct",
+            "messageBody": "* Add documentation\n* Add convenience computed properties",
             "insertions": 15,
             "deletions": 0
           },
           {
             "hash": "54e4178c92d27b96cee5adbfe556aa1b31ba4247",
-            "message": "Add tests for TagManager",
+            "messageTitle": "Add tests for TagManager",
+            "messageBody": "",
             "insertions": 231,
             "deletions": 0
           },
           {
             "hash": "87f890c1ef45d06a6690221af254e1b47ab159c8",
-            "message": "Add .tags property",
+            "messageTitle": "Add .tags property",
+            "messageBody": "TagManager.tags returns a dictionary mapping all parent Tags to sets of their children Tags.",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "0b672c5e18e94c49b87a4d4683ec612e3b91c361",
-            "message": "Fix swiftlint style violation",
+            "messageTitle": "Fix swiftlint style violation",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "aeb7d95e40bf583736f998f5151d47812f62c15e",
-            "message": "Organize project directory /commons",
+            "messageTitle": "Organize project directory /commons",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "feaf52354fa6a04648c08d0e232cb0c65ceef20d",
-            "message": "Add FileStorageManager to /commons/utils",
+            "messageTitle": "Add FileStorageManager to /commons/utils",
+            "messageBody": "",
             "insertions": 88,
             "deletions": 0
           },
           {
             "hash": "056ae4bffc238455a894973687d973b5103e20a8",
-            "message": "Update FileStorageManager methods to throw",
+            "messageTitle": "Update FileStorageManager methods to throw",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 44
           },
           {
             "hash": "3a8c6ab6b67250ec08a4220265d366c13cd7a2f8",
-            "message": "Add persistent storage to TagManager",
+            "messageTitle": "Add persistent storage to TagManager",
+            "messageBody": "",
             "insertions": 82,
             "deletions": 1
           },
           {
             "hash": "bd336b10d13ba62a18df2d9404838b58ca21987d",
-            "message": "Update TagManager tests",
+            "messageTitle": "Update TagManager tests",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -1898,115 +2163,134 @@
         "commitResults": [
           {
             "hash": "8add9baccbd7ca863d5f5ed9a566756c38b40de2",
-            "message": "Add TagManager tests for semi-singleton pattern",
+            "messageTitle": "Add TagManager tests for semi-singleton pattern",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 1
           },
           {
             "hash": "81bba2f7ea17653ff06b68a8547aa9a67801ff50",
-            "message": "Revise TagManager specifications",
+            "messageTitle": "Revise TagManager specifications",
+            "messageBody": "When adding a child Tag to a non-existent parent Tag, throw an error instead of automatically creating the parent Tag.",
             "insertions": 12,
             "deletions": 5
           },
           {
             "hash": "7099a89f307152cd74c6fe11e083717650ca50d6",
-            "message": "Update specification to return sorted arrays instead of sets",
+            "messageTitle": "Update specification to return sorted arrays instead of sets",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "dc25dc5ec053c476aa9e1d1aeff8fabbf869481e",
-            "message": "Conform Tag to Comparable",
+            "messageTitle": "Conform Tag to Comparable",
+            "messageBody": "",
             "insertions": 42,
             "deletions": 1
           },
           {
             "hash": "67f01e532c40463a15b253a6ea0d00eb30e2bbfc",
-            "message": "Update TagManager implementation",
+            "messageTitle": "Update TagManager implementation",
+            "messageBody": "Conform to new specifications",
             "insertions": 23,
             "deletions": 9
           },
           {
             "hash": "221165224765ac6be70ef4f6f880a2b00978483c",
-            "message": "Update TagManager tests",
+            "messageTitle": "Update TagManager tests",
+            "messageBody": "",
             "insertions": 11,
             "deletions": 10
           },
           {
             "hash": "f1defcbfdc5192940e0fc4dbe839053eb16e401e",
-            "message": "Organize project directory: create /model/transaction",
+            "messageTitle": "Organize project directory: create /model/transaction",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "ba9e001a3c4857a9da411ced88d712f86a586ec3",
-            "message": "Update Transaction class to support Tag",
+            "messageTitle": "Update Transaction class to support Tag",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 13
           },
           {
             "hash": "f2d09e1e43034d30af2733a09ffacd5a4c51d044",
-            "message": "Update CoreLogic to support Tag",
+            "messageTitle": "Update CoreLogic to support Tag",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 4
           },
           {
             "hash": "dcb99595b2f72172c0300655457b265e7737bd3a",
-            "message": "Temporarily patch ViewController (resolve build errors)",
+            "messageTitle": "Temporarily patch ViewController (resolve build errors)",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 7
           },
           {
             "hash": "f1e48b27deaa9f72262b260bdd44913a838f9a7d",
-            "message": "Update tests to support Tag",
+            "messageTitle": "Update tests to support Tag",
+            "messageBody": "",
             "insertions": 33,
             "deletions": 33
           },
           {
             "hash": "0f2ad40a5d34a6c8f9895cced7d0fe8e603d78bc",
-            "message": "Conform TagManager to Observable",
+            "messageTitle": "Conform TagManager to Observable",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 1
           },
           {
             "hash": "61c636a414f9b9735f0ae210e5d68694caf6ce14",
-            "message": "Fix default FileStorageManager directory to .documentDirectory",
+            "messageTitle": "Fix default FileStorageManager directory to .documentDirectory",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "426cf8574346681628ca67299dc413d1495919ab",
-            "message": "Fix closure spacing violation",
+            "messageTitle": "Fix closure spacing violation",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "e8d2ffbbea6ab0a4dbc600e04b4db2308f9917a7",
-            "message": "Fix swiftlint violations",
+            "messageTitle": "Fix swiftlint violations",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 2
           },
           {
             "hash": "a8f17baa910b1b0c52f21ee8454e5a3a765e4307",
-            "message": "Migrate Tag definition to within TagManager.swift",
+            "messageTitle": "Migrate Tag definition to within TagManager.swift",
+            "messageBody": "",
             "insertions": 72,
             "deletions": 82
           },
           {
             "hash": "e2b0a251c32b07ac49181b8e11999f35902e44f8",
-            "message": "Update Tag: store unowned reference to TagManager",
+            "messageTitle": "Update Tag: store unowned reference to TagManager",
+            "messageBody": "* Make Tag init() fileprivate to prevent direct instantiation\n* Store unowned reference to creator TagManager\n\nThis is a prep commit for upcoming development for internal/display values conversion.",
             "insertions": 55,
             "deletions": 19
           },
           {
             "hash": "3f210ae69d3b9599048690b4f1b4b7d6f7633082",
-            "message": "Update addTags() utility method to match addChildTag()",
+            "messageTitle": "Update addTags() utility method to match addChildTag()",
+            "messageBody": "Remove logic to automatically add parent Tag if it does not exist.",
             "insertions": 0,
             "deletions": 6
           },
           {
             "hash": "f28f14b0000bc9173f7d092aee5529d30caa1aeb",
-            "message": "Implement internal/display value mapping",
+            "messageTitle": "Implement internal/display value mapping",
+            "messageBody": "",
             "insertions": 51,
             "deletions": 21
           }
@@ -2019,97 +2303,113 @@
         "commitResults": [
           {
             "hash": "d4540ccb58e54e3103a2d23e83b1e01791cb15c5",
-            "message": "Update TagManager interface to add method clearTags()",
+            "messageTitle": "Update TagManager interface to add method clearTags()",
+            "messageBody": "Since persistent",
             "insertions": 13,
             "deletions": 1
           },
           {
             "hash": "5f80b0658f54c3a3d45b2f21c5ec28bde9b4b236",
-            "message": "Fix bug: encode/decode tagId for persistence",
+            "messageTitle": "Fix bug: encode/decode tagId for persistence",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           },
           {
             "hash": "425dea37ba18b05d258c0a4e3f0fc0e735c09a96",
-            "message": "Rewrite TagManager to be completely singleton",
+            "messageTitle": "Rewrite TagManager to be completely singleton",
+            "messageBody": "This ensures better testing: test TagManager is now functionally identical to regular (production) TagManager.\n\n* Remove unowned reference in Tag to TagManager: this fixes problems with encoding (classes don\u0027t play well with Codable)\n\n* Update Tag.value implementation to use optional cached TagManager: fixes infinite loop\n\nComputed properties aren\u0027t as lazy as thought. The original implementation uses TagManager.create().getDisplayValue(). When creating a TagManager through TagManager.create(), Tags are instantiated, which calls TagManager.create(), which instantiates Tags... \n\nTo fix this, instead of calling TagManager.create(), we directly reference the cached TagManager object. However, it may not have been instantiated yet (unavailable). We return an empty string during unavailability, which should never happen in normal usage.",
             "insertions": 83,
             "deletions": 47
           },
           {
             "hash": "985e3d0c702470b4b56de49c73c5cf7fcbbeb2d9",
-            "message": "Remove old test code for non-persistence",
+            "messageTitle": "Remove old test code for non-persistence",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 10
           },
           {
             "hash": "2e1c2790b2254fc434ebae8d7c10dab14582de51",
-            "message": "Fix inconsistent interface method naming",
+            "messageTitle": "Fix inconsistent interface method naming",
+            "messageBody": "Change getChildrenTagsOf(_ parent: String) to getChildrenTags(of parent: String)",
             "insertions": 15,
             "deletions": 15
           },
           {
             "hash": "95908c50ff4385b25ea8a476ad24cc61b881842d",
-            "message": "Add tests for Tag.value and Tag.parent properties",
+            "messageTitle": "Add tests for Tag.value and Tag.parent properties",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 1
           },
           {
             "hash": "72052bbd5211859ab1a6d0263df774d39ea8ce92",
-            "message": "Reimplement TagManager to support tag IDs",
+            "messageTitle": "Reimplement TagManager to support tag IDs",
+            "messageBody": "* Create 4 data stores to map display values to/from IDs, associate parent/child Tags, etc.\n* Fix bug: check for preconditions before calling mutating .createTag()",
             "insertions": 123,
             "deletions": 119
           },
           {
             "hash": "fa074879ef813141a9f9647bc518a6db7ef41f88",
-            "message": "Update Tag to store parent internal value",
+            "messageTitle": "Update Tag to store parent internal value",
+            "messageBody": "Tag.parentValue (previously .parent) is now a computed property instead, similar to .value.",
             "insertions": 67,
             "deletions": 27
           },
           {
             "hash": "65210cfaed53d5f4159b3a5a76e2147d3eece54b",
-            "message": "Update TagManager interface to return Tag after adding",
+            "messageTitle": "Update TagManager interface to return Tag after adding",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 8
           },
           {
             "hash": "86487d3f4e4ed55d711a22d56aee60e35a295d54",
-            "message": "Fix warning: result of method call unused",
+            "messageTitle": "Fix warning: result of method call unused",
+            "messageBody": "",
             "insertions": 66,
             "deletions": 66
           },
           {
             "hash": "98425031ee284954c0847f2088bc360cd4a56d30",
-            "message": "Set Tag internalValue and parentInternalValue to be non-fileprivate",
+            "messageTitle": "Set Tag internalValue and parentInternalValue to be non-fileprivate",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           },
           {
             "hash": "32a287acb42b6dc0d910efb449ed30610e392e29",
-            "message": "Update StorageCouchBaseDB to use tag.internalValue",
+            "messageTitle": "Update StorageCouchBaseDB to use tag.internalValue",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "16972847374bc50a116d15c27fa3c74a6a83e097",
-            "message": "Update Tag to support standalone instantiation",
+            "messageTitle": "Update Tag to support standalone instantiation",
+            "messageBody": "",
             "insertions": 55,
             "deletions": 15
           },
           {
             "hash": "cff28c08074d1067ee108e5ac51a3df2a8989db1",
-            "message": "Update TestUtils tags to use standalone Tags",
+            "messageTitle": "Update TestUtils tags to use standalone Tags",
+            "messageBody": "",
             "insertions": 46,
             "deletions": 36
           },
           {
             "hash": "6a24301bb01aff8e7014a840f2d8b9ba078a82c8",
-            "message": "Add renameTag() method to TagManager interface",
+            "messageTitle": "Add renameTag() method to TagManager interface",
+            "messageBody": "* Include tests too",
             "insertions": 137,
             "deletions": 0
           },
           {
             "hash": "fede4d6606157ee2a065016e1e108d442c5854db",
-            "message": "Notify observers of deleted Tags",
+            "messageTitle": "Notify observers of deleted Tags",
+            "messageBody": "Also update interface with getTag() method",
             "insertions": 43,
             "deletions": 0
           }
@@ -2122,19 +2422,22 @@
         "commitResults": [
           {
             "hash": "60fd74eb9331b648c83c3e0b43ec6e73fd8dfb04",
-            "message": "Rename \"Tags\" to \"tags\"",
+            "messageTitle": "Rename \"Tags\" to \"tags\"",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           },
           {
             "hash": "5ff5e1cab9c53276699c696c5673b10ace3f8ed3",
-            "message": "Annotate remove tag methods with @discardableResult",
+            "messageTitle": "Annotate remove tag methods with @discardableResult",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 0
           },
           {
             "hash": "79d290a6b4642de8a981382dff104e00d21def32",
-            "message": "Fix unused result warning",
+            "messageTitle": "Fix unused result warning",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -2147,49 +2450,57 @@
         "commitResults": [
           {
             "hash": "9fb5fd4fa60fce36e043d21fc471965eebffd2b0",
-            "message": "Implement basic LocationPrompt functionality",
+            "messageTitle": "Implement basic LocationPrompt functionality",
+            "messageBody": "",
             "insertions": 80,
             "deletions": 0
           },
           {
             "hash": "dd0c0298483a22144802a43f4aee9b460789446d",
-            "message": "Use SwiftyJSON to parse response",
+            "messageTitle": "Use SwiftyJSON to parse response",
+            "messageBody": "",
             "insertions": 6,
             "deletions": 7
           },
           {
             "hash": "f05bdfde0c3700d6fb850609f23d445d665ca3bb",
-            "message": "Add driver test case",
+            "messageTitle": "Add driver test case",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "308c31c2574d8fecec2257bf5d58e7b0fcf0352c",
-            "message": "Fix exposed API key",
+            "messageTitle": "Fix exposed API key",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "be9d04af549b360f31204483df9b00e853596cfd",
-            "message": "Update LocationPrompt decision logic",
+            "messageTitle": "Update LocationPrompt decision logic",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 2
           },
           {
             "hash": "0b152149c851c4b3c1f47ab36bf185246d82a217",
-            "message": "Refactor LocationPrompt",
+            "messageTitle": "Refactor LocationPrompt",
+            "messageBody": "",
             "insertions": 108,
             "deletions": 60
           },
           {
             "hash": "0f4f157d4455d5cd9769fb48f3d6fc3e90aa8734",
-            "message": "Clean up code",
+            "messageTitle": "Clean up code",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 4
           },
           {
             "hash": "37996594304cdcde5cae69ada075068233d58410",
-            "message": "Fix exposed API key",
+            "messageTitle": "Fix exposed API key",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           }
@@ -2202,19 +2513,22 @@
         "commitResults": [
           {
             "hash": "61828110687e247b64b1dc2efef166251ff7a9cb",
-            "message": "Fix failing test on CI build",
+            "messageTitle": "Fix failing test on CI build",
+            "messageBody": "The test case remains meaningless.",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "3639c42ad43293ab20c2d5f14f5f8ad392ae8739",
-            "message": "Request always authorization (location)",
+            "messageTitle": "Request always authorization (location)",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "9476f21dad831c56324dc5d9950eba7f898b4700",
-            "message": "Add CLLocationManagerDelegate",
+            "messageTitle": "Add CLLocationManagerDelegate",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 0
           }
@@ -2227,43 +2541,50 @@
         "commitResults": [
           {
             "hash": "5f540290c3b2aff8a0c704dae2cc4eb6ba85f06d",
-            "message": "Refactor location monitoring logic into AppDelegate",
+            "messageTitle": "Refactor location monitoring logic into AppDelegate",
+            "messageBody": "* Also generate local notifications for reminder prompts",
             "insertions": 62,
             "deletions": 25
           },
           {
             "hash": "8fc4e73635d97c1ae7ebbc36e2ee2c46397c76b3",
-            "message": "Log application state changes",
+            "messageTitle": "Log application state changes",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "065020ab932056541e3a44faff37491d1a5aecbe",
-            "message": "Refactor notification content to constants file",
+            "messageTitle": "Refactor notification content to constants file",
+            "messageBody": "",
             "insertions": 17,
             "deletions": 5
           },
           {
             "hash": "a92086363727067fdeecb4ed20ddc8c062680267",
-            "message": "Change print() statement to log.warning()",
+            "messageTitle": "Change print() statement to log.warning()",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "60859b4c6f11653353323a7651e87c5e3b4127f0",
-            "message": "Fix bug (incorrect logging) in completion handler",
+            "messageTitle": "Fix bug (incorrect logging) in completion handler",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 1
           },
           {
             "hash": "ce0ae6f6fb30f221075bbed79a59629417e75172",
-            "message": "Integrate background location with LocationPrompt module",
+            "messageTitle": "Integrate background location with LocationPrompt module",
+            "messageBody": "",
             "insertions": 31,
             "deletions": 16
           },
           {
             "hash": "35b5062f79944e9891ee2a6bb66ac99962961f10",
-            "message": "Switch to startMonitoringSignificantLocationChanges()",
+            "messageTitle": "Switch to startMonitoringSignificantLocationChanges()",
+            "messageBody": "startMonitoringSignificantLocationChanges() is more suited for production because it uses less power, and is also the correct implementation, because it does not generate a new location (and thus possibly notification) every second.",
             "insertions": 3,
             "deletions": 3
           }
@@ -2276,25 +2597,29 @@
         "commitResults": [
           {
             "hash": "6186e98670791d31a9f1eaa0e1464e7fc453b53f",
-            "message": "Rewrite Tag and TagManager implementation to use UUID",
+            "messageTitle": "Rewrite Tag and TagManager implementation to use UUID",
+            "messageBody": "",
             "insertions": 22,
             "deletions": 24
           },
           {
             "hash": "52dfa30223d62a9629b25a96f6ae7106fec02f36",
-            "message": "Update StorageCouchBaseDB to new Tag specifications",
+            "messageTitle": "Update StorageCouchBaseDB to new Tag specifications",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "e553e6b570f571b865f4d8c96115315bafd0d6a4",
-            "message": "Implement heatmap",
+            "messageTitle": "Implement heatmap",
+            "messageBody": "",
             "insertions": 37,
             "deletions": 8
           },
           {
             "hash": "a2134535d66d789378b691cdde886b0edc335eb2",
-            "message": "Add code comment documentation",
+            "messageTitle": "Add code comment documentation",
+            "messageBody": "",
             "insertions": 134,
             "deletions": 86
           }
@@ -2309,13 +2634,15 @@
         "commitResults": [
           {
             "hash": "701f7ed2e24fc5c6a483ab2a7a73385082c3a42e",
-            "message": "Created StorageManager",
+            "messageTitle": "Created StorageManager",
+            "messageBody": "",
             "insertions": 15,
             "deletions": 0
           },
           {
             "hash": "9c416d42323ada1df06603588eaa0b997164dbfd",
-            "message": "Imported LocalDBMongoService",
+            "messageTitle": "Imported LocalDBMongoService",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 0
           }
@@ -2328,25 +2655,29 @@
         "commitResults": [
           {
             "hash": "77b35b42ccbb7770e6c5e0584e863c814165bc05",
-            "message": "Integrated CouchBaseLite to provide storage functionalities",
+            "messageTitle": "Integrated CouchBaseLite to provide storage functionalities",
+            "messageBody": "Updated PodFile\n",
             "insertions": 80,
             "deletions": 3
           },
           {
             "hash": "dbe9d011713820a153e02c97fa414d1f20ab4ec5",
-            "message": "Modified TransactionFrequency to conform to Codable",
+            "messageTitle": "Modified TransactionFrequency to conform to Codable",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "10d3427f5cb3f4d6ad6cf79df7bab66b9ef5c1ad",
-            "message": "Implemented saveTransaction in StorageCouchBaseDB",
+            "messageTitle": "Implemented saveTransaction in StorageCouchBaseDB",
+            "messageBody": "Created StorageError in commons\n",
             "insertions": 30,
             "deletions": 1
           },
           {
             "hash": "d658aef185520f71daa97bc9ebee8b0e14f67ef3",
-            "message": "add saveTransaction in StorageManager",
+            "messageTitle": "add saveTransaction in StorageManager",
+            "messageBody": "",
             "insertions": 4,
             "deletions": 0
           }
@@ -2359,7 +2690,8 @@
         "commitResults": [
           {
             "hash": "03abac2ff3ec1e2badfc27ecc3f5681d107e9889",
-            "message": "Implemented loadTransactions(ofType..) in StorageCouchBaseDB",
+            "messageTitle": "Implemented loadTransactions(ofType..) in StorageCouchBaseDB",
+            "messageBody": "Implemented init from dictionary for Transaction\n",
             "insertions": 54,
             "deletions": 0
           }
@@ -2372,7 +2704,8 @@
         "commitResults": [
           {
             "hash": "c1a86039916205c0765eb34fa2893dc068c22ac2",
-            "message": "Modified Date Encoding, Fixed loadTransactions(ofType)",
+            "messageTitle": "Modified Date Encoding, Fixed loadTransactions(ofType)",
+            "messageBody": "",
             "insertions": 84,
             "deletions": 44
           }
@@ -2385,25 +2718,29 @@
         "commitResults": [
           {
             "hash": "66e505f7f8142337b49cde814b9067cf2a157793",
-            "message": "Modified encoding and decoding of Transaction in StorageCouchBaseDB",
+            "messageTitle": "Modified encoding and decoding of Transaction in StorageCouchBaseDB",
+            "messageBody": "Changed Date to TransactionTime\n",
             "insertions": 8,
             "deletions": 18
           },
           {
             "hash": "3ddbafd29d53c823734888fd56ddb3ccda2e3a0a",
-            "message": "Modified catch statements in StorageCouchBaseDB",
+            "messageTitle": "Modified catch statements in StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 8,
             "deletions": 7
           },
           {
             "hash": "de4a1fdce6a67780ac603ef5328d356d1a69d1e4",
-            "message": "Implemented ClearTransactionDatabase method in StorageManager",
+            "messageTitle": "Implemented ClearTransactionDatabase method in StorageManager",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 3
           },
           {
             "hash": "eaf35acbbb16ab7672f79ee10a61c549f2723a7d",
-            "message": "Modified clearTransactionDatabase() method to throw",
+            "messageTitle": "Modified clearTransactionDatabase() method to throw",
+            "messageBody": "Added logging information for StorageCouchBaseDB\n",
             "insertions": 32,
             "deletions": 9
           }
@@ -2416,43 +2753,50 @@
         "commitResults": [
           {
             "hash": "0a5d4d83d81e1fb642cea9362865e9023be10fdb",
-            "message": "Create TestUtils to store valid class objects for testing",
+            "messageTitle": "Create TestUtils to store valid class objects for testing",
+            "messageBody": "Implemented StorageManager clearTransactionDatabase() test\n",
             "insertions": 69,
             "deletions": 0
           },
           {
             "hash": "ce757e509757782b31130e28d7e253d57f4ac682",
-            "message": "Implemented getNumberOfTransactionsInDatabase test",
+            "messageTitle": "Implemented getNumberOfTransactionsInDatabase test",
+            "messageBody": "",
             "insertions": 18,
             "deletions": 4
           },
           {
             "hash": "3293b0f62eb29eb90d30ef229833336e062bd41b",
-            "message": "Implement StorageManager loadTransactions(ofType..) test",
+            "messageTitle": "Implement StorageManager loadTransactions(ofType..) test",
+            "messageBody": "Updated TestUtils to store 3 transactions of type income\n",
             "insertions": 75,
             "deletions": 7
           },
           {
             "hash": "90897508f57dc63dad441613ba99e1ff97ea89ce",
-            "message": "Modified loadTransactions(ofType:..) test to not clear database before testing .income type",
+            "messageTitle": "Modified loadTransactions(ofType:..) test to not clear database before testing .income type",
+            "messageBody": "",
             "insertions": 0,
             "deletions": 3
           },
           {
             "hash": "5dec6eec342710b261ce3b7352bc46c5c5cbb2fb",
-            "message": "Refactor loadTransactions method in StorageCouchBaseDB",
+            "messageTitle": "Refactor loadTransactions method in StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 19,
             "deletions": 15
           },
           {
             "hash": "f161c19b1679dca32b0262679408d7c0af883b7d",
-            "message": "Implemented loadTransactions(limit..) and loadTransactions(ofCategory..)",
+            "messageTitle": "Implemented loadTransactions(limit..) and loadTransactions(ofCategory..)",
+            "messageBody": "Implemented test cases for both methods\nIncluded SwiftLint script in BuildPhases\n",
             "insertions": 189,
             "deletions": 28
           },
           {
             "hash": "2506c71adebfe0fc842650c560a19dc8789d0d25",
-            "message": "Implement InvalidArgumentError",
+            "messageTitle": "Implement InvalidArgumentError",
+            "messageBody": "Updated StorageManager to throw InvalidArgumentError for limit \u003c 0\nImplemented test cases for invalid loadTransactions()\n",
             "insertions": 52,
             "deletions": 3
           }
@@ -2465,7 +2809,8 @@
         "commitResults": [
           {
             "hash": "d3f420f1cefbe7a27a016bd3604c3bb03d2ec1b5",
-            "message": "Implement loadTransaction(after date..)",
+            "messageTitle": "Implement loadTransaction(after date..)",
+            "messageBody": "Implement loadTransaction(after date..) test cases\nRefactor hard coded key comparison in StorageCouchBaseDB to Constants file\n",
             "insertions": 99,
             "deletions": 6
           }
@@ -2478,13 +2823,15 @@
         "commitResults": [
           {
             "hash": "1b08c6d95b4d7189568f8d04a070e33a4bd0712d",
-            "message": "Implement loadTransactions(before..) method in StorageManager",
+            "messageTitle": "Implement loadTransactions(before..) method in StorageManager",
+            "messageBody": "Implement loadTransactions(before..) test cases\n",
             "insertions": 71,
             "deletions": 0
           },
           {
             "hash": "60d2225c9e03f1196a9a0eca56afdaa6dcfc7128",
-            "message": "Implement loadTransactions(from ... to ...) in StorageManager",
+            "messageTitle": "Implement loadTransactions(from ... to ...) in StorageManager",
+            "messageBody": "Implement loadTransactions(from ... to ...) testcases\n",
             "insertions": 80,
             "deletions": 11
           }
@@ -2497,31 +2844,36 @@
         "commitResults": [
           {
             "hash": "f3f95b804418462d3d732239f12e7c1ff9fb5292",
-            "message": "Modified StorageManager to be a Singleton",
+            "messageTitle": "Modified StorageManager to be a Singleton",
+            "messageBody": "",
             "insertions": 44,
             "deletions": 18
           },
           {
             "hash": "ec5e2ccd02bd2f99f8ffa2a94ac4e2c129f317ba",
-            "message": "Implemented recordTransaction in CoreLogic",
+            "messageTitle": "Implemented recordTransaction in CoreLogic",
+            "messageBody": "",
             "insertions": 20,
             "deletions": 1
           },
           {
             "hash": "7aa0f53e074ada52421d6724b97b182f74c0b0fe",
-            "message": "Modified Singleton from StorageManager to be StorageCouchBaseDB",
+            "messageTitle": "Modified Singleton from StorageManager to be StorageCouchBaseDB",
+            "messageBody": "Create TransactionManager, an interface for transaction related calls to StorageManager\n",
             "insertions": 102,
             "deletions": 36
           },
           {
             "hash": "7f43df19f5ee1c25a7765269d8ff9395b32d24e9",
-            "message": "Implemented loadTransactions(month... year...) for CoreLogic",
+            "messageTitle": "Implemented loadTransactions(month... year...) for CoreLogic",
+            "messageBody": "Implemented getTotalTransactionsRecorded() for CoreLogic\nImplemented clearAllTransactions() for CoreLogic\nRefactor testifies to groups\nImplemented CoreLogic basic test cases\n",
             "insertions": 133,
             "deletions": 11
           },
           {
             "hash": "d3b242066f370732d2af48805558066314160149",
-            "message": "Merged image support into CoreLocation and TestCases",
+            "messageTitle": "Merged image support into CoreLocation and TestCases",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 11
           }
@@ -2534,37 +2886,43 @@
         "commitResults": [
           {
             "hash": "55693a17bbf7468d070919240cbe741eb4c3a16b",
-            "message": "Modified StorageCouchBaseDB to have a mapping of id to Transactions",
+            "messageTitle": "Modified StorageCouchBaseDB to have a mapping of id to Transactions",
+            "messageBody": "",
             "insertions": 13,
             "deletions": 6
           },
           {
             "hash": "2efc7f6f1ae2d7bd84b8782a98e0e02308221874",
-            "message": "Implement deleteTransaction() in StorageManager and StorageCouchBaseDB",
+            "messageTitle": "Implement deleteTransaction() in StorageManager and StorageCouchBaseDB",
+            "messageBody": "Modified clearTransactionDatabase() to include clearing the transactionMapping dictionary\nModified getTransactionFromQuery() to record the mapping of id to Transaction\nNote : All handling of transaction should go through load methods from core logic.\n",
             "insertions": 60,
             "deletions": 21
           },
           {
             "hash": "704a4870757f3b74465336323007b0b8ecc2b087",
-            "message": "Implemented test case for StorageManager deleteTransaction()",
+            "messageTitle": "Implemented test case for StorageManager deleteTransaction()",
+            "messageBody": "",
             "insertions": 25,
             "deletions": 1
           },
           {
             "hash": "df87a3fb592599b81121b2875046c76e1fc9d7f7",
-            "message": "Style changes, swift lint violation for line length",
+            "messageTitle": "Style changes, swift lint violation for line length",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 1
           },
           {
             "hash": "6dc81c4ec20abe95abab3c6f967a732d860c0fec",
-            "message": "Add logging statements in deleteTransacion() in StorageCouchBaseDB",
+            "messageTitle": "Add logging statements in deleteTransacion() in StorageCouchBaseDB",
+            "messageBody": "",
             "insertions": 14,
             "deletions": 2
           },
           {
             "hash": "695ce59b93f6a2135dbd6b5e12537923e497415c",
-            "message": "Modified deleteTransaction() test case",
+            "messageTitle": "Modified deleteTransaction() test case",
+            "messageBody": "",
             "insertions": 2,
             "deletions": 2
           }
@@ -2577,43 +2935,50 @@
         "commitResults": [
           {
             "hash": "5fd3f86e9fd975f8b3954b72fe5bef4a64ece737",
-            "message": "Refactor StorageCouchBaseDB to extensions",
+            "messageTitle": "Refactor StorageCouchBaseDB to extensions",
+            "messageBody": "Added StorageCouchBaseDB+Transaction\nAdded StorageCouchBaseDB+Budget\nModified StorageCouchBaseDB to have a budgetDatabase field\n",
             "insertions": 254,
             "deletions": 218
           },
           {
             "hash": "ace0a81b0bd4441f6ead838b7911be80255fd123",
-            "message": "Created Budget struct",
+            "messageTitle": "Created Budget struct",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 0
           },
           {
             "hash": "4372abcc8b2035b14ce42f692a5c0b033776cccc",
-            "message": "Implemented Budget test cases",
+            "messageTitle": "Implemented Budget test cases",
+            "messageBody": "",
             "insertions": 47,
             "deletions": 0
           },
           {
             "hash": "303fc5d713d18221f32974c892893a593e60dfac",
-            "message": "Implemented createMutableDocument(from Budget) in StorageCouchBaseDB",
+            "messageTitle": "Implemented createMutableDocument(from Budget) in StorageCouchBaseDB",
+            "messageBody": "Implemented clearBudgetDatabase() in StorageCouchBaseDB\n",
             "insertions": 48,
             "deletions": 1
           },
           {
             "hash": "279930df08bcc597233e64c68ba793935b12fb0e",
-            "message": "Added methods getNumberOfBudgetsInDatabase(), saveBudget() and loadBudget() in StorageCouchBaseDB+Budget",
+            "messageTitle": "Added methods getNumberOfBudgetsInDatabase(), saveBudget() and loadBudget() in StorageCouchBaseDB+Budget",
+            "messageBody": "",
             "insertions": 67,
             "deletions": 0
           },
           {
             "hash": "0200c0cd652d424e4236c62201f5839584e6b38c",
-            "message": "Added support to StorageManager for Budget related methods",
+            "messageTitle": "Added support to StorageManager for Budget related methods",
+            "messageBody": "",
             "insertions": 16,
             "deletions": 0
           },
           {
             "hash": "bc316fecaa7b136696cd08babcb1e72ac66da47e",
-            "message": "Implement test cases for getNumberOfBudgetsInDataBase() and clearBudgetDatabase() in StorageManagerTests",
+            "messageTitle": "Implement test cases for getNumberOfBudgetsInDataBase() and clearBudgetDatabase() in StorageManagerTests",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 0
           }
@@ -2626,13 +2991,15 @@
         "commitResults": [
           {
             "hash": "318f9f2794d38e32fb485bef51a6f992328d32bf",
-            "message": "Refactor budget fields (from, to) to (fromDate, toDate) Added saveBudget() test case",
+            "messageTitle": "Refactor budget fields (from, to) to (fromDate, toDate) Added saveBudget() test case",
+            "messageBody": "",
             "insertions": 27,
             "deletions": 9
           },
           {
             "hash": "4e8f10bbf2252a7b13e636d1390964747516075a",
-            "message": "Implement BudgetManager Implement Budget related methods in CoreLogic Added CoreLogicInterface for ease of API reference",
+            "messageTitle": "Implement BudgetManager Implement Budget related methods in CoreLogic Added CoreLogicInterface for ease of API reference",
+            "messageBody": "",
             "insertions": 71,
             "deletions": 2
           }
@@ -2645,13 +3012,15 @@
         "commitResults": [
           {
             "hash": "d590902a58443e995f2808b7798f72ecc1b565f4",
-            "message": "Implemented updateTransaction backend support",
+            "messageTitle": "Implemented updateTransaction backend support",
+            "messageBody": "Implemented updateTransaction test cases\n",
             "insertions": 92,
             "deletions": 5
           },
           {
             "hash": "80d41218a22958eed1304a3957499aea2032090b",
-            "message": "Update saveBudget test case",
+            "messageTitle": "Update saveBudget test case",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 0
           }
@@ -2664,73 +3033,85 @@
         "commitResults": [
           {
             "hash": "a4de14f1367dc362f1921a7173bcb78d8798a23d",
-            "message": "Implement loadAllTransactions in StorageManager",
+            "messageTitle": "Implement loadAllTransactions in StorageManager",
+            "messageBody": "",
             "insertions": 21,
             "deletions": 0
           },
           {
             "hash": "682fb8ec931b5364d788b4964b2f06be15a8ed8c",
-            "message": "Implement loadTransactions(ofType) in StorageCouchBaseDB and StorageManager",
+            "messageTitle": "Implement loadTransactions(ofType) in StorageCouchBaseDB and StorageManager",
+            "messageBody": "",
             "insertions": 32,
             "deletions": 5
           },
           {
             "hash": "b4979f49f14d6dd02dbc7b15907b6157fe4d753f",
-            "message": "Implement loadTransactions(ofTag) in TransactionManager",
+            "messageTitle": "Implement loadTransactions(ofTag) in TransactionManager",
+            "messageBody": "",
             "insertions": 7,
             "deletions": 0
           },
           {
             "hash": "56a7f81a61f0b56f699b18182f205c3dc4647eef",
-            "message": "Implement loadAllTransactions() and loadTransactions(ofTag) test case",
+            "messageTitle": "Implement loadAllTransactions() and loadTransactions(ofTag) test case",
+            "messageBody": "",
             "insertions": 101,
             "deletions": 15
           },
           {
             "hash": "3a379c338302496c30f6d6c87daef61b16eb3056",
-            "message": "Modify getTransactionsFromQuery() in StorageCouchBaseDB+Transaction",
+            "messageTitle": "Modify getTransactionsFromQuery() in StorageCouchBaseDB+Transaction",
+            "messageBody": "",
             "insertions": 3,
             "deletions": 3
           },
           {
             "hash": "758b8a782d3eb426f12483d59c731de3bbfa66c6",
-            "message": "Modify getTransactionsFromQuery() to clear transactionIdMapping dictionary before every call.",
+            "messageTitle": "Modify getTransactionsFromQuery() to clear transactionIdMapping dictionary before every call.",
+            "messageBody": "",
             "insertions": 5,
             "deletions": 0
           },
           {
             "hash": "48caf995950ffad60861f5b9cd73b69d7076cff5",
-            "message": "Implement associateTransactionWithTags()",
+            "messageTitle": "Implement associateTransactionWithTags()",
+            "messageBody": "Modify saveTransaction to include call to associateTransactionWithTags()\n",
             "insertions": 50,
             "deletions": 0
           },
           {
             "hash": "6d60def0918a51d146325cdca40546b9815a2f22",
-            "message": "Deconflict AddTransactionViewController",
+            "messageTitle": "Deconflict AddTransactionViewController",
+            "messageBody": "",
             "insertions": 1,
             "deletions": 1
           },
           {
             "hash": "d551de37d42ca6104224e4b1ef045f612559a815",
-            "message": "Implement clearTransactionAssociation(forId) in StorageCouchBaseDB+TagAssociation",
+            "messageTitle": "Implement clearTransactionAssociation(forId) in StorageCouchBaseDB+TagAssociation",
+            "messageBody": "",
             "insertions": 62,
             "deletions": 0
           },
           {
             "hash": "4597967692543f6c452455d6c9005d419eeb970c",
-            "message": "Rename clearTransactionAssociation argument name",
+            "messageTitle": "Rename clearTransactionAssociation argument name",
+            "messageBody": "Include clearTransactionAssociation in deleteTransaction call in StorageCouchBaseDB\n",
             "insertions": 6,
             "deletions": 1
           },
           {
             "hash": "a2b637c473127328cce48da40e75d74eeb9bc0ec",
-            "message": "Implement updateTransactionTagAssociation() in StorageCouchBaseDB+TagAssociation",
+            "messageTitle": "Implement updateTransactionTagAssociation() in StorageCouchBaseDB+TagAssociation",
+            "messageBody": "Modify associateTransactionWithTags()\nAdded associateTransactionWithTag()\n",
             "insertions": 82,
             "deletions": 16
           },
           {
             "hash": "47d8161c3f408a87afb6b22bc200d2da271981df",
-            "message": "Implement back end support for delete Tag",
+            "messageTitle": "Implement back end support for delete Tag",
+            "messageBody": "As tagAssociation database is closely linked to transactionDatabase\nupdated clearTransactionDatabase() to also clear tagAssociationDatabase\n",
             "insertions": 111,
             "deletions": 14
           }
@@ -2748,7 +3129,7 @@
     "Travis Ching Jia Yea": 1740,
     "fterh": 0
   },
-  "authorFileFormatContributionMap": {
+  "authorFileTypeContributionMap": {
     "Fabian Terh": {
       "swift": 0
     },
